@@ -1,0 +1,3027 @@
+{
+  "schema_version": "1.0",
+  "source_file": "Job Profile Dept. Marketing.pdf",
+  "positions": {
+    "SVP OF SALES & MARKETING": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "SVP OF SALES & MARKETING",
+        "Tingkat Band/Layer": "SVP",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING SIG",
+        "Unit": "-",
+        "Seksi": "-",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "OPERATION DIRECTORATE (SILOG)"
+      },
+      "tujuan_jabatan": "Mengarahkan dan mengendalikan strategi penjualan serta pemasaran perusahaan (HOW) melalui perencanaan, koordinasi lintas divisi, dan pengawasan implementasi program komersial (WHAT) untuk \nmemastikan tercapainya target penjualan, pertumbuhan pasar, peningkatan profitabilitas, serta penguatan citra perusahaan secara berkelanjutan (WHY)",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menetapkan arah strategis dan kebijakan umum terkait penjualan, pemasaran, dan branding perusahaan.Strategi komersial dan branding perusahaan terintegrasi, selaras dengan visi korporasi, serta meningkatkan daya saing dan posisi pasar",
+          "expected_result": "SIG Group."
+        },
+        {
+          "no": 2,
+          "responsibility": "Memberikan persetujuan akhir terhadap keputusan komersial strategis, termasuk harga, penawaran, negosiasi besar, dan kontrak utama dengan pelanggan prioritas.Keputusan komersial strategis mencerminkan kebijakan korporasi, meningkatkan profitabilitas, dan menjaga hubungan jangka panjang dengan pelanggan utama.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengawasi implementasi strategi pengembangan pasar, termasuk perluasan pelanggan baru dan konversi spot market menjadi regular market.",
+          "expected_result": "Peningkatan jumlah pelanggan tetap, perluasan wilayah penjualan, serta peningkatan stabilitas pendapatan perusahaan"
+        },
+        {
+          "no": 4,
+          "responsibility": "Mengarahkan kegiatan pemasaran dan komunikasi perusahaan untuk memperkuat citra brand dan positioning di pasar.Brand awareness dan positioning perusahaan meningkat secara signifikan di sektor logistik dan industri terkait.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Melakukan koordinasi lintas fungsi dengan",
+          "expected_result": "GM Sales, SM Sales, serta unit operasional, legal, dan keuangan dalam evaluasi kontrak dan kelayakan pelanggan.Proses komersial berjalan efektif dan sesuai tata kelola; risiko kontrak dan operasional dapat diminimalkan"
+        },
+        {
+          "no": 6,
+          "responsibility": "Menetapkan kebijakan diskon dan struktur harga strategis berdasarkan rekomendasi seksi",
+          "expected_result": "Pricing & Evaluation.Struktur harga dan kebijakan diskon kompetitif, menjaga margin dan daya saing perusahaan di pasar nasional."
+        },
+        {
+          "no": 7,
+          "responsibility": "Mengawasi hasil negosiasi dan finalisasi kontrak untuk memastikan kesesuaian dengan standar korporasi dan risiko yang terkendali.",
+          "expected_result": "Kontrak strategis berjalan sesuai kebijakan korporasi dan menghasilkan nilai bisnis optimal dengan risiko minimal"
+        },
+        {
+          "no": 8,
+          "responsibility": "Meninjau laporan kinerja penjualan dan pemasaran serta memberikan arahan perbaikan strategi bila diperlukan.",
+          "expected_result": "Kinerja penjualan dan pemasaran meningkat; deviasi target dapat diidentifikasi dan ditangani melalui keputusan strategis yang cepat dan tepat"
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung : GM OF SALES SIG",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyelarasan strategi penjualan, pemasaran, dan branding dengan visi serta rencana bisnis korporasi.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi untuk sinkronisasi strategi komersial, kesiapan operasional, alokasi anggaran, dan pengelolaan sumber daya.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Section Pricing & Evaluation Kolaborasi dalam penyusunan struktur harga, kebijakan diskon, dan evaluasi profitabilitas proyek komersial.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "4Section Strategic Marketing &",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "IntelligencePemanfaatan data pasar, riset kompetitor, dan insight industri untuk pengambilan keputusan strategis.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "5Section Branding &",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "CommunicationPenyelarasan aktivitas komunikasi, kampanye pemasaran, dan citra korporasi agar selaras dengan strategi brand nasional.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "6Department / Unit Sales (GM /",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "SM Wilayah)Pembinaan, monitoring, dan pengarahan target penjualan lintas wilayah untuk memastikan pencapaian KPI nasional.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "7Department Operational",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "LogisticSinkronisasi kapasitas layanan, distribusi, dan kesiapan armada terhadap kebutuhan pelanggan dan rencana penjualan.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "8Department / Unit Legal &",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "FinanceEvaluasi kelayakan kontrak, mitigasi risiko hukum, serta sinkronisasi rencana penjualan dengan proyeksi keuangan perusahaan.",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Key Customer & Strategic",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "AccountMenetapkan arah kemitraan strategis, negosiasi kebijakan komersial tingkat korporat, dan penguatan hubungan jangka panjang.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Asosiasi Industri & KADIN Representasi perusahaan dalam forum industri dan penguatan posisi SIG Group di sektor logistik nasional.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Regulator Pemerintah / BUMN",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "HoldingSinkronisasi kebijakan logistik nasional, dukungan terhadap program strategis, dan pemenuhan ketentuan regulasi.",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Menyetujui kebijakan penjualan, target pendapatan, dan strategi pemasaran jangka panjang.",
+        "Memberikan keputusan akhir terkait harga strategis, diskon besar, atau kontrak bernilai tinggi.",
+        "Memberikan persetujuan atas hasil evaluasi pelanggan berisiko tinggi dan keputusan kredit tertentu",
+        "Menyetujui rencana promosi, branding korporat, dan aktivitas komunikasi publik yang berdampak terhadap citra perusahaan.",
+        "Menilai dan memberikan arahan kepada GM Sales, SM Sales, dan seluruh tim marketing terkait hasil pencapaian dan inisiatif pengembangan pasar.",
+        "Mengotorisasi kebijakan pengembangan pasar, pembentukan jaringan kerja sama strategis, dan kemitraan bisnis baru."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Relevan, S2 Diutamakan",
+          "Jurusan : S1 Manajemen Pemasaran, Komunikasi, Business Administration, atau Teknik Industri.",
+          "Manajemen Pemasaran / Bisnis Strategik"
+        ],
+        "pengalaman": [
+          "10-15 tahun pengalaman di bidang marketing, brand management, atau market intelligence, khususnya di industri logistik, distribusi, supply chain, atau sejenis.",
+          "di digital marketing dan market research menjadi nilai tambah",
+          "terlibat dalam penyusunan dan eksekusi marketing plan serta campaign management."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Savvy",
+          "Networks dan Partnerships",
+          "Strategic Direction",
+          "Excellence",
+          "Decision Making"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Organizational Talent",
+          "Acumen",
+          "Change",
+          "the Vision",
+          "Influence"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "6 Customer Orientation",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "7 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Certified Marketing Professional (BNSP / LSP Pemasaran)",
+            "Digital Marketing Certification (Google / Meta / BNSP Digital Marketing)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Market Research Analyst Certification",
+            "Certified Branding Specialist (CBS)",
+            "Negotiation Skills / Communication Strategy"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Marketing Plan & Program Implementation Report",
+        "Market Research & Competitor Analysis Report",
+        "Branding Materials (brochure, company profile, video company, content marketing)",
+        "Campaign Report & Performance Review (digital campaign, event, pameran)"
+      ],
+      "missing_sections": []
+    },
+    "GM OF SALES SIG": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "GM OF SALES SIG",
+        "Tingkat Band/Layer": "BAND 1/ BOD-1",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING SIG",
+        "Unit": "-",
+        "Seksi": "-",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SVP OF SALES & MARKETING"
+      },
+      "tujuan_jabatan": "Mengelola dan mengarahkan seluruh kegiatan penjualan di seluruh Indonesia (HOW) melalui penyusunan strategi, pengawasan kinerja wilayah, serta optimalisasi peluang bisnis logistik (WHAT) untuk mencapai target pendapatan \nperusahaan dan memperkuat posisi kompetitif produk SIG (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menyusun strategi dan kebijakan penjualan nasional yang selaras dengan visi dan rencana bisnis",
+          "expected_result": "SIG Strategi penjualan nasional tersusun secara komprehensif dan selaras dengan arah bisnis SIG Group."
+        },
+        {
+          "no": 2,
+          "responsibility": "Mengarahkan dan mengawasi pelaksanaan penjualan di seluruh wilayah (Sumatra,",
+          "expected_result": "DKI, Jabar, Banten, Jateng, Jatim Bali, Kalimantan, Sulawesi, dan Indonesia Timur)Pelaksanaan penjualan berjalan efektif di seluruh area dengan realisasi volume dan revenue sesuai target korporasi."
+        },
+        {
+          "no": 3,
+          "responsibility": "Menetapkan target penjualan tahunan dan",
+          "expected_result": "KPI untuk masing-masing wilayah, serta memantau realisasinya secara berkalaPencapaian KPI wilayah meningkat dan deviasi terhadap target tahunan dapat diminimalkan."
+        },
+        {
+          "no": 4,
+          "responsibility": "Melakukan analisis performa penjualan, margin, dan efektivitas strategi wilayah untuk menentukan langkah perbaikan atau penguatan pasarStrategi penjualan berbasis data menghasilkan peningkatan margin dan optimalisasi potensi pasar di tiap wilayah.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Mengembangkan kebijkaan harga, model kerja sama, dan strategi pelanggan utama (key account) bersama seksi",
+          "expected_result": "Pricing & Evaluation.Struktur harga dan model kerja sama kompetitif, meningkatkan loyalitas pelanggan dan profitabilitas."
+        },
+        {
+          "no": 6,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "SVP Sales & Marketing dalam pengambilan keputusan strategis terkait ekspansi wilayah, prioritas pelanggan, dan peluang pasar nasionalKeputusan ekspansi wilayah dan pengembangan pelanggan diambil tepat waktu, sesuai arah strategi korporasi."
+        },
+        {
+          "no": 7,
+          "responsibility": "Mengarahkan tim",
+          "expected_result": "Strategic Marketing & Intelligence untuk melaksanakan riset pasar, analisis kompetitor, dan pemetaan potensi industri baru.Riset pasar dan data kompetitor dimanfaatkan sebagai dasar pengambilan keputusan strategis dan inovasi bisnis."
+        },
+        {
+          "no": 8,
+          "responsibility": "Memastikan seluruh kegiatan penjualan mematuhi kebijakan, prosedur, dan standar tata kelola perusahaanProses penjualan berjalan sesuai",
+          "expected_result": "SOP dan prinsip GCG, dengan risiko operasional dan komersial yang terkendali."
+        },
+        {
+          "no": 9,
+          "responsibility": "Melakukan pembinaan, evaluasi, dan pengembangan kompetensi tim",
+          "expected_result": "Senior Manager Sales di seluruh wilayahKompetensi dan kinerja tim sales wilayah meningkat; pipeline talent internal terbentuk secara berkelanjutan."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung : SM OF SALES",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 SVP Sales & Marketing Pelaporan kinerja penjualan nasional dan penyelarasan strategi penjualan dengan arah kebijakan korporasi.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 GM Lain Koordinasi lintas fungsi dalam perencanaan target, ketersediaan armada, dan penyesuaian anggaran operasional.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Unit SM of Sales Regional Pembinaan, pengarahan, dan evaluasi pencapaian target wilayah sesuai KPI yang telah ditetapkan.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "4 Section Pricing & Evaluation Koordinasi dalam penerapan struktur harga, diskon, dan kebijakan komersial sesuai batas otorisasi.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "5 Section Strategic Marketing & Intelligence Pemanfaatan hasil riset pasar, analisis kompetitor, dan data pelanggan untuk pengambilan keputusan penjualan.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "6 Section Operational Sinkronisasi ketersediaan armada dan jadwal pengiriman dengan kebutuhan pelanggan dan target volume penjualan.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "7 Departement Finance Pemantauan piutang pelanggan, cash flow proyek penjualan, serta pelaporan revenue area.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "8 Departement Legal Review kontrak pelanggan, mitigasi risiko hukum, dan kepatuhan terhadap kebijakan perusahaan.",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengambil keputusan operasional dan komersial di wilayahnya sesuai dengan kebijakan dan batas otorisasi perusahaan.",
+        "Menyetujui penawaran harga atau kontrak dalam batas kewenangan regional.",
+        "Menentukan prioritas pelanggan, proyek, dan area ekspansi wilayah",
+        "Mengusulkan strategi pengembangan pelanggan dan potensi bisnis baru kepada GM Sales.",
+        "Memberikan evaluasi dan rekomendasi terhadap kinerja tim sales wilayah."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Relevan, S2 Diutamakan",
+          "Jurusan : S1 Manajemen, Marketing, Teknik Industri, Transportasi atau sejenis.",
+          "Manajemen Bisnis, Supply Chain Management, atau Marketing Strategis"
+        ],
+        "pengalaman": [
+          "10–15 tahun di area sales, marketing, atau key account management, dengan pengalaman 3-5 tahun di posisi manajerial senior (Manager/GM) di industri logistik, distribusi,",
+          "chain, atau manufaktur.",
+          "memimpin tim multi-area dan terbiasa menghadapi bidding/tender di pasar kompetitif."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "performance for success",
+          "Insight",
+          "Strategic Relationship",
+          "Innovation",
+          "Change",
+          "Planning"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Execution",
+          "for Result",
+          "Through Vision and Values",
+          "Insight",
+          "Influence"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "6 Customer Orientation",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "7 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sales Management Professional / Marketing Manager (BNSP) Menjamin penguasaan teknik penjualan, perencanaan penjualan, dan manajemen tim sales secara profesional.",
+            "Customer Relationship Management (CRM) Certification Memastikan pengelolaan hubungan pelanggan SIG dilakukan secara terstruktur, sistematis, dan berbasis data.",
+            "ISO 9001 Awareness (Quality Management System) Mendukung pengelolaan proses penjualan dan layanan agar sesuai standar mutu dan memuaskan pelanggan."
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Certified Key Account Manager (KAM) Menguatkan kemampuan manajemen hubungan strategis dengan pelanggan utama (key account management).",
+            "Negotiation Mastery /Advanced Negotiation Skills Meningkatkan kemampuan negosiasi dalam rangka penetapan harga, diskusi SLA, dan penanganan kontrak dengan customer",
+            "SIG.",
+            "Digital Sales & Marketing Strategy Certification Memperluas pendekatan penjualan dengan penggunaan tools digital untuk mendukung proses forecasting dan customer",
+            "engagement."
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Sales Plan SIG tahunan, termasuk breakdown per area.",
+        "Laporan realisasi penjualan SIG (volume, revenue, utilisasi armada) per area dan konsolidasi.",
+        "Account Plan & Customer Relationship Program untuk SIG Group.",
+        "Analisis deviasi pencapaian target dan rekomendasi perbaikannya."
+      ],
+      "missing_sections": []
+    },
+    "SM OF SALES SUMATRA SIG": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "SM OF SALES SUMATRA SIG",
+        "Tingkat Band/Layer": "BAND 2/BOD-2",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING SIG",
+        "Unit": "UNIT OF SALES SUMATRA SIG",
+        "Seksi": "-",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "GM OF SALES SIG"
+      },
+      "tujuan_jabatan": "Mengelola dan mengoordinasikan seluruh aktivitas penjualan di wilayah Sumatra (HOW) dengan memastikan pelaksanaan strategi penjualan, pengembangan pelanggan industri, serta optimalisasi peluang bisnis logistik (WHAT) untuk \nmencapai target pendapatan wilayah, memperluas jaringan pelanggan, dan menjaga pertumbuhan bisnis yang berkelanjutan (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Mengimplementasikan strategi penjualan yang ditetapkan oleh",
+          "expected_result": "GM Sales dan SVP Sales & Marketing untuk wilayah Sumatra.Strategi penjualan wilayah Sumatra terlaksana sesuai arahan korporasi dan mendukung pencapaian target nasional."
+        },
+        {
+          "no": 2,
+          "responsibility": "Memimpin dan mengarahkan seluruh kegiatan penjualan, mulai dari pencarian peluang, negosiasi, hingga penyusunan kontrak kerja sama dengan pelanggan industri dan proyek strategis.Proses penjualan wilayah berjalan efektif dengan peningkatan volume dan retensi pelanggan utama.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Memastikan pemeliharaan pelanggan existing melalui pemantauan kepuasan layanan,",
+          "expected_result": "SLA, dan retensi kontrak.Tingkat kepuasan pelanggan meningkat, SLA terpenuhi, dan perpanjangan kontrak berjalan konsisten."
+        },
+        {
+          "no": 4,
+          "responsibility": "Mengidentifikasi peluang ekspansi pasar dan pengembangan area layanan logistik baru di wilayah",
+          "expected_result": "Sumatra.Peluang pasar baru diidentifikasi dan ditindaklanjuti menjadi potensi penjualan tambahan wilayah."
+        },
+        {
+          "no": 5,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "Strategic Marketing & Intelligence Officer untuk memperoleh data pasar, tren industri, serta potensi pelanggan strategis.Informasi pasar dan tren industri termanfaatkan dalam strategi penjualan wilayah secara optimal."
+        },
+        {
+          "no": 6,
+          "responsibility": "Berkolaborasi dengan",
+          "expected_result": "Pricing & Evaluation Officer untuk memastikan harga dan skema penawaran kompetitif serta sesuai kebijakan perusahaan.Struktur harga wilayah kompetitif dan sesuai standar korporasi, menjaga margin dan daya saing."
+        },
+        {
+          "no": 7,
+          "responsibility": "Menjamin seluruh proses komersial (quotation, proposal, negosiasi, hingga kontrak) berjalan sesuai",
+          "expected_result": "SOP dan ketentuan SIG.Seluruh proses komersial wilayah terdokumentasi sesuai SOP dan bebas dari pelanggaran tata kelola."
+        },
+        {
+          "no": 8,
+          "responsibility": "Mengevaluasi hasil penjualan wilayah, meninjau pencapaian target, serta menyusun laporan kinerja dan rekomendasi strategi peningkatan.Pencapaian target wilayah meningkat dan laporan evaluasi digunakan untuk perbaikan strategi penjualan.",
+          "expected_result": null
+        },
+        {
+          "no": 9,
+          "responsibility": "Membina, memantau, dan mengevaluasi kinerja tim sales serta officer pendukung di bawah koordinasinya.Tim sales wilayah beroperasi efektif dengan peningkatan kinerja, disiplin, dan motivasi kerja yang konsisten.",
+          "expected_result": null
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Strategic Marketing, Pricing & Evaluation",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengambil keputusan operasional terkait aktivitas penjualan dan hubungan pelanggan di wilayah Sumatra sesuai batas otorisasi.",
+        "Menyetujui harga, skema kerja sama, dan termin pembayaran dalam batas kewenangan yang diberikan GM Sales.",
+        "Menentukan prioritas pelanggan, sektor, dan area pengembangan sesuai potensi wilayah.",
+        "Memberikan arahan dan evaluasi langsung terhadap tim sales dan officer wilayah Sumatra.",
+        "Mengusulkan strategi pengembangan pasar dan kerja sama baru kepada manajemen pusat."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Relevan, S2 Diutamakan",
+          "Jurusan : Manajemen Pemasaran, Administrasi Bisnis, dan Jurusan lain yang Relevan."
+        ],
+        "pengalaman": [
+          "8–12 tahun pengalaman di bidang penjualan, dengan pengalaman manajerial di fungsi sales atau pengelolaan wilayah/regional."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Partnerships",
+          "Making",
+          "Execution",
+          "for Result",
+          "Change"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Performance for Success",
+          "insight",
+          "Focus",
+          "4Influencing",
+          "5Innovation",
+          "Others"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "6 Customer Orientation",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "7 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_sections": []
+    },
+    "SALES SUMATRA SIG. OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "SALES SUMATRA SIG. OFFICER",
+        "Tingkat Band/Layer": "BAND 3/ BOD 3",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING SIG",
+        "Unit": "UNIT OF SALES SUMATRA SIG",
+        "Seksi": "SALES SUMATRA SIG",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SM OF SALES SUMATRA SIG"
+      },
+      "tujuan_jabatan": "Melaksanakan kegiatan penjualan dan pengelolaan pelanggan di wilayah Sumatra (HOW) melalui proses prospek, penawaran, dan negosiasi (WHAT) untuk mencapai target pendapatan, menjaga hubungan pelanggan, dan memperluas \npeluang bisnis logistik perusahaan (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Melakukan kegiatan penjualan langsung kepada pelanggan existing maupun calon customer di wilayah",
+          "expected_result": "Sumatra.Target penjualan wilayah tercapai melalui peningkatan transaksi dan pelanggan baru."
+        },
+        {
+          "no": 2,
+          "responsibility": "Mengidentifikasi kebutuhan pelanggan dan menawarkan solusi logistik yang sesuai dengan kapasitas layanan perusahaan.Solusi penawaran logistik sesuai kebutuhan pelanggan dan mendukung optimalisasi pemanfaatan armada.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Melaksanakan proses negosiasi komersial serta memastikan kesesuaian kontrak dengan ketentuan perusahaan.Proses negosiasi dan kontrak pelanggan berjalan lancar dan sesuai standar tata kelola perusahaan.",
+          "expected_result": null
+        },
+        {
+          "no": 4,
+          "responsibility": "Melakukan tindak lanjut terhadap pelanggan untuk memastikan kepuasan, retensi kontrak, dan potensi repeat order.Tingkat kepuasan pelanggan meningkat dan kontrak berulang (repeat order) terus bertambah.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Melakukan koordinasi dengan divisi operasional untuk memastikan pemenuhan layanan dan",
+          "expected_result": "SLA pelanggan berjalan baik.Pemenuhan SLA pelanggan terlaksana dengan baik dan keluhan operasional dapat diminimalkan."
+        },
+        {
+          "no": 6,
+          "responsibility": "Bekerja sama dengan",
+          "expected_result": "Strategic Marketing & Intelligence Officer untuk mendapatkan data pasar, prospek baru, dan tren permintaan wilayah.Informasi pasar dan potensi pelanggan baru diperoleh secara berkala untuk pengembangan strategi wilayah."
+        },
+        {
+          "no": 7,
+          "responsibility": "Menjaga hubungan baik dengan pelanggan industri, kontraktor, maupun mitra logistik lainnya di wilayah",
+          "expected_result": "Sumatra.Hubungan pelanggan dan mitra bisnis terpelihara dengan baik, memperkuat reputasi dan peluang kerja sama jangka panjang."
+        },
+        {
+          "no": 8,
+          "responsibility": "Menyusun penawaran harga (quotation) dan proposal kerja sama dengan dukungan dari tim",
+          "expected_result": "Pricing & Evaluation Officer.Dokumen penawaran dan proposal tersusun sesuai kebijakan harga perusahaan dan dikirim tepat waktu."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Melakukan komunikasi dan negosiasi dengan pelanggan dalam batas kewenangan yang ditetapkan SM Sales.",
+        "Menyusun dan mengajukan penawaran harga untuk pelanggan baru atau proyek di wilayah Sumatra.",
+        "Memberikan rekomendasi calon pelanggan potensial berdasarkan hasil prospek lapangan dan data intelijen pasar.",
+        "Menyampaikan laporan hasil penjualan dan analisis pelanggan secara berkala kepada SM Sales Sumatra."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan : Any major"
+        ],
+        "pengalaman": [
+          "2-3 tahun pengalaman sebagai Sales atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "1Coaching",
+          "Making",
+          "3Execution",
+          "Commitment",
+          "Standards"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Partnerships",
+          "Awareness",
+          "Focus",
+          "4Innovation"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Dokumen Strategic Roadmap (3–5 tahun)",
+        "Feasibility Study & Business Case inisiatif baru (dibahas & final di Direksi)",
+        "Laporan Koordinasi Proyek lintas departemen, mencatat sinergi & milestone kunci",
+        "KPI Monitoring Report (bulanan/triwulanan) untuk menilai deviasi & perbaikan",
+        "Rekomendasi Anggaran & Prioritas Proyek di level BOD-1",
+        "Notulen Rapat BOD-1 (khusus gagasan strategis & tindak lanjut)"
+      ],
+      "missing_sections": []
+    },
+    "SALES SUMATRA SIG. JR OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "SALES SUMATRA SIG. JR OFFICER",
+        "Tingkat Band/Layer": "BAND 4/ BOD 4",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING SIG",
+        "Unit": "UNIT OF SALES SUMATRA SIG",
+        "Seksi": "SALES SUMATRA SIG",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SALES SUMATRA SIG. OFFICER"
+      },
+      "tujuan_jabatan": "Mendukung pelaksanaan kegiatan penjualan (HOW) melalui pengelolaan data pelanggan, penyusunan dokumen administrasi, serta pelaporan hasil penjualan (WHAT) untuk memastikan kelancaran proses bisnis, akurasi informasi, dan \ntercapainya target operasional tim sales (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Membantu proses administrasi penjualan, termasuk pembuatan surat penawaran, quotation, dan dokumen pendukung lainnyaDokumen administrasi penjualan tersusun lengkap, akurat, dan sesuai ketentuan perusahaan.",
+          "expected_result": null
+        },
+        {
+          "no": 2,
+          "responsibility": "Melakukan input dan pembaruan data pelanggan, proyek, serta status penawaran ke dalam sistem penjualan perusahaan.Data pelanggan dan status proyek selalu mutakhir dan dapat diakses untuk pelaporan dan analisis.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengarsipkan dokumen kontrak, laporan penjualan, dan data pelanggan sesuai standar perusahaan.",
+          "expected_result": "Arsip digital dan fisik terdokumentasi rapi, mudah ditelusuri, dan siap digunakan untuk audit internal."
+        },
+        {
+          "no": 4,
+          "responsibility": "Mendukung",
+          "expected_result": "Sales Officer dalam kegiatan follow-up pelanggan dan koordinasi jadwal pertemuan atau kunjungan.Agenda kunjungan dan tindak lanjut pelanggan terlaksana tepat waktu dan terdokumentasi dengan baik"
+        },
+        {
+          "no": 5,
+          "responsibility": "Menyiapkan laporan penjualan harian dan rekapitulasi mingguan untuk disampaikan kepada",
+          "expected_result": "SM Sales SumatraLaporan harian dan mingguan tersusun tepat waktu dengan data akurat untuk mendukung monitoring kinerja wilayah."
+        },
+        {
+          "no": 6,
+          "responsibility": "Membantu pemantauan status pesanan, pengiriman, dan pemenuhan",
+          "expected_result": "SLA pelanggan melalui koordinasi dengan divisi operasional.Status pesanan pelanggan terpantau, dan penyimpangan SLA segera terlaporkan untuk tindak lanjut cepat."
+        },
+        {
+          "no": 7,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "Pricing & Evaluation Officer terkait kebutuhan data harga dan approval quotation.Data harga dan approval quotation tersedia tepat waktu untuk mendukung proses penawaran pelanggan."
+        },
+        {
+          "no": 8,
+          "responsibility": "Memastikan kelengkapan data pendukung untuk kebutuhan audit, evaluasi kinerja, atau laporan manajemen.Data dan dokumen pendukung tersaji lengkap dan sesuai kebutuhan audit atau pelaporan manajemen.",
+          "expected_result": null
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengakses dan memperbarui data pelanggan serta dokumen penjualan dalam sistem sesuai otorisasi yang diberikan.",
+        "Mengajukan revisi atau koreksi terhadap data penjualan yang tidak akurat.",
+        "Menyampaikan laporan rekap penjualan dan dokumen pendukung kepada Sales Officer dan SM Sales Sumatra.",
+        "Melakukan komunikasi administratif dengan pelanggan atau divisi lain atas arahan Sales Officer."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : Minimal S1",
+          "Jurusan : Any major"
+        ],
+        "pengalaman": [
+          "0-2 tahun pengalaman di area sales atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Positive Working Relationships",
+          "2Communication",
+          "Improvement",
+          "Analysis",
+          "Orientation"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Orientation",
+          "& Organizing"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Dokumen Strategic Roadmap (3–5 tahun)",
+        "Feasibility Study & Business Case inisiatif baru (dibahas & final di Direksi)",
+        "Laporan Koordinasi Proyek lintas departemen, mencatat sinergi & milestone kunci",
+        "KPI Monitoring Report (bulanan/triwulanan) untuk menilai deviasi & perbaikan",
+        "Rekomendasi Anggaran & Prioritas Proyek di level BOD-1",
+        "Notulen Rapat BOD-1 (khusus gagasan strategis & tindak lanjut)"
+      ],
+      "missing_sections": []
+    },
+    "GM OF SALES NON SIG": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "GM OF SALES NON SIG",
+        "Tingkat Band/Layer": "BAND 1/BOD 1",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "-",
+        "Seksi": "-",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SVP OF SALES & MARKETING"
+      },
+      "tujuan_jabatan": "Mengelola dan mengarahkan kegiatan penjualan perusahaan (HOW) melalui pengembangan jaringan distributor, optimalisasi penjualan di segmen retail dan curah, serta penguatan hubungan mitra eksternal (WHAT) untuk memastikan \nketersediaan produk, peningkatan volume penjualan, dan perluasan pangsa pasar di luar jaringan SIG (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menyusun dan mengimplementasikan strategi penjualan non-SIG, termasuk target volume, revenue, dan utilisasi armada.",
+          "expected_result": "Strategi penjualan non-SIG terlaksana dengan baik, menghasilkan volume dan revenue sesuai target perusahaan"
+        },
+        {
+          "no": 2,
+          "responsibility": "Memimpin dan mengarahkan tim sales area non-SIG (4 wilayah:",
+          "expected_result": "DKI–Banten–Jabar; Sumatra; Jateng–Jatim–Bali; KTI) untuk memastikan pencapaian target.Tim sales di setiap area bekerja efektif dan mencapai KPI sesuai target tahunan."
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengembangkan key account non-SIG dan menjaga hubungan jangka panjang dengan pelanggan strategis.Hubungan pelanggan strategis terpelihara dengan baik dan menghasilkan repeat order.",
+          "expected_result": null
+        },
+        {
+          "no": 4,
+          "responsibility": "Melakukan market analysis, competitor benchmarking, dan menyesuaikan strategi pricing sesuai dinamika pasar.Struktur harga tetap kompetitif dan mampu bersaing di pasar non-SIG.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Berkoordinasi dengan unit operasional terkait kesiapan armada dan pemenuhan order pelanggan.",
+          "expected_result": "Order pelanggan terpenuhi tepat waktu dengan utilisasi armada yang optimal."
+        },
+        {
+          "no": 6,
+          "responsibility": "Mengidentifikasi peluang ekspansi wilayah dan sektor industri baru di segmen non-SIG.",
+          "expected_result": "Rekomendasi ekspansi wilayah dan peluang bisnis baru tersusun dan disetujui manajemen."
+        },
+        {
+          "no": 7,
+          "responsibility": "Menyusun laporan kinerja penjualan non-SIG serta rekomendasi peningkatan strategi penjualan.",
+          "expected_result": "Laporan penjualan bulanan tersusun dengan jelas, lengkap dengan analisis pencapaian dan saran perbaikan."
+        },
+        {
+          "no": 8,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "Pricing & Evaluation Officer untuk menentukan harga dan memastikan margin tetap aman.Penawaran harga disusun berdasarkan perhitungan biaya dan disetujui sesuai batas otorisasi."
+        },
+        {
+          "no": 9,
+          "responsibility": "Memastikan seluruh aktivitas penjualan mengikuti prosedur,",
+          "expected_result": "SLA, dan standar tata kelola perusahaan. Proses penjualan berjalan sesuai kebijakan dan risiko operasional dapat diminimalkan."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Menetapkan target penjualan dan distribusi per area non-SIG sesuai potensi wilayah dan proyeksi permintaan pasar.",
+        "Memberikan persetujuan awal atas skema harga, diskon, atau strategi promosi non-SIG dalam batas kewenangan GM.",
+        "Menyetujui dan mengarahkan program pengembangan pasar baru untuk pelanggan eksternal.",
+        "Memberikan rekomendasi strategis kepada SVP terkait kebijakan harga, bundling services, dan pembukaan rute baru."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Relevan, S2 Diutamakan",
+          "Jurusan : S1 Manajemen, Marketing, Teknik Industri, Supply Chain Management, atau sejenis.",
+          "Manajemen Pemasaran, Bisnis, Supply Chain"
+        ],
+        "pengalaman": [
+          "10–15 tahun di area sales atau area lainnya yang relevan dengan pengalaman 3-5 di posisi manajerial senior dengan fokus pada pengembangan pasar eksternal (non-captive",
+          "market)",
+          "memimpin tim multi-area dan terbiasa menghadapi bidding/tender di pasar kompetitif"
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "performance for success",
+          "Insight",
+          "Strategic Relationship",
+          "Innovation",
+          "Change",
+          "Planning"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Execution",
+          "for Result",
+          "Through Vision and Values",
+          "Insight",
+          "Influence"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "6 Customer Orientation",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "7 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Sales Plan Non-SIG tahunan",
+        "Laporan realisasi penjualan bulanan (volume, revenue, utilisasi)",
+        "Account Plan pelanggan utama (Key Account Non-SIG)",
+        "Analisis pasar dan competitor benchmarking",
+        "Rekomendasi ekspansi wilayah dan sektor industri baru",
+        "Laporan koordinasi operasional dan pemenuhan order pelanggan",
+        "Laporan evaluasi kinerja tim sales area",
+        "Executive Summary Penjualan Non-SIG (Quarterly/Annual)"
+      ],
+      "missing_sections": []
+    },
+    "SM OF MARKETING (SILOG)": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "SM OF MARKETING (SILOG)",
+        "Tingkat Band/Layer": "BAND 2/BOD-2",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "-",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SVP OF SALES & MARKETING"
+      },
+      "tujuan_jabatan": "Mengelola strategi dan aktivitas pemasaran perusahaan (HOW) melalui perencanaan komunikasi, pengembangan citra merek, serta riset pasar dan pelanggan (WHAT) untuk mendukung peningkatan penjualan, memperkuat posisi \nkompetitif perusahaan, dan menjaga konsistensi produk SIG (WHY)",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menyusun dan mengimplementasikan strategi pemasaran nasional yang mendukung target penjualan dan ekspansi pasar.Strategi pemasaran nasional yang efektif dan selaras dengan arah bisnis perusahaan.",
+          "expected_result": null
+        },
+        {
+          "no": 2,
+          "responsibility": "Mengawasi pelaksanaan kegiatan promosi, event, sponsorship, dan publikasi media agar sesuai dengan positioning brand perusahaan.Kegiatan promosi dan event yang berjalan lancar, relevan, dan meningkatkan awareness pelanggan.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Memimpin pengumpulan data dan analisis pasar melalui tim",
+          "expected_result": "Strategic Marketing & Intelligence untuk mendukung strategi penjualan.Laporan analisis pasar dan kompetitor yang dapat menjadi dasar keputusan strategis."
+        },
+        {
+          "no": 4,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "GM Sales dan SM Sales dalam perancangan kampanye promosi, penawaran produk, dan komunikasi pelanggan.Kampanye promosi yang berdampak langsung pada peningkatan prospek dan volume penjualan."
+        },
+        {
+          "no": 5,
+          "responsibility": "Menilai efektivitas aktivitas pemasaran melalui indikator awareness, engagement, dan lead generation untuk tim",
+          "expected_result": "SalesEvaluasi efektivitas marketing berbasis data dengan indikator awareness, engagement, dan leads."
+        },
+        {
+          "no": 6,
+          "responsibility": "Mengawasi pengelolaan materi promosi, company profile, dan presentasi bisnis yang digunakan untuk tender serta proposal pelanggan industri.Materi promosi dan company profile yang selalu diperbarui, menarik, dan sesuai standar brand.",
+          "expected_result": null
+        },
+        {
+          "no": 7,
+          "responsibility": "Melakukan pembinaan, evaluasi, dan pengembangan kompetensi tim",
+          "expected_result": "Branding Communication dan Market Intelligence agar selaras dengan strategi pemasaran.Tim Branding & Market Intelligence yang berkompeten dan produktif."
+        },
+        {
+          "no": 8,
+          "responsibility": "Berkoordinasi dengan",
+          "expected_result": "Pricing & Evaluation Officer untuk memastikan pesan komersial dan nilai jual (value proposition) tersampaikan dengan tepat.Pesan komersial yang konsisten dengan strategi pricing dan positioning perusahaan."
+        },
+        {
+          "no": 9,
+          "responsibility": "Menjaga konsistensi brand image dan identitas visual di seluruh materi komunikasi perusahaan.",
+          "expected_result": "Citra brand perusahaan yang kuat dan seragam di seluruh media komunikasi."
+        },
+        {
+          "no": 10,
+          "responsibility": "Menyusun laporan kinerja pemasaran dan rekomendasi strategi kepada",
+          "expected_result": "GM Marketing serta SVP Sales & Marketing.Laporan kinerja marketing dan rekomendasi strategi yang dapat digunakan manajemen untuk perbaikan berkelanjutan."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Menentukan prioritas kegiatan pemasaran dan komunikasi korporat sesuai rencana strategis.",
+        "Menyetujui materi promosi, publikasi, dan komunikasi eksternal yang menggunakan brand perusahaan.",
+        "Mengarahkan penggunaan anggaran promosi dan kegiatan pemasaran wilayah.",
+        "Memberikan persetujuan terhadap konsep kampanye, kolaborasi, dan kegiatan branding",
+        "Mengambil keputusan strategis dalam pengelolaan hubungan dengan media, asosiasi industri, dan mitra komunikasi."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Relevan, S2 Diutamakan",
+          "Jurusan : Bisnis, Komunikasi, Pemasaran."
+        ],
+        "pengalaman": [
+          "8-12 tahun di bidang marketing, dengan pengalaman manajerial."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Partnerships",
+          "Making",
+          "Execution",
+          "for Result",
+          "Change"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Performance for Success",
+          "Insight",
+          "Focus",
+          "4Influencing",
+          "5Innovation",
+          "Others"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "6 Customer Orientation",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "7 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "1",
+            "2",
+            "3"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Marketing Plan & KPI Dashboard tahunan/kuartalan.",
+        "Campaign brief & post-campaign report (termasuk indikator engagement & lead).",
+        "Market & competitor analysis report (termasuk tren komoditas dan pelanggan).",
+        "Company profile, proposal tender, dan presentasi bisnis terbaru.",
+        "Digital performance report (SEO, media sosial, website, LinkedIn)",
+        "Customer segmentation & opportunity map.",
+        "Coordination report dengan Sales dan Pricing (hasil kolaborasi kampanye & pricing).",
+        "Evaluation & recommendation memo untuk GM Marketing dan SVP Sales & Marketing."
+      ],
+      "missing_sections": []
+    },
+    "BRANDING COMMUNICATION OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "BRANDING COMMUNICATION OFFICER",
+        "Tingkat Band/Layer": "BAND 3/BOD-3",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "BRANDING COMMUNICATION",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SM OF MARKETING (SILOG)"
+      },
+      "tujuan_jabatan": "Mengelola dan melaksanakan aktivitas komunikasi serta branding perusahaan (HOW) melalui pengelolaan media digital, pembuatan materi promosi, dan penyusunan profil perusahaan (WHAT) untuk memperkuat citra perusahaan, \nmendukung strategi penjualan, dan meningkatkan daya saing di pasar (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menyusun & mengelola konten promosi digital",
+          "expected_result": "Konten promosi digital yang menarik, konsisten, dan sesuai strategi komunikasi perusahaan"
+        },
+        {
+          "no": 2,
+          "responsibility": "Mengelola branding digital (web,",
+          "expected_result": "LinkedIn, komunitas) Reputasi dan citra perusahaan yang positif di kanal digital melalui penyajian konten profesional dan informatif."
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengoptimalkan visibilitas digital melalui",
+          "expected_result": "SEO Performa digital perusahaan yang meningkat secara organik di mesin pencarian dan kanal media profesional."
+        },
+        {
+          "no": 4,
+          "responsibility": "Menyusun & menjaga konsistensi materi promosi",
+          "expected_result": "Materi promosi yang seragam dan sesuai brand guideline"
+        },
+        {
+          "no": 5,
+          "responsibility": "Menonjolkan value proposition di setiap materi komunikasi",
+          "expected_result": "Pesan komunikasi yang mencerminkan keunggulan kompetitif dan nilai perusahaan."
+        },
+        {
+          "no": 6,
+          "responsibility": "Mengusulkan diversifikasi produk/layanan bersama tim marketing intelligence",
+          "expected_result": "Usulan diversifikasi layanan dan produk yang relevan dengan hasil riset pasar."
+        },
+        {
+          "no": 7,
+          "responsibility": "Menyusun dan memperbarui company profile & portofolio resmi",
+          "expected_result": "Dokumen company profile dan portofolio yang mutakhir, menarik, dan sesuai identitas visual perusahaan."
+        },
+        {
+          "no": 8,
+          "responsibility": "Menyusun rencana dan laporan kegiatan branding & komunikasi (campaign brief dan post-campaign report).Dokumen perencanaan dan evaluasi kampanye yang komprehensif dan dapat dijadikan dasar perbaikan strategi komunikasi.",
+          "expected_result": null
+        },
+        {
+          "no": 9,
+          "responsibility": "Menyelenggarakan event komunikasi dan publikasi promosi untuk memperkuat brand awareness dan engagement dengan pelanggan atau mitra bisnisKegiatan komunikasi dan promosi yang terorganisir, berdampak, dan meningkatkan citra perusahaan",
+          "expected_result": null
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengusulkan strategi komunikasi digital, kampanye promosi, serta materi branding perusahaan.",
+        "Menyetujui desain dan isi materi publikasi digital sebelum disampaikan kepada SM Sales untuk final review.",
+        "Mengelola akun resmi perusahaan di media digital (website, LinkedIn) dalam batas panduan brand.",
+        "Mengusulkan konsep kemitraan dan kegiatan promosi eksternal yang mendukung program penjualan.",
+        "Menentukan pendekatan visual dan pesan promosi sesuai dengan positioning brand perusahaan."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan : Manajemen Pemasaran, Ilmu Komunikasi"
+        ],
+        "pengalaman": [
+          "2-3 tahun di area marketing/ branding communication/ area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "1Coaching",
+          "Making",
+          "3Execution",
+          "Commitment",
+          "Standards"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Partnerships",
+          "Awareness",
+          "Focus",
+          "4Innovation"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Campaign brief dan post-campaign report",
+        "Digital performance report (analytics report SEO, LinkedIn, web)",
+        "Company profile, portofolio, proposal penawaran",
+        "Service excellence note",
+        "Presentation deck, feedback sheet (dari event & promosi)",
+        "6"
+      ],
+      "missing_sections": []
+    },
+    "BRANDING COMMUNICATION JR. OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "BRANDING COMMUNICATION JR. OFFICER",
+        "Tingkat Band/Layer": "BAND 4/BOD-4",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "BRANDING COMMUNICATION",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "BRANDING COMMUNICATION OFFICER"
+      },
+      "tujuan_jabatan": "Mendukung pelaksanaan strategi komunikasi dan branding perusahaan (HOW) dengan membantu pengelolaan konten digital, pembuatan materi promosi, serta kegiatan publikasi (WHAT) untuk memastikan pesan perusahaan \ntersampaikan dengan baik, memperkuat citra positif, dan mendukung kegiatan penjualan (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Membantu pengelolaan konten media digital perusahaan seperti website,",
+          "expected_result": "LinkedIn, dan kanal komunitas bisnis.Konten digital yang terpublikasi tepat waktu dan selaras dengan arahan Branding Communication Officer."
+        },
+        {
+          "no": 2,
+          "responsibility": "Melakukan pembaruan rutin konten promosi, berita, dan informasi kegiatan perusahaan di media digital.Pembaruan informasi yang relevan dan meningkatkan engagement audiens online.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Membantu penerapan strategi",
+          "expected_result": "SEO dan digital marketing untuk meningkatkan visibilitas online perusahaan.Peningkatan performa organik website dan visibilitas konten di hasil pencarian."
+        },
+        {
+          "no": 4,
+          "responsibility": "Menyiapkan dan mengedit materi publikasi, company profile, serta presentasi produk sesuai panduan brandMateri publikasi dan presentasi yang konsisten dengan brand guideline perusahaan.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Mendukung pelaksanaan kegiatan promosi dan event branding, termasuk koordinasi dengan vendor atau pihak eksternal.Kegiatan promosi berjalan lancar dengan dukungan teknis dan logistik yang baik.",
+          "expected_result": null
+        },
+        {
+          "no": 6,
+          "responsibility": "Menyusun dokumentasi foto, video, dan laporan hasil kegiatan komunikasi dan branding.",
+          "expected_result": "Dokumentasi kegiatan yang lengkap dan terorganisir untuk kebutuhan publikasi dan arsip."
+        },
+        {
+          "no": 7,
+          "responsibility": "Mengarsipkan seluruh materi promosi dan komunikasi sesuai standar pengelolaan dokumen perusahaan.Arsip digital yang tertata dan mudah diakses sesuai pedoman dokumentasi.",
+          "expected_result": null
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengelola pembaruan konten di kanal digital resmi perusahaan sesuai arahan atasan",
+        "Mengusulkan ide konten, visual, atau media promosi digital yang relevan.",
+        "Mengkoordinasikan kebutuhan administrasi dan logistik kegiatan branding.",
+        "Menyampaikan laporan kegiatan atau hasil publikasi kepada Branding Communication Officer secara berkala."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan :",
+          "Jurusan :"
+        ],
+        "pengalaman": [
+          "10-2 tahun"
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Positive Working Relationships",
+          "2Communication",
+          "Improvement",
+          "Analysis",
+          "Orientation"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Orientation",
+          "& Organizing"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Postingan terbaru di website, LinkedIn, dan media sosial lainnya.",
+        "Laporan performa digital (analytics report SEO, keyword ranking).",
+        "Draft dan versi final company profile, presentasi, dan brosur.",
+        "Dokumentasi kegiatan, daftar hadir, dan laporan hasil kegiatan"
+      ],
+      "missing_sections": []
+    },
+    "STRATEGIC MARKETING AND INTELLIGENCE OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "STRATEGIC MARKETING AND INTELLIGENCE OFFICER",
+        "Tingkat Band/Layer": "BAND 3/BOD-3",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "STRATEGIC MARKETING AND INTELLIGENCE",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "SM OF MARKETING (SILOG)"
+      },
+      "tujuan_jabatan": "Mengelola kegiatan riset dan analisis pasar (HOW) melalui pengumpulan data pelanggan, pemetaan kompetitor, serta kajian tren bisnis (WHAT) untuk menghasilkan rekomendasi strategis yang mendukung keputusan penjualan, \npengembangan produk, dan perluasan pasar perusahaan (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Mengembangkan dan memperbarui database pelanggan serta sumber data eksternal",
+          "expected_result": "Database pelanggan yang tervalidasi dan terintegrasi untuk mendukung pengembangan pasar baru."
+        },
+        {
+          "no": 2,
+          "responsibility": "Menganalisis data kompetitor (harga, layanan, kapasitas,",
+          "expected_result": "SLA) dan komoditas Analisis komoditas dan kompetitor yang memberikan gambaran posisi perusahaan di industri."
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengelompokkan dan menentukan prioritas pelanggan atau komoditas potensial",
+          "expected_result": "Daftar klaster pelanggan atau komoditas prioritas dengan rasionalisasi yang terukur."
+        },
+        {
+          "no": 4,
+          "responsibility": "Melakukan survei pasar dan analisis tren industri",
+          "expected_result": "Laporan insight pasar dan tren industri yang mendukung rencana strategis perusahaan."
+        },
+        {
+          "no": 5,
+          "responsibility": "Melakukan analisis pembanding harga (benchmarking) serta analisis substitusi produk atau layanan.",
+          "expected_result": "Laporan analisis substitusi dengan matriks risiko dan peluang pasar (risk/opportunity matrix)."
+        },
+        {
+          "no": 6,
+          "responsibility": "Menyusun rekomendasi diversifikasi layanan atau inovasi produk",
+          "expected_result": "Usulan diversifikasi layanan dan inovasi yang sesuai dengan kebutuhan pasar."
+        },
+        {
+          "no": 7,
+          "responsibility": "Menyusun laporan kinerja marketing intelligence secara berkala",
+          "expected_result": "Laporan evaluasi dan insight yang digunakan manajemen untuk keputusan strategis."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengakses dan menganalisis data pasar, pelanggan, serta kompetitor untuk mendukung pengambilan keputusan komersial.",
+        "Mengusulkan strategi pengembangan pasar dan inovasi layanan kepada SM Sales dan GM Sales.",
+        "Memberikan rekomendasi terkait kelayakan proyek, risiko pelanggan, dan tren harga pasar.",
+        "Menyampaikan laporan hasil analisis dan intelijen pasar secara berkala kepada manajemen."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan :"
+        ],
+        "pengalaman": [
+          "2-3 tahun di area strategic marketing & intelligence atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "1Coaching",
+          "Making",
+          "3Execution",
+          "Commitment",
+          "Standards"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Partnerships",
+          "Awareness",
+          "Focus",
+          "4Innovation"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_sections": []
+    },
+    "STRATEGIC MARKETING AND INTELLIGENCE JR.OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "STRATEGIC MARKETING AND INTELLIGENCE JR.OFFICER",
+        "Tingkat Band/Layer": "BAND 4/BOD-4",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "STRATEGIC MARKETING AND INTELLIGENCE",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "STRATEGIC MARKETING AND INTELLIGENCE OFFICER"
+      },
+      "tujuan_jabatan": "Mendukung pelaksanaan analisis dan riset pasar perusahaan (HOW) dengan mengumpulkan data pelanggan, kompetitor, serta tren industri (WHAT) untuk membantu penyusunan laporan dan rekomendasi strategi pengembangan pasar \nyang akurat dan relevan (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Mengumpulkan dan memperbarui data pelanggan, komoditas, serta kompetitor dari berbagai sumber",
+          "expected_result": "Data pelanggan dan kompetitor yang lengkap, tervalidasi, dan mudah diakses"
+        },
+        {
+          "no": 2,
+          "responsibility": "Menyusun laporan dasar hasil survei pasar dan pemantauan tren industri",
+          "expected_result": "Laporan survei dan tren pasar yang mendukung analisis tim Strategic Marketing & Intelligence"
+        },
+        {
+          "no": 3,
+          "responsibility": "Mengelola dan memperbarui database pelanggan (CRM) secara berkala",
+          "expected_result": "Database pelanggan yang mutakhir dan bebas duplikasi"
+        },
+        {
+          "no": 4,
+          "responsibility": "Mendukung analisis harga, kapasitas, dan layanan kompetitor",
+          "expected_result": "Data pendukung analisis harga dan performa kompetitor yang akurat"
+        },
+        {
+          "no": 5,
+          "responsibility": "Menyusun ringkasan hasil analisis atau temuan lapangan dalam bentuk memo",
+          "expected_result": "Memo ringkasan yang digunakan sebagai bahan rapat atau laporan manajemen"
+        },
+        {
+          "no": 6,
+          "responsibility": "Membantu penyusunan laporan kinerja marketing intelligence",
+          "expected_result": "Laporan kinerja bulanan yang terkompilasi dan siap diserahkan ke atasan"
+        },
+        {
+          "no": 7,
+          "responsibility": "Mengarsipkan dokumen, laporan, dan database marketing intelligence sesuai standar perusahaan",
+          "expected_result": "Arsip data dan laporan yang tersimpan rapi, terdokumentasi, dan mudah ditelusuri"
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengakses database pelanggan, wilayah layanan, dan informasi kompetitor untuk kebutuhan riset pasar.",
+        "Mengusulkan pembaruan data atau metode pemetaan pelanggan agar lebih efektif",
+        "Menyampaikan hasil pengumpulan data dan laporan analisis awal kepada Strategic Marketing & Intelligence Officer untuk ditindaklanjuti.",
+        "Berkoordinasi dengan divisi sales dan operasional dalam memastikan validitas data pelanggan dan performa layanan."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan :"
+        ],
+        "pengalaman": [
+          "0-2 tahun pengalaman di area strategic marketing & intelligence atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Positive Working Relationships",
+          "2Communication",
+          "Improvement",
+          "Analysis",
+          "Orientation"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Orientation",
+          "& Organizing"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 5,
+            "grade": "Expert"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning"
+          },
+          {
+            "kompetensi": "6 Customer Orientation"
+          },
+          {
+            "kompetensi": "7 A/P Management"
+          },
+          {
+            "kompetensi": "8 A/R Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "9 Legal Corporate Law",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "10 Legal Drafting",
+            "level": 4,
+            "grade": "Advanced"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_sections": []
+    },
+    "PRICING & EVALUATION OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "PRICING & EVALUATION OFFICER",
+        "Tingkat Band/Layer": "BAND 3/BOD-3",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "PRICING & EVALUATION",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "OPERATION DIRECTORATE (SILOG)"
+      },
+      "tujuan_jabatan": "Melaksanakan analisis dan evaluasi harga produk serta skema penawaran perusahaan (HOW) dengan melakukan riset pasar, perhitungan biaya, dan kajian profitabilitas untuk setiap proyek atau pelanggan (WHAT) guna memastikan \nkebijakan harga kompetitif, sesuai standar perusahaan, dan mendukung pencapaian target penjualan (WHY)",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Menyusun dan memperbarui struktur harga dasar",
+          "expected_result": "Struktur harga dasar yang akurat, kompetitif, dan sesuai kebijakan perusahaan"
+        },
+        {
+          "no": 2,
+          "responsibility": "Melakukan evaluasi dan simulasi harga proyek atau tender",
+          "expected_result": "Dokumen evaluasi harga yang tervalidasi dan siap digunakan untuk proses approval"
+        },
+        {
+          "no": 3,
+          "responsibility": "Memberikan rekomendasi harga, diskon, dan skema pembayaran",
+          "expected_result": "Rekomendasi harga dan skema pembayaran yang mendukung strategi penjualan perusahaan"
+        },
+        {
+          "no": 4,
+          "responsibility": "Memastikan setiap penawaran harga melalui proses validasi dan approval",
+          "expected_result": "Penawaran harga yang terdokumentasi dan disetujui sesuai prosedur perusahaan"
+        },
+        {
+          "no": 5,
+          "responsibility": "Menganalisis margin, profitabilitas, dan risiko keuangan",
+          "expected_result": "Analisis margin dan profitabilitas yang menjadi dasar keputusan harga"
+        },
+        {
+          "no": 6,
+          "responsibility": "Melakukan benchmarking harga kompetitor dan tren pasar bersama tim",
+          "expected_result": "Strategic Marketing & IntelligenceLaporan perbandingan harga dan tren pasar yang digunakan sebagai acuan penetapan harga"
+        },
+        {
+          "no": 7,
+          "responsibility": "Memelihara database harga historis dan dokumentasi evaluasi proyek",
+          "expected_result": "Database harga dan dokumentasi evaluasi yang lengkap, mutakhir, dan mudah diakses"
+        },
+        {
+          "no": 8,
+          "responsibility": "Menyusun laporan evaluasi harga dan analisis penjualan berkala",
+          "expected_result": "Laporan evaluasi harga dan profitabilitas yang digunakan untuk pelaporan manajemen"
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung : PRICING & EVALUATION JR. OFFICER",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengusulkan kebijakan harga dan struktur biaya berdasarkan hasil evaluasi pasar dan profitabilitas.",
+        "Memberikan masukan kepada tim sales terkait kelayakan finansial pelanggan dan potensi risiko pembayaran.",
+        "Mengakses data keuangan internal dan informasi harga untuk keperluan analisis strategis.",
+        "Menyetujui rekomendasi harga dan diskon dalam batas kewenangan yang diberikan"
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan : Manajemen, Administrasi Bisnis, Ekonomi, atau jurusan lain yang relevan."
+        ],
+        "pengalaman": [
+          "2-3 tahun di area pricing & evaluation atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "1Coaching",
+          "Making",
+          "3Execution",
+          "Commitment",
+          "Standards"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Partnerships",
+          "Awareness",
+          "Focus",
+          "4Innovation"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "missing_sections": []
+    },
+    "PRICING & EVALUATION JR. OFFICER": {
+      "tanggal_efektif": "1 Januari 2025",
+      "identifikasi": {
+        "Jabatan": "PRICING & EVALUATION JR. OFFICER",
+        "Tingkat Band/Layer": "BAND 4/BOD-4",
+        "Direktorat": "OPERATION DIRECTORATE (SILOG)",
+        "Group Head": "GROUP HEAD OF SALES & MARKETING",
+        "Departemen": "DEPARTMENT OF SALES & MARKETING NON SIG",
+        "Unit": "UNIT OF MARKETING",
+        "Seksi": "PRICING & EVALUATION",
+        "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "Jabatan Atasan": "OPERATION DIRECTORATE (SILOG)"
+      },
+      "tujuan_jabatan": "Mendukung kegiatan analisis harga dan evaluasi biaya layanan logistik (HOW) melalui pengumpulan data operasional, input perhitungan, serta penyusunan laporan evaluasi harga (WHAT) untuk memastikan keakuratan perhitungan \npenawaran dan mendukung kebijakan harga yang kompetitif (WHY).",
+      "tanggung_jawab": [
+        {
+          "no": 1,
+          "responsibility": "Mengumpulkan data biaya operasional (seperti biaya bahan bakar, rute distribusi, sewa armada, dan biaya tenaga kerja) sebagai dasar perhitungan harga layanan logistik",
+          "expected_result": null
+        },
+        {
+          "no": 2,
+          "responsibility": "Membantu penyusunan simulasi harga dan perhitungan margin untuk proyek, tender, maupun pelanggan reguler.",
+          "expected_result": null
+        },
+        {
+          "no": 3,
+          "responsibility": "Melakukan input data perhitungan harga ke dalam template atau sistem internal sesuai arahan",
+          "expected_result": "Pricing & Evaluation Officer"
+        },
+        {
+          "no": 4,
+          "responsibility": "Membantu proses evaluasi penawaran dengan membandingkan harga aktual di pasar logistik dan biaya internal perusahaan.",
+          "expected_result": null
+        },
+        {
+          "no": 5,
+          "responsibility": "Menyusun laporan pendukung untuk proses approval harga, termasuk rekap analisis biaya dan hasil evaluasi harga pelanggan.",
+          "expected_result": null
+        },
+        {
+          "no": 6,
+          "responsibility": "Mendukung kegiatan analisis profitabilitas pelanggan dengan menyiapkan data volume, biaya, dan pendapatan aktual.",
+          "expected_result": null
+        },
+        {
+          "no": 7,
+          "responsibility": "Berkoordinasi dengan divisi",
+          "expected_result": "Sales dan Finance untuk memastikan data biaya dan penawaran selaras dengan kebijakan perusahaan."
+        }
+      ],
+      "dimensi": [
+        "Dimensi Keuangan :",
+        "Dimensi non Keuangan :",
+        "Bawahan Langsung :",
+        "Cakupan Wilayah :"
+      ],
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit_instansi": "1 Direksi (President Director) Penyampaian rancangan strategi, feasibility study, update KPI, dsb.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Group Head / SVP / GM Lain Koordinasi lintas fungsi (Finance, Supply Chain, Marketing, Human Capital) untuk implementasi proyek & inovasi",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Department/Unit Analis Mendapatkan data pasar, tren industri, evaluasi keuangan, dsb",
+            "tujuan": null
+          }
+        ],
+        "external": [
+          {
+            "unit_instansi": "1 Mitra Strategis (Investor,",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "Vendor, Konsultan)Kolaborasi bisnis, penyiapan MoU, analisis potensi JV.",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "2 Regulator Pemerintah Kepatuhan regulasi, perizinan, dukungan program strategis nasional",
+            "tujuan": null
+          },
+          {
+            "unit_instansi": "3 Lembaga Sertifikasi Memastikan standar mutu manajemen, ISO, dsb",
+            "tujuan": null
+          }
+        ]
+      },
+      "wewenang": [
+        "Mengakses data operasional dan biaya untuk kebutuhan analisis harga sesuai batas kewenangan yang diberikan.",
+        "Melakukan input dan pembaruan data harga di template perhitungan atau sistem sesuai prosedur.",
+        "Menyampaikan hasil input, rekap data, dan laporan pendukung kepada Pricing & Evaluation Officer untuk validasi.",
+        "Memberikan masukan administratif terkait penyusunan format laporan atau pengelolaan data biaya."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": [
+          "Kualifikasi Pendidikan : S1 Diutamakan",
+          "Jurusan : Manajemen, Administrasi Bisnis, Ekonomi, atau jurusan lain yang relevan."
+        ],
+        "pengalaman": [
+          "0-2 tahun di area pricing & evaluation atau area lainnya yang relevan."
+        ],
+        "core_values": [
+          "CORE VALUES",
+          "1Amanah",
+          "2Kompeten",
+          "3Harmonis",
+          "4Loyal",
+          "5Adaptif",
+          "6Kolaboratif"
+        ],
+        "kompetensi_perilaku": [
+          "KOMPETENSI INTI",
+          "1Adaptability",
+          "2Authenticity",
+          "to Society",
+          "Agility",
+          "Diversity"
+        ],
+        "kompetensi_bidang_primer": [
+          "Positive Working Relationships",
+          "2Communication",
+          "Improvement",
+          "Analysis",
+          "Orientation"
+        ],
+        "kompetensi_bidang_sekunder": [
+          "Orientation",
+          "& Organizing"
+        ],
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "1 Brand Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "2 Pricing Management",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "3 Product Management",
+            "level": 4,
+            "grade": "Advanced"
+          },
+          {
+            "kompetensi": "4 Market Research",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "5 Marketing Strategy & Planning",
+            "level": 3,
+            "grade": "Practitioner"
+          },
+          {
+            "kompetensi": "6 A/P Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "7 A/R Management",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "8 Legal Corporate Law",
+            "level": 1,
+            "grade": "Knowledgeable"
+          },
+          {
+            "kompetensi": "9 Legal Drafting",
+            "level": 1,
+            "grade": "Knowledgeable"
+          }
+        ],
+        "bahasa": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Inggris Intermediate",
+          "Mandarin Intermediate"
+        ],
+        "komputer": [
+          "KOMPETENSI LEVEL YANG DIPERSYARATKAN",
+          "Tools FS Expert",
+          "MS Project Expert"
+        ],
+        "sertifikasi": {
+          "wajib": [
+            "SERTIFIKAT KETERANGAN",
+            "Sertifikasi Manajemen Proyek (BNSP / PMP)",
+            "Manajemen Strategis",
+            "Risk Management (ISO 31000)"
+          ],
+          "optional": [
+            "SERTIFIKAT KETERANGAN",
+            "Business Development Expert"
+          ]
+        }
+      },
+      "kesehatan_lingkungan_kerja": [
+        "PERSYARATAN KETERANGAN",
+        "Fit to work dalam pemeriksaan kesehatan Baik"
+      ],
+      "output": [
+        "Dokumen Strategic Roadmap (3–5 tahun)",
+        "Feasibility Study & Business Case inisiatif baru (dibahas & final di Direksi)",
+        "Laporan Koordinasi Proyek lintas departemen, mencatat sinergi & milestone kunci",
+        "KPI Monitoring Report (bulanan/triwulanan) untuk menilai deviasi & perbaikan",
+        "Rekomendasi Anggaran & Prioritas Proyek di level BOD-1",
+        "Notulen Rapat BOD-1 (khusus gagasan strategis & tindak lanjut)"
+      ],
+      "missing_sections": []
+    }
+  }
+}
