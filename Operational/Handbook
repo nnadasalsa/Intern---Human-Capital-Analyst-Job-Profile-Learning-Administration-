@@ -1,0 +1,1013 @@
+{
+    "organization_structure": {
+        "name": "PT Semen Indonesia Logistik",
+        "type": "company",
+        "children": [
+            {
+            "name": "President Director",
+            "type": "director",
+            "organization_type" : "structural",
+            "children": [
+                {
+                    "name": "Operational Director",
+                    "type": "director",
+                    "organization_type" : "structural",
+                    "children": [
+                        {
+                            "name": "Group Head of Logistic",
+                            "type": "group head",
+                            "organization_type" : "structural",
+                            "children": [
+                                {
+                                    "name": "Department of Operational Logistic SIG Java & Bali",
+                                    "type": "department",
+                                    "organization_type" : "structural",
+                                    "children": [
+                                        {
+                                            "name": "Unit of Operational Logistic SIG 1",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Operational Logistic SIG 1A",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG 1B",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Operational Logistic SIG 2",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Operational Logistic SIG 2A",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG 2B",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Operational Logistic SIG 3",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Operational Logistic SIG 3A",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG 3B",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG 3C",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Department of Operational Logistic SIG Sumatra",
+                                    "type": "department",
+                                    "organization_type" : "structural",
+                                    "children": [
+                                        {
+                                            "name": "Unit of Operational Logistic SIG Padang",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Operational Logistic SIG Indarung",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG non Indarung",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Operational Logistic SIG Baturaja",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Operational Logistic SIG Baturaja",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Operational Logistic SIG non Baturaja",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Department of Operational Logistic non SIG",
+                                    "type": "department",
+                                    "organization_type" : "structural",
+                                    "children": [
+                                        {
+                                            "name": "Unit of Logistic Non SIG East & Center Area",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Logistic Non SIG East & Center Area",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Logistic Non SIG West & Outside Island Area",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Logistic Non SIG West & Outside Island Area",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Logistic Bulk & Dump",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Logistic Bulk",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Logistic Dump",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Waste Logistic",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Waste Logistic",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Logistic Non SIG Order",
+                                            "type": "section",
+                                            "organization_type" : "fungsional"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Department of Supporting Logistic",
+                                    "type": "department",
+                                    "organization_type" : "structural",
+                                    "children": [
+                                        {
+                                            "name": "Unit of Driver Management",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Driver Management",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Maintenance",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Planning and Administration Maintenance",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Quality Control Maintenance",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Warehouse Maintenance",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Maintenance Operation 1",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Maintenance Operation 2",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Maintenance Operation 3",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Maintenance Operation 4",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Unit of Warehouse, Equipment & Claim Management",
+                                            "type": "unit",
+                                            "organization_type" : "structural",
+                                            "children":[
+                                                {
+                                                    "name": "Warehouse & Pallet Management",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Equipment Management",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                },
+                                                {
+                                                    "name": "Claim Management",
+                                                    "type": "section",
+                                                    "organization_type" : "fungsional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Unit of Logistic Control Tower",
+                                    "type": "unit",
+                                    "organization_type" : "structural",
+                                    "children":[
+                                        {
+                                            "name": "Logistic Control Tower",
+                                            "type": "section",
+                                            "organization_type" : "fungsional"
+                                        }
+                                    ]
+                                }
+
+                            ]
+                        }
+                    ],
+                    "HANDBOOK": {
+                        "Group Head Of Logistic": [
+                            {
+                                "Name": "Pengelolaan Operasional Logistik",
+                                "Activity": [
+                                    "Pengiriman barang berjalan tepat waktu & efisien",
+                                    "Peningkatan produktivitas dan efisiensi biaya",
+                                    "Perbaikan berkelanjutan",
+                                    "Kepuasan Layanan"
+                                ],
+                                "SLA": [
+                                    "ODF : 100%",
+                                    "OTIF : 100%"
+                                ],
+                                "Output": [
+                                    "Fleksibiltas armada"
+                                ]
+                            },
+                            {
+                                "Name": "Pemeliharaan (Maintenance) Armada dan Perlengkapan Truk",
+                                "Activity": [
+                                    "Armada dalam Kondisi Optimal",
+                                    "Preventif dan korektif maintenance",
+                                    "Standar Keselamatan",
+                                    "Efisiensi biaya pemeliharaan"
+                                ],
+                                "SLA": [
+                                    "Truck Readiness : 100%"
+                                ],
+                                "Output": [
+                                    "Logistic Availability"
+                                ]
+                            },
+                            {
+                                "Name": "Manajemen Driver dan SDM Operasional",
+                                "Activity": [
+                                    "SOP dipatuhi",
+                                    "Evaluasi KPI",
+                                    "Kaderisasi SDM"
+                                ],
+                                "SLA": [
+                                    "Driver Readiness : 100%"
+                                ],
+                                "Output": [
+                                    "Realibility Delivery"
+                                ]
+                            },
+                            {
+                                "Name": "Pengelolaan Risiko dan Kepatuhan (Compliance)",
+                                "Activity": [
+                                    "Regulasi transportasi & K3",
+                                    "Risiko & Mitigasi",
+                                    "Berkoordinasi dengan legal terkait kontrak & asuransi armada"
+                                ],
+                                "SLA": [
+                                    "Compliance : 100%",
+                                    "Risk Mitigation Implemented : 100%"
+                                ],
+                                "Output": [
+                                    "Jaminan kualitas barang pengiriman"
+                                ]
+                            },
+                            {
+                                "Name": "Pengembangan Teknologi dan Sistem Operasional",
+                                "Activity": [
+                                    "Inovasi Otomatisasi & digitalisasi Operasional",
+                                    "Analisa data by system"
+                                ],
+                                "SLA": [
+                                    "Digitalisasi Operation : 100%"
+                                ],
+                                "Output": [
+                                    "Program layanan customer dengan FIOS"
+                                ]
+                            },
+                            {
+                                "Name": "Manajemen Anggaran dan Profitabilita",
+                                "Activity": [
+                                    "Kontrol anggaran operasional & evaluasi biaya",
+                                    "Identifikasi peluang peningkatan margin"
+                                ],
+                                "SLA": [
+                                    "Cost < RKAP",
+                                    "Profitabilitas : 10% from Revenue"
+                                ],
+                                "Output": [
+                                    "Peningkatan Utilisasi & Ritase armada",
+                                    "solve delivery problem"
+                                ]
+                            },
+                            {
+                                "Name": "Koordinasi Lintas Fungsi",
+                                "Activity": [
+                                    "Kolaborasi lintas fungsi",
+                                    "Rapat berkala untuk evaluasi & pengembangan operasional"
+                                ],
+                                "SLA": [
+                                    "Weekly SNOP"
+                                ],
+                                "Output": [
+                                    "Ontime Arrival Delivery",
+                                    "Jaminan Kualitas Barang Pengiriman",
+                                    "Kecepatan Proses Penagihan"
+                                ]
+                            },
+                            {
+                                "Name": "Pelaporan kepada Top Management",
+                                "Activity": [
+                                    "Laporan kinerja operasional",
+                                    "Rekomendasi startegis"
+                                ],
+                                "SLA": [
+                                    "Weekly",
+                                    "Monthly"
+                                ],
+                                "Output": [
+                                    "Ontime Arrival Delivery",
+                                    "No Late Delivery",
+                                    "Realtime Visibility",
+                                    "Realibility Delivery",
+                                    "Logistic Availability"
+                                ]
+                            }
+                        ],
+                        "children": [
+                            {
+                                "Department Of Operational Logistic SIG": [
+                                    {
+                                        "Name": "Verification Order",
+                                        "Business Process": [
+                                            "New Sales Order",
+                                            "Carry Over Sales Order",
+                                            "Level Stock"
+                                        ],
+                                        "Activity": [
+                                            "Verifikasi dan pembagian SO",
+                                            "Pemetaan berdasarkan Layer Mitra",
+                                            "Komparasi SO dengan level stok gudang"
+                                        ],
+                                        "SLA": [
+                                            "daily jam 14:00 : SO New, jam 20:00 : SO New, dan jam 00:00 : SO VSO",
+                                            "Max. 4 jam dari SO terbit",
+                                            "Max. 4 jam dari SO terbit "
+                                        ],
+                                        "Output": [
+                                            "SO Clean and Clear"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Planning Order",
+                                        "Business Process": [
+                                            "Fleet Planning",
+                                            "Prematch Order",
+                                            "Matching Order"
+                                        ],
+                                        "Activity": [
+                                            "Nominasi armada",
+                                            "Check ketersediaan dan kesiapan pallet",
+                                            "Monitoring auto prematch"
+                                        ],
+                                        "SLA": [
+                                            "SO New Max. 4 jam dari SO diterima",
+                                            "Max. 4 jam dari SO diterima",
+                                            "Max 5 jam sebelum Slot Time"
+                                        ],
+                                        "Output": [
+                                            "Available Fleet",
+                                            "Fleet readiness"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Task Force",
+                                        "Business Process": [
+                                            "Available Fleet unit Task Force"
+                                        ],
+                                        "Activity": [
+                                            "Menentukan mitra task force"
+                                        ],
+                                        "SLA": [
+                                            "Max. 7 jam dari SO diterima"
+                                        ],
+                                        "Output": [
+                                            "Fleet readiness Unit Task Force"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Monitoring in Plant",
+                                        "Business Process": [
+                                            "Status Confirmation by System"
+                                        ],
+                                        "Activity": [
+                                            "Konfirmasi Armada Tiba Dilokasi Muat",
+                                            "Monitoring auto matching",
+                                            "Monitoring proses muat by sistem"
+                                        ],
+                                        "SLA": [
+                                            "Setiap 1 jam",
+                                            "Setiap 1 jam",
+                                            "Setiap 1 jam"
+                                        ],
+                                        "Output": [
+                                            "Status Confirmation report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Shipment Monitoring",
+                                        "Business Process": [
+                                            "Lead time",
+                                            "Over Waiting Time",
+                                            "Divertion"
+                                        ],
+                                        "Activity": [
+                                            "Pemantauan posisi dan kendala perjalanan by GPS",
+                                            "Merekap kendala dalam perjalanan dan memberikan solusi",
+                                            "Mengolah data transaksi lama parkir armada"
+                                        ],
+                                        "SLA": [
+                                            "Setiap 2 jam",
+                                            "Setiap 2 jam",
+                                            "Setiap 2 jam"
+                                        ],
+                                        "Output": [
+                                            "Lead time Report",
+                                            "Over Waiting Time Report",
+                                            "Divertion Report",
+                                            "GPS active and Inactive report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "OTIF Monitoring",
+                                        "Business Process": [
+                                            "PoD",
+                                            "Claim"
+                                        ],
+                                        "Activity": [
+                                            "Melakukan komunikasi dengan mitra dan driver",
+                                            "Pemantauan kesesuaian barang dan waktu dalam pengiriman",
+                                            "Menentukan RCA dari OTIF yang tidak sesuai"
+                                        ],
+                                        "SLA": [
+                                            "Setiap 2 jam",
+                                            "Setiap 2 jam",
+                                            "3 kali sehari diakhir Shift (Setiap 8 jam)"
+                                        ],
+                                        "Output": [
+                                            "On time delivery report",
+                                            "Claim report",
+                                            "RCA late delivery report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Rilis Report/Update",
+                                        "Business Process": [
+                                            "Order fulfillment",
+                                            "RCA Shipment"
+                                        ],
+                                        "Activity": [
+                                            "Konfirmasi proses mulai sampai dengan selesai bongkar",
+                                            "Menentukan RCA dari ODF yang tidak sesuai",
+                                            "Memantau hasil rilis/Order fulfillment disetiap area (di Plant, Distributor, and Mitra)"
+                                        ],
+                                        "SLA": [
+                                            "Setiap 2 jam",
+                                            "Setiap 2 jam",
+                                            "Setiap hari"
+                                        ],
+                                        "Output": [
+                                            "Order fulfillment Report",
+                                            "RCA Shipment Report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Evaluation Performance",
+                                        "Business Process": [
+                                            "Mitra/Vendor",
+                                            "Volume",
+                                            "RCA SHipment"
+                                        ],
+                                        "Activity": [
+                                            "Melakukan evaluasi kinerja mitra",
+                                            "Memberikan punishment mitra yang tidak perform"
+                                        ],
+                                        "SLA": [
+                                            "Weekly dan Monthly",
+                                            "by Case"
+                                        ],
+                                        "Output": [
+                                            "Weekly and Monthly Evaluation",
+                                            "Performance Report (Mitra)",
+                                            "RCA Shipment Analysis",
+                                            "One on one meeting report (in case)",
+                                            "Punishment (in case)"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Department Of Logistic Non SIG": [
+                                    {
+                                        "Name": "Arahan Armada",
+                                        "Business Process": [
+                                            "Planning fulfillment DO",
+                                            "Planning kebutuhan armada",
+                                            "Planning kesiapan armada"
+                                        ],
+                                        "Activity": [
+                                            "Cek aplikasi FIOS untuk kebutuhan DO H-1 maupun hari H",
+                                            "Berkoordinasi dengan tim marketing terkait planning DO H-1 maupun hari H",
+                                            "Mapping armada dengan ketersediaan DO",
+                                            "Berkoordinasi dengan tim control tower terkait availability armada (planning bongkar)",
+                                            "Berkoodinasi dengan tim maintenance terkait planning armada selesai perbaikan",
+                                            "Berkoodinasi dengan tim driver management terkait planning fulfillment driver",
+                                            "Konfirmasi kesiapan peralatan muat",
+                                            "Cek surat-surat armada (by FIOS)",
+                                            "Konfirmasi kondisi armada",
+                                            "Menginformasikan ke PIC terkait apabila ada kendala armada baik kondisi maupun surat",
+                                            "Mencari alternatif solusi apabila ada kendala kurang peralatan muat",
+                                            "Membuat BA indisipliner apabila ada penolakan arahan dari driver",
+                                            "Memberi arahan driver/PH ke plant pemuatan",
+                                            "Entry arahan kosongan armada di FIOS",
+                                            "Approve uang jalan kosong di FIOS"
+                                        ],
+                                        "SLA": [
+                                            "30 menit",
+                                            "30 menit",
+                                            "30 menit",
+                                            "15 menit",
+                                            "15 menit",
+                                            "15 menit",
+                                            "3 menit",
+                                            "3 menit",
+                                            "3 menit",
+                                            "3 menit",
+                                            "30 menit",
+                                            "5 menit",
+                                            "1 jam",
+                                            "3 menit",
+                                            "3 menit"
+                                        ],
+                                        "Output": [
+                                            "Jaminan pemenuhan armada"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Armada Menuju Plant Pemuatan",
+                                        "Business Process": [
+                                            "Leadtime kosongan sesuai",
+                                            "Penyelesaian masalah di lapangan",
+                                            "Informasi masalah di lapangan"
+                                        ],
+                                        "Activity": [
+                                            "Berkoordinasi dengan tim control tower terkait planning armada sampai lokasi muat",
+                                            "Menyampaikan ke PH/driver apabila estimasi kedatangan armada tidak sesuai leadtime",
+                                            "Mencari alternatif solusi armada pengganti apabila armada mengalami masalah",
+                                            "Menginformasikan ke tim maintenance apabila terjadi kendala terhadap armada",
+                                            "Menginformasikan ke tim driver management apabila terjadi kendala terhadap driver",
+                                            "Menginformasikan ke tim laka apabila terjadi laka lantas",
+                                            "Menginformasikan ke customer apabila ada potensi keterlambatan kedatangan armada",
+                                            "Menginformasikan ke customer apabila ada penggantian armada"
+                                        ],
+                                        "SLA": [
+                                            "15 menit",
+                                            "5 menit setelah koordinasi dengan tim CT",
+                                            "30 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima"
+                                        ],
+                                        "Output": [
+                                            "Kedatangan armada on time"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Proses Pemuatan",
+                                        "Business Process": [
+                                            "Pengembalian surat jalan & BA klaim (khusus plant pemuatan yang ada kraninya)",
+                                            "Order fulfillment",
+                                            "Kualitas pemuatan",
+                                            "Armada segera jalan setelah muat",
+                                            "Penyelesaian masalah di lapangan",
+                                            "Informasi masalah di lapangan"
+                                        ],
+                                        "Activity": [
+                                            " Berkoordinasi dengan tim control tower terkait planning armada sampai lokasi muat",
+                                            "Menyampaikan ke PH/driver apabila estimasi kedatangan armada tidak sesuai leadtime",
+                                            "Proses surat jalan kembali di FIOS apabila surat jalan sudah diserahkan driver",
+                                            "Membuat BA klaim apabila terjadi klaim muatan sebelumnya",
+                                            "Menginformasikan ke customer terkait matching armada (Nopol, driver, no HP driver) dengan DO",
+                                            "Membuat barcode muat (jika ada)",
+                                            "Memastikan armada dan driver siap untuk muat",
+                                            "Memastikan proses pemuatan lancar",
+                                            "Memastikan kualitas pemuatan dan penerpalan (jika ada)",
+                                            "Memastikan surat jalan sesuai (plant, shipto, tanggal, tonase, nopol, driver)",
+                                            "Mengajukan FTL/PSO (apabila FTL belum dibuat) di FIOS ke marketing",
+                                            "Mengajukan edit FTL/PSO (mengisi shipto) di FIOS ke marketing",
+                                            "Entry shipment di FIOS",
+                                            "Menyampaikan ke PH/driver untuk geser aplikasi FIOS",
+                                            "Approve uang jalan muat di FIOS",
+                                            "Mencari alternatif solusi armada/driver pengganti apabila armada/driver terjadi masalah",
+                                            "Mencari alternatif solusi apabila DO batal turun",
+                                            "Menginformasikan ke tim maintenance apabila terjadi kendala terhadap armada",
+                                            "Menginformasikan ke tim driver management apabila terjadi kendala terhadap driver",
+                                            "Menginformasikan ke customer apabila ada penggantian armada",
+                                            "Menginformasikan kepada marketing apabila DO batal, proses pemuatan lama",
+                                            "Menginformasikan ke marketing untuk armada dengan status belum dapat DO"
+                                        ],
+                                        "SLA": [
+                                            " 15 menit",
+                                            "5 menit",
+                                            "5 menit",
+                                            "5 menit",
+                                            "5 menit setelah DO turun",
+                                            "5 menit setelah DO turun",
+                                            "30 menit sebelum muat",
+                                            "Selama proses pemuatan",
+                                            "Selama proses pemuatan & penerpalan",
+                                            "30 menit setelah konfirmasi selesai muat",
+                                            "3 menit setelah verifikasi surat jalan",
+                                            "3 menit",
+                                            "3 menit",
+                                            "1 menit",
+                                            "3 menit",
+                                            "30 menit",
+                                            "30 menit",
+                                            "5 menit",
+                                            "5 menit",
+                                            "5 menit",
+                                            "5 menit ",
+                                            "6 jam setelah armada sampai lokasi muat"
+                                        ],
+                                        "Output": [
+                                            "Order Fulfillment"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Armada Menuju Plant Pembongkaran",
+                                        "Business Process": [
+                                            "Leadtime muatan sesuai",
+                                            "Penyelesaian masalah di lapangan",
+                                            "Informasi masalah di lapangan"
+                                        ],
+                                        "Activity": [
+                                            " Berkoordinasi dengan tim control tower terkait planning armada sampai lokasi bongkar",
+                                            "Menyampaikan ke PH/driver apabila estimasi kedatangan armada tidak sesuai leadtime (support CT)",
+                                            "Koordinasi dengan tim CT mencari alternatif solusi apabila terjadi masalah saat pengiriman",
+                                            "Menginformasikan ke tim maintenance apabila terjadi kendala terhadap armada (support CT)",
+                                            "Menginformasikan ke tim driver management apabila terjadi kendala terhadap driver (support CT)",
+                                            "Menginformasikan ke tim laka apabila terjadi laka lantas (support CT)",
+                                            "Menginformasikan ke customer apabila ada potensi keterlambatan kedatangan armada (support CT)",
+                                            "Menginformasikan & menyampaikan alternatif solusi ke customer apabila terjadi kendala pengiriman (support CT)"
+                                        ],
+                                        "SLA": [
+                                            " 15 menit",
+                                            "5 menit setelah koordinasi dengan tim CT",
+                                            "30 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima"
+                                        ],
+                                        "Output": [
+                                            "On Time Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Proses Pembongkaran",
+                                        "Business Process": [
+                                            "Pembongkaran sesuai jadwal",
+                                            "Penyelesaian masalah di lapangan",
+                                            "Informasi masalah di lapangan"
+                                        ],
+                                        "Activity": [
+                                            "Berkoordinasi dengan tim control tower terkait armada telah sampai lokasi bongkar",
+                                            "Menginformasikan ke customer bahwa armada sudah sampai dan mohon segera dibongkar (support CT)",
+                                            "Koordinasi dengan tim CT mencari alternatif solusi apabila terjadi masalah saat pembongkaran",
+                                            "Menginformasikan ke tim maintenance apabila terjadi kendala terhadap armada (support CT)",
+                                            "Menginformasikan ke tim driver management apabila terjadi kendala terhadap driver (support CT)",
+                                            "Menginformasikan ke marketing apabila ada kendala antri bongkar lama (support CT)",
+                                            "Menginformasikan ke customer apabila ada kendala antri bongkar lama (support CT)"
+                                        ],
+                                        "SLA": [
+                                            " 15 menit",
+                                            "5 menit setelah koordinasi dengan tim CT",
+                                            "30 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima",
+                                            "5 menit setelah informasi diterima"
+                                        ],
+                                        "Output": [
+                                            "Muatan dibongkar sesuai jadwal"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Department Supporting Logistic": [
+                                    {
+                                        "Name": "Strategic Planning",
+                                        "Business Process": [
+                                            "Perencanaan program kerja",
+                                            "Strategic initiative cost reduction",
+                                            "Perencanaan kerjasama B2B",
+                                            "Perencanaan pengembangan Bisnis"
+                                        ],
+                                        "Activity": [
+                                            "Identifikasi masalah",
+                                            "Identifikasi peluang",
+                                            "Identifikasi kebutuhan dukungan",
+                                            "Penyusunan program kerja",
+                                            "Sinkronisasi dengan program kerja",
+                                            "Mencari mitra potensial",
+                                            "Pembentukan kontrak kerjasama",
+                                            "Identifikasi keunggulan",
+                                            "Penyusunan feasibility study",
+                                            "Pelaksanaan pengembangan bisnis"
+                                        ],
+                                        "SLA": [
+                                            "Paling lambat bulan November",
+                                            "Evaluasi tiap 3 bulan"
+                                        ],
+                                        "Output": [
+                                            "Reliability Delivery",
+                                            "Logistic Availability",
+                                            "No Late Delivery",
+                                            "On Time Arrived Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Truck Readiness",
+                                        "Business Process": [
+                                            "Memastikan truk siap untuk kegiatan operasional",
+                                            "Optimasi tipe truk sesuai kebutuhan operasional"
+                                        ],
+                                        "Activity": [
+                                            "Memastikan truk layak jalan dengan melakukan Preventive Maintenance, Corrective Maintenance, Storing",
+                                            "Melakukan optimalisasi truk dengan melakukan mapping rute dan tipe truk yang sesuai"
+                                        ],
+                                        "SLA": [
+                                            "Max 5% truk tidak ready",
+                                            "Cut off data bulanan"
+                                        ],
+                                        "Output": [
+                                            "Logistic Availability"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Driver Readiness",
+                                        "Business Process": [
+                                            "Memastikan jumlah driver terpenuhi sesuai kebutuhan",
+                                            "Memastikan driver siap beroperasi sesuai arahan operasional",
+                                            "Pengembangan kompetensi driver"
+                                        ],
+                                        "Activity": [
+                                            "Proses rekrutment melalui tim internal dan vendor driver",
+                                            "Clusterisasi driver dan Insentif bagi yang siap all rute",
+                                            "Pelatihan driver berkelanjutan",
+                                            "Optimalisasi driver cadangan dengan upah bulanan"
+                                        ],
+                                        "SLA": [
+                                            "100% driver ready",
+                                            "Cut off mingguan"
+                                        ],
+                                        "Output": [
+                                            "Reliability Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Pallet Readiness",
+                                        "Business Process": [
+                                            "Memastikan pallet tersedia sesuai kebutuhan",
+                                            "Memastikan repair pallet berjalan lancar",
+                                            "Memastikan jumlah peredaran pallet sesuai"
+                                        ],
+                                        "Activity": [
+                                            "Jumlah pallet tersedia sesuai order dari principal",
+                                            "Pallet rusak maksimum 2% dari total pallet beredar di plant",
+                                            "Pallet terdokumentasi proses sertim dan tukar gulingnya",
+                                            "Update databstock pallet di distributor dan ekspeditur"
+                                        ],
+                                        "SLA": [
+                                            "100% pemenuhan pallet",
+                                            "TBR Max 2%",
+                                            "Cut off bulanan"
+                                        ],
+                                        "Output": [
+                                            "No Late Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Equipment Readiness",
+                                        "Business Process": [
+                                            "Memastikan peralatan pemuatan tersedia sesuai kebutuhann",
+                                            "Memastikan peralatan tidak rusak dan siap digunakan"
+                                        ],
+                                        "Activity": [
+                                            "Peralatan pemuatan tersedia sesuai kebutuhan",
+                                            "Kualitas peralatan pemuatan terpantau dan terjaga",
+                                            "Penggantian peralatan pemuatan terdokumentasi",
+                                            "Klaim kerusakan dan kehilangan terdokumentasi"
+                                        ],
+                                        "SLA": [
+                                            "Peralatan tersedia 100%",
+                                            "Cut off mingguan"
+                                        ],
+                                        "Output": [
+                                            "Lead time Report",
+                                            "Over Waiting Time Report",
+                                            "Divertion Report",
+                                            "GPS active and Inactive report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Claim Management",
+                                        "Business Process": [
+                                            "Memastikan klaim tercatat",
+                                            "Memastikan klaim disepakati kedua belah pihak",
+                                            "Memastikan klaim terbayar sesuai kesepakatan"
+                                        ],
+                                        "Activity": [
+                                            "Memastikan klaim peralatan, sparepart, muatan dan K3 terdokumentasi",
+                                            "Komunikasi dengan pihak-pihak terkait untuk penyusunan BA",
+                                            "BA kesepakatan pembebanan klaim disepakati seluruh pihak",
+                                            "Mengawal proses pembayaran klaim dan pencatatannya"
+                                        ],
+                                        "SLA": [
+                                            "Claim disepakati min 60%",
+                                            "Cut off data mingguan"
+                                        ],
+                                        "Output": [
+                                            "On time delivery report",
+                                            "Claim report",
+                                            "RCA late delivery report"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Monitoring",
+                                        "Business Process": [
+                                            "Pengawasan atas strategic planning",
+                                            "Pengawasan atas operasional harian"
+                                        ],
+                                        "Activity": [
+                                            "Laporan harian pemeliharaan",
+                                            "Laporan harian pemenuhan driver",
+                                            "Laporan bulanan kinerja driver",
+                                            "Laporan harian total TBR Pallet",
+                                            "Laporan harian penggunaan peralatan",
+                                            "Laporan mingguan dalam management"
+                                        ],
+                                        "SLA": [
+                                            "All data update"
+                                        ],
+                                        "Output": [
+                                            "Reliability Delivery",
+                                            "Logistic Availability",
+                                            "No Late Delivery",
+                                            "On Time Arrived Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Evaluation",
+                                        "Business Process": [
+                                            "Evaluasi pencapaian strategic planning",
+                                            "Evaluasi kegiatan operasional harian"
+                                        ],
+                                        "Activity": [
+                                            "Evaluasi utilitas armada",
+                                            "Evaluasi produktivitas armada",
+                                            "Evaluasi kinerja vendor",
+                                            "Evaluasi performa driver",
+                                            "Evaluasi performance dan biaya pemeliharaan",
+                                            "Evaluasi laba-rugi pallet",
+                                            "Evaluasi bulanan klaim",
+                                            "Evaluasi laba-rugi ops truk"
+                                        ],
+                                        "SLA": [
+                                            "Bulanan",
+                                            "Rekom 3 bulanan"
+                                        ],
+                                        "Output": [
+                                            "Reliability Delivery",
+                                            "Logistic Availability",
+                                            "No Late Delivery",
+                                            "On Time Arrived Delivery"
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Continuous Improvement",
+                                        "Business Process": [
+                                            "Inovasi base on project",
+                                            "Pengembangan SDM",
+                                            "Pengembangan System",
+                                            "SICR"
+                                        ],
+                                        "Activity": [
+                                            "Inovasi proses bisnis dan kegiatan operasional",
+                                            "Strategic initiative Cost Reduction",
+                                            "Pengembangan SDM dengan project",
+                                            "Pengembangan system dengan optimalisasi FIOS"
+                                        ],
+                                        "SLA": [
+                                            "Bulanan",
+                                            "Rekom 3 bulanan"
+                                        ],
+                                        "Output": [
+                                            "Reliability Delivery",
+                                            "Logistic Availability",
+                                            "No Late Delivery",
+                                            "On Time Arrived Delivery",
+                                            "Cost Reduction"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+            }
+        ]
+    }
+}
