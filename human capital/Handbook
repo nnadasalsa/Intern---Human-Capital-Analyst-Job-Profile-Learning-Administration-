@@ -1,0 +1,312 @@
+{
+  "Handbook HC": {
+    "Name of Department": "Departement of Human Capital",
+    "type": "Department",
+    "Handbook": {
+      "Processes": [
+        {
+          "Name": "Organization Design",
+          "Business Process": [
+            "Visi Misi Perusahaan",
+            "Strategy Perusahaan",
+            "Value Perusahaan",
+            "Bisnis Proses",
+            "Tugas dan Tanggung Jawab"
+          ],
+          "Activities": [
+            "Analisis struktur organisasi yang ada",
+            "Penentuan struktur ideal (fungsi, jenjang, span of control)",
+            "Evaluasi dan validasi beban kerja",
+            "Penyusunan job grading dan evaluasi posisi",
+            "Review & persetujuan struktur",
+            "Sosialisasi dan implementasi OD baru"
+          ],
+          "SLA": [
+            "Review Struktur organisasi: 10 hari",
+            "Desain ulang struktur : 15 hari",
+            "Penyusunan ulang job grading: 5 hari",
+            "Job Grading untuk posisi baru: 7 hari",
+            "Finalisasi dan approval 5 hari"
+          ],
+          "Output": [
+            "Struktur Organisasi",
+            "Job Description dan Job Grading",
+            "Mapping Key Position",
+            "Dasar Talent Pool dan Manpower Plan"
+          ]
+        },
+        {
+          "Name": "Talent Strategy & Business Alignment",
+          "Business Process": [
+            "Visi & Misi Perusahaan",
+            "Rencana Strategis Perusahaan (RHP,RKAP)",
+            "Jumlah Karyawan dan Proyeksi Kebutuhan SDM",
+            "Gap Kompetensi Strategis",
+            "Talent Strategy Roadmap"
+          ],
+          "Activities": [
+            "Analisis Strategi dan Rencana Bisnis Perusahaan",
+            "Identifikasi Kebutuhan Talenta Jangka Panjang",
+            "Analisis Gap Strategis SDM",
+            "Penyusunan Talent Strategy Roadmap",
+            "Strategi Build Buy Borrow",
+            "Alignment dengan unit bisnis",
+            "Monitoring & review"
+          ],
+          "SLA": [
+            "Penyusunan talent strategy roadmap tahunan: max minggu 4 februari",
+            "Review & Update Roadmap: Akhir Q3",
+            "Analisis Kebutuhan SDM Baru: Max 7 Hari Setelah TOR Proyek Diterima",
+            "Sesi Alignment dengan Uni Bisnis: Min 2 Kali per Tahun"
+          ],
+          "Output": [
+            "Talent Strategy Roadmap",
+            "Rekomendasi Kebutuhan",
+            "Strategy Build-Buy-Borrow per unit/proyek",
+            "Pengembangan dan Posisi Kritikal"
+          ]
+        },
+        {
+          "Name": "Workforce Planning",
+          "Business Process": [
+            "Data WLA Tiap Departemen",
+            "Talent Acquisition",
+            "Job Profile",
+            "Organization Design"
+          ],
+          "Activities": [
+            "Pengumpulan data SDM",
+            "Proyeksi kebutuhan SDM",
+            "Gap analysis",
+            "Rencana build–buy–borrow",
+            "Workforce planning approval",
+            "Monitoring dan revisi berkala"
+          ],
+          "SLA": [
+            "Pengumpulan Data SDM: 1 Hari",
+            "Forecast Kebutuhan Proyek: 7 Hari",
+            "Penyusunan Workforce Plan Tahunan: Akhir Februari",
+            "Review: Minggu 2 April, Juli, dan Oktober"
+          ],
+          "Output": [
+            "Dokumen Workforce Plan Tahunan dan per Proyek",
+            "Matriks Gap SDM dan Strategi Pemenuhan",
+            "Komposisi Tenaga Kerja Ideal (Permanen vs Kontrak, Operasional vs Staff)",
+            "Rekomendasi Kebutuhan Rekrutmen, Pelatihan, dan Mutasi",
+            "Dokumen Persetujuan HC dan Unit Bisnis atas Kebutuhan SDM",
+            "Dasar Pengajuan Anggaran SDM dan Pengembangan"
+          ]
+        },
+        {
+          "Name": "Capability & Competency Management",
+          "Business Process": [
+            "Kamus Kompetensi",
+            "Matriks Kompetensi",
+            "Hasil Penilaian Kompetensi",
+            "Gap Analysis",
+            "IDP Template"
+          ],
+          "Activities": [
+            "Penyusunan kamus kompetensi",
+            "Mapping kompetensi",
+            "Penilaian kompetensi",
+            "Analisis gap kompetensi",
+            "Pengembangan capability",
+            "Review dan update kompetensi"
+          ],
+          "SLA": [
+            "Penyusunan & Review Kamus Kompetensi: 1 Kali Setahun (Max Akhir Q1)",
+            "Pemutakhiran Mapping: Max 5 Hari Kerja",
+            "Penilaian Kompetensi: 10 Hari Kerja",
+            "Gap Kompetensi: Maks 5 Hari Kerja"
+          ],
+          "Output": [
+            "Kamus Kompetensi",
+            "Matriks Kompetensi",
+            "Laporan Penilaian",
+            "Gap Analysis",
+            "IDP",
+            "Dashboard Pemantauan",
+            "Kompetensi Karyawan"
+          ]
+        },
+        {
+          "Name": "Talent Management",
+          "Business Process": [
+            "Key Position List",
+            "Talent Mapping Matrix",
+            "IDP Template",
+            "Career Path Document",
+            "Talent Risk Register",
+            "Talent Dashboard"
+          ],
+          "Activities": [
+            "Identifikasi key position",
+            "Talent mapping",
+            "Talent pool management",
+            "Individual Development Plan (IDP)",
+            "Career Path & Mobility",
+            "Talent Review & Monitoring",
+            "Mitigasi talent risk"
+          ],
+          "SLA": [
+            "Penetapan Key Position: Akhir Maret",
+            "Talent Assessment: Max 10 Hari / Batch",
+            "Review & Kalibrasi Hasil Mapping: Max 7 Hari Kerja Setelah Assessment",
+            "Penyusunan IDP: Max 10 Hari Setelah Talent Pool Ditetapkan",
+            "Review Talent Pool & Readiness: Setiap Kuartal"
+          ],
+          "Output": [
+            "Daftar Key Position dan Talent Pool",
+            "Hasil Talent Mapping",
+            "Rekap IDP",
+            "Daftar Talent Risk",
+            "Laporan Review Talent",
+            "Dashboard Visual Status Pengisian Talent Strategis"
+          ]
+        },
+        {
+          "Name": "Leadership, Learning and Capability Development",
+          "Business Process": [
+            "Learning Need Analysis",
+            "Learning Plan Tahunan",
+            "Evaluasi Pelatihan",
+            "Template IDP",
+            "Dashboard Pelatihan",
+            "Kurikulum Crash Program Leader"
+          ],
+          "Activities": [
+            "Learning need analysis",
+            "Perencanaan program pembelajaran",
+            "Learning delivery",
+            "Evaluasi program pelatihan",
+            "Leadership development program",
+            "IDP",
+            "Knowledge Sharing & Capability"
+          ],
+          "SLA": [
+            "Analisa Kebutuhan Pelatihan: 30 Hari",
+            "Implementasi Program Pelatihan: Max 1 Bulan Setelah Rencana Disetujui",
+            "Hasil Evaluasi Pelatihan: 7 Hari Setelah Pelatihan",
+            "Penyusunan dan Monitoring IDP: 10 Hari Kerja Setelah Talent Mapping",
+            "Review Program Leadership: Min 1 kali per Semester"
+          ],
+          "Output": [
+            "Learning Design",
+            "Leadership Development",
+            "LMS",
+            "Facilitating & Coaching",
+            "Evaluasi Program",
+            "Vendor & Budget Management"
+          ]
+        },
+        {
+          "Name": "Total Reward",
+          "Business Process": [
+            "Job Grading Matrix",
+            "Struktur Gaji dan Tunjangan",
+            "Template Insentif KPI",
+            "Benchmarking Summary",
+            "Prosedur dan Kebijakan Reward"
+          ],
+          "Activities": [
+            "Job Evaluation & Job Grading",
+            "Penyusunan struktur gaji dan tunjangan",
+            "Benchmarking pasar",
+            "Pengelolaan insentif berbasis kinerja",
+            "Pengelolaan benefit karyawan",
+            "Review & penyesuaian tahunan",
+            "Komunikasi dan sosialisasi reward"
+          ],
+          "SLA": [
+            "Review Struktur Gaji Tahunan",
+            "Gaji 27 Setiap Bulan",
+            "BPJSTK 15 Setiap Bulan",
+            "BPJS Kesehatan 10 Setiap Bulan",
+            "Hak Undur Diri"
+          ],
+          "Output": [
+            "Struktur Gaji & Tunjangan per grade",
+            "Dokumen hasil job evaluation & grading",
+            "Skema Insentif Tahunan & Insentif Khusus",
+            "Daftar Benefit Karyawan (berjenjang)",
+            "Policy Total Reward (manual, SOP, guideline)",
+            "Laporan Benchmarking Gaji",
+            "Dashboard reward (porsi fixed vs variable, tingkat kepuasan, dll)"
+          ]
+        },
+        {
+          "Name": "Industrial Relationship",
+          "Business Process": [
+            "PKB",
+            "PP",
+            "Notulensi Bipartite",
+            "Laporan Wajib Ketenagakerjaan",
+            "Register Kasus Hubungan Industrial",
+            "Dashboard IR"
+          ],
+          "Activities": [
+            "Pemantauan kepatuhan regulasi ketenagakerjaan",
+            "Pengelolaan Perjanjian Kerja Bersama (PKB) & Peraturan Perusahaan (PP)",
+            "Penanganan perselisihan hubungan industrial",
+            "Hubungan dengan serikat pekerja",
+            "Konsultasi & advokasi internal",
+            "Pembinaan hubungan kerja",
+            "Penyusunan regulasi internal"
+          ],
+          "SLA": [
+            "Pemantauan kepatuhan regulasi",
+            "Pengelolaan Perjanjian Kerja Bersama (PKB)",
+            "Penanganan perselisihan hubungan industrial",
+            "Hubungan dengan Serikat pekerja",
+            "Konsultasi & advokasi internal",
+            "Pembinaan hubungan kerja",
+            "Penyusunan regulasi internal"
+          ],
+          "Output": [
+            "Review peraturan ketenagakerjaan: setiap tahun (max akhir oktober)",
+            "Penanganan aduan hub kerja: max 3 hari setelah laporan diterima",
+            "Negoisasi dan penyusunan PKB: max 90 hari setelah perundingan dimulai",
+            "Koordinasi dg instansi (Disnaker, BPJS): max 5 hari kerja setelah permintaan resmi diterima",
+            "Sosialisasi perubahan aturan: max 7 hari setelah penetapan"
+          ]
+        },
+        {
+          "Name": "Termination",
+          "Business Process": [
+            "Surat PHK",
+            "Template perhitungan hak",
+            "Exit Clearance Form",
+            "Exit interview form",
+            "Data statistic terminasi",
+            "Laporan wajib terminasi"
+          ],
+          "Activities": [
+            "Penerimaan & verifikasi permintaan terminasi",
+            "Pemeriksaan dasar hukum & dokumen pendukung",
+            "Konsultasi bipartite/serikat (jika ada)",
+            "Perhitungan hak & kewajiban",
+            "Exit clearance & serah terima aset",
+            "Exit interview & dokumentasi",
+            "Pelaporan ketenagakerjaan"
+          ],
+          "SLA": [
+            "Verifikasi dokumen terminasi: 3 hari",
+            "Perhitungan hak terminasi: xx",
+            "Exit clearance & Administrasi: xx",
+            "Exit interview: xx",
+            "Pelaporan ke disnaker / BPJS: 1 bulan"
+          ],
+          "Output": [
+            "Surat pengunduran diri / surat pemutusan hubungan kerja",
+            "Dokumen perhitungan hak dan kewajiban (pesangon, sisa cuti, dll)",
+            "Exit checklist dan clearance form",
+            "Exit interview report",
+            "Laporan terminasi ke HRIS dan/atau instansi",
+            "Data analisis penyebab terminasi (voluntary vs involuntary, alasan dominan, dsb)"
+          ]
+        }
+      ]
+    }
+  }
+}
