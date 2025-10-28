@@ -1,1 +1,186 @@
+{
+    "Jobprofile_HC": [
+        {
+            "Identifikasi": {
+                "Jabatan": "GM OF HUMAN CAPITAL",
+                "Tingkat Band": "Band 1",
+                "Direktorat": "FINANCE DIRECTORATE",
+                "Group Head": "-",
+                "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+                "Unit": "-",
+                "Seksi": "-",
+                "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+                "Jabatan Atasan": "FINANCE DIRECTORATE"
+            },
+            "Tujuan Jabatan": "Merencanakan, mengatur, menyetujui, menyusun, mengembangkan, dan bertanggung jawab strategi pengelolaan sumber daya manusia di Perusahaan dan Anak Perusahaan guna memastikan tercapainya efektivitas organisasi, pengembangan talenta, serta peningkatan kinerja berkelanjutan. Ruang lingkup meliputi organization design, talent strategy & business alignemnt, workforce planning, capability & competency management, talent management, leadership, learning, & capability development, total reward, industrial relationship, dan termination.",
+            "Tanggung Jawab": [
+                "Membuat inisiatif strategis yang komprehensif terkait organization development beserta perangkat organisasi sesuai dengan konteks yang dihadapi perusahaan.",
+                "Membuat inisiatif strategis terkait pengelolaan talent acquisition dan mobility sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
+                "Membuat inisiatif strategis terkait talent and succession management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
+                "Membuat inisiatif strategis terkait performance management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
+                "Membuat inisiatif strategis terkait hubungan industrial serta memastikan sinergi dengan lembaga, korporasi, dan institusi terkait hubungan industrial.",
+                "Membuat inisiatif strategis terkait compensation & benefit management sesuai dengan strategi dan kebutuhan perusahaan.",
+                "Membuat inisiatif strategis yang komprehensif terkait career management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
+                "Membuat inisiatif strategis yang komprehensif terkait competency management sesuai dengan konteks yang dihadapi perusahaan.",
+                "Membuat inisiatif strategis yang komprehensif terkait knowledge management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
+                "Membuat inisiatif strategis yang komprehensif terkait learning & development management sesuai dengan konteks yang dihadapi perusahaan."
+            ],
+            "Dimensi": {
+                "Dimensi Keuangan": "abc",
+                "Dimensi non Keuangan": "abc",
+                "Bawahan Langsung":"abc",
+                "Cakupan Wilayah": "abc"
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "Tujuan": [
+                        "a",
+                        "b",
+                        "c"
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "Tujuan": [
+                        "a",
+                        "b",
+                        "c"
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Menetapkan arah dan kebijakan strategis pengelolaan sumber daya manusia yang mencakup organization design, talent strategy, workforce planning, capability & competency management, talent management, learning & development, total reward, industrial relation, dan termination.",
+                "Menyetujui rencana dan program kerja di bidang Human Capital serta memastikan keselarasan dengan strategi bisnis perusahaan dan anak perusahaan.",
+                "Mengambil keputusan strategis terkait struktur organisasi, formasi jabatan, kompensasi, dan pengembangan talenta.",
+                "Mengendalikan dan mengevaluasi pelaksanaan kebijakan HC agar berjalan efektif dan sesuai peraturan yang berlaku.",
+                "Mengarahkan dan membina seluruh unit di bawah Departemen Human Capital untuk mencapai target kinerja yang telah ditetapkan.",
+                "Mewakili perusahaan dalam hubungan eksternal terkait kebijakan ketenagakerjaan dan hubungan industrial."
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                        "Pendidikan": {
+                            "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                            "Jurusan": "S1 Psikologi / Manajemen SDM / Hukum; S2 Manajemen SDM / Organisasi / Bisnis Strategik (Pendidikan dari universitas terakreditasi atau memiliki pengakuan profesi HR internasional menjadi nilai tambah.)"
+                        },
+                        "Pengalaman Kerja": [
+                            "Minimal 10 tahun pengalaman di bidang Human Capital Management.",
+                            "Minimal 5 tahun di posisi manajerial yang membawahi lebih dari satu fungsi HC.",
+                            "Pengalaman menyusun dan menerapkan strategi SDM lintas entitas atau grup perusahaan.",
+                            "Terbiasa menangani hubungan industrial, perancangan sistem remunerasi, dan pengelolaan talent pipeline."
+                        ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Aligning Performance for Success",
+                                "Business Insight",
+                                "Developing Strategic Relationship",
+                                "Driving Innovation",
+                                "Leading Change",
+                                "Strategic Planning"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Driving Execution",
+                                "Driving for Result",
+                                "Leading Through Vision and Values",
+                                "Market Insight",
+                                "Strategic Influence"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Inggris": "Intermediate"
+                        },
+                        "Komputer": {
+                            "-": "-"
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "-": "-"
+                        },
+                        "Optional": {
+                            "-": "-"
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja": {
+                "Fit to work dalam pemeriksaan kesehatan": "Baik"
+            },
+            "Output": [
+                "Dokumen perencanaan strategis HC SILOG group (HC Strategic Blueprint)",
+                "Kebijakan dan prosedur sistem HC end-to-end",
+                "Struktur organisasi dan desain jabatan berbasis kompetensi",
+                "Laporan efektivitas program pengembangan SDM dan laporan evaluasi kinerja organisasi"
+            ]
+        },
+        {"Identifikasi": {
+            "Jabatan" : "SM OF HUMAN CAPITAL",
+            "Tingkat Band": "Band 2",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "-",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "GM OF HUMAN CAPITAL"
+        }
+        }
+            
+
+        
+    ]
+}
 
