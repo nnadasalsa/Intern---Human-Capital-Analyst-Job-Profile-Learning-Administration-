@@ -1,0 +1,1711 @@
+{
+  "meta": {
+    "company": "PT Semen Indonesia Logistik (SILOG)",
+    "department": "Sales & Marketing",
+    "version": "2025-10-28.outputs-v1",
+    "created_at": "2025-10-28T02:37:47.549243",
+    "notes": [
+      "Activities include expected outputs; positions inherit expected_outputs from R/A roles."
+    ]
+  },
+  "process": {
+    "name": "Pre-Order (Marketing & Sales)",
+    "stages": [
+      {
+        "id": 1,
+        "name": "Searching & Create Opportunity"
+      },
+      {
+        "id": 2,
+        "name": "Presale / Customer Prospect"
+      },
+      {
+        "id": 3,
+        "name": "Customer Requirement"
+      },
+      {
+        "id": 4,
+        "name": "Assessment"
+      },
+      {
+        "id": 5,
+        "name": "Solution"
+      },
+      {
+        "id": 6,
+        "name": "Proposal"
+      },
+      {
+        "id": 7,
+        "name": "Quotation / Offering"
+      },
+      {
+        "id": 8,
+        "name": "Negotiation"
+      },
+      {
+        "id": 9,
+        "name": "Purchase Order / Contract Agreement"
+      }
+    ],
+    "activities": [
+      {
+        "key": "expand_db",
+        "stage_id": 1,
+        "name": "Expand market via historical database",
+        "expected_output": "Updated lead list / CRM records (validated, de-duplicated)"
+      },
+      {
+        "key": "recall_existing",
+        "stage_id": 1,
+        "name": "Re-call existing customer (visit, email, phone)",
+        "expected_output": "Visit/call/email logs filed in CRM; follow-up status"
+      },
+      {
+        "key": "reactivate_inactive",
+        "stage_id": 1,
+        "name": "Re-activate inactive customers",
+        "expected_output": "Reactivation attempt log and outcome (won/lost/ongoing)"
+      },
+      {
+        "key": "understand_contract",
+        "stage_id": 1,
+        "name": "Contract understanding to expand market",
+        "expected_output": "Contract summary sheet incl. scope, terms, opportunities"
+      },
+      {
+        "key": "convert_spot_to_regular",
+        "stage_id": 1,
+        "name": "Change spot market to regular market",
+        "expected_output": "Conversion plan & approval memo; target account list"
+      },
+      {
+        "key": "cluster_priority",
+        "stage_id": 1,
+        "name": "Identify list cluster customer priority",
+        "expected_output": "Prioritized customer/commodity cluster list with rationale"
+      },
+      {
+        "key": "branding_excellence",
+        "stage_id": 1,
+        "name": "Increase company branding & service excellence",
+        "expected_output": "Campaign brief & post-campaign report; service excellence note"
+      },
+      {
+        "key": "networking_synergy",
+        "stage_id": 1,
+        "name": "Develop networking / synergy (sister companies, vendors, etc.)",
+        "expected_output": "Relationship/partner pipeline sheet; meeting notes"
+      },
+      {
+        "key": "branding_digital",
+        "stage_id": 1,
+        "name": "Company branding via website, LinkedIn, community; SEO & digital marketing",
+        "expected_output": "Digital performance report (web/LinkedIn analytics)"
+      },
+      {
+        "key": "add_database_sources",
+        "stage_id": 1,
+        "name": "Add customer database (Google, organizations/associations, authorized government)",
+        "expected_output": "New data-source log; appended & validated contact dataset"
+      },
+      {
+        "key": "join_communities",
+        "stage_id": 1,
+        "name": "Join community / business organization; canvassing",
+        "expected_output": "Community membership/attendance log; canvassing record"
+      },
+      {
+        "key": "commodity_competitor",
+        "stage_id": 1,
+        "name": "Identify potential commodity & competitor weakness",
+        "expected_output": "Competitor/commodity analysis memo with implications"
+      },
+      {
+        "key": "substitution_analysis",
+        "stage_id": 1,
+        "name": "Market & product substitution analysis",
+        "expected_output": "Substitution analysis report incl. risk/opportunity matrix"
+      },
+      {
+        "key": "discovery_qualify",
+        "stage_id": 2,
+        "name": "Discovery call & qualify prospects; stakeholder map",
+        "expected_output": "Qualified prospect record with BANT/GPCT & stakeholder map"
+      },
+      {
+        "key": "present_company",
+        "stage_id": 2,
+        "name": "Company profile / capability presentation; customer visits",
+        "expected_output": "Presentation attendance list & feedback notes; shared deck link"
+      },
+      {
+        "key": "capture_requirements",
+        "stage_id": 3,
+        "name": "Capture SLA, pricing/TOP expectation, quality, product & services, payment",
+        "expected_output": "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)"
+      },
+      {
+        "key": "assessment_quality_legal_fin",
+        "stage_id": 4,
+        "name": "Assessment (quality, legal/permits, financial credibility)",
+        "expected_output": "Feasibility & risk assessment sheet (quality/legal/finance)"
+      },
+      {
+        "key": "solution_design",
+        "stage_id": 5,
+        "name": "Solution design; CI opportunities; one-stop service; QA & payment scheme",
+        "expected_output": "Solution design summary (technical & commercial) with CI ideas"
+      },
+      {
+        "key": "compile_proposal",
+        "stage_id": 6,
+        "name": "Compile proposal (profile, portfolio, compliance, technical method, value)",
+        "expected_output": "Complete proposal pack (profile, compliance, method, value)"
+      },
+      {
+        "key": "issue_quotation",
+        "stage_id": 7,
+        "name": "Make quotation (pricing, validity); internal cost eval; approvals",
+        "expected_output": "Approved quotation (pricing/TOP/validity) with approval trail"
+      },
+      {
+        "key": "run_negotiation",
+        "stage_id": 8,
+        "name": "Run negotiations (price, TOP, scope, validity) & document results",
+        "expected_output": "Negotiation minutes and agreed term changes"
+      },
+      {
+        "key": "contract_po",
+        "stage_id": 9,
+        "name": "Contract evaluation & PO confirmation; handover; order monitoring",
+        "expected_output": "Signed contract/PO confirmation; handover & kickoff checklist"
+      }
+    ],
+    "sla": {
+      "unit": "working_days",
+      "stage_sla": {
+        "1": {
+          "frequency": "weekly_cadence"
+        },
+        "2": {
+          "frequency": "4_days_per_week"
+        },
+        "3": {
+          "frequency": "4_days_per_week"
+        },
+        "4": {
+          "duration_days": 2
+        },
+        "5": {
+          "duration_days": 3
+        },
+        "6": {
+          "duration_days": 2
+        },
+        "7": {
+          "duration_days": 2
+        },
+        "8": {
+          "duration_days": 1
+        },
+        "9": {
+          "status": "available/open"
+        }
+      }
+    }
+  },
+  "structure": {
+    "units": [
+      {
+        "name": "Leadership",
+        "positions": [
+          {
+            "id": "2_2_1__SVP_OF_SALES_MARKETING",
+            "code": "2.2-1",
+            "title": "SVP OF SALES & MARKETING",
+            "level": "2. SVP",
+            "org_level": "2. Group Head",
+            "job_duties": [
+              "Own total Sales & Marketing strategy and P&L targets",
+              "Set pricing/TOP policy and delegation framework",
+              "Coach GMs and SM of Marketing; clear cross-function roadblocks",
+              "Review funnel, margins, SLA adherence; report to leadership"
+            ],
+            "expected_outputs": []
+          }
+        ]
+      },
+      {
+        "name": "Department of Sales SIG",
+        "positions": [
+          {
+            "id": "2_2_1_1__GM_OF_SALES_SIG",
+            "code": "2.2.1-1",
+            "title": "GM OF SALES SIG",
+            "level": "3. Band 1",
+            "org_level": "3. Department",
+            "reports_to": "2_2_1__SVP_OF_SALES_MARKETING",
+            "job_duties": [
+              "Lead Sales SIG department; own revenue/margin for SIG accounts",
+              "Approve quotations/negotiations within delegation; ensure compliance",
+              "Coordinate capacity/SLA feasibility with Operations"
+            ],
+            "expected_outputs": [
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas"
+            ]
+          },
+          {
+            "id": "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+            "code": "2.2.1.1-1",
+            "title": "SM OF SALES SUMATRA SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_1_1__GM_OF_SALES_SIG",
+            "job_duties": [
+              "Lead field sales for SUMATRA (SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+            "code": "2.2.1.1.1-1",
+            "title": "SALES SUMATRA SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_1_1_2__SALES_SUMATRA_SIG_JR_OFF",
+            "code": "2.2.1.1.1-2",
+            "title": "SALES SUMATRA SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "code": "2.2.1.2-1",
+            "title": "SM OF SALES DKI, JABAR, BANTEN SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_1_1__GM_OF_SALES_SIG",
+            "job_duties": [
+              "Lead field sales for DKI, JABAR, BANTEN (SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+            "code": "2.2.1.2.1-1",
+            "title": "SALES DKI, JABAR, BANTEN SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_2_1_2__SALES_DKI_JABAR_BANTEN_S",
+            "code": "2.2.1.2.1-2",
+            "title": "SALES DKI, JABAR, BANTEN SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+            "code": "2.2.1.3-1",
+            "title": "SM OF SALES JATENG, JATIM, BALI SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_1_1__GM_OF_SALES_SIG",
+            "job_duties": [
+              "Lead field sales for JATENG, JATIM, BALI (SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+            "code": "2.2.1.3.1-1",
+            "title": "SALES JATENG, JATIM, BALI SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_3_1_2__SALES_JATENG_JATIM_BALI",
+            "code": "2.2.1.3.1-2",
+            "title": "SALES JATENG, JATIM, BALI SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "code": "2.2.1.4-1",
+            "title": "SM OF SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_1_1__GM_OF_SALES_SIG",
+            "job_duties": [
+              "Lead field sales for KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR (SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+            "code": "2.2.1.4.1-1",
+            "title": "SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_1_4_1_2__SALES_KALIMANTAN_SULAWES",
+            "code": "2.2.1.4.1-2",
+            "title": "SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          }
+        ]
+      },
+      {
+        "name": "Department of Sales NON SIG",
+        "positions": [
+          {
+            "id": "2_2_2_1__GM_OF_SALES_NON_SIG",
+            "code": "2.2.2-1",
+            "title": "GM OF SALES NON SIG",
+            "level": "3. Band 1",
+            "org_level": "3. Department",
+            "reports_to": "2_2_1__SVP_OF_SALES_MARKETING",
+            "job_duties": [
+              "Lead Sales Non SIG; open new markets/partners and recurring customers",
+              "Safeguard margin; approve deals within delegation",
+              "Drive conversion of spot to regular customers"
+            ],
+            "expected_outputs": [
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Conversion plan & approval memo; target account list",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas"
+            ]
+          },
+          {
+            "id": "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+            "code": "2.2.2.1-1",
+            "title": "SM OF SALES SUMATRA NON SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_2_1__GM_OF_SALES_NON_SIG",
+            "job_duties": [
+              "Lead field sales for SUMATRA (Non SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Conversion plan & approval memo; target account list",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+            "code": "2.2.2.1.1-1",
+            "title": "SALES SUMATRA NON SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+            "code": "2.2.2.1.1-2",
+            "title": "SALES SUMATRA NON SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "code": "2.2.2.2-1",
+            "title": "SM OF SALES DKI, JABAR, BANTEN NON SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_2_1__GM_OF_SALES_NON_SIG",
+            "job_duties": [
+              "Lead field sales for DKI, JABAR, BANTEN (Non SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Conversion plan & approval memo; target account list",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+            "code": "2.2.2.2.1-1",
+            "title": "SALES DKI, JABAR, BANTEN NON SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+            "code": "2.2.2.2.1-2",
+            "title": "SALES DKI, JABAR, BANTEN NON SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+            "code": "2.2.2.3-1",
+            "title": "SM OF SALES JATENG, JATIM, BALI NON SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_2_1__GM_OF_SALES_NON_SIG",
+            "job_duties": [
+              "Lead field sales for JATENG, JATIM, BALI (Non SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Conversion plan & approval memo; target account list",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+            "code": "2.2.2.3.1-1",
+            "title": "SALES JATENG, JATIM, BALI NON SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+            "code": "2.2.2.3.1-2",
+            "title": "SALES JATENG, JATIM, BALI NON SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          },
+          {
+            "id": "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "code": "2.2.2.4-1",
+            "title": "SM OF SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR NON SIG",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_2_1__GM_OF_SALES_NON_SIG",
+            "job_duties": [
+              "Lead field sales for KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR (Non SIG)",
+              "Plan visit/recall/reactivation; qualify opportunities",
+              "Own proposal/quotation issuance and front-line negotiations",
+              "Ensure handover to Ops and SLA compliance"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail",
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Contract summary sheet incl. scope, terms, opportunities",
+              "Conversion plan & approval memo; target account list",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Feasibility & risk assessment sheet (quality/legal/finance)",
+              "Negotiation minutes and agreed term changes",
+              "Presentation attendance list & feedback notes; shared deck link",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Relationship/partner pipeline sheet; meeting notes",
+              "Signed contract/PO confirmation; handover & kickoff checklist",
+              "Solution design summary (technical & commercial) with CI ideas",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+            "code": "2.2.2.4.1-1",
+            "title": "SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR NON SIG OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "job_duties": [
+              "Execute visit/recall cadence and CRM hygiene",
+              "Assist requirement capture and proposal pack",
+              "Coordinate issue resolution with Ops; provide competitive intel"
+            ],
+            "expected_outputs": [
+              "Community membership/attendance log; canvassing record",
+              "Complete proposal pack (profile, compliance, method, value)",
+              "Customer requirement form (SLA/pricing/TOP/quality/scope/payment)",
+              "Qualified prospect record with BANT/GPCT & stakeholder map",
+              "Reactivation attempt log and outcome (won/lost/ongoing)",
+              "Visit/call/email logs filed in CRM; follow-up status"
+            ]
+          },
+          {
+            "id": "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES",
+            "code": "2.2.2.4.1-2",
+            "title": "SALES KALIMANTAN, SULAWESI & INDONESIA BAGIAN TIMUR NON SIG JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+            "job_duties": [
+              "Support canvassing, data enrichment, and documentation",
+              "Prepare meeting notes, quotation attachments, follow-ups",
+              "Monitor order handover checklist"
+            ],
+            "expected_outputs": []
+          }
+        ]
+      },
+      {
+        "name": "Unit of Marketing",
+        "positions": [
+          {
+            "id": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "code": "2.2.3.1-1",
+            "title": "SM OF MARKETING (SILOG)",
+            "level": "4. Band 2",
+            "org_level": "4. Unit",
+            "reports_to": "2_2_1__SVP_OF_SALES_MARKETING",
+            "job_duties": [
+              "Lead branding, communication, and market intelligence programs",
+              "Approve annual/quarterly marketing plans and KPIs",
+              "Align demand generation with Sales SIG/Non SIG"
+            ],
+            "expected_outputs": [
+              "Campaign brief & post-campaign report; service excellence note",
+              "Competitor/commodity analysis memo with implications",
+              "Digital performance report (web/LinkedIn analytics)",
+              "New data-source log; appended & validated contact dataset",
+              "Prioritized customer/commodity cluster list with rationale",
+              "Substitution analysis report incl. risk/opportunity matrix",
+              "Updated lead list / CRM records (validated, de-duplicated)"
+            ]
+          },
+          {
+            "id": "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+            "code": "2.2.3.1.1-1",
+            "title": "BRANDING COMMUNICATION OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Run corporate branding & communications (web/LinkedIn/community)",
+              "Produce collaterals & events; maintain brand guideline",
+              "Track brand awareness KPIs"
+            ],
+            "expected_outputs": [
+              "Campaign brief & post-campaign report; service excellence note",
+              "Digital performance report (web/LinkedIn analytics)",
+              "Presentation attendance list & feedback notes; shared deck link"
+            ]
+          },
+          {
+            "id": "2_2_3_1_1_2__BRANDING_COMMUNICATION_J",
+            "code": "2.2.3.1.1-2",
+            "title": "BRANDING COMMUNICATION JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Support content production and event logistics",
+              "Maintain channel calendars and reporting basics"
+            ],
+            "expected_outputs": [
+              "Campaign brief & post-campaign report; service excellence note",
+              "Digital performance report (web/LinkedIn analytics)",
+              "Presentation attendance list & feedback notes; shared deck link"
+            ]
+          },
+          {
+            "id": "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+            "code": "2.2.3.1.2-1",
+            "title": "STRATEGIC MARKETING AND INTELLIGENCE OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Enrich lead database; map market/commodity and competitors",
+              "Prioritize clusters and issue insight reports",
+              "Support pricing benchmarks and substitution analysis"
+            ],
+            "expected_outputs": [
+              "Competitor/commodity analysis memo with implications",
+              "New data-source log; appended & validated contact dataset",
+              "Prioritized customer/commodity cluster list with rationale",
+              "Substitution analysis report incl. risk/opportunity matrix",
+              "Updated lead list / CRM records (validated, de-duplicated)"
+            ]
+          },
+          {
+            "id": "2_2_3_1_2_2__STRATEGIC_MARKETING_AND",
+            "code": "2.2.3.1.2-2",
+            "title": "STRATEGIC MARKETING AND INTELLIGENCE JR. OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Support data gathering, cleaning, and dashboards",
+              "Assist periodic market reports"
+            ],
+            "expected_outputs": [
+              "Competitor/commodity analysis memo with implications",
+              "New data-source log; appended & validated contact dataset",
+              "Prioritized customer/commodity cluster list with rationale",
+              "Substitution analysis report incl. risk/opportunity matrix",
+              "Updated lead list / CRM records (validated, de-duplicated)"
+            ]
+          },
+          {
+            "id": "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+            "code": "2.2.3.1.3-1",
+            "title": "PRICING & EVALUATION OFFICER",
+            "level": "5. Band 3",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Prepare cost build-up, margin guardrails, pricing approvals",
+              "Validate quotation terms (TOP, validity); maintain price intel",
+              "Partner with Sales in negotiation scenarios"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail"
+            ]
+          },
+          {
+            "id": "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF",
+            "code": "2.2.3.1.3-2",
+            "title": "PRICING & EVALUATION JR.OFFICER",
+            "level": "6. Band 4",
+            "org_level": "5. Section",
+            "reports_to": "2_2_3_1_1__SM_OF_MARKETING_SILOG",
+            "job_duties": [
+              "Support price data refresh, market survey, quotation packs",
+              "Maintain approval logs and documentation"
+            ],
+            "expected_outputs": [
+              "Approved quotation (pricing/TOP/validity) with approval trail"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rasci_by_activity": {
+    "legend": {
+      "R": "Responsible",
+      "A": "Accountable",
+      "S": "Support",
+      "C": "Consulted",
+      "I": "Informed"
+    },
+    "map": {
+      "expand_db": {
+        "R": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "recall_existing": {
+        "R": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_1_1_1_2__SALES_SUMATRA_SIG_JR_OFF",
+          "2_2_1_2_1_2__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "I": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ]
+      },
+      "reactivate_inactive": {
+        "R": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_1_1_1_2__SALES_SUMATRA_SIG_JR_OFF",
+          "2_2_1_2_1_2__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_1_1__GM_OF_SALES_SIG"
+        ],
+        "I": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ]
+      },
+      "understand_contract": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [],
+        "C": [],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "convert_spot_to_regular": {
+        "R": [
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "cluster_priority": {
+        "R": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_1_1_1_2__SALES_SUMATRA_SIG_JR_OFF",
+          "2_2_1_2_1_2__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "branding_excellence": {
+        "R": [
+          "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+          "2_2_3_1_1_2__BRANDING_COMMUNICATION_J"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "C": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ],
+        "I": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ]
+      },
+      "networking_synergy": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [],
+        "I": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ]
+      },
+      "branding_digital": {
+        "R": [
+          "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+          "2_2_3_1_1_2__BRANDING_COMMUNICATION_J"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "C": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "add_database_sources": {
+        "R": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG"
+        ]
+      },
+      "join_communities": {
+        "R": [
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+          "2_2_3_1_1_2__BRANDING_COMMUNICATION_J"
+        ],
+        "C": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "commodity_competitor": {
+        "R": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "C": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "substitution_analysis": {
+        "R": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "A": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "S": [],
+        "C": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "discovery_qualify": {
+        "R": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "C": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "present_company": {
+        "R": [
+          "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+          "2_2_3_1_1_2__BRANDING_COMMUNICATION_J"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_1_1_1_2__SALES_SUMATRA_SIG_JR_OFF",
+          "2_2_1_2_1_2__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_2__SALES_SUMATRA_NON_SIG_JR",
+          "2_2_2_2_1_2__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_2__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_2__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_3_1_1__SM_OF_MARKETING_SILOG"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG"
+        ]
+      },
+      "capture_requirements": {
+        "R": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "C": [],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "assessment_quality_legal_fin": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [],
+        "C": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "solution_design": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "C": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "compile_proposal": {
+        "R": [
+          "2_2_1_1_1_1__SALES_SUMATRA_SIG_OFFICE",
+          "2_2_1_2_1_1__SALES_DKI_JABAR_BANTEN_S",
+          "2_2_1_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_1_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES",
+          "2_2_2_1_1_1__SALES_SUMATRA_NON_SIG_OF",
+          "2_2_2_2_1_1__SALES_DKI_JABAR_BANTEN_N",
+          "2_2_2_3_1_1__SALES_JATENG_JATIM_BALI",
+          "2_2_2_4_1_1__SALES_KALIMANTAN_SULAWES"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [
+          "2_2_3_1_1_1__BRANDING_COMMUNICATION_O",
+          "2_2_3_1_1_2__BRANDING_COMMUNICATION_J"
+        ],
+        "C": [
+          "2_2_3_1_2_1__STRATEGIC_MARKETING_AND",
+          "2_2_3_1_2_2__STRATEGIC_MARKETING_AND"
+        ],
+        "I": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ]
+      },
+      "issue_quotation": {
+        "R": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "A": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "S": [],
+        "C": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "run_negotiation": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [
+          "2_2_3_1_3_1__PRICING_EVALUATION_OFFIC",
+          "2_2_3_1_3_2__PRICING_EVALUATION_JR_OF"
+        ],
+        "C": [],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      },
+      "contract_po": {
+        "R": [
+          "2_2_1_1_1__SM_OF_SALES_SUMATRA_SIG",
+          "2_2_1_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_1_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_1_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S",
+          "2_2_2_1_1__SM_OF_SALES_SUMATRA_NON",
+          "2_2_2_2_1__SM_OF_SALES_DKI_JABAR_BA",
+          "2_2_2_3_1__SM_OF_SALES_JATENG_JATIM",
+          "2_2_2_4_1__SM_OF_SALES_KALIMANTAN_S"
+        ],
+        "A": [
+          "2_2_1_1__GM_OF_SALES_SIG",
+          "2_2_2_1__GM_OF_SALES_NON_SIG"
+        ],
+        "S": [],
+        "C": [],
+        "I": [
+          "2_2_1__SVP_OF_SALES_MARKETING"
+        ]
+      }
+    }
+  }
+}
