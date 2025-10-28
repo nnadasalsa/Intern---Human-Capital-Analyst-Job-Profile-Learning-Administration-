@@ -1,1 +1,379 @@
+[
+    {
+        "business_process": "Business Process Perjanjian",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan / koreksi perjanjian",
+                "PIC": "User"
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Approve / persetujuan permintaan perjanjian",
+                "PIC": "Staff Legal"
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Disposisi online",
+                "PIC": "Staff Legal"
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Proses draft dan diskusi pembahasan perjanjian",
+                "PIC": "Teknisi perjanjian yang sesuai bidang masing-masing"
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Pengiriman hasil drafting / review perjanjian",
+                "PIC": "Teknisi perjanjian yang sesuai bidang masing-masing"
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Tanggapan atas usulan Legal",
+                "PIC": "User"
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Permintaan persetujuan draft final ke GM Legal",
+                "PIC": "Teknisi perjanjian yang sesuai bidang masing-masing"
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Approve draft perjanjian",
+                "PIC": "GM LGRC"
+            },
+            {
+                "urutan": 9,
+                "deskripsi": "Cetak dokumen perjanjian",
+                "PIC": "User"
+            }
+        ]
+    },
+    { 
+        "business_process": "Business Process Somasi",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan somasi",
+                "PIC" : "User"
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Pembuatan surat somasi",
+                "PIC" : "Staff Legal"
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Pengiriman somasi",
+                "PIC": "Admin Legal"
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Rangkuman feedback",
+                "PIC": "Admin Legal"
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Permintaan pembuatan somasi 2, dan seterusnya",
+                "PIC": "User"
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Pembuatan surat somasi 2, dan seterusnya",
+                "PIC": "Staff legal"
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Pengiriman somasi 2, dan seterusnya",
+                "PIC": "Admin Legal"
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Rangkuman feedback 2, dan seterusnya",
+                "PIC": "Admin Legal"
+            },
+            {
+                "urutan": 9,
+                "deskripsi": "Proses hukum pidana atau perdata"
+            }
+        ]
+    },
+    {
+        "business_process": "Business Process Pendampingan Hukum",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pendampingan hukum",
+                "PIC" : "User"
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Disposisi online",
+                "PIC" : "Staff Legal"
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Pembuatan surat kuasa pendampingan",
+                "PIC": "Staff Legal"
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Ttd Direksi kuasa pendampingan",
+                "PIC": "Admin Legal"
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Rapat koordinasi",
+                "PIC": "Legal dan User"
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Proses pendampingan",
+                "PIC": "Legal"
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Evaluasi",
+                "PIC": "Legal"
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Proses selesai",
+                "PIC": "Legal"
+            }
+        ]
+    },
+    {
+        "business_process": "Business Process Perizinan",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan / revisi perijinan",
+                "PIC" : "User"
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Approve / persetujuan permintaan perijinan",
+                "PIC": "GM LGRC",
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Disposisi online",
+                "PIC": "Staff Legal"
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Proses draft dan diskusi pembahasan perijinan",
+                "PIC": "Staff perijinan"
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Approve draft perijinan"
+                "PIC": "User"
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Cetak dokumen perijinan",
+                "PIC": "Admin perijinan / User"
+            }
+        ]
+    },
+    {
+        "activity": "Activity of Perjanjian",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan / koreksi perjanjian",
+                "keterangan": [
+                    "Akses (login) ke program pembuatan / koreksi perjanjian di PORTAL",
+                    "Pengajuan pembuatan / koreksi perjanjian",
+                    "Masukan detail perihal perjanjian yang akan dibuat / dikoreksi"
+                ]
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Approve / persetujuan permintaan perjanjian",
+                "keterangan": [
+                    "GM LGRC mereview pengajuan dari user atau delegasi ke teknisi untuk direview"
+                ]
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Disposisi online",
+                "keterangan": [
+                    "Apabila lengkap, GM memberikan disposisi ke teknisi perjanjian",
+                    "Apabila tidak lengkap, akan dilakukan reject dalam sistem"
+                ]
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Proses draft dan diskusi pembahasan perjanjian",
+                "keterangan": [
+                    "Apabila informasi yang diperlukan sudah cukup lengkap, maka dapat menyelesaikan draft perjanjian",
+                    "Apabila informasi belum lengkap, akan melakukan diskusi dengan user terkait",
+                    "Apabila proses telah selesai, maka perjanjian harus segera diselesaikan dan diupload ke sistem"
+                ]
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Pengiriman hasil drafting / review perjanjian",
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Tanggapan atas usulan Legal",
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Permintaan persetujuan draft final ke GM Legal",
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Approve draft perjanjian",
+                "keterangan": [
+                    "Review draft perjanjian dan pemberian respon (diemail / langsung PORTAL)",
+                    "Pemberitahuan bahwa perjanjian telah diproses oleh Tim Legal",
+                    "User dapat meng-approve atau me-reject draft permintaan perjanjian"
+                ]
+            },
+            {
+                "urutan": 9,
+                "deskripsi": "Cetak dokumen perjanjian",
+                "keterangan": [
+                    "Kawal pencetakan dokumen",
+                    "Notifikasi by sistem bahwa perjanjian telah direview oleh Legal",
+                    "Paraf user peminta pada dokumen perjanjian",
+                    "Routing paraf user-user terkait",
+                    "Sign dokumen perjanjian by BOD",
+                    "Input masa berlaku perjanjian di PORTAL",
+                    "Apabila dokumen belum diparaf oleh vendor, maka dokumen back to user",
+                    "Arsip dokumen fisik dan scan"
+                ]
+            }
+    },
+    {
+        "activity": "Activity of Somasi",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan somasi",
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Pembuatan surat somasi",
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Pengiriman somasi",
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Rangkuman feedback",
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Permintaan pembuatan somasi 2, dan seterusnya",
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Pembuatan surat somasi 2, dan seterusnya",
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Pengiriman somasi 2, dan seterusnya",
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Rangkuman feedback 2, dan seterusnya",
+            },
+            {
+                "urutan": 9,
+                "deskripsi": "Proses hukum pidana atau perdata"
+            }
+    },
+    {
+        "activity": "Activity of Pendampingan Hukum",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pendampingan hukum",
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Disposisi online",
+                "keterangan" : [
+                    "Apabila lengkap, GM memberikan disposisi ke PIC perijinan",
+                    "Apabila tidak lengkap, akan dilakukan reject dan dikembalikan ke user peminta"
+                ]
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Pembuatan surat kuasa pendampingan",
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Ttd Direksi kuasa pendampingan",
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Rapat koordinasi",
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Proses pendampingan",
+            },
+            {
+                "urutan": 7,
+                "deskripsi": "Evaluasi",
+            },
+            {
+                "urutan": 8,
+                "deskripsi": "Proses selesai",
+            }
+        ]
+    },
+    {
+        "activity": "Activity of Perizinan",
+        "nama_department": "Department LGRC",
+        "langkah": [
+            {
+                "urutan": 1,
+                "deskripsi": "Permintaan pembuatan / revisi perijinan",
+            },
+            {
+                "urutan": 2,
+                "deskripsi": "Approve / persetujuan permintaan perijinan",
+                "keterangan": "GM LGRC mereview pengajuan dari user untuk direview",
+            },
+            {
+                "urutan": 3,
+                "deskripsi": "Disposisi online",
+                "keterangan": [
+                    "Apabila lengkap, GM memberikan disosisi ke PIC perijinan",
+                    "Apabila tidak lengkap, akan dilakukan reject dan dikembalikan ke user peminta"
+                ]
+            },
+            {
+                "urutan": 4,
+                "deskripsi": "Proses draft dan diskusi pembahasan perijinan",
+            },
+            {
+                "urutan": 5,
+                "deskripsi": "Approve draft perijinan"
+            },
+            {
+                "urutan": 6,
+                "deskripsi": "Cetak dokumen perijinan",
+            }
+        ]
+    }
+]       
 
+            
+                 
