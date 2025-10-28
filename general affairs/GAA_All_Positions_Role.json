@@ -1,0 +1,508 @@
+{
+  "department": "General Affairs and Asset Management",
+  "positions": [
+    {
+      "position_name": "GM of General Affairs and Asset Management",
+      "band": 1,
+      "unit": "Department of General Affairs and Asset Management",
+      "core_role": "Membuat",
+      "business_processes": [
+        {
+          "process_name": "Strategic Governance",
+          "activities": [
+            {
+              "activity_name": "Menyusun strategi pengelolaan seluruh unit di bawah GAA",
+              "sla": "Tahunan"
+            },
+            {
+              "activity_name": "Menetapkan kebijakan umum dan KPI unit",
+              "sla": "Awal tahun anggaran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "SM of General Service & Secretary",
+      "band": 2,
+      "unit": "General Service & Secretary",
+      "core_role": "Mengevaluasi",
+      "business_processes": [
+        {
+          "process_name": "General Services",
+          "activities": [
+            {
+              "activity_name": "Mengevaluasi efektivitas pengadaan fasilitas dan transportasi",
+              "sla": "Setiap triwulan"
+            },
+            {
+              "activity_name": "Memastikan kelancaran operasional fasilitas kantor",
+              "sla": "Bulanan"
+            }
+          ]
+        },
+        {
+          "process_name": "Secretarial Services",
+          "activities": [
+            {
+              "activity_name": "Menyetujui jadwal rapat dan agenda direksi",
+              "sla": "H-1 sebelum rapat"
+            },
+            {
+              "activity_name": "Mengevaluasi pelaksanaan pengarsipan dokumen",
+              "sla": "Setiap akhir bulan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "SM of Asset Management & Insurance",
+      "band": 2,
+      "unit": "Asset Management & Insurance",
+      "core_role": "Mengevaluasi",
+      "business_processes": [
+        {
+          "process_name": "Asset Management",
+          "activities": [
+            {
+              "activity_name": "Mengevaluasi hasil audit dan optimalisasi aset",
+              "sla": "Semesteran"
+            },
+            {
+              "activity_name": "Menyetujui laporan inventaris aset",
+              "sla": "Setiap akhir periode laporan"
+            }
+          ]
+        },
+        {
+          "process_name": "Insurance Management",
+          "activities": [
+            {
+              "activity_name": "Meninjau laporan klaim asuransi aset",
+              "sla": "Maksimal 2 minggu setelah laporan"
+            },
+            {
+              "activity_name": "Menentukan kebijakan pengasuransian aset baru",
+              "sla": "Setiap kali ada penambahan aset"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "SM of Security and Traffic Accident Management",
+      "band": 2,
+      "unit": "Security & Traffic Accident Management",
+      "core_role": "Mengevaluasi",
+      "business_processes": [
+        {
+          "process_name": "Security Management",
+          "activities": [
+            {
+              "activity_name": "Mengevaluasi pelaksanaan pelatihan keamanan",
+              "sla": "Setiap semester"
+            },
+            {
+              "activity_name": "Meninjau tindak lanjut laporan insiden keamanan",
+              "sla": "Maksimal 48 jam setelah laporan"
+            }
+          ]
+        },
+        {
+          "process_name": "Traffic Accident Management",
+          "activities": [
+            {
+              "activity_name": "Menyetujui laporan penyelesaian kecelakaan",
+              "sla": "1 minggu setelah kejadian"
+            },
+            {
+              "activity_name": "Mengevaluasi penyebab dan mitigasi kecelakaan",
+              "sla": "2 minggu setelah penyelesaian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "SM of Corporate Communication & CSR",
+      "band": 2,
+      "unit": "Corporate Communication & CSR",
+      "core_role": "Mengevaluasi",
+      "business_processes": [
+        {
+          "process_name": "Corporate Communication",
+          "activities": [
+            {
+              "activity_name": "Mengevaluasi konten media sosial dan publikasi",
+              "sla": "Setiap minggu"
+            },
+            {
+              "activity_name": "Meninjau hasil komunikasi internal dan eksternal",
+              "sla": "Setiap bulan"
+            }
+          ]
+        },
+        {
+          "process_name": "Corporate Social Responsibility (CSR)",
+          "activities": [
+            {
+              "activity_name": "Menilai efektivitas pelaksanaan program CSR",
+              "sla": "Setelah kegiatan selesai"
+            },
+            {
+              "activity_name": "Menyetujui rencana CSR tahunan",
+              "sla": "Awal tahun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "General Service Officer",
+      "band": 3,
+      "unit": "General Service & Secretary",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "General Services",
+          "activities": [
+            {
+              "activity_name": "Melaksanakan pengadaan fasilitas kantor",
+              "sla": "Sesuai kebutuhan operasional"
+            },
+            {
+              "activity_name": "Menganalisis kebutuhan logistik internal",
+              "sla": "Bulanan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Secretary Officer",
+      "band": 3,
+      "unit": "General Service & Secretary",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Secretarial Services",
+          "activities": [
+            {
+              "activity_name": "Mengelola agenda rapat dan koordinasi internal",
+              "sla": "H-1 sebelum rapat"
+            },
+            {
+              "activity_name": "Menganalisis efektivitas pengelolaan dokumen",
+              "sla": "Bulanan"
+            }
+          ]
+        },
+        {
+          "process_name": "Protocol Management",
+          "activities": [
+            {
+              "activity_name": "Mengatur agenda acara perusahaan",
+              "sla": "1 minggu sebelum acara"
+            },
+            {
+              "activity_name": "Mengkoordinasikan kehadiran pihak eksternal",
+              "sla": "48 jam sebelum acara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Asset Management & Insurance Officer",
+      "band": 3,
+      "unit": "Asset Management & Insurance",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Asset Management",
+          "activities": [
+            {
+              "activity_name": "Menganalisis hasil audit aset",
+              "sla": "Setiap semester"
+            },
+            {
+              "activity_name": "Melaksanakan pencatatan aset",
+              "sla": "Sesuai jadwal pelaporan"
+            }
+          ]
+        },
+        {
+          "process_name": "Insurance Management",
+          "activities": [
+            {
+              "activity_name": "Mengelola permintaan asuransi aset",
+              "sla": "Sesuai penambahan aset"
+            },
+            {
+              "activity_name": "Menindaklanjuti klaim asuransi",
+              "sla": "Maks 2 minggu setelah insiden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Non Productive Asset Officer",
+      "band": 3,
+      "unit": "Asset Management & Insurance",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Non Productive Asset Management",
+          "activities": [
+            {
+              "activity_name": "Menganalisis aset non produktif",
+              "sla": "Setiap semester"
+            },
+            {
+              "activity_name": "Melaksanakan penjualan aset non produktif",
+              "sla": "Sesuai jadwal lelang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Traffic Accident Officer",
+      "band": 3,
+      "unit": "Security & Traffic Accident Management",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Traffic Accident Management",
+          "activities": [
+            {
+              "activity_name": "Menganalisis laporan kecelakaan lalu lintas",
+              "sla": "1 jam setelah kejadian"
+            },
+            {
+              "activity_name": "Melaksanakan penyusunan laporan penyelesaian",
+              "sla": "1 minggu setelah penyelesaian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Security Officer",
+      "band": 3,
+      "unit": "Security & Traffic Accident Management",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Security Management",
+          "activities": [
+            {
+              "activity_name": "Menganalisis laporan insiden keamanan",
+              "sla": "Maks 24 jam setelah kejadian"
+            },
+            {
+              "activity_name": "Melaksanakan pelatihan keamanan",
+              "sla": "Semesteran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Corporate Communication & CSR Officer",
+      "band": 3,
+      "unit": "Corporate Communication & CSR",
+      "core_role": "Menganalisa & Mengaplikasikan",
+      "business_processes": [
+        {
+          "process_name": "Corporate Communication",
+          "activities": [
+            {
+              "activity_name": "Mengelola konten media sosial dan berita",
+              "sla": "3x posting per minggu"
+            },
+            {
+              "activity_name": "Menganalisis feedback publikasi",
+              "sla": "Bulanan"
+            }
+          ]
+        },
+        {
+          "process_name": "Corporate Social Responsibility (CSR)",
+          "activities": [
+            {
+              "activity_name": "Melaksanakan kegiatan CSR",
+              "sla": "Sesuai rencana tahunan"
+            },
+            {
+              "activity_name": "Menganalisis hasil evaluasi kegiatan",
+              "sla": "Setelah kegiatan selesai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "General Service Jr. Officer",
+      "band": 4,
+      "unit": "General Service & Secretary",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "General Services",
+          "activities": [
+            {
+              "activity_name": "Mendukung pelaksanaan pengadaan fasilitas",
+              "sla": "Sesuai kebutuhan"
+            },
+            {
+              "activity_name": "Menyusun laporan penggunaan logistik",
+              "sla": "Bulanan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Archives Jr. Officer",
+      "band": 4,
+      "unit": "General Service & Secretary",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Secretarial Services",
+          "activities": [
+            {
+              "activity_name": "Mengelola arsip dokumen sesuai JRA",
+              "sla": "Sesuai jadwal arsip"
+            },
+            {
+              "activity_name": "Menyusun laporan pengelolaan dokumen",
+              "sla": "Bulanan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Asset Management & Insurance Jr. Officer",
+      "band": 4,
+      "unit": "Asset Management & Insurance",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Asset Management",
+          "activities": [
+            {
+              "activity_name": "Mendukung proses audit aset",
+              "sla": "Setiap semester"
+            },
+            {
+              "activity_name": "Membantu pencatatan data aset",
+              "sla": "Sesuai pelaporan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Non Productive Asset Jr. Officer",
+      "band": 4,
+      "unit": "Asset Management & Insurance",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Non Productive Asset Management",
+          "activities": [
+            {
+              "activity_name": "Mengumpulkan data aset non produktif",
+              "sla": "Bulanan"
+            },
+            {
+              "activity_name": "Mendukung proses lelang aset",
+              "sla": "Sesuai jadwal lelang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Traffic Accident Jr. Officer",
+      "band": 4,
+      "unit": "Security & Traffic Accident Management",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Traffic Accident Management",
+          "activities": [
+            {
+              "activity_name": "Mendukung pengelolaan laporan kecelakaan",
+              "sla": "Maks 1 jam setelah kejadian"
+            },
+            {
+              "activity_name": "Menyusun data penyelesaian kecelakaan",
+              "sla": "1 minggu setelah penyelesaian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Security Jr. Officer",
+      "band": 4,
+      "unit": "Security & Traffic Accident Management",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Security Management",
+          "activities": [
+            {
+              "activity_name": "Mendukung pelaporan insiden keamanan",
+              "sla": "Maks 24 jam setelah kejadian"
+            },
+            {
+              "activity_name": "Menyusun dokumentasi pelatihan keamanan",
+              "sla": "Semesteran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_name": "Corporate Communication & CSR Jr. Officer",
+      "band": 4,
+      "unit": "Corporate Communication & CSR",
+      "core_role": "Memahami",
+      "business_processes": [
+        {
+          "process_name": "Corporate Communication",
+          "activities": [
+            {
+              "activity_name": "Mendukung pengelolaan konten media sosial",
+              "sla": "3x per minggu"
+            },
+            {
+              "activity_name": "Menyusun laporan engagement bulanan",
+              "sla": "Setiap awal bulan"
+            }
+          ]
+        },
+        {
+          "process_name": "Corporate Social Responsibility (CSR)",
+          "activities": [
+            {
+              "activity_name": "Membantu pelaksanaan kegiatan CSR",
+              "sla": "Sesuai rencana tahunan"
+            },
+            {
+              "activity_name": "Mendokumentasikan kegiatan CSR",
+              "sla": "Maks 3 hari setelah kegiatan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
