@@ -1,0 +1,163 @@
+{
+  "Department": "General Affairs & Asset Management",
+  "BusinessProcess": [
+    {
+      "name": "General Services",
+      "process": [
+        "Pengadaan Alat Kebutuhan RT, pemeliharaan fasilitas",
+        "Pengelolaan transportasi dan logistik internal",
+        "Penjualan Aset"
+      ],
+      "activity": [
+        "Identifikasi kondisi sarana/prasarana yang memerlukan perbaikan",
+        "Memastikan fasilitas perusahaan terjaga, bersih, rapi dan sesuai standar",
+        "Memastikan biaya perbaikan/pengadaan diajukan sesuai budget dan jadwal",
+        "Mengevaluasi skala prioritas pelayanan",
+        "Pengadaan alat kerja"
+      ],
+      "sla": ["Satuan hari"],
+      "output": ["Pelayanan terhadap permintaan terstandar"]
+    },
+    {
+      "name": "Secretary",
+      "process": [
+        "Pengaturan agenda & jadwal BOD",
+        "Penyimpanan dokumen",
+        "Tata kelola arsip"
+      ],
+      "activity": [
+        "Mengatur agenda pertemuan BOD termasuk akomodasi DL",
+        "Menerima surat masuk dan pendistribusian",
+        "Memastikan sarana dan kebutuhan BOD tersedia dengan baik",
+        "Mengkoordinir tata kelola kearsipan"
+      ],
+      "sla": ["1 hari sebelum kegiatan"],
+      "output": [
+        "Agenda dan jadwal BOD terkelola dengan baik",
+        "Dokumen perusahaan mudah ditemukan"
+      ]
+    },
+    {
+      "name": "Protocol",
+      "process": ["Pengelolaan agenda acara perusahaan"],
+      "activity": [
+        "Penyusunan agenda acara perusahaan dan koordinasi eksternal",
+        "Menjaga agenda acara berjalan dengan tertib dan sesuai jadwal"
+      ],
+      "sla": ["H-7 sebelum acara harus tersusun"],
+      "output": ["Tercipta kesan profesionalisme kepada tamu"]
+    },
+    {
+      "name": "Asset Management",
+      "process": [
+        "Pencatatan Aset",
+        "Perubahan Status Aset",
+        "Optimalisasi Aset",
+        "Evaluasi ROA",
+        "Pengelolaan Aset Non-Produktif",
+        "Penghapusbukuan dan Penjualan Aset"
+      ],
+      "activity": [
+        "Rekonsiliasi Aset secara periodik",
+        "Validasi data aset",
+        "Pemenuhan kelengkapan surat/dokumen aset",
+        "Pengamanan lokasi aset",
+        "Evaluasi kontribusi aset",
+        "Peremajaan aset",
+        "Pengoptimalan aset non-produktif"
+      ],
+      "sla": ["Profitabilitas positif"],
+      "output": ["Data aset valid dan accountable"]
+    },
+    {
+      "name": "Insurance",
+      "process": [
+        "Permintaan Pengasuransian Aset",
+        "Pengadaan Asuransi Aset",
+        "Proses Klaim Asuransi",
+        "Monitoring & Evaluasi Asuransi"
+      ],
+      "activity": [
+        "Pengamanan nilai aset melalui pengasuransian",
+        "Pengklasifikasian aset berdasarkan jenis dan nilai",
+        "Evaluasi aset yang perlu diasuransikan",
+        "Percepatan penanganan klaim dan pembayaran",
+        "Analisis cover asuransi tiap jenis aset",
+        "Analisis cover asuransi proyek",
+        "Koordinasi pihak eksternal terkait proses asuransi"
+      ],
+      "sla": [
+        "7 hari setelah kejadian sudah terlapor",
+        "21 hari klaim terlapor sudah terbayar"
+      ],
+      "output": [
+        "Aset perusahaan terlindungi",
+        "Perlindungan finansial terhadap risiko besar"
+      ]
+    },
+    {
+      "name": "Traffic Accident",
+      "process": ["Pengelolaan penanganan kecelakaan lalu lintas"],
+      "activity": [
+        "Penanganan kecelakaan dan investigasi lapangan",
+        "Penyelesaian kecelakaan di lapangan",
+        "Koordinasi pihak eksternal dan pemeriksaan klaim asuransi",
+        "Penutupan kasus setelah kelengkapan prosedur terpenuhi",
+        "Evaluasi biaya dan prosedur penanganan"
+      ],
+      "sla": [
+        "Respon 1 jam setelah kejadian",
+        "Waktu lapor maksimal 24 jam"
+      ],
+      "output": ["Penanganan yang cepat dan efektif terhadap insiden"]
+    },
+    {
+      "name": "Security",
+      "process": [
+        "Pengelolaan risiko keamanan",
+        "Pengimplementasian kebijakan keamanan"
+      ],
+      "activity": [
+        "Pelaksanaan turjawali",
+        "Pelatihan dasar dan lanjutan keamanan",
+        "Sosialisasi SOP keamanan",
+        "Pemantauan via CCTV",
+        "Pengawasan akses masuk/keluar area kerja"
+      ],
+      "sla": ["1x24 jam harus sudah tertangani"],
+      "output": ["Lingkungan menjadi aman"]
+    },
+    {
+      "name": "Corporate Communication",
+      "process": [
+        "Penyampaian informasi internal dan eksternal",
+        "Manajemen krisis komunikasi"
+      ],
+      "activity": [
+        "Pengelolaan media sosial dan berita internal",
+        "Penyusunan highlight berita perusahaan"
+      ],
+      "sla": [
+        "Tinggi: maksimal 24 jam",
+        "Reguler: 3 hari",
+        "Rendah: 7 hari"
+      ],
+      "output": [
+        "Tercipta citra positif perusahaan",
+        "Memperkuat hubungan dengan stakeholder"
+      ]
+    },
+    {
+      "name": "CSR",
+      "process": [
+        "Pengelolaan program tanggung jawab sosial dan lingkungan"
+      ],
+      "activity": ["Pembuatan program CSR", "Penjadwalan", "Monitoring"],
+      "sla": ["1 minggu dari pengajuan sudah dapat diproses"],
+      "output": [
+        "Meningkatkan reputasi perusahaan",
+        "Kontribusi positif ke seluruh stakeholder"
+      ]
+    }
+  ]
+}
