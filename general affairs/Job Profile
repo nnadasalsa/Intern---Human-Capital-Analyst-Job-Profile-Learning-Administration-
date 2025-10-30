@@ -1,1 +1,414 @@
-hi
+{
+    "PROFIL JABATAN": [
+        {
+            "Tanggal efektif :": "...........",
+            "IDENTIFIKASI": {
+                "Jabatan": "GM OF DEPARTMENT GENERAL AFFAIRS AND ASSET MANAGEMENT",
+                "Tingkat Band": "Band 1",
+                "Direktorat": "FINANCE DIRECTORATE",
+                "Group Head": "-",
+                "Departemen": "DEPARTMENT OF GENERAL AFFAIRS AND ASSET MANAGEMENT",
+                "Unit": "DEPARTMENT OF GENERAL AFFAIRS AND ASSET MANAGEMENT",
+                "Seksi": "DEPARTMENT OF GENERAL AFFAIRS AND ASSET MANAGEMENT",
+                "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+                "Jabatan Atasan": "FINANCE DIRECTOR"
+            },
+            "TUJUAN JABATAN": "Merencanakan, mengarahkan, dan mengkoordinasikan strategi serta kebijakan pengelolaan aset, sarana, dan prasarana Perusahaan dan Anak Perusahaan untuk memastikan ketersediaan, keamanan, dan efektivitas penggunaannya untuk mendukung kelancaran operasional dan pencapaian tujuan bisnis; serta mengembangkan sistem pengelolaan arsip dan hubungan kelembagaan (humas) yang selaras dengan strategi korporasi.",
+            "TANGGUNG JAWAB": {
+                "Tanggung Jawab": [
+                    "Memantau Company profile & website Perusahaan dan Anak Perusahaan dalam kondisi terkini",
+                    "Memantau pelaksanaan pembangunan sarana & prasarana Perusahaan dan Anak Perusahaan dengan tepat waktu",
+                    "Menyempurnakan prosedur unit yang kurang relevan dengan perkembangan organisasi",
+                    "Memantau lingkungan kerja kondusif, aman & terkendali",
+                    "Memastikan kearsipan Perusahaan dan Anak Perusahaan terkelola dengan baik",
+                    "Memastikan CSR terealisasi",
+                    "Mengembangkan sistem dan manajemen pengelolaan aset dalam rangka efisiensi dan efektivitas perusahaan berbasis IT",
+                    "Membuat laporan penilaian aset dan memberikan rekomendasi",
+                    "Mengembangkan pola optimalisasi yang paling menguntungkan bagi perusahaan",
+                    "Melakukan evaluasi data & fisik serta utilitas aset Perusahaan dan Anak Perusahaan secara optimal"
+                ],
+                "Hasil yang diharapkan": [
+                    "Tampilan dan konten Company Profile serta website seluruh entitas selalu terbarui, informatif, dan selaras dengan citra serta strategi komunikasi korporasi",
+                    "Proyek pembangunan sarana dan prasarana selesai sesuai jadwal, anggaran, dan standar mutu yang ditetapkan, serta siap digunakan secara optimal",
+                    "Tersusunnya prosedur kerja yang efektif, mutakhir, dan sesuai kebutuhan organisasi, yang diterapkan secara konsisten di seluruh unit",
+                    "Terwujudnya lingkungan kerja yang tertib, aman, dan mendukung produktivitas, dengan tingkat gangguan operasional dan insiden kerja yang minimal",
+                    "Sistem kearsipan digital dan fisik teratur, mudah diakses, dan sesuai standar tata kelola informasi perusahaan",
+                    "Program CSR terlaksana sesuai rencana kerja, berdampak positif bagi masyarakat, dan mendukung reputasi serta tanggung jawab sosial perusahaan",
+                    "Terimplementasinya sistem pengelolaan aset berbasis teknologi informasi yang meningkatkan efisiensi administrasi, transparansi, dan pengendalian aset",
+                    "Tersusunnya laporan penilaian aset yang komprehensif serta rekomendasi strategis untuk pengambilan keputusan manajemen terkait investasi dan pengelolaan aset",
+                    "Tersusunnya strategi optimalisasi aset yang menghasilkan penghematan biaya dan peningkatan nilai manfaat aset",
+                    "Tersedianya laporan evaluasi kondisi dan pemanfaatan aset yang akurat sebagai dasar peningkatan efektivitas dan utilisasi aset di seluruh entitas"
+                ]
+            },
+            "DIMENSI": {
+                "Dimensi Keuangan": "...........",
+                "Dimensi non Keuangan": "...........",
+                "Bawahan Langsung":"...........",
+                "Cakupan Wilayah": "..........."
+            },
+            "HUBUNGAN KERJA": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "Direksi (Finance Director)",
+                        "Group Head / SVP / GM lain",
+                        "Department / Unit Analis"
+                    ],
+                    "Tujuan": [
+                        "Penyampaian laporan strategis, rekomendasi kebijakan, serta update pelaksanaan program kerja General Affairs, update KPI, dsb.",
+                        "Koordinasi lintas fungsi untuk sinkronisasi anggaran, perencanaan proyek, dan pengelolaan aset, sarana, serta hubungan kelembagaan.",
+                        "Pembinaan, pengarahan, dan evaluasi kinerja pelaksanaan operasional di bidang aset, sarana prasarana, kearsipan, dan humas."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Vendor dan Kontraktor (konstruksi, perawatan aset, asuransi, IT system)",
+                        "Regulator Pemerintah",
+                        "Masyarakat dan Lembaga Sosial",
+                        "Lembaga Sertifikasi"
+                    ],
+                    "Tujuan": [
+                        "Kerja sama penyediaan barang/jasa dan pemenuhan kebutuhan operasional perusahaan sesuai kontrak dan standar kualitas.",
+                        "Memastikan kepatuhan terhadap peraturan mengenai pengelolaan aset, bangunan, lingkungan, dan hubungan masyarakat.",
+                        "Pelaksanaan program CSR dan kegiatan komunikasi eksternal yang membangun citra positif perusahaan.",
+                        "Memastikan standar mutu manajemen, ISO, dsb"
+                    ]
+                }
+            },
+            "WEWENANG": [
+                "Menetapkan kebijakan internal dan SOP terkait pengelolaan aset, kendaraan dinas, pelayanan umum, keamanan, dan komunikasi perusahaan",
+                "Menyetujui rencana pemeliharaan, pengadaan barang/jasa untuk operasional general affair, serta kerja sama CSR",
+                "Menyetujui strategi komunikasi perusahaan dan penanganan isu eksternal (media, pemangku kepentingan)",
+                "Menentukan pendekatan penanganan kecelakaan armada bersama tim hukum, asuransi, dan perwakilan operasional"
+            ],
+            "SPESIFIKASI JABATAN": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                        "Pendidikan": {
+                            "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                            "Jurusan": "S1: Teknik Sipil, Manajemen, Komunikasi, Hukum, atau Administrasi Bisnis. S2: Manajemen Aset, Manajemen Bisnis, Public Affairs, atau Strategic Communication."
+                        },
+                        "Pengalaman Kerja": [
+                            "Minimal 10 tahun di bidang general affair, asset management, atau corporate communication, dengan paparan langsung terhadap kegiatan protokoler, pengamanan, dan pemeliharaan aset.",
+                            "Minimal 3–5 tahun pengalaman manajerial sebagai Kepala Departemen / GM GA / Corporate Affairs.",
+                            "Terbiasa menangani relasi eksternal (kepolisian, media, masyarakat), vendor layanan umum, dan proyek CSR."
+                        ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity",
+                                "Digital Leadership"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Aligning performance for success",
+                                "Business Insight",
+                                "Developing Strategic Relationship",
+                                "Driving Innovation",
+                                "Leading Change",
+                                "Strategic Planning"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Driving Execution",
+                                "Driving for Result",
+                                "Leading Through Vision and Values",
+                                "Market Insight",
+                                "Strategic Influence"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Strategic Management",
+                                "Organization Performance Management",
+                                "Business Performance Management",
+                                "Business Development",
+                                "Feasibility Study",
+                                "Project Management",
+                                "Risk Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 5 - Expert",
+                                "Level 4 - Advanced",
+                                "Level 4 - Advanced",
+                                "Level 4 - Advanced"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Intermediate"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "...................."
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "...................."
+                            ]
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat": [
+                                "Sertifikasi Manajemen Aset (Asset Management Professional / BNSP)",
+                                "Sertifikasi Humas / Corporate Communication (BNSP)",
+                                "ISO 37001 Awareness (Anti-Bribery Management System)",
+                                "Sertifikasi K3 (Umum)"
+                            ],
+                            "Keterangan": [
+                                "...................."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat": [
+                                "ISO 55001 (Asset Management System)",
+                                "Certified Facility Manager (CFM)",
+                                "Certified Security Management Professional",
+                                "Certified Sustainability/CSR Practitioner"
+                            ],
+                            "Keterangan": [
+                                "...................."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "KESEHATAN DAN LINGKUNGAN KERJA": {
+                "Persyaratan": [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan": [
+                    "Baik"
+                ]
+            },
+            "OUTPUT": [
+                "Asset Management Report: penggunaan, pemeliharaan, pergerakan, nilai buku, dan audit aset tetap.",
+                "Security & Accident Handling Protocol Report",
+                "General Service Performance Report (penggunaan kendaraan dinas, layanan sekretariat, kegiatan protokoler).",
+                "Corporate Communication & CSR Report",
+                "Insurance Coverage Report: polis aktif, proses klaim, outstanding klaim, mitigasi risiko."
+            ]
+        },
+
+        {
+            "Tanggal efektif :": "...........",
+            "IDENTIFIKASI": {
+                "Jabatan": "SM OF ASSET MANAGEMENT & INSURANCE",
+                "Tingkat Band": "Band 2",
+                "Direktorat": "FINANCE DIRECTORATE",
+                "Group Head": "-",
+                "Departemen": "DEPARTMENT OF GENERAL AFFAIRS AND ASSET MANAGEMENT",
+                "Unit": "UNIT OF ASSET MANAGEMENT & INSURANCE",
+                "Seksi": "UNIT OF ASSET MANAGEMENT & INSURANCE",
+                "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+                "Jabatan Atasan": "FINANCE DIRECTOR"
+            },
+            "TUJUAN JABATAN": "Merumuskan dan mengendalikan strategi serta sistem pengelolaan aset tetap dan asuransi korporat di lingkungan SILOG Group dengan cara mengembangkan kebijakan, prosedur, dan mekanisme pengawasan terhadap pendataan, pemanfaatan, pemeliharaan, pengalihan, serta perlindungan asuransi aset perusahaan untuk memastikan seluruh aset dikelola secara optimal, terlindungi dari risiko finansial akibat kerusakan atau kehilangan, serta mendukung efisiensi biaya dan kepatuhan terhadap regulasi serta tata kelola perusahaan.",
+            "TANGGUNG JAWAB": {
+                "Tanggung Jawab": [
+                    "Menyusun strategi dan kebijakan pengelolaan aset tetap serta polis asuransi yang mencakup kebutuhan seluruh entitas SILOG Grup",
+                    "Mengelola proses inventarisasi, labeling, dan pergerakan aset antar unit",
+                    "Mengawasi pelaksanaan pemeliharaan, penghapusan, dan optimalisasi nilai ekonomi aset",
+                    "Menyusun dan mengelola daftar kebutuhan asuransi aset tetap, kendaraan dinas, gudang, bangunan, dan perlindungan lainnya",
+                    "Mengurus klaim asuransi atas kejadian kehilangan/kerusakan aset dan memastikan follow-up hingga selesai",
+                    "Melakukan evaluasi vendor asuransi dan renewal polis secara periodik"
+                ],
+                "Hasil yang diharapkan": [
+                    "Tersusunnya strategi dan kebijakan pengelolaan aset serta asuransi yang komprehensif, selaras dengan arah strategis perusahaan, dan menjadi acuan operasional bagi seluruh entitas grup",
+                    "Tersedianya data aset tetap yang lengkap, akurat, dan mutakhir, sehingga pergerakan aset dapat ditelusuri serta dimonitor secara efektif",
+                    "Terjaminnya kondisi aset dalam performa optimal, penurunan nilai aset dapat diminimalkan, dan pelaksanaan penghapusan dilakukan sesuai siklus hidup serta ketentuan yang berlaku",
+                    "Tercapainya perlindungan aset yang memadai melalui cakupan asuransi yang sesuai risiko dan kebutuhan operasional perusahaan",
+                    "Penyelesaian klaim asuransi berjalan tepat waktu dan kompensasi kerugian diperoleh secara optimal sesuai ketentuan polis",
+                    "Terpilihnya vendor asuransi dengan kinerja terbaik serta pembaruan polis dilakukan secara tepat waktu dengan kondisi dan premi yang kompetitif"
+                ]
+            },
+            "DIMENSI": {
+                "Dimensi Keuangan": "...........",
+                "Dimensi non Keuangan": "...........",
+                "Bawahan Langsung":"...........",
+                "Cakupan Wilayah": "..........."
+            },
+            "HUBUNGAN KERJA": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "GM Of General Affairs",
+                        "Departemen Corporate Finance",
+                        "Departemen Procurement dan Legal",
+                        "Unit Operasional SILOG Grup"
+                    ],
+                    "Tujuan": [
+                        "Pelaporan dan koordinasi penyusunan strategi serta kebijakan pengelolaan aset dan asuransi perusahaan.",
+                        "Sinkronisasi data aset tetap, penilaian, dan pelaporan nilai aset untuk keperluan audit dan laporan keuangan.",
+                        "Koordinasi pengadaan aset, penghapusan, dan pengelolaan kontrak serta kepatuhan hukum terkait asuransi dan aset perusahaan.",
+                        "Monitoring kondisi aset, pelaksanaan pemeliharaan, dan pengendalian pergerakan aset antar unit."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Perusahaan Asuransi",
+                        "Vendor/Penyedia Layanan Aset",
+                        "Regulator Pemerintah"
+                    ],
+                    "Tujuan": [
+                        "Pengelolaan polis, klaim, dan evaluasi layanan asuransi.",
+                        "Pelaksanaan pemeliharaan, appraisal, dan penghapusan aset sesuai ketentuan.",
+                        "Pemenuhan kewajiban pelaporan aset dan kepatuhan terhadap regulasi perasuransian dan aset."
+                    ]
+                }
+            },
+            "WEWENANG": [
+                "Menyetujui pergerakan aset internal (relokasi, distribusi, disposal) dalam batas kewenangan SM.",
+                "Menentukan rekomendasi jenis asuransi, limit pertanggungan, dan nilai pertanggungan sesuai nilai buku & risiko aset.",
+                "Menyetujui proposal klaim dan melaporkan insiden kerusakan/kehilangan kepada GM dan pihak asuransi.",
+                "Memberikan keputusan awal atas kondisi aset yang akan dihapuskan atau di-revaluasi."
+            ],
+            "SPESIFIKASI JABATAN": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                        "Pendidikan": {
+                            "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                            "Jurusan": "S1: Teknik Industri, Akuntansi, Manajemen Aset, atau sejenis. S2: Manajemen Aset, Manajemen Risiko, atau Manajemen Operasi."
+                        },
+                        "Pengalaman Kerja": [
+                            "Minimal 8 tahun pengalaman di bidang manajemen aset, asuransi korporat, atau pengelolaan properti industri/logistik.",
+                            "Minimal 3 tahun pada posisi manajerial atau supervisor pengelola aset.",
+                            "Terbiasa menangani klaim asuransi besar (aset tetap, kendaraan) dan familiar dengan vendor asuransi nasional.",
+                            "Terbiasa bekerja dengan data aset dalam skala besar dan sistem ERP/SAP."
+                        ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity",
+                                "Digital Leadership"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Building Partnerships",
+                                "Decision Making",
+                                "Driving Execution",
+                                "Driving For Result",
+                                "Facilitating Change"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Aligning Performance For Success ",
+                                "Bussiness Insight ",
+                                "Customer Focus",
+                                "Influencing",
+                                "Innovation",
+                                "Inspiring Others"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Asset Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Intermediate"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "...................."
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "...................."
+                            ]
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat": [
+                                "Sertifikasi Manajemen Aset Tetap (BNSP / ISO 55001)",
+                                "Sertifikasi Perasuransian (AAIK / AAAIK / BNSP Insurance Administrator)",
+                                "ISO 9001 Awareness (QMS)"
+                            ],
+                            "Keterangan": [
+                                "...................."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat": [
+                                "ISO 31000 Risk Management Certification",
+                                "SAP Asset Management Certification / ERP Aset Tetap",
+                                "Certified Loss Adjuster / Claims Handler"
+                            ],
+                            "Keterangan": [
+                                "...................."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "KESEHATAN DAN LINGKUNGAN KERJA": {
+                "Persyaratan": [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan": [
+                    "Baik"
+                ]
+            },
+            "OUTPUT": [
+                "Laporan Data Aset Tetap: nilai buku, pergerakan, status fisik, usia pakai, perbandingan nilai pasar.",
+                "Daftar dan Status Polis Asuransi Aktif (termasuk nilai pertanggungan dan objek yang diasuransikan).",
+                "Laporan Klaim Asuransi (jumlah, status proses, nilai penggantian, penyebab).",
+                "Rekomendasi Optimalisasi dan Pemanfaatan Aset.",
+                "Dokumen audit dan pembaruan SOP Aset & Asuransi."
+            ]
+        },
+###
+
+        {"Identifikasi": {
+            "Jabatan" : "SM OF ASSET MANAGEMENT & INSURANCE",
+            "Tingkat Band": "Band 2",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF GENERAL AFFAIRS AND ASSET MANAGEMENT",
+            "Unit": "UNIT OF ASSET MANAGEMENT & INSURANCE",
+            "Seksi": "UNIT OF ASSET MANAGEMENT & INSURANCE",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "GM OF GENERAL AFFAIRS AND ASSET MANAGEMENT"
+        }
+        
+        }
+            
+
+        
+    ]
+}
