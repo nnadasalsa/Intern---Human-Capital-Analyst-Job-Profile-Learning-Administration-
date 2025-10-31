@@ -1,6 +1,7 @@
 {
     "Jobprofile_HC": [
         {
+            "Tanggal Efektif": "...",
             "Identifikasi": {
                 "Jabatan": "GM OF HUMAN CAPITAL",
                 "Tingkat Band": "Band 1",
@@ -13,64 +14,63 @@
                 "Jabatan Atasan": "FINANCE DIRECTORATE"
             },
             "Tujuan Jabatan": "Merencanakan, mengatur, menyetujui, menyusun, mengembangkan, dan bertanggung jawab strategi pengelolaan sumber daya manusia di Perusahaan dan Anak Perusahaan guna memastikan tercapainya efektivitas organisasi, pengembangan talenta, serta peningkatan kinerja berkelanjutan. Ruang lingkup meliputi organization design, talent strategy & business alignemnt, workforce planning, capability & competency management, talent management, leadership, learning, & capability development, total reward, industrial relationship, dan termination.",
-            "Tanggung Jawab": [
-                "Membuat inisiatif strategis yang komprehensif terkait organization development beserta perangkat organisasi sesuai dengan konteks yang dihadapi perusahaan.",
-                "Membuat inisiatif strategis terkait pengelolaan talent acquisition dan mobility sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
-                "Membuat inisiatif strategis terkait talent and succession management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
-                "Membuat inisiatif strategis terkait performance management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
-                "Membuat inisiatif strategis terkait hubungan industrial serta memastikan sinergi dengan lembaga, korporasi, dan institusi terkait hubungan industrial.",
-                "Membuat inisiatif strategis terkait compensation & benefit management sesuai dengan strategi dan kebutuhan perusahaan.",
-                "Membuat inisiatif strategis yang komprehensif terkait career management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
-                "Membuat inisiatif strategis yang komprehensif terkait competency management sesuai dengan konteks yang dihadapi perusahaan.",
-                "Membuat inisiatif strategis yang komprehensif terkait knowledge management sesuai dengan kebutuhan perusahaan saat ini dan di masa depan.",
-                "Membuat inisiatif strategis yang komprehensif terkait learning & development management sesuai dengan konteks yang dihadapi perusahaan."
-            ],
+            "Tanggung Jawab": {
+                "Tanggung Jawab":[
+                    "Merumuskan dan menyelaraskan strategi HC dengan tujuan strategis perusahaan.",
+                    "Menyusun dan mengawasi pelaksanaan program kerja bidang Talent Acquisition & Mobility, Talent & Succession Management, Compensation & Benefit, Learning & Development, Performance & Career Management, Industrial Relation & Compliance, Organization & Competency Development, serta Knowledge Management & HCIS.",
+                    "Mengelola tim melalui Unit of Compensation, Learning & Industrial Relation dan Unit of Talent Management & Organization Development.",
+                    "Menetapkan dan memantau KPI HC, termasuk efisiensi dan efektivitas program."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Terselaraskannya strategi Human Capital dengan rencana bisnis perusahaan untuk mendukung pencapaian tujuan organisasi",
+                    "Terselenggaranya program-program Human Capital di semua bidang sesuai target dengan dampak positif bagi organisasi.",
+                    "Terbentuknya tim Human Capital yang berkinerja tinggi, solid, dan berkontribusi berarti bagi departemen.",
+                    "Tercapainya kinerja departemen Human Capital yang terukur melalui KPI dengan efisiensi, efektivitas, dan peningkatan berkelanjutan." 
+                ]
+            },
             "Dimensi": {
-                "Dimensi Keuangan": "abc",
-                "Dimensi non Keuangan": "abc",
-                "Bawahan Langsung":"abc",
-                "Cakupan Wilayah": "abc"
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
             },
             "Hubungan Kerja": {
                 "Internal Perusahaan":{
                     "Unit Instansi": [
-                        "1",
-                        "2",
-                        "3"
+                        "Direksi",
+                        "Group Head/SVP/GM Lain",
+                        "Departemen/Unit Kerja"
                     ],
                     "Tujuan": [
-                        "a",
-                        "b",
-                        "c"
+                        "Menyelaraskan strategi Human Capital dengan tujuan bisnis perusahaan dan mendapatkan persetujuan untuk kebijakan SDM skala perusahaan",
+                        "Mengkoordinasikan perencanaan tenaga kerja dan berkolaborasi dalam pengembangan talenta, suksesi planning, dan implementasi program Human Capital di masing-masing unit",
+                        "Mengkoordinasikan kebutuhan SDM, program pengembangan, dan implementasi kebijakan Human Capital di seluruh unit organisasi"
                     ]
                 },
                 "Eksternal Perusahaan":{
                     "Unit Instansi": [
-                        "1",
-                        "2",
-                        "3"
+                        "Vendor",
+                        "Perguruan Tinggi & Lembaga Pelatihan",
+                        "BPJS Ketenagakerjaan & Kesehatan"
                     ],
                     "Tujuan": [
-                        "a",
-                        "b",
-                        "c"
+                        "Mengelola kemitraan untuk layanan payroll, rekrutmen, pelatihan, dan sistem teknologi Human Capital",
+                        "Mengembangkan program rekrutmen, magang, dan pengembangan kompetensi karyawan",
+                        "Mengelola program jaminan sosial dan kesehatan karyawan sesuai regulasi"
                     ]
                 }
             },
             "Wewenang": [
-                "Menetapkan arah dan kebijakan strategis pengelolaan sumber daya manusia yang mencakup organization design, talent strategy, workforce planning, capability & competency management, talent management, learning & development, total reward, industrial relation, dan termination.",
-                "Menyetujui rencana dan program kerja di bidang Human Capital serta memastikan keselarasan dengan strategi bisnis perusahaan dan anak perusahaan.",
-                "Mengambil keputusan strategis terkait struktur organisasi, formasi jabatan, kompensasi, dan pengembangan talenta.",
-                "Mengendalikan dan mengevaluasi pelaksanaan kebijakan HC agar berjalan efektif dan sesuai peraturan yang berlaku.",
-                "Mengarahkan dan membina seluruh unit di bawah Departemen Human Capital untuk mencapai target kinerja yang telah ditetapkan.",
-                "Mewakili perusahaan dalam hubungan eksternal terkait kebijakan ketenagakerjaan dan hubungan industrial."
+                "Menetapkan kebijakan internal HC dalam batas kewenangan jabatan GM (Band 1)",
+                "Menyetujui pelaksanaan program pengembangan, pelatihan, rekrutmen, dan hubungan industrial.",
+                "Memberi arahan kepada SM/Manager di bawahnya dan mengambil keputusan strategis tingkat departemen",
+                " Mengusulkan perubahan struktural SDM, skema kompensasi, dan pengembangan talenta kunci."
             ],
             "Spesifikasi Jabatan": [
-                {
-                    "Spesifikasi Umum Jabatan": {
-                        "Pendidikan": {
-                            "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
-                            "Jurusan": "S1 Psikologi / Manajemen SDM / Hukum; S2 Manajemen SDM / Organisasi / Bisnis Strategik (Pendidikan dari universitas terakreditasi atau memiliki pengakuan profesi HR internasional menjadi nilai tambah.)"
+            {   "Spesifikasi Umum Jabatan": {
+                     "Pendidikan": {
+                        "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                        "Jurusan": "S1 Psikologi / Manajemen SDM / Hukum; S2 Manajemen SDM / Organisasi / Bisnis Strategik (Pendidikan dari universitas terakreditasi atau memiliki pengakuan profesi HR internasional menjadi nilai tambah.)"
                         },
                         "Pengalaman Kerja": [
                             "Minimal 10 tahun pengalaman di bidang Human Capital Management.",
@@ -78,8 +78,8 @@
                             "Pengalaman menyusun dan menerapkan strategi SDM lintas entitas atau grup perusahaan.",
                             "Terbiasa menangani hubungan industrial, perancangan sistem remunerasi, dan pengelolaan talent pipeline."
                         ]
-                    },
-                    "Core Values": [
+                },
+                     "Core Values": [
                         "Amanah",
                         "Kompeten",
                         "Harmonis",
@@ -140,24 +140,55 @@
                             ]  
                         },
                         "Bahasa": {
-                            "Inggris": "Intermediate"
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
                         },
                         "Komputer": {
-                            "-": "-"
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
                         }
                     },
-                    "Sertifikasi": {
-                        "Wajib": {
-                            "-": "-"
+                "Sertifikasi": {
+                    "Wajib": {
+                        "Sertifikat":[
+                            "Sertifikasi Manajer SDM (BNSP Level 6 atau setara) ",
+                            "Sertifikasi Hubungan Industrial (Ahli Madya Hubungan Industrial / BNSP)",
+                            "Sertifikasi ISO 31000 – Manajemen Risiko SDM",
+                            "Sertifikasi Penggunaan Sistem HCIS / HRIS (Internal atau External) "
+                        ],
+                        "Keterangan":[
+                            "...."
+                        ]
                         },
-                        "Optional": {
-                            "-": "-"
+                    "Optional": {
+                        "Sertifikat":[
+                            "Human Resource Business Partner (HRBP) Certification – CIPD / SHRM / HCI ",
+                            "Organization Development / Change Management Certification ",
+                            "Compensation & Benefits Management (CBM)",
+                            "HC Data Analytics / Workforce Planning "
+                        ],
+                        "Keterangan":[
+                            "...."
+                        ]
                         }
                     }
                 }
             ],
             "Kesehatan dan Lingkungan Kerja": {
-                "Fit to work dalam pemeriksaan kesehatan": "Baik"
+                "Persyaratan": [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan": [
+                    "Baik"
+                ]
             },
             "Output": [
                 "Dokumen perencanaan strategis HC SILOG group (HC Strategic Blueprint)",
@@ -166,21 +197,1948 @@
                 "Laporan efektivitas program pengembangan SDM dan laporan evaluasi kinerja organisasi"
             ]
         },
-        {"Identifikasi": {
-            "Jabatan" : "SM OF HUMAN CAPITAL",
+        {   "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "SM OF COMPENSATION, LEARNING, & INDUSTRIAL RELATION",
             "Tingkat Band": "Band 2",
             "Direktorat": "FINANCE DIRECTORATE",
             "Group Head": "-",
             "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
-            "Unit": "-",
+            "Unit": "UNIT OF COMPENSATION, LEARNING & INDUSTRIAL RELATION",
             "Seksi": "-",
             "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
             "Jabatan Atasan": "GM OF HUMAN CAPITAL"
+            },
+            "Tujuan Jabatan": "Mengevaluasi dan menganalisa pengelolaan kompensasi dan benefit, pengelolaan pengaetahuan & informasi, pengelolaan pembelajaran dan pengembangan karyawan, serta pengelolaan hubungan industrial.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Merancang dan mengimplementasikan struktur remunerasi berdasarkan job grading dan total reward strategy SILOG Grup.",
+                    "Mengelola pelaksanaan program pelatihan, termasuk technical training, soft skill, mandatory training, dan leadership development.",
+                    "Menyusun dan mengimplementasikan strategi hubungan industrial, termasuk analisis PKB, handling perselisihan, serta komunikasi dengan serikat pekerja.",
+                    "Membina dan mengarahkan tim yang terdiri dari: 2 Officer & 1 Jr. Officer di Compensation & Benefit Management, 1 Officer & 1 Jr. Officer di Learning, Development & Industrial Relation."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Tertatanya struktur remunerasi yang kompetitif dan adil berdasarkan prinsip job grading serta selaras dengan strategi total reward SILOG Group, untuk mendukung daya tarik dan retensi talenta.",
+                    "Terselenggaranya program pelatihan yang komprehensif—meliputi technical training, soft skill, mandatory training, dan leadership development—sesuai dengan kebutuhan pengembangan kompetensi dan peningkatan kinerja organisasi.",
+                    "Terkelolanya hubungan industrial yang harmonis dan produktif, ditandai dengan tersusunnya PKB yang baik, terselesainya perselisihan industri, serta terjalinnya komunikasi yang efektif dengan serikat pekerja.",
+                    "Terbina dan terarahkannya tim dengan efektif, yang terdiri dari 2 Officer & 1 Jr. Officer di Compensation & Benefit Management serta 1 Officer & 1 Jr. Officer di Learning, Development & Industrial Relation, sehingga mampu mencapai target kinerja unit."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "GM of Human Capital",
+                        "Seluruh Departemen/Unit Bisnis",
+                        "SM of Talent Management & Organization Development"
+                    ],
+                    "Tujuan": [
+                        "Melaporkan perkembangan dan mendapatkan persetujuan strategi untuk area Compensation, Learning & Development, serta Industrial Relation.",
+                        "Mengkoordinasikan analisis kebutuhan pelatihan, implementasi program kompensasi, serta penanganan isu hubungan industrial.",
+                        "Berkolaborasi dalam integrasi program pengembangan kompetensi dengan sistem talent management dan organization development."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Vendor",
+                        "Asosiasi Profesi HR dan Industri",
+                        " Perusahaan Survey Salary Benchmark"
+                    ],
+                    "Tujuan": [
+                        "Mengelola program benefit karyawan (asuransi kesehatan, dana pensiun, program kesejahteraan) dan negosiasi kontrak.",
+                        "Berjejaring untuk berbagi praktik terbaik dan update perkembangan terkini di bidang kompensasi, training, dan hubungan industrial.",
+                        "Mengumpulkan dan menganalisis data pasar untuk penyusunan struktur kompensasi yang kompetitif."
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Menetapkan metode dan parameter perhitungan kompensasi dalam batas kewenangan SM.",
+                "Memberi persetujuan atas skema pelatihan internal dan rekomendasi eksternal training sesuai anggaran.",
+                "Mengambil langkah awal dalam penyelesaian isu hubungan industrial sebelum eskalasi ke GM HC.",
+                "Mewakili GM HC dalam forum koordinasi pelaksanaan pelatihan dan hubungan industrial."
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                        "Jurusan": "S1 Manajemen, Psikologi Industri & Organisasi, Hukum Ketenagakerjaan, atau sejenis ; S2 Manajemen SDM, Hukum Ketenagakerjaan, atau Magister Hukum Bisnis"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Pengalaman kerja minimal 7 tahun di bidang Human Capital, dengan fokus di Compensation & Benefit, Industrial Relation, dan/atau Learning & Development.",
+                        "Pengalaman minimal 2 tahun sebagai Supervisor/Manager HC, termasuk memimpin tim lintas fungsi.",
+                        "Pernah terlibat dalam proses penyusunan struktur gaji, negosiasi PKB, dan pelaksanaan program pelatihan strategis menjadi nilai tambah."
+                        ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Building Partnerships",
+                                "Decision Making",
+                                "Driving Execution",
+                                "Driving For Result",
+                                "Facilitating Change"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Aligning Performance Fot Succeess",
+                                "Business Insight",
+                                "Customer Focus",
+                                "Influencing",
+                                "Innovation",
+                                "Inspiring Others"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 3 - Practitioner",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                             "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                "Sertifikasi Manajer SDM (BNSP) ",
+                                "Sertifikasi Hubungan Industrial (BNSP/Kemnaker)",
+                                "Sertifikasi Compensation & Benefit Management (CBM) / BNSP Skema Penggajian",
+                                "Sertifikasi PTraining & Development Specialist (BNSP)"
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "ISO 45001 Awareness (K3)",
+                                "Sertifikasi Digital HR / HCIS",
+                                "Certified Reward Professional (CRP) / Korn Ferry / WorldatWork"
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Struktur dan skala upah yang adil, logis, dan kompetitif berbasis job grading & performance.",
+                "Program pelatihan tahunan (L&D Annual Plan) termasuk kalender pelatihan & evaluasi efektivitas.",
+                "Draft dan laporan PKB, serta log pengelolaan isu hubungan industrial.",
+                "Laporan evaluasi kompensasi dan benefit (gap, parity antar-unit, tunjangan, insentif tahunan, dll)."
+            ]
+
+        },
+        {   "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "COMPENSATION & BENEFIT MANAGEMENT OFFICER",
+            "Tingkat Band": "Band 3",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "COMPENSATION & BENEFIT MANAGEMENT OFFICER",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "SSM OF COMPENSATION, LEARNING, & INDUSTRIAL RELATION"
+            },
+            "Tujuan Jabatan": "Mengelola sistem kompensasi dan benefit yang mencakup grading system, salary structure, benefit system, social security, pay level, income tax, dan payroll management untuk memastikan remunerasi yang kompetitif dan sesuai regulasi, serta meningkatkan produktivitas karyawan.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Menyusun dan mengembangkan struktur penggajian salary structure dan sistem grading berdasarkan analisis salary survey atau benchmark.",
+                    "Mengelola program benefit dan jaminan sosial social security sesuai dengan peraturan ketenagakerjaan yang berlaku.",
+                    "Mengimplementasikan kebijakan kompensasi dan mengatur perhitungan pajak penghasilan income tax serta pay level.",
+                    "Memastikan proses payroll management berjalan akurat, tepat waktu, dan sesuai dengan kebijakan perusahaan.",
+                    "Mengevaluasi efektivitas sistem kompensasi dan benefit dalam meningkatkan produktivitas dan retensi karyawan.",
+                    "Menganalisis data remunerasi pasar dan melakukan penyesuaian untuk mempertahankan daya saing perusahaan."                
+                ],
+                "Hasil yang Diharapkan": [
+                    "Tersusunnya struktur penggajian dan sistem grading yang kompetitif dan adil berdasarkan analisis pasar, untuk mendukung daya tarik dan retensi talenta.",
+                    "Terkelolanya program benefit dan jaminan sosial secara tepat, sesuai regulasi, dan memberikan nilai tambah bagi kesejahteraan karyawan.",
+                    "Terimplementasinya kebijakan kompensasi secara konsisten, termasuk perhitungan pajak penghasilan dan tingkat pembayaran yang tepat.",
+                    "Terselenggaranya proses payroll management yang akurat, tepat waktu, dan andal sesuai kebijakan perusahaan.",
+                    "Terevaluasinya efektivitas sistem kompensasi dan benefit dalam mendorong peningkatan produktivitas dan retensi karyawan.",
+                    "Terdapatnya analisis data remunerasi pasar yang berkelanjutan untuk memastikan daya saing perusahaan dalam menarik dan mempertahankan talenta."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "SM of Compensation, Learning & Industrial Relation",
+                        "Compensation & Benefit Junior Officer",
+                        "Departemen Finance"
+                    ],
+                    "Tujuan": [
+                        "Melapor perkembangan implementasi program kompensasi dan benefit serta mendapatkan persetujuan untuk kebijakan teknis.",
+                        "Membimbing dan mengawasi pekerjaan administrasi kompensasi dan benefit.",
+                        "Berkoordinasi dalam proses pembayaran payroll, verifikasi data keuangan, dan rekonsiliasi pembayaran benefit."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "BPJS Ketenagakerjaan dan Kesehatan",
+                        "Vendor Asuransi dan Provider Benefit",
+                        "Bank Payroll"
+                    ],
+                    "Tujuan": [
+                        "Memastikan kepatuhan dalam pembayaran iuran dan pelaporan data peserta.",
+                        "Mengelola administrasi program asuransi kesehatan, jiwa, dan benefit lainnya untuk karyawan.",
+                        "Mengkoordinasikan proses transfer gaji dan rekonsiliasi data pembayaran."
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Menyetujui data payroll dan perhitungan benefit dalam batas wewenang yang ditetapkan.",
+                "Mengembangkan usulan struktur grading dan salary structure untuk disampaikan kepada atasan.",
+                "Menganalisa dan merekomendasikan penyesuaian kebijakan kompensasi berdasarkan hasil salary survey.",
+                "Mengkoordinasikan pelaksanaan program benefit dan social security dengan vendor terkait.",
+                "Memverifikasi kelengkapan dokumen perpajakan karyawan sebelum diproses lebih lanjut.",
+                "Mengajukan usulan perbaikan sistem payroll management untuk meningkatkan efisiensi."
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Psikologi, Manajemen SDM, Akuntansi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang compensation & benefit.",
+                        "Pengalaman dalam pembuatan job grading.",
+                        "Mahir mengoperasikan Microsoft Excel.",
+                        "Memiliki kemampuan menganalisa kebijakan terkait compensation & benefit."
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness",
+                                "Customer Orientation"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Laporan analisis salary survey dan dokumen struktur penggajian yang telah disahkan.",
+                "Buku pedoman benefit karyawan dan laporan kepatuhan regulasi jaminan sosial.",
+                "Dokumen kebijakan kompensasi dan prosedur perhitungan pajak yang terdokumentasi.",
+                "Slip gaji dan laporan payroll yang terdistribusi tepat waktu setiap periode.",
+                "Laporan evaluasi efektivitas kompensasi dan benefit beserta rekomendasi perbaikan.",
+                "Laporan analisis salary survey dan dokumen struktur penggajian yang telah disahkan."
+            ]
+
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "COMPENSATION & BENEFIT MANAGEMENT JR. OFFICER",
+            "Tingkat Band": "Band 4",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "COMPENSATION & BENEFIT MANAGEMENT OFFICER",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "COMPENSATION & BENEFIT MANAGEMENT OFFICER"
+            },
+            "Tujuan Jabatan": "Mendukung pengelolaan sistem kompensasi dan benefit serta mengumpulkan dan memverifikasi data yang akurat untuk memastikan proses administrasi remunerasi, benefit, payroll, dan kepatuhan perpajakan berjalan efektif.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Membantu pelaksanaan salary survey atau benchmark dan pengumpulan data remunerasi pasar.",
+                    "Mengoperasikan sistem payroll dan memverifikasi keakuratan data perhitungan gaji, benefit, dan potongan.",
+                    "Menyiapkan dokumen administrasi benefit, jaminan sosial social security, dan kelengkapan perpajakan income tax.",
+                    "Memasukkan data struktur grading, salary structure, dan pay level ke dalam sistem database.",
+                    "Memeriksa kelengkapan dan keakuratan dokumentasi terkait kompensasi, benefit, dan kepatuhan perpajakan.",
+                    "Mendukung monitoring dan pelaporan implementasi kebijakan kompensasi serta benefit system."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Tersedianya data remunerasi pasar yang akurat dan terkini untuk mendukung analisis dan pengambilan keputusan dalam penyusunan kebijakan kompensasi.",
+                    "Terselenggaranya proses payroll yang lancar, tepat waktu, dan bebas dari kesalahan perhitungan, sehingga menjaga kepuasan dan kepercayaan karyawan.",
+                    "Tertatanya administrasi benefit, jaminan sosial, dan perpajakan dengan dokumentasi yang lengkap dan siap audit, memastikan kepatuhan terhadap regulasi.",
+                    "Terpeliharanya data struktur kompensasi dalam sistem database secara akurat dan mutakhir, mendukung konsistensi dalam pengambilan keputusan terkait remunerasi.",
+                    "Terkendalinya risiko administrasi melalui pemeriksaan kelengkapan dan keakuratan dokumen, sehingga meminimalkan potensi kesalahan dan ketidakpatuhan.",
+                    "Termanfaatkannya laporan monitoring sebagai dasar evaluasi dan perbaikan berkelanjutan terhadap sistem dan kebijakan kompensasi serta benefit."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "Compensation & Benefit Officer",
+                        "Departemen Lain",
+                        "Karyawan Perusahaan"
+                    ],
+                    "Tujuan": [
+                        "Mendukung dalam penyiapan data, administrasi, dan pelaksanaan tugas harian terkait kompensasi dan benefit.",
+                        "Mengumpulkan data absensi, lembur, dan tunjangan dari berbagai departemen.",
+                        "Menangani pertanyaan dan keluhan terkait kompensasi, benefit, dan payroll."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "BPJS Ketenagakerjaan dan Kesehatan",
+                        "Vendor Asuransi dan Provider Benefit",
+                        "Bank Payroll"
+                    ],
+                    "Tujuan": [
+                        "Mengoordinasikan proses klaim asuransi karyawan.",
+                        "Mengurus administrasi klaim benefit dan asuransi karyawan.",
+                        "Mengurus administrasi pendaftaran dan perubahan data peserta."
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Mengoperasikan sistem payroll dan input data kompensasi sesuai dengan prosedur yang berlaku.",
+                "Mengumpulkan data salary survey dari sumber yang telah ditentukan.",
+                "Memeriksa kelengkapan dokumen administrasi benefit dan social security.",
+                "Menyiapkan draft laporan payroll dan benefit untuk review atasan.",
+                "Mengajukan permintaan data yang diperlukan untuk proses administrasi kompensasi.",
+                "Mengkoordinasikan jadwal dengan vendor benefit untuk kegiatan administrasi."
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Psikologi, Manajemen SDM, Akuntansi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang compensation & benefit.",
+                        "Pengalaman dalam pembuatan job grading.",
+                        "Mahir mengoperasikan Microsoft Excel.",
+                        "Memiliki kemampuan menganalisa kebijakan terkait compensation & benefit."
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Data hasil salary survey atau benchmark yang telah terkumpul dan terorganisir dalam format laporan pendukung.",
+                "Laporan verifikasi payroll per periode yang mencatat keakuratan perhitungan gaji, benefit, dan potongan.",
+                "Dokumen administrasi benefit, jaminan sosial, dan perpajakan yang lengkap dan siap digunakan.",
+                "Database terupdate yang berisi struktur grading, salary structure, dan pay level.",
+                "Laporan pemeriksaan kelengkapan dan keakuratan dokumentasi kompensasi, benefit, dan perpajakan.",
+                "Laporan monitoring berkala mengenai implementasi kebijakan kompensasi dan benefit system."
+            ]
+
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "LEARNING, DEVELOPMENT MANAGEMENT & INDUSTRIAL RELATION OFFICER",
+            "Tingkat Band": "Band 3",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "COMPENSATION & BENEFIT MANAGEMENT OFFICER",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "SM OF COMPENSATION, LEARNING, & INDUSTRIAL RELATION"
+            },
+            "Tujuan Jabatan": "Mengembangkan dan mengimplementasikan program learning & development serta mengelola hubungan industrial untuk meningkatkan kompetensi karyawan dan menciptakan lingkungan kerja yang harmonis sesuai dengan strategi bisnis perusahaan.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Menyusun program dan kurikulum pelatihan berdasarkan analisis kebutuhan kompetensi.",
+                    "Mengimplementasikan kegiatan learning & development untuk peningkatan kapabilitas karyawan.",
+                    "Mengelola proses hubungan industrial termasuk penyusunan PP dan PKB.",
+                    "Mengkoordinasikan penyelesaian sengketa industrial sesuai peraturan ketenagakerjaan.",
+                    "Mengevaluasi efektivitas program pelatihan dan pengembangan karyawan.",
+                    "Menganalisa gap kompetensi dan merekomendasikan program pengembangan."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Tersusunnya program dan kurikulum pelatihan yang relevan dan sesuai dengan kebutuhan pengembangan kompetensi karyawan, sehingga mendukung peningkatan kinerja individu dan organisasi.",
+                    "Terselenggaranya kegiatan learning & development secara efektif dan terstruktur, yang berkontribusi pada peningkatan kapabilitas dan produktivitas karyawan.",
+                    "Terkelolanya proses hubungan industrial yang harmonis dengan adanya PP dan PKB yang jelas, sehingga menciptakan kepastian hukum dan ketenangan kerja.",
+                    "Terselesainya sengketa industrial secara adil dan sesuai peraturan, sehingga menjaga hubungan industrial yang baik dan kelancaran operasional perusahaan.",
+                    "Terevaluasinya efektivitas program pelatihan secara berkala, sehingga dapat dilakukan perbaikan berkelanjutan untuk meningkatkan kualitas dan dampak program.",
+                    "Teridentifikasinya gap kompetensi secara akurat, sehingga program pengembangan dapat difokuskan pada area yang paling membutuhkan untuk mendukung tujuan strategis perusahaan."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "SM of Compensation, Learning & Industrial Relation",
+                        "Learning & Development JR Officer",
+                        "Seluruh Departemen"
+                    ],
+                    "Tujuan": [
+                        "Melapor perkembangan program learning dan development serta mendapatkan persetujuan kurikulum.",
+                        "Membimbing dan mengawasi pelaksanaan administrasi program training.",
+                        "Melakukan analisis kebutuhan training dan mengkoordinasikan penyelenggaraan program pengembangan."                    
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Vendor Training dan Konsultan",
+                        "Lembaga Sertifikasi Profesi",
+                        "Perguruan Tinggi dan Lembaga Pendidikan"
+                    ],
+                    "Tujuan": [
+                        "Mengelola kerja sama penyelenggaraan program training dan pengembangan kompetensi",
+                        "Mengkoordinasikan program sertifikasi kompetensi untuk pengembangan karir karyawan",
+                        "Berkolaborasi dalam program pengembangan dan pelatihan"                   
+                     ]
+                }
+            },
+            "Wewenang": [
+                "Menyusun analisis kebutuhan pelatihan berdasarkan gap kompetensi",
+                "Mengimplementasikan program LND sesuai dengan rencana pengembangan",
+                "Mengkoordinasikan penyelenggaraan pelatihan dengan internal dan eksternal",
+                "Mengevaluasi efektivitas pelatihan dan menyusun rekomendasi perbaikan",
+                "Mengelola dokumentasi PKB dan PP sesuai peraturan ketenagakerjaan"
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Psikologi, Manajemen SDM, Akuntansi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang learning & development",
+                        "Pengalaman dalam melakukan Training Need Analysis (TNA) di level organisasi",
+                        "Memiliki kemampuan komunikasi dan berfikir kritis dengan baik",
+                        "Mampu bekerja sama dengan tim"                    
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness",
+                                "Customer Orientation"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Dokumen program dan kurikulum pelatihan yang disusun berdasarkan hasil analisis kebutuhan kompetensi, termasuk silabus, modul, dan jadwal pelatihan.",
+                "Laporan pelaksanaan kegiatan learning & development yang mencakup daftar hadir, materi, dan dokumentasi kegiatan untuk setiap program peningkatan kapabilitas karyawan.",
+                "Draf Peraturan Perusahaan (PP) dan Perjanjian Kerja Bersama (PKB) yang telah disusun dan disepakati, beserta notulensi proses penyusunannya.",
+                "Laporan penyelesaian sengketa industrial yang berisi kronologi, langkah-langkah penyelesaian, dan dokumen pendukung sesuai peraturan ketenagakerjaan.",
+                "Laporan evaluasi efektivitas program pelatihan yang berisi analisis hasil pre-test dan post-test, feedback peserta, serta rekomendasi perbaikan.",
+                "Laporan analisis gap kompetensi yang berisi identifikasi kesenjangan keterampilan dan rekomendasi program pengembangan untuk menutup gap tersebut."
+            ]
+
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "LEARNING, DEVELOPMENT MANAGEMENT & INDUSTRIAL RELATION JR. OFFICER",
+            "Tingkat Band": "Band 4",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "COMPENSATION & BENEFIT MANAGEMENT OFFICER",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "LEARNING, DEVELOPMENT MANAGEMENT & INDUSTRIAL RELATION OFFICER"
+            },
+            "Tujuan Jabatan": "Mendukung pelaksanaan program learning & development serta administrasi hubungan industrial untuk memastikan terselenggaranya kegiatan peningkatan kompetensi dan dokumentasi hubungan kerja yang sesuai prosedur.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Membantu penyelenggaraan program pelatihan dan pengembangan karyawan.",
+                    "Menyiapkan materi dan administrasi kegiatan learning & development.",
+                    "Mengumpulkan data kebutuhan training dan evaluasi peserta.",
+                    "Mendokumentasikan proses hubungan industrial dan surat-menyurat.",
+                    "Memasukkan data kompetensi dan hasil pelatihan ke dalam sistem.",
+                    "Mendukung koordinasi penyelesaian masalah ketenagakerjaan."                
+                ],
+                "Hasil yang Diharapkan": [
+                    "Terselenggaranya program pelatihan secara lancar dan tertib dengan dukungan administrasi yang memadai.",
+                    "Ketersediaan materi dan administrasi L&D yang lengkap dan tepat waktu untuk menunjang efektivitas pelaksanaan program.",
+                    "Tersedianya data kebutuhan training dan evaluasi yang akurat sebagai bahan analisis untuk pengembangan program ke depan.",
+                    "Tertatanya dokumentasi hubungan industrial yang rapi dan lengkap untuk keperluan audit, pelaporan, dan referensi.",
+                    "Tersedianya data kompetensi dan hasil pelatihan yang terinput ke dalam sistem untuk mendukung proses pengambilan keputusan HR.",
+                    "Terselesainya masalah ketenagakerjaan dengan dukungan data dan koordinasi yang efektif sesuai prosedur yang berlaku."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "Learning & Development Officer",
+                        "Karyawan Perusahaan"
+                    ],
+                    "Tujuan": [
+                        "Membantu dalam administrasi program training, penyiapan materi, dan dokumentasi hasil pelatihan.",
+                        "Mengkoordinasikan kehadiran, pre-test, post-test, dan evaluasi program training."                    
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Vendor Logistik Training",
+                        "Penyedia Materi Training"
+                    ],
+                    "Tujuan": [
+                        "Mengatur kebutuhan venue, konsumsi, dan perlengkapan training.",
+                        "Mengoordinasikan pengadaan materi dan modul pelatihan."                    
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Mengumpulkan data kebutuhan pelatihan dari masing-masing departemen.",
+                "Menyiapkan administrasi dan logistik penyelenggaraan pelatihan.",
+                "Mendokumentasikan hasil pelatihan dan feedback peserta.",
+                "Membantu proses sosialisasi PKB dan PP kepada karyawan."            
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Psikologi, Manajemen SDM, Akuntansi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang Learning & Development Officer.",
+                        "Berpengalaman dalam melakukan Training Need Analysis (TNA) di level organisasi.",
+                        "Memiliki kemampuan komunikasi dan berpikir kritis dengan baik.",
+                        "Mampu bekerja sama dengan tim."                    
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Dokumen pendukung penyelenggaraan pelatihan seperti daftar hadir, sertifikat, dan laporan kehadiran peserta.",
+                "Materi pelatihan yang terorganisir dan administrasi kegiatan L&D yang lengkap, termasuk undangan, agenda, dan notulensi.",
+                "Database kebutuhan training dan hasil evaluasi peserta yang terinput rapi dan mudah diakses.",
+                "Arsip dokumentasi hubungan industrial yang lengkap, termasuk surat-menyurat, perjanjian, dan notulensi rapat.",
+                "Data kompetensi dan hasil pelatihan yang terupdate dalam sistem HRIS atau database perusahaan.",
+                "Laporan pendukung penyelesaian masalah ketenagakerjaan yang berisi data terkait dan langkah-langkah koordinasi yang telah dilakukan."            
+            ]
+
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "SM OF TALENT MANAGEMENT & ORGANIZATION DEVELOPMENT",
+            "Tingkat Band": "Band 2",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "UNIT OF TALENT MANAGEMENT & ORGANIZATION DEVELOPMENT",
+            "Seksi": "-",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "GM OF HUMAN CAPITAL"
+            },
+            "Tujuan Jabatan": "Mengevaluasi dan menganalisa terhadap pengelolaan pengembangan organisasi, pengelolaan akuisisi dan mobilitas talenta, pengelolaan talenta dan pengelolaan suksesi, pengelolaan kinerja karyawan, pengelolaan data dan informasi kekaryawanan serta pengelolaan karir karyawan.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Menyusun dan mengimplementasikan strategi pengelolaan talent secara menyeluruh, mencakup career pathing, high potential identification, dan succession plan.",
+                    "Merancang inisiatif pengembangan organisasi seperti penyempurnaan struktur, pemetaan beban kerja, dan pemutakhiran job family.",
+                    "Mengelola framework kompetensi (technical dan behavioral) serta memastikan penerapannya dalam proses human capital seperti rekrutmen, penilaian, dan pengembangan.",
+                    "Menganalisis kebutuhan organisasi berdasarkan arah bisnis dan menyusun inisiatif organization development secara bertahap.",
+                    "Membina dan mengawasi pelaksanaan tugas dari empat personel di bawahnya, yaitu satu Talent Management Officer, satu Talent Management Junior Officer, satu Organization Development Officer, dan satu Organization Development Junior Officer."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Terimplementasinya strategi pengelolaan talenta yang komprehensif, meliputi penetapan career path yang jelas, identifikasi karyawan berpotensi tinggi (HiPo), dan rencana suksesi yang matang untuk memastikan ketersediaan pemimpin masa depan.",
+                    "Terselenggaranya inisiatif pengembangan organisasi yang efektif, termasuk struktur organisasi yang optimal, distribusi beban kerja yang merata, dan pemutakhiran job family yang selaras dengan kebutuhan bisnis.",
+                    "Terintegrasinya framework kompetensi (teknis dan behavioral) dalam seluruh proses Human Capital, mulai dari rekrutmen, penilaian kinerja, hingga pengembangan karyawan, sehingga menciptakan standar yang konsisten.",
+                    "Tersusunnya inisiatif pengembangan organisasi yang relevan dan bertahap berdasarkan analisis kebutuhan organisasi serta arah strategis bisnis perusahaan.",
+                    "Terbinanya tim yang kompeten dan berkinerja tinggi, dengan 4 personel (Talent Management Officer & Jr. Officer, Organization Development Officer & Jr. Officer) yang mampu menjalankan tugas secara efektif dan berkontribusi maksimal bagi departemen."
+                ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "GM of Human Capital",
+                        "Seluruh Departemen/Unit Bisnis",
+                        "SM of Compensation, Learning & Industrial Relation"
+                    ],
+                    "Tujuan": [
+                        "Melaporkan perkembangan strategi talent management & organization development serta mendapatkan persetujuan untuk program pengembangan organisasi dan talenta.",
+                        "Mengkoordinasikan analisis kebutuhan talenta, program suksesi, dan pengembangan struktur organisasi.",
+                        "Berkolaborasi dalam integrasi program pengembangan kompetensi dengan sistem learning & development."                    
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Konsultan Talent Management & Organization Development.", 
+                        "Lembaga Assessment & Psikologi.", 
+                        "Perguruan Tinggi & Lembaga Riset."
+                    ],
+                    "Tujuan": [
+                        "Berkolaborasi dalam pengembangan framework kompetensi dan program pengembangan organisasi.",
+                        "Mengelola kerja sama untuk assessment talenta dan program pengembangan leadership.",
+                        "Mengembangkan program talent sourcing dan studi pengembangan organisasi."                    
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Menyusun dan menyetujui rancangan suksesi dan jalur karier internal dalam lingkup kewenangan unit kerja.",
+                "Menetapkan instrumen asesmen untuk talent mapping serta metode penilaian dalam identifikasi high potential dan readiness.",
+                "Menyusun rekomendasi perubahan struktur organisasi, job title, dan job family untuk disampaikan kepada GM Human Capital.",
+                "Memberikan masukan terkait promosi, rotasi, dan pengembangan organisasi berdasarkan hasil asesmen dan analisis beban kerja."
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "S1 relevan, S2 diutamakan",
+                        "Jurusan": "S1 Manajemen, Psikologi Industri & Organisasi, Hukum Ketenagakerjaan, atau sejenis ; S2 Manajemen SDM, Hukum Ketenagakerjaan, atau Magister Hukum Bisnis"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Minimal 7 tahun pengalaman di bidang Talent Management atau Organization Development.",
+                        "Berpengalaman dalam menyusun dan mengimplementasikan suksesi, manajemen karier, struktur organisasi, dan kerangka kompetensi.",
+                        "Memiliki pengalaman memimpin tim lintas fungsi selama minimal 2 tahun sebagai Supervisor atau Manager dalam organisasi berstruktur kompleks (multi-unit atau multi-lokasi)."                        ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Building Partnerships",
+                                "Decision Making",
+                                "Driving Execution",
+                                "Driving For Result",
+                                "Facilitating Change"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Aligning Performance Fot Succeess",
+                                "Business Insight",
+                                "Customer Focus",
+                                "Influencing",
+                                "Innovation",
+                                "Inspiring Others"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 4 - Advance",
+                                "Level 3 - Practitioner"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                "Sertifikasi Talent Management (BNSP)",
+                                "Sertifikasi Organization Development (OD)",
+                                "Sertifikasi Manajemen SDM (BNSP / SKKNI Level 6)"                            
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "Human Resource Business Partner (HRBP) – HCI / SHRM / CIPD",
+                                "Certified Assessor / Certified User Psikometri",
+                                "Job Analysis & Evaluation (Hay / Mercer / Korn Ferry)"                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Dokumen Strategi Talent Management SILOG Grup: mencakup model karier, suksesi, high potential framework, dan development plan.",
+                "Organizational Structure Review Report: termasuk rekomendasi perubahan struktur, efisiensi organisasi, dan job family alignment.",
+                "Talent Dashboard: peta talenta terkini, readiness level, critical roles coverage.",
+                "Kompetensi Framework dan Integrasi ke sistem SDM (HCIS/assessment tools)."            
+            ]
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "TALENT MANAGEMENT OFFICER",
+            "Tingkat Band": "Band 3",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "TALENT MANAGEMENT",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "SM OF TALENT MANAGEMENT & ORGANIZATION DEVELOPMENT"
+            },
+            "Tujuan Jabatan": "Mengelola proses talent management yang mencakup talent acquisition, performance management, career management, dan succession management untuk memastikan ketersediaan talenta yang berkualitas serta mendukung pencapaian strategi bisnis perusahaan melalui pengembangan dan retensi talenta kunci.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Mengelola proses talent acquisition dari berbagai sumber untuk memenuhi kebutuhan talenta sesuai dengan perencanaan tenaga kerja",
+                    "Mengimplementasikan sistem performance management dan appraisal untuk mengukur pencapaian kinerja karyawan",
+                    "Menyusun program career management dan succession planning untuk memastikan ketersediaan pemimpin masa depan",
+                    "Menganalisa data talent pipeline, retention, dan turnover untuk perbaikan berkelanjutan sistem talent management",
+                    "Mengkoordinasikan program employer branding dan talent acquisition strategy untuk menarik talenta terbaik"
+                ],
+                "Hasil yang Diharapkan": [
+                    "Terpenuhinya kebutuhan talenta secara tepat waktu dan sesuai kualifikasi untuk mendukung operasional dan pertumbuhan perusahaan",
+                    "Terimplementasinya sistem penilaian kinerja yang objektif dan konsisten, sehingga dapat mendorong peningkatan kinerja karyawan secara berkelanjutan",
+                    "Tersedianya pipeline pemimpin masa depan yang siap untuk mengisi posisi-posisi kunci, sehingga menjamin keberlangsungan kepemimpinan perusahaan",
+                    "Meningkatnya retensi talenta kunci dan menurunnya tingkat turnover melalui perbaikan sistem talent management yang berbasis data",
+                    "Meningkatnya daya tarik employer brand perusahaan, sehingga memudahkan dalam menarik dan merekrut talenta-talenta terbaik di pasar tenaga kerja"
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "SM of Talent Management & Organization Development",
+                        "Talent Management JR Officer",
+                        "Seluruh Departemen"
+                    ],
+                    "Tujuan": [
+                        "Melapor perkembangan program talent management dan mendapatkan persetujuan strategi rekrutmen",
+                        "Membimbing dan mengawasi proses administrasi talent management",
+                        "Mengkoordinasikan proses rekrutmen, assessment, dan pengembangan talenta"
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Psikolog Assessment",
+                        "Portal Job Online"
+                    ],
+                    "Tujuan": [
+                        "Mengkoordinasikan pelaksanaan tes psikologi untuk proses seleksi",
+                        "Mengelola pemasangan lowongan dan pencarian kandidat"
+                     ]
+                }
+            },
+            "Wewenang": [
+                "Menyusun jadwal dan proses seleksi kandidat internal maupun eksternal",
+                "Mengimplementasikan sistem penilaian kinerja sesuai kebijakan perusahaan",
+                "Menganalisa data talent pool untuk kebutuhan perencanaan suksesi",
+                "Mengkoordinasikan pelaksanaan assessment center dan development center",
+                "Merekomendasikan program pengembangan berdasarkan hasil talent review"
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Manajemen SDM, Psikologi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang talent management",
+                        "Pengalaman dalam menyusun talent pipeline dan talent review",
+                        "Memiliki kemampuan komunikasi dan berfikir kritis dengan baik",
+                        "Mampu bekerja sama dengan tim"                    
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness",
+                                "Customer Orientation"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension"                            
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Laporan Rekrutmen & Seleksi yang berisi data kandidat, proses seleksi, dan hasil akhir untuk setiap posisi yang dibutuhkan berdasarkan rencana tenaga kerja",
+                "Dokumen Sistem Performance Management yang mencakup formulir penilaian kinerja, panduan pengisian, dan laporan hasil appraisal per periode",
+                "Program Pengembangan Karir & Rencana Suksesi yang terdokumentasi, termasuk daftar talenta kunci, peta karir, dan program pengembangan untuk calon pemimpin masa depan",
+                "Laporan Analisis Talent Pipeline, Retention, dan Turnover yang berisi data tren, analisis penyebab, dan rekomendasi perbaikan sistem talent management",
+                "Materi Employer Branding & Strategi Talent Acquisition seperti company profile, konten media sosial, dan laporan efektivitas strategi rekrutmen dalam menarik talenta terbaik"
+            ]
+
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "TALENT MANAGEMENT JR.OFFICER",
+            "Tingkat Band": "Band 4",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "TALENT MANAGEMENT",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "TALENT MANAGEMENT OFFICER"
+            },
+            "Tujuan Jabatan": "Mendukung operasional talent management serta mengumpulkan, mengelola, dan memverifikasi data talent untuk memastikan proses acquisition, performance management, dan development berjalan efektif sesuai dengan prosedur dan kebijakan perusahaan",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Membantu proses administrasi rekrutmen dan seleksi kandidat termasuk penyiapan dokumen dan jadwal tes",
+                    "Mengumpulkan data performance appraisal dari seluruh departemen dan memastikan kelengkapan dokumen",
+                    "Menyiapkan dokumen dan materi untuk talent review meeting dan succession planning",
+                    "Memasukkan data talent inventory dan kompetensi ke dalam sistem database secara akurat",
+                    "Mendukung pelaksanaan program onboarding, orientation, dan talent development activities"
+                ],
+                "Hasil yang Diharapkan": [
+                    "Proses rekrutmen dan seleksi berjalan lancar dengan dukungan administrasi yang tertib dan tepat waktu.",
+                    "Data performance appraisal terkumpul lengkap dan valid, mendukung proses evaluasi kinerja secara efektif.",
+                    "Talent review meeting & succession planning terselenggara dengan bahan yang siap dan informatif.",
+                    "Sistem database talent selalu mutakhir, memudahkan akses informasi untuk pengambilan keputusan.",
+                    "Kegiatan onboarding & pengembangan talenta terlaksana dengan baik, memperkuat pengalaman karyawan baru dan pengembangan kompetensi."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "Talent Management Officer",
+                        "User tiap Departemen"
+                    ],
+                    "Tujuan": [
+                        "Mendukung administrasi proses rekrutmen dan dokumentasi data kandidat",
+                        "Mengumpulkan kebutuhan rekrutmen dan feedback hasil seleksi"                    
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Peserta Assessment"
+                    ],
+                    "Tujuan": [
+                        "Mengatur jadwal dan administrasi tes seleksi"                   
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Mengumpulkan data kandidat dan dokumen pendukung proses rekrutmen",
+                "Menyiapkan administrasi penilaian kinerja dan talent review",
+                "Memasukkan data talent ke dalam sistem talent management",
+                "Membantu koordinasi jadwal tes dan interview kandidat",
+                "Mendokumentasikan hasil assessment dan development program"            
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Manajemen SDM, Psikologi, Manajemen, atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang talent management",
+                        "Pengalaman dalam menyusun talent pipeline dan talent review",
+                        "Memiliki kemampuan komunikasi dan berfikir kritis dengan baik",
+                        "Mampu bekerja sama dengan tim"                    
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Dokumen administrasi rekrutmen yang lengkap (jadwal tes, undangan, berita acara, daftar hadir peserta seleksi).",
+                "Arsip data performance appraisal dari semua departemen yang telah diverifikasi kelengkapannya.",
+                "Bahan talent review meeting & succession planning yang tersusun rapi (slide presentasi, profil talent, laporan analisis).",
+                "Database talent inventory & kompetensi yang terupdate dan akurat dalam sistem.",
+                "Dokumentasi & laporan pelaksanaan onboarding/orientasi serta kegiatan pengembangan talenta."
+            ]
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "ORGANIZATION DEVELOPMENT OFFICER",
+            "Tingkat Band": "Band 3",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "ORGANIZATION DEVELOPMENT",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "SM OF TALENT MANAGEMENT & ORGANIZATION DEVELOPMENT"
+            },
+            "Tujuan Jabatan": "Mengelola pengembangan organisasi yang mencakup organization structure, job analysis, job evaluation, workload analysis, dan manpower planning serta mengelola talent mapping, talent review, dan succession planning untuk memastikan efektivitas organisasi dan ketersediaan talenta.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Menganalisa struktur organisasi dan melakukan job evaluation untuk memastikan efektivitas organisasi.",
+                    "Mengembangkan job analysis, workload analysis, dan manpower planning berdasarkan kebutuhan bisnis.",
+                    "Menyusun talent mapping and classification untuk mengidentifikasi talenta potensial.",
+                    "Mengelola proses talent review dan talent pipeline untuk posisi kunci dan strategis.",
+                    "Mengimplementasikan succession planning untuk memastikan ketersediaan successor."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Struktur organisasi yang optimal dan efektif dalam mendukung pencapaian tujuan bisnis, dengan penugasan dan wewenang yang jelas pada setiap jabatan.",
+                    "Kebutuhan sumber daya manusia yang terencana secara tepat, berdasarkan analisis beban kerja dan kebutuhan bisnis, sehingga menghindari kekurangan atau kelebihan staff.",
+                    "Teridentifikasinya talenta potensial dalam organisasi, memungkinkan perusahaan untuk memfokuskan sumber daya pengembangan pada karyawan yang tepat.",
+                    "Tersedianya pipeline talenta untuk posisi kunci yang terpantau dan terkelola dengan baik, memastikan kesiapan pengisian posisi strategis.",
+                    "Kesiapan suksesi untuk posisi kritis terjamin, mengurangi risiko operasional dan menjaga keberlangsungan kepemimpinan perusahaan."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "SM of Talent Management & Organization Development",
+                        "Organization Development JR Officer",
+                        "Seluruh Departemen"
+                    ],
+                    "Tujuan": [
+                        "Melapor perkembangan program organization development dan perubahan struktur.",
+                        "Membimbing dan mengawasi pengumpulan data organisasi.",
+                        "Melakukan analisis kebutuhan pengembangan organisasi dan evaluasi job design."
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Konsultan Organization Development",
+                        "Vendor Assessment Tool",
+                        "Lembaga Survey"
+                    ],
+                    "Tujuan": [
+                        "Berkolaborasi dalam pengembangan struktur organisasi dan sistem grading",
+                        "Mengelola penggunaan tools assessment untuk pemetaan kompetensi",
+                        "Mengumpulkan data benchmarking struktur organisasi"                     
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Menganalisa kebutuhan perubahan struktur organisasi dan job evaluation",
+                "Mengembangkan manpower planning dan workload analysis",
+                "Menyusun talent mapping dan klasifikasi talenta",
+                "Mengkoordinasikan talent review meeting",
+                "Merekomendasikan calon successor berdasarkan talent pipeline"            
+            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Manajemen SDM, Psikologi, Manajemen, Teknik Industri atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman minimal 2 tahun di bidang organization development",
+                        "Memiliki kemampuan analisis yang kuat",
+                        "Memiliki kemampuan komunikasi yang baik",
+                        "Mampu bekerja sama dengan tim"                    
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness",
+                                "Customer Orientation"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension"                            
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Laporan Analisis Struktur Organisasi dan Job Evaluation yang mencakup evaluasi efektivitas struktur, hasil penilaian jabatan, serta rekomendasi perbaikan organisasi.",
+                "Dokumen Job Analysis, Workload Analysis, dan Manpower Planning yang disusun berdasarkan kebutuhan bisnis dan mencakup seluruh departemen.",
+                "Peta Talenta (Talent Map) dan Matriks Klasifikasi Talenta yang menampilkan identifikasi karyawan potensial berdasarkan kinerja dan potensi.",
+                "Dokumen Proses Talent Review yang berisi daftar talenta kunci, hasil assessment, serta rencana pengembangan talent pipeline untuk posisi strategis.",
+                "Rencana Suksesi (Succession Plan) yang terdokumentasi untuk posisi kunci, dilengkapi dengan profil calon penerus dan rencana pengembangan individu."            ]
+        },
+        {
+            "Tanggal Efektif": "..",
+            "Identifikasi": {
+            "Jabatan" : "ORGANIZATION DEVELOPMENT JR.OFFICER",
+            "Tingkat Band": "Band 4",
+            "Direktorat": "FINANCE DIRECTORATE",
+            "Group Head": "-",
+            "Departemen": "DEPARTMENT OF HUMAN CAPITAL",
+            "Unit": "-",
+            "Seksi": "TALENT MANAGEMENT",
+            "Perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+            "Jabatan Atasan": "TALENT MANAGEMENT OFFICER"
+            },
+            "Tujuan Jabatan": "Mendukung proses pengembangan organisasi dan talent management dengan mengumpulkan data organization structure, job analysis, serta membantu penyusunan talent mapping dan succession planning untuk memastikan kelancaran proses pengembangan organisasi.",
+            "Tanggung Jawab": {
+                "Tanggung Jawab": [
+                    "Mengumpulkan data struktur organisasi dan job analysis dari seluruh departemen untuk mendukung evaluasi organisasi.",
+                    "Membantu proses penyusunan workload analysis dan manpower planning sesuai kebutuhan unit kerja.",
+                    "Menyiapkan dan mengolah data untuk talent mapping serta klasifikasi talenta potensial di organisasi.",
+                    "Memasukkan data talent review dan talent pipeline ke dalam sistem dengan akurasi dan ketepatan waktu.",
+                    "Mendokumentasikan proses succession planning untuk posisi-posisi kunci sebagai bagian dari pengelolaan talenta perusahaan."
+                ],
+                "Hasil yang Diharapkan": [
+                    "Tersedianya data struktur organisasi dan analisis jabatan yang lengkap, akurat, dan mutakhir dari seluruh departemen sebagai dasar pengambilan keputusan organisasi dan SDM.",
+                    "Tersusunnya hasil analisis beban kerja dan perencanaan tenaga kerja yang tepat, mendukung efisiensi alokasi sumber daya manusia di perusahaan.",
+                    "Tersiapkannya data pendukung untuk pemetaan dan klasifikasi talenta, memudahkan proses identifikasi karyawan berpotensi tinggi.",
+                    "Terpeliharanya data talent review dan talent pipeline secara teratur dalam sistem, menjamin ketersediaan informasi akurat untuk pengelolaan dan pengembangan talenta.",
+                    "Terdokumentasikannya proses perencanaan suksesi secara sistematis, memastikan kesiapan pengisian posisi-posisi kunci di masa depan."
+                 ]
+            },
+            "Dimensi": {
+                "Dimensi Keuangan": "...",
+                "Dimensi non Keuangan": "..",
+                "Bawahan Langsung":"..",
+                "Cakupan Wilayah": "..."
+            },
+            "Hubungan Kerja": {
+                "Internal Perusahaan":{
+                    "Unit Instansi": [
+                        "Organization Development Officer",
+                        "Semua Departemen",
+                        "Karyawan"
+                    ],
+                    "Tujuan": [
+                        "Мembantu pengumpulan data organisasi serta menyiapkan dokumentasi pendukung.",
+                        "Mendukung proses pengumpulan data job analysis dan kebutuhan kompetensi dari berbagai departemen.",
+                        "Mengumpulkan data yang dibutuhkan untuk analisis beban kerja dan pemetaan kompetensi karyawan."                    
+                    ]
+                },
+                "Eksternal Perusahaan":{
+                    "Unit Instansi": [
+                        "Vendor Konsultan"
+                    ],
+                    "Tujuan": [
+                        "Mendukung administrasi project pengembangan organisasi"                   
+                    ]
+                }
+            },
+            "Wewenang": [
+                "Mengumpulkan data struktur organisasi dan job analysis dari seluruh departemen.",
+                "Menyiapkan draft manpower planning dan workload analysis berdasarkan data kebutuhan organisasi.",
+                "Memasukkan data hasil talent mapping ke dalam sistem dengan akurat.",
+                "Mendokumentasikan hasil talent review meeting secara lengkap dan terstruktur.",
+                "Memeriksa kelengkapan data succession planning untuk memastikan kesiapan dokumen dan informasi pendukung."            ],
+            "Spesifikasi Jabatan": [
+                {
+                    "Spesifikasi Umum Jabatan": {
+                    "Pendidikan": {
+                        "Kualifikasi Pendidikan": "SMA relevan, S1 diutamakan",
+                        "Jurusan": "Manajemen SDM, Psikologi, Manajemen, Teknik Industri atau jurusan lain yang relevan"                        
+                    },
+                    "Pengalaman Kerja": [
+                        "Memiliki pengalaman 2 tahun di bidang organization development.",
+                        "Memiliki kemampuan analisis yang kuat.",
+                        "Dapat berkomunikasi dengan baik.",
+                        "Mampu bekerja sama dengan tim."
+                    ]
+                    },
+                    "Core Values": [
+                        "Amanah",
+                        "Kompeten",
+                        "Harmonis",
+                        "Loyal",
+                        "Adaptif",
+                        "Kolaboratif"
+                    ],
+                    "Kompetensi Jabatan": {
+                        "Kompetensi Perilaku": {
+                            "Kompetensi Inti": [
+                                "Adaptability",
+                                "Authenticity",
+                                "Contributing to Society",
+                                "Learning Agility",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Bidang Primer": [
+                                "Analysis",
+                                "Continuous Improvement",
+                                "Managing Work",
+                                "Quality Orientation"
+                            ],
+                            "Kompetensi Bidang Sekunder": [
+                                "Building Positive Working Relationships",
+                                "Business Awareness"
+                            ]
+                        },
+                        "Kompetensi Teknis": {
+                            "Kompetensi" : [
+                                "Organization Development",
+                                "Talent Acquisition & Mobility",
+                                "Performance Management",
+                                "Industrial Relation Management",
+                                "Compensation & Benefit Management",
+                                "HCIS Management",
+                                "Career Management",
+                                "Competency Management",
+                                "Knowledge Management",
+                                "Learning & Development Management"
+                            ],
+                            "Level yang Dipersyaratkan": [
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 2 - Comprehension",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 3 - Practitioner",
+                                "Level 2 - Comprehension"
+                            ]  
+                        },
+                        "Bahasa": {
+                            "Kompetensi": [
+                                "Inggris"   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "Intermediete"
+                            ]
+                        },
+                        "Komputer": {
+                            "Kompetensi": [
+                                "..."   
+                            ],
+                            "Level yang Dipersyaratkan":[
+                                "..."
+                            ] 
+                        }
+                    },
+                    "Sertifikasi": {
+                        "Wajib": {
+                            "Sertifikat":[
+                                ".... "
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        },
+                        "Optional": {
+                            "Sertifikat":[
+                                "...",
+                                "...",
+                                "..."
+                            ],
+                            "Keterangan":[
+                                "...."
+                            ]
+                        }
+                    }
+                }
+            ],
+            "Kesehatan dan Lingkungan Kerja":{
+                "Persyaratan" : [
+                    "Fit to work dalam pemeriksaan kesehatan"
+                ],
+                "Keterangan":[
+                    "Baik"
+                ]
+            },
+            "Output":[
+                "Database struktur organisasi dan analisis jabatan yang terkumpul dan terorganisir rapi dari seluruh departemen.",
+                "Draf laporan analisis beban kerja (workload analysis) dan rencana kebutuhan tenaga kerja (manpower planning) yang telah disusun berdasarkan data yang valid.",
+                "Kumpulan data dan bahan baku untuk pemetaan talenta (talent mapping) dan klasifikasi yang siap digunakan.",
+                "Sistem database yang telah diperbarui dengan data talent review dan talent pipeline secara akurat.",
+                "Dokumentasi proses perencanaan suksesi untuk posisi kunci yang lengkap dan tersimpan rapi."            
+            ]
         }
-        }
+        
+        
             
 
         
     ]
 }
-
