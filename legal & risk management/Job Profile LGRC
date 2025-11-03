@@ -1,0 +1,2508 @@
+[
+    {
+         "Name": "Job Profile GM LGRC" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "General Manager of Department Legal, Governance, Risk Management & Compliance",
+                    "Tingkat Band": "Band 1",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Financial Director"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Memimpin integrasi dan koordinasi seluruh program Governance, Risk Management & Compliance untuk membuat/merumuskan strategi, kebijakan, dan sistem kontrol internal yang komprehensif. Bertanggung jawab penuh atas perlindungan aset, reputasi, dan kesinambungan bisnis perusahaan dari seluruh eksposur risiko non-finansial."
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Memimpin dan merumuskan visi tata kelola, manajemen risiko, dan kepatuhan (GRC) korporasi yang mendukung strategi bisnis inti perusahaan",
+                        "Hasil yang Diharapkan": "Dokumen strategic GRC roadmap (3–5 tahun) terbit dan disahkan oleh Direksi"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Bertanggung jawab atas seluruh sengketa hukum dan kontrak strategis, serta mengelola potensi kerugian agregat perusahaan",
+                        "Hasil yang Diharapkan": "Minimal 95% kontrak strategis telah diterbitkan Legal Clearance Memo. Penurunan total potensi kerugian (exposure) dari sengketa litigasi sebesar X% per tahun"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Menetapkan batas risiko dan mengawasi implementasi kerangka kerja enterprise risk management (ERM) dan risk mitigation budget",
+                        "Hasil yang Diharapkan": "Peta risiko/risk register korporasi disahkan oleh Direksi, tidak ada top 5 risks yang dilaporkan berada dalam kategori ekstrem"
+                    },
+                    {
+                        "nomor": 4,
+                        "Tanggung Jawab": "Memimpin dan menyajikan rekomendasi strategis terkait GCG dan risiko kepada komite risiko/komisaris",
+                        "Hasil yang Diharapkan": "Laporan gabungan risiko dan GCG disampaikan kepada komite risiko/komisaris minimal 4 kali per tahun"
+                    },
+                    {
+                        "nomor": 5,
+                        "Tanggung Jawab": "Mengarahkan dan mengelola kapabilitas SDM di Departemen LGRC, menjamin keahlian teknis (Legal, Risk, Compliance) linier dengan kebutuhan bisnis",
+                        "Hasil yang Diharapkan": "Minimal 80% SDM LGRC telah menyelesaikan program sertifikasi/pelatihan teknis sesuai gap analysis"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Mengelola anggaran operasional Department LGRC per tahun, bertanggung jawab memitigasi risiko hukum dan finansial dengan potensi kerugian agregat"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengawasi kepatuhan terhadap regulasi dan standar, memimpin dan mengembangkan tim multidisiplin (Legal, Risk, Compliance)"
+                    },
+                    {
+                        "Bawahan Langsung": "Senior Manager of Legal, Senior Manager of License, Senior Manager of Risk Management & Governance"
+                    },
+                    {
+                        "Cakupan Wilayah": "Department of Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "President Director & Finance Director",
+                            "Tujuan": "Melaporkan status risiko, GCG, dan memberikan opini/rekomendasi strategis untuk pengambilan keputusan"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Seluruh GM Department Lain",
+                            "Tujuan": "Memberikan konsultasi hukum/risiko, serta mengimplementasikan kerangka ERM dan kebijakan kepatuhan"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Department / Unit Analis",
+                            "Tujuan": "Mengakses data, melakukan sampling, dan review dokumen langsung untuk mendapatkan informasi faktual dalam risk assessment dan compliance monitoring"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Regulator (BUMN, OJK, Kemenhub, dan lain-lain)",
+                                "Tujuan": "Mewakili perusahaan dalam urusan audit, pelaporan wajib, dan menanggapi isu kepatuhan untuk menghindari sanksi/denda"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Vendor & Konsultan",
+                                "Tujuan": "Melakukan Legal Due Diligence (LDD) dan negosiasi klausul krusial pada kontrak serta memastikan kepatuhan pihak ketiga terhadap etika perusahaan"
+                            },
+                            {
+                                "nomor": 3,
+                                "Unit Instansi": "Investor / Lembaga Keuangan",
+                                "Tujuan": "Menyediakan data Laporan GCG dan validasi risiko hukum/kepatuhan dalam rangka Due Diligence investasi, guna meningkatkan kepercayaan pasar"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengesahkan dan mengumumkan strategi dan kebijakan utama yang berkaitan dengan legal, governance, risk management & compliance",
+                    "Memberikan peringatan formal (red-flag) dan merekomendasikan penundaan proyek atau keputusan operasional jika teridentifikasi adanya risiko hukum, kepatuhan, atau finansial yang unacceptable (di luar batas Risk Appetite)",
+                    "Menunjuk pengacara eksternal, dan mewakili perusahaan dalam pertemuan teknis dengan regulator atau lawan sengketa hukum di luar persidangan (dengan persetujuan Direksi untuk hal strategis)",
+                    "Mengelola anggaran operasional departemen LGRC, serta merekomendasikan perekrutan, mutasi, dan pengembangan SDM di dalam departemennya",
+                    "Mengakses seluruh data, dokumen, dan sistem informasi perusahaan (kecuali yang diatur secara spesifik oleh Direksi) yang relevan untuk pelaksanaan fungsi Compliance dan Risk Assessment",
+                    "Mengelola anggaran operasional Departemen LGRC dan merekomendasikan perekrutan, mutasi, dan pengembangan SDM level Senior Manager ke atas"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan":
+                            {
+                            "Kualifikasi Pendidikan": "Minimal S2",
+                            "Jurusan": "Hukum Korporasi, Manajemen Risiko, atau Administrasi Bisnis"
+                            },
+                            "Pengalaman Kerja": {
+                            "Total pengalaman minimal 10-12 tahun, dengan pengalaman manajerial setidaknya 5 tahun di fungsi Legal, Risiko, atau Kepatuhan, diutamakan di industri logistik/transportasi, atau perusahaan BUMN/Tbk"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Enterprise Risk Management (ERM)",
+                                "Level yang Dipersyaratkan": "Level 5 - Expert"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Hukum Korporasi & Sektoral",
+                                "level yang Dipersyaratkan": "Level 5 - Expert"
+                            },
+                             {
+                                "nomor": 3,
+                                "Kompetensi": "Tata Kelola Perusahaan (GCG) & Compliance Audit",
+                                "level yang Dipersyaratkan": "Level 5 - Expert"
+                            },
+                            {
+                                "nomor": 4,
+                                "Kompetensi": "Strategic Management",
+                                "level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 5,
+                                "Kompetensi": "Organization Performance Management",
+                                "level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 5,
+                                "Kompetensi": "Feasibility Study",
+                                "level yang Dipersyaratkan": "Level 4 - Advanced"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Komepetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Expert"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Mandarin",
+                                "Level yang Dipersyaratkan": "Intermediate"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Tools GRC / Risk Register Software",
+                                "Level yang Dipersyaratkan": "Expert"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "MS Project",
+                                "Level yang Dipersyaratkan": "Expert"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Certified Risk Management Professional (CRMP) / Certified Enterprise Risk Management Analyst (CERMA)",
+                                "keterangan": "Diutamakan memiliki sertifikasi yang diakui BNSP atau lembaga internasional (seperti GARP/PRMIA) yang relevan dengan industri jasa keuangan/BUMN/Logistik"
+                            },
+                            {
+                                "nomor": 2,
+                                "sertifikat": "Sertifikasi GCG/Compliance",
+                                "keterangan": "Wajib bagi kandidat eksternal atau telah mengikuti refresher course GCG terbaru jika kandidat internal"
+                            },
+                            {
+                                "nomor": 3,
+                                "sertifikat": "Lisensi Profesi Hukum",
+                                "keterangan": "Wajib memiliki izin/lisensi aktif jika latar belakang pendidikan utama adalah Hukum"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani, lulus Medical Check Up (MCU) level eksekutif, dan tidak memiliki riwayat penyakit kronis yang membatasi kemampuan on-demand travel atau konsentrasi tinggi",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental (resilience) tinggi, memiliki keterampilan manajemen stres yang teruji, dan stabil dalam pengambilan keputusan di bawah tekanan krisis (litigasi, breach of compliance)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), namun wajib mengalokasikan 30-40% waktu untuk perjalanan dinas ke lokasi operasional atau regulator/pihak pengadilan",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Dokumen Strategic GRC Roadmap (3–5 tahun)",
+                        "Laporan Legal Due Diligence (LDD) & Risk Assessment atas Inisiatif Baru",
+                        "Notulen Rapat Komite Risiko & GCG (Bulanan/Triwulanan)",
+                        "Compliance & Risk Monitoring Report (Bulanan/Triwulanan)",
+                        "Rekomendasi Risk Mitigation Budget & Prioritas Kepatuhan di level BOD-1",
+                        "Dokumen Bukti Zero Sanksi Regulator (Tahunan)",
+                        "Laporan Legal Clearance Kontrak Strategis"
+                ]
+            }
+        ],
+         "Name": "Job Profile SM Legal" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Senior Manager of Legal",
+                    "Tingkat Band": "Band 2",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "General Manager of Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Menciptakan/membuat standar dan kerangka kerja (framework) legal, mengevaluasi kinerja dan kepatuhan hukum, serta menguji/memverifikasi keabsahan semua proses legal untuk memitigasi risiko hukum secara proaktif di tingkat korporasi, yang hasilnya dilaporkan kepada GM LGRMC."
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Membuat/menetapkan Legal Standard Operating Procedures (SOP), guideline legal drafting, dan compliance matrix di bidang hukum sektoral logistik",
+                        "Hasil yang Diharapkan": "Dokumentasi SOP legal dan guidelines diperbarui minimal 1 kali per tahun dan disahkan oleh GM LGRMC"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengevaluasi/menguji dan memberikan persetujuan final (vetting) terhadap kontrak, perjanjian, dan opini hukum kritis yang tidak tertangani.",
+                        "Hasil yang Diharapkan": "Minimal 98% dokumen kontrak yang ditinjau telah diverifikasi keabsahannya; 0% klaim hukum yang timbul dari kesalahan drafting internal"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "'Merumuskan strategi penanganan litigasi (di luar persidangan) dan mengawasi seluruh proses sengketa hukum",
+                        "Hasil yang Diharapkan": "Penurunan biaya dan durasi penyelesaian sengketa litigasi sebesar Y% per tahun"
+                    },
+                    {
+                        "nomor": 4,
+                        "Tanggung Jawab": "Mengelola dan mengembangkan kapabilitas teknis tim legal",
+                        "Hasil yang Diharapkan": "Minimal 85% anggota tim legal mencapai target IDP yang ditetapkan oleh SM Legal"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Memitigasi potensi kerugian finansial yang timbul dari sengketa litigasi (klausul denda/ganti rugi) dan kesalahan legal drafting (kesalahan kontrak) dan mengelola anggaran operasional unit kerja Legal Management"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Memimpin dan mengembangkan tim fungsional Legal Management (Officer dan Junior Officer), menetapkan standar teknis dan memastikan kualitas (vetting) seluruh output dokumen hukum korporasi"
+                    },
+                    {
+                        "Bawahan Langsung": "Legal Management Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Kerja Legal Management dalam Departemen Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "President Director & Finance Director",
+                            "Tujuan": "Memberikan penjelasan teknis dan klarifikasi Opini Hukum yang diminta melalui GM LGRMC atau rapat eksekutif terbatas"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "General Manager of LGRC",
+                            "Tujuan": "Melaporkan status teknis legal review, sengketa litigasi, dan memberikan rekomendasi eskalasi atas kontrak/risiko yang melampaui wewenang Senior Manager"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Seluruh GM Department Lain",
+                            "Tujuan": "Memberikan konsultasi hukum teknis terkait implementasi kontrak, risiko hukum operasional, dan kepatuhan dalam alur proses bisnis mereka"
+                            },
+                            {
+                            "nomor": 4,
+                            "Unit Instansi": "Department/Unit Analis",
+                            "Tujuan": "Mengakses data, melakukan sampling, dan review dokumen langsung untuk legal due diligence."
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Regulator (BUMN, OJK, Kemenhub, dan lain-lain)",
+                                "Tujuan": "'Menghadiri pertemuan teknis dan menanggapi isu kepatuhan yang bersifat teknis fungsional, di bawah arahan GM LGRMC"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Vendor & Konsultan",
+                                "Tujuan": "Melakukan Legal Due Diligence (LDD) dan negosiasi klausul krusial pada kontrak; mengawasi kinerja dan kualitas hasil kerja konsultan hukum yang ditunjuk"
+                            },
+                            {
+                                "nomor": 3,
+                                "Unit Instansi": "Lawan Sengketa / Mediator / Pengadilan",
+                                "Tujuan": "Mewakili perusahaan dalam pertemuan di luar persidangan (mediasi/negosiasi) dan memastikan kelengkapan dokumen hukum dalam proses litigasi"
+                            },
+                            {
+                                "nomor": 4,
+                                "Unit Instansi": "Notaris Publik",
+                                "Tujuan": "Mengkoordinasikan dan memfinalisasi akta/dokumen korporasi (seperti RUPS, perubahan Anggaran Dasar) untuk memastikan keabsahan formal"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Menetapkan dan mengumumkan prosedur teknis dan guideline fungsional di lingkup legal",
+                    "Memberikan persetujuan akhir (veto) terhadap draf kontrak dan dokumen hukum yang tidak memenuhi standar legal perusahaan",
+                    "Merekomendasikan penggunaan konsultan hukum eksternal untuk kasus tertentu kepada GM LGRMC",
+                    "Mengakses seluruh data, dokumen, dan sistem informasi perusahaan yang relevan untuk pelaksanaan fungsi legal due diligence dan risk assessment hukum",
+                    "Memberikan penilaian kinerja dan merekomendasikan mutasi atau pengembangan kompetensi SDM di bawah unit legal management kepada GM LGRMC"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1 (Diutamakan S2)",
+                            "Jurusan": "Hukum, Hukum Bisnis, Hukum Korporasi, atau Administrasi Bisnis yang fokus pada aspek Legal"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 7-9 tahun total, dengan pengalaman manajerial/spesialis senior minimal 3 tahun di fungsi Legal Korporasi"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Hukum Korporasi & Sektoral (Logistik/Transportasi)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Komeptensi": "Hukum Kontrak & Litigasi",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Legal Due Diligence (LDD)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 4,
+                                "Kompetensi": "Compliance Audit & Tata Kelola Perusahaan (GCG)",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"                  
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Komepetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Expert"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Legal Database Software",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib"
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Lisensi Profesi Hukum Aktif",
+                                "keterangan": "Wajib dimiliki untuk menjamin validitas profesional"
+                            },
+                            {
+                                "nomor": 2,
+                                "sertifikat": "Sertifikasi Legal Corporate Professional (LCPC/sejenis)",
+                                "keterangan": "Diutamakan memiliki sertifikasi keahlian di bidang corporate law"
+                            },
+                            {
+                                "nomor": 3,
+                                "sertifikat": "Lisensi Profesi Hukum",
+                                "keterangan": "Wajib memiliki izin/lisensi aktif jika latar belakang pendidikan utama adalah Hukum"
+                            }
+                        },
+                        [
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani, lulus Medical Check Up (MCU) level eksekutif, dan tidak memiliki riwayat penyakit kronis yang membatasi kemampuan on-demand travel atau konsentrasi tinggi",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental (resilience) tinggi, memiliki keterampilan manajemen stres yang teruji, dan stabil dalam pengambilan keputusan di bawah tekanan krisis (litigasi, breach of compliance)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), namun wajib mengalokasikan 30-40% waktu untuk perjalanan dinas ke lokasi operasional atau regulator/pihak pengadilan",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Final Draft Perjanjian/Kontrak yang Telah Di-Vetting (Verifikasi Kualitas) dan Legal Clearance Memo (LCM)",
+                        "Dokumen Standar Operasional Prosedur (SOP) Teknis Legal Review dan Legal Drafting",
+                        "Dokumen Strategi Penanganan Sengketa (termasuk rekomendasi Opini Hukum dan alur Somasi)",
+                        "Laporan Analisis Risiko Hukum & Dampak Regulasi Sektoral (termasuk update Perizinan Logistik)",
+                        "Laporan Hasil Legal Due Diligence (LDD) atas Vendor atau inisiatif bisnis baru",
+                        "Laporan Evaluasi Pelaksanaan Pendampingan Hukum dan Performance Appraisal Tim Legal",
+                ]
+            }
+        ],
+         "Name": "Job Profile Legal Management Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Legal Management Officer",
+                    "Tingkat Band": "Band 3",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Senior Manager of Legal"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Melaksanakan, mereview, dan merumuskan strategi hukum atas perjanjian, kontrak, dan penanganan sengketa perusahaan"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Memimpin dan melaksanakan proses legal drafting (penyusunan) dan legal review (verifikasi) atas kontrak-kontrak yang kompleks dan bernilai tinggi",
+                        "Hasil yang Diharapkan": "95% perjanjian bisnis krusial telah mendapat Legal Clearance Memo (LCM) tepat waktu"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Melakukan analisis mendalam terhadap potensi risiko litigasi dan sengketa, serta menyusun strategi penanganan dan Legal Opinion (LO) bagi manajemen",
+                        "Hasil yang Diharapkan": "0% kerugian perusahaan akibat kelalaian legal review kontrak yang disetujui"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Mengawasi dan mengelola pengarsipan dokumen hukum vital (Perjanjian Final) oleh LMJO, dan menyusun SOP teknis legal review",
+                        "Hasil yang Diharapkan": "Kelengkapan dan kemudahan akses database dokumen hukum mencapai 100%"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Menganalisis dan memitigasi risiko finansial dari kontrak/perjanjian yang berpotensi breach atau sengketa"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Memimpin dan mendelegasikan pekerjaan kepada LMJO. Memberi arahan teknis legal kepada PIC Unit Kerja"
+                    },
+                    {
+                        "Bawahan Langsung": "Legal Management Junior Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Legal Management dalam Departemen Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Senior Manager of Legal",
+                            "Tujuan": "Melaporkan status litigasi dan rekomendasi strategi Opini Hukum"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Unit Bisnis/Operasional",
+                            "Tujuan": "Memimpin diskusi dan negosiasi draft perjanjian, serta mengumpulkan data latar belakang perkara"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Unit Finance & Procurement",
+                            "Tujuan": "Koordinasi legal review spesifikasi kontrak, termasuk klausul pembayaran dan jaminan"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Advokat/Konsultan Hukum",
+                                "Tujuan": "Memberikan instruksi penanganan litigasi dan berkoordinasi dalam Opini Hukum bersama"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Notaris",
+                                "Tujuan": "Memproses legalisasi atau pengesahan dokumen"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Memimpin dan melaksanakan proses Legal Review dan Drafting atas seluruh dokumen kontrak/perjanjian perusahaan",
+                    "Menyusun Legal Opinion dan merekomendasikan strategi penanganan sengketa (pra-litigasi) kepada Senior Manager",
+                    "Mewakili perusahaan (bersama/sendiri atas penunjukan) dalam negosiasi klausa hukum dengan pihak ketiga/vendor",
+                    "Mendelegasikan dan mengawasi seluruh tugas operasional dan administratif kepada Legal Management Junior Officer (LMJO)."
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Hukum (diutamakan Hukum Bisnis/Perdata)"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 3-5 tahun di bidang Corporate Legal atau Litigation di Law Firm/Perusahaan Logistik"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Legal Drafting",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Komeptensi": "Analisis Hukum Kontrak/Perdata",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Penanganan Sengketa (Litigasi/Arbitrase)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Expert"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "MS Office (Drafting Dokumen)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Legal Database (Jurnal Hukum, Pusat Data Hukum)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Document Management System (DMS)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Sertifikasi Profesi Hukum (PERADI) atau Certified Legal Counsel (CLC)",
+                                "keterangan": "Memastikan legitimasi dan kompetensi untuk menjalankan fungsi teknis hukum korporasi dan memiliki pemahaman mendalam tentang praktik hukum di Indonesia"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani. Mampu melakukan perjalanan dinas (20-30%) ke lokasi operasional atau pengadilan",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental (resilience) tinggi dan stabil dalam pengambilan keputusan di bawah tekanan krisis (litigasi, breach kontrak)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), namun wajib melakukan perjalanan dinas ke lokasi sengketa atau kantor Notaris/Advokat",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal, dengan overtime tinggi saat penanganan sengketa mendesak atau closing kontrak besar"
+                }
+                ],
+                "Section": "Output" [
+                        "Final Draft Perjanjian/Kontrak yang telah Di-Vetting dan Legal Clearance Memo (LCM)",
+                        "Opini Hukum (Legal Opinion) dan Dokumen Strategi Penanganan Sengketa",
+                        "Dokumen Standar Operasional Prosedur (SOP) Teknis Legal Review dan Drafting"
+                ]
+            }
+        ],
+         "Name": "Job Profile Legal Management Junior Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Legal Management Junior Officer",
+                    "Tingkat Band": "Band 4",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "General Manager of Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Memberikan dukungan administratif, kearsipan, dan data processing yang akurat untuk fungsi Legal Management"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Mencatat, melacak, dan mengadministrasikan seluruh permintaan legal drafting dan review dari Unit Kerja",
+                        "Hasil yang Diharapkan": "100% permintaan legal service tercatat dan dilacak statusnya"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengelola dan mengarsip dokumen perjanjian/kontrak final, Opini Hukum, dan dokumen litigasi (digital dan fisik)",
+                        "Hasil yang Diharapkan": "Kelengkapan dan kemudahan pencarian arsip mencapai 100%"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Membantu Officer dalam menyusun draft awal perjanjian/kontrak rutin (menggunakan template) dan mengumpulkan data latar belakang perkara",
+                        "Hasil yang Diharapkan": "Draft awal dokumen rutin disiapkan akurat dan tepat waktu"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Mengelola arsip dokumen yang berkaitan dengan kewajiban dan aset perusahaan"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengkoordinasikan pengumpulan data dengan Staf Unit Kerja"
+                    },
+                    {
+                        "Bawahan Langsung": "-"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Kerja Legal Management dalam Departemen Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Legal Management Officer",
+                            "Tujuan": "Menerima instruksi harian dan menyerahkan laporan tracking perjanjian"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Staf/PIC Unit Kerja",
+                            "Tujuan": "Koordinasi pengumpulan dokumen pendukung permintaan perjanjian dan follow-up ketersediaan data"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": "-",
+                                "Unit Instansi": "-",
+                                "Tujuan": "-"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengakses Database Dokumen Hukum (Document Management System) untuk keperluan input data tracking dan kearsipan",
+                    "Meminta dokumen pendukung dan data latar belakang perkara/perjanjian kepada Staf Unit Kerja",
+                    "Menyiapkan draft awal perjanjian/kontrak rutin menggunakan template yang telah disetujui Officer"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Hukum"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 1-3 tahun di bidang administrasi legal atau kearsipan dokumen hukum"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Memahami Struktur Kontrak Dasar, Hirarki Perundang-undangan, dan Prosedur Kearsipan Dokumen Hukum",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Komepetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Basic"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "MS Office (Word, Excel)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Legal Database (input/tracking)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Document Management System (DMS)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib"
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Lisensi Profesi Hukum Aktif",
+                                "keterangan": "Wajib dimiliki untuk menjamin validitas profesional"
+                            },
+                            {
+                                "nomor": 2,
+                                "sertifikat": "Sertifikasi Legal Corporate Professional (LCPC/sejenis)",
+                                "keterangan": "Diutamakan memiliki sertifikasi keahlian di bidang corporate law"
+                            },
+                            {
+                                "nomor": 3,
+                                "sertifikat": "Lisensi Profesi Hukum",
+                                "keterangan": "Wajib memiliki izin/lisensi aktif jika latar belakang pendidikan utama adalah Hukum"
+                            }
+                        },
+                        [
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani, lulus Medical Check Up (MCU) level eksekutif, dan tidak memiliki riwayat penyakit kronis yang membatasi kemampuan on-demand travel atau konsentrasi tinggi",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental (resilience) tinggi, memiliki keterampilan manajemen stres yang teruji, dan stabil dalam pengambilan keputusan di bawah tekanan krisis (litigasi, breach of compliance)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), namun wajib mengalokasikan 30-40% waktu untuk perjalanan dinas ke lokasi operasional atau regulator/pihak pengadilan",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Laporan Tracking Status Permintaan Legal Drafting dan Review Harian/Mingguan",
+                        "Arsip Dokumen Hukum (Kontrak, Opini Hukum) yang terindeks dan terkontrol"
+                        "Draft Awal Perjanjian Rutin (berbasis template) yang telah disiapkan"
+                ]
+            }
+        ],
+         "Name": "Job Profile Senior Manager of License" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Senior Manager of License",
+                    "Tingkat Band": "Band 2",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "General Manager of Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Memastikan kepatuhan perusahaan terhadap seluruh regulasi perizinan sektoral, operasional, dan korporasi, serta mengelola secara efisien dan efektif seluruh proses lifecycle perizinan untuk menghindari sanksi hukum dan denda finansial sesuai dengan arahan General Manager of LGRC."
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Membuat dan menetapkan standar prosedur (SOP) pengelolaan dan pembaruan seluruh perizinan (lisensi sektoral, operasional, korporasi)",
+                        "Hasil yang Diharapkan": "'Dokumentasi SOP dan Checklist Perizinan terbit dan disahkan oleh GM LGRMC minimal 1 kali per tahun"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengawasi dan mengelola seluruh lifecycle proses perizinan, memastikan ketepatan waktu, kelengkapan dokumen, dan pemenuhan persyaratan perizinan",
+                        "Hasil yang Diharapkan": "'100% perizinan krusial berlaku dan terbarukan tepat waktu. 0% denda atau sanksi yang timbul dari kadaluarsa perizinan"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Mengevaluasi dan menganalisis risiko murni perizinan (misalnya, risiko dari terlambatnya perpanjangan) dan merekomendasikan tindakan mitigasi teknis",
+                        "Hasil yang Diharapkan": "Laporan berkala (monitoring report) status perizinan (termasuk gap analysis regulasi baru sektoral)"
+                    },
+                    {
+                        "nomor": 4,
+                        "Tanggung Jawab": "'Mengelola dan mengembangkan kapabilitas teknis tim License Management",
+                        "Hasil yang Diharapkan": "'Minimal 85% anggota tim License mencapai target Individual Development Plan (IDP)"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Bertanggung jawab memitigasi potensi kerugian finansial yang timbul dari denda/sanksi atas keterlambatan/ketidaklengkapan perizinan. Mengelola anggaran operasional unit kerja License Management"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Memimpin dan mengembangkan tim fungsional License Management. Menetapkan standar teknis dan mengawasi proses seluruh perizinan"
+                    },
+                    {
+                        "Bawahan Langsung": "License Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Kerja License dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "President Director & Finance Director",
+                            "Tujuan": "Memberikan klarifikasi teknis dan validasi atas perizinan operasional/sektoral yang dimintai persetujuan atau menjadi sorotan Direksi (melalui GM LGRMC)"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "General Manager of LGRC",
+                            "Tujuan": "Melaporkan status pemenuhan dan proses perizinan krusial, serta memberikan rekomendasi eskalasi (misalnya, jika ada risiko sanksi perizinan yang tidak dapat dimitigasi di level unit)"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Seluruh Departemen/Unit Pengguna Jasa",
+                            "Tujuan": "Mengumpulkan dokumen persyaratan untuk pengajuan/revisi perizinan, serta mengkoordinasikan pemenuhan syarat teknis perizinan di lapangan"
+                            },
+                            {
+                            "nomor": 4,
+                            "Unit Instansi": "Unit Keuangan",
+                            "Tujuan": "Mengkoordinasikan pembayaran biaya pengurusan, pembaruan, atau denda yang terkait dengan perizinan"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Regulator Sektoral",
+                                "Tujuan": "Mengajukan, mengurus, dan menindaklanjuti aplikasi perizinan secara teknis, serta menanggapi pertanyaan/audit yang spesifik terkait lisensi dan izin usaha"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Konsultan / Biro Jasa Perizinan",
+                                "Tujuan": "Mengawasi dan memverifikasi kualitas serta progress pengurusan perizinan yang didelegasikan kepada pihak ketiga"
+                            },
+                            {
+                                "nomor": 3,
+                                "Unit Instansi": "Notaris Publik",
+                                "Tujuan": "Mengkoordinasikan legalitas dokumen korporasi yang disyaratkan sebagai kelengkapan pengajuan/pembaruan perizinan."
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengesahkan dan mengumumkan prosedur teknis (SOP) dan checklist persyaratan pengajuan perizinan yang berlaku di internal unit kerja License Management",
+                    "Memberikan disposisi (setuju/tolak) secara online terhadap permintaan perizinan dari unit kerja lain jika dokumen persyaratan tidak lengkap atau tidak memenuhi standar yang berlaku",
+                    "Mengalokasikan dan mendelegasikan tugas pengurusan perizinan kepada Officer/Admin License Management (bawahan langsung) dan menetapkan prioritas kerja unit",
+                    "Merekomendasikan penggunaan konsultan perizinan eksternal kepada GM LGRMC dan mengawasi kinerja teknis konsultan tersebut",
+                    "Mengakses seluruh dokumen, data, dan sistem informasi yang relevan untuk keperluan validasi dan pengarsipan perizinan (misalnya database asset, data kendaraan, atau data karyawan)"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1 (Diutamakan S2)",
+                            "Jurusan": "Hukum, Administrasi Bisnis, atau Manajemen"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 7-9 tahun total, dengan pengalaman manajerial/spesialis senior minimal 3 tahun di fungsi perizinan, lisensi, atau regulatory affairs"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Kepatuhan Regulasi Perizinan Sektoral (Logistik/Perhubungan)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Manajemen Proses & Proyek Perizinan (Project Management)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Stakeholder Management & Negosiasi dengan Regulator",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Expert"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Aplikasi E-Licensing (OSS, Sistem Kemenhub/Kementerian terkait)",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": "1",
+                                "sertifikat": "Sertifikasi Kepatuhan/Manajemen Regulasi/Hukum"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani, lulus Medical Check Up (MCU) level eksekutif, dan tidak memiliki gangguan mobilitas yang menghambat perjalanan dinas mendadak atau interaksi dengan otoritas luar",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental tinggi dan stabilitas dalam mengelola proses yang bersifat high-volume dan deadline-driven, terutama saat menghadapi ancaman sanksi atau denda perizinan",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), namun wajib mengalokasikan 30-40% waktu untuk perjalanan dinas ke kantor regulator (pemerintah) atau lokasi operasional untuk keperluan validasi dokumen perizinan",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal, namun memerlukan waktu kerja di luar jam normal (overtime) tinggi saat mendekati batas akhir perpanjangan perizinan krusial perusahaan",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Dokumen Standar Operasional Prosedur (SOP) & Checklist Kepatuhan Perizinan",
+                        "Laporan Status Kepatuhan Perizinan (License Validity Monitoring Report)",
+                        "Rekomendasi tindak lanjut teknis atas hasil gap analysis regulasi perizinan baru",
+                        "Laporan evaluasi kinerja konsultan perizinan",
+                        "Arsip digital dan fisik yang terkelola atas seluruh dokumen perizinan perusahaan"
+                ]
+            }
+        ],
+         "Name": "Job Profile Lisence Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "License Officer",
+                    "Tingkat Band": "Band 3",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Senior Manager of License"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Melaksanakan dan mengelola seluruh proses perizinan perusahaan, mulai dari pengajuan, perpanjangan, hingga pemeliharaan"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Melaksanakan dan memonitor proses pengajuan/perpanjangan izin melalui sistem OSS dan regulator terkait, serta mengelola Konsultan Perizinan",
+                        "Hasil yang Diharapkan": "0% perizinan krusial (Operasional/Transportasi) yang expired atau pending"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Melakukan Gap Analysis antara praktik perusahaan dengan regulasi perizinan terbaru, dan merekomendasikan tindak lanjut kepatuhan",
+                        "Hasil yang Diharapkan": "Laporan Validitas Perizinan (License Validity Monitoring Report) yang akurat dan up to date"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Menyusun SOP dan Checklist Kepatuhan Perizinan, serta memberikan pelatihan internal kepada PIC Unit Kerja",
+                        "Hasil yang Diharapkan": "Dokumen SOP dan Checklist Perizinan terdistribusi dan dipahami oleh Unit Kerja"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Mengelola dan mengendalikan anggaran pengajuan perizinan dan fee Konsultan"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Menetapkan dan mengawasi pelaksanaan Checklist Kepatuhan Perizinan di Unit Kerja. Memimpin LJO"
+                    },
+                    {
+                        "Bawahan Langsung": "License Junior Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit License dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Senior Manager of License",
+                            "Tujuan": "Melaporkan status kepatuhan perizinan dan kendala regulasi"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Unit Operasi/Pemasaran",
+                            "Tujuan": "Mengumpulkan data teknis yang dibutuhkan untuk pengajuan izin (Data Kapasitas, Lokasi, dll.)"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Regulator (Pemerintah Pusat/Daerah, OSS)",
+                                "Tujuan": "Melakukan komunikasi dan proses pengajuan/perpanjangan izin"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Konsultan Perizinan",
+                                "Tujuan": "Memberikan instruksi, mengawasi kinerja, dan memverifikasi output kerja konsultan"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Memimpin, melaksanakan, dan memonitor seluruh proses pengajuan/perpanjangan perizinan perusahaan (sesuai SOP)",
+                    "Mengelola, mengawasi, dan memverifikasi kinerja output dari Konsultan Perizinan eksternal",
+                    "Merekomendasikan dan memprakarsai perubahan SOP atau Checklist Kepatuhan Perizinan internal",
+                    "Mendelegasikan tugas harian data tracking dan administrasi kepada License Junior Officer (LJO)"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Hukum, Teknik, atau Administrasi Publik/Bisnis"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 3-5 tahun di bidang License Management atau Kepatuhan Regulasi (Compliance) di industri Logistik/Manufaktur"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Regulasi Perizinan Sektoral (Logistik)",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Prosedur OSS",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Regulatory Mapping",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            },
+                            {
+                                "nomor": 4,
+                                "Kompetensi": "Manajemen Konsultan",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Basic"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Legal/Regulatory Databases",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "MS Excel (Tracking Validity)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Sistem OSS",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": "1",
+                                "sertifikat": "Certified Compliance Professional (CCP) atau Sertifikasi Hukum Bisnis/Administrasi Publik",
+                                "keterangan": "Memvalidasi keahlian dalam kepatuhan regulasi dan manajemen proses administrasi publik (perizinan)"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani. Mampu melakukan perjalanan dinas (20-40%) untuk mengurus perizinan di lokasi regulator/kantor dinas",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu bekerja di bawah tekanan deadline perizinan yang ketat dan memiliki keterampilan negosiasi/komunikasi dengan pihak eksternal (Regulator)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis Kantor Pusat, namun wajib mengalokasikan waktu signifikan untuk perjalanan dinas ke kantor Regulator",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal, dengan overtime tinggi saat mendekati batas waktu perpanjangan izin krusial",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Dokumen Standar Operasional Prosedur (SOP) & Checklist Kepatuhan Perizinan",
+                        "Laporan Status Kepatuhan Perizinan (License Validity Monitoring Report)",
+                        "Dokumen Analisis Regulasi dan Rekomendasi Tindak Lanjut Perizinan Baru"
+                ]
+            }
+        ],
+        "Name": "Job Profile License Junior Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "License Junior Officer",
+                    "Tingkat Band": "Band 4",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "License Officer"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Memberikan dukungan administratif dan operasional lapangan untuk proses perizinan"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Memelihara database License Validity (Tanggal Berlaku dan Batas Deadline Perpanjangan) dan memberikan alert rutin kepada Officer",
+                        "Hasil yang Diharapkan": "0% kelalaian alert perizinan yang akan expired"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengumpulkan kelengkapan dokumen perizinan dari Unit Kerja (Akta, KTP, PBB, dll.) dan mengarsip seluruh dokumen perizinan final (fisik dan digital)",
+                        "Hasil yang Diharapkan": "100% kelengkapan dokumen pendukung perizinan terarsip rapi"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Membantu Officer dalam data entry ke sistem OSS dan mengurus proses administratif perizinan (pengiriman dokumen, follow-up status rutin ke Regulator/Konsultan)",
+                        "Hasil yang Diharapkan": "Proses data entry dan administrasi perizinan berjalan lancar"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Mengelola arsip dokumen yang berkaitan dengan kepatuhan perizinan yang berpotensi denda"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengkoordinasikan pengumpulan data dengan Staf Unit Kerja dan Konsultan"
+                    },
+                    {
+                        "Bawahan Langsung": "-"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit License dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "License Officer",
+                            "Tujuan": "Menerima instruksi harian dan menyerahkan laporan tracking validitas izin"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Staf Unit Kerja",
+                            "Tujuan": "Koordinasi pengumpulan dokumen teknis dan administratif yang dibutuhkan untuk perizinan"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Konsultan Perizinan",
+                                "Tujuan": "Membantu follow-up dan pengiriman dokumen perizinan"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Staf Kantor Dinas/Regulator",
+                                "Tujuan": "Membantu follow-up status dan pengiriman dokumen"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengakses Database License Validity (MS Excel/Sistem) untuk tujuan data entry, tracking, dan alert (Input Only)",
+                    "Meminta kelengkapan dokumen administratif dan teknis dari Staf Unit Kerja untuk proses perizinan",
+                    "Melakukan data entry ke dalam sistem perizinan pemerintah (seperti OSS) di bawah supervisi License Officer"
+                ],
+                "Section": "Spesifikasi Jabatan" [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Hukum, Administrasi, atau Teknik"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 1-3 tahun di bidang administrasi perizinan, data tracking, atau kepatuhan regulasi"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Memahami Prosedur Data Entry OSS",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Manajemen Dokumen Teknis",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Tracking Deadline",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Basic"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "MS Excel (Formulasi License Validity & Alert)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Sistem OSS (Data Entry)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Document Management System (DMS)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani. Mampu melakukan mobilitas ringan untuk follow-up dokumen ke Kantor Dinas/Regulator (10-20% waktu)",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu bekerja dengan ketelitian tinggi dalam mengelola data tanggal jatuh tempo perizinan yang sensitif",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis Kantor Pusat, dengan kunjungan lapangan sesekali ke Regulator/Kantor Dinas",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal, dengan kebutuhan overtime rendah hingga sedang saat proses closing perizinan besar",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Database License Validity yang up-to-date dan akurat",
+                        "Arsip Dokumen Perizinan (fisik dan digital) yang terindeks",
+                        "Laporan Kelengkapan Dokumen Pendukung Perizinan"
+                ]
+            }
+        ],
+        "Name": "Job Profile Senior Manager of Risk Management & Governance, Compliance & Internal Control" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Senior Manager of Risk Management & Governance, Compliance & Intenal Control",
+                    "Tingkat Band": "Band 2",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "General Manager of Department legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Merancang, mengelola, dan mengawasi implementasi Kerangka Kerja Enterprise Risk Management (ERM), Tata Kelola Perusahaan yang Baik (GCG), Kepatuhan (Compliance), dan Sistem Pengendalian Internal (Internal Control System) di seluruh perusahaan"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Merancang, mengembangkan, dan memelihara kerangka kerja enterprise risk management (ERM) korporasi dan metodologi penilaian risiko",
+                        "Hasil yang Diharapkan": "'Dokumen ERM Framework dan Risk Management Guidelines terbit dan diperbarui secara berkala"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "'Mengawasi, memonitor, dan memvalidasi proses identifikasi risiko, pengukuran eksposur, dan pelaksanaan rencana mitigasi (risk treatment) oleh seluruh risk owner (unit kerja)",
+                        "Hasil yang Diharapkan": "Seluruh risk register unit kerja terisi dan terbarui 100% sesuai jadwal, memiliki rencana mitigasi yang terverifikasi"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Menyusun, mereview, dan mengawasi implementasi pedoman tata kelola perusahaan yang baik (GCG) dan instrumen GCG lainnya (code of conduct, WBS)",
+                        "Hasil yang Diharapkan": "Peningkatan skor GCG assessment tahunan dan seluruh pedoman GCG direview minimal 1 kali per tahun"
+                    },
+                    {
+                        "nomor": 4,
+                        "Tanggung Jawab": "Merancang program kepatuhan (compliance program) dan monitoring tool untuk memonitor pemenuhan terhadap regulasi eksternal dan kebijakan internal",
+                        "Hasil yang Diharapkan": "Peta kepatuhan (compliance universe) teridentifikasi dan compliance report triwulanan terbit"
+                    },
+                    {
+                        "nomor": 5,
+                        "Tanggung Jawab": "Mengembangkan dan mengawasi kerangka sistem pengendalian internal (internal control system / ICS) dan metodologi untuk control self-assessment (CSA) dan fraud risk assessment (FRA)",
+                        "Hasil yang Diharapkan": "Dokumen ICS framework, CSA report, dan fraud risk register terbit dan di-review berkala"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Bertanggung jawab memitigasi potensi kerugian finansial dari control failure, fraud, dan eksposur risiko operasional di seluruh lini bisnis serta mengelola anggaran operasional unit RMGCIC"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Memimpin dan mengembangkan tim fungsional RMGCIC serta merancang framework RMGCIC dan mengawasi risk owners di seluruh departemen"
+                    },
+                    {
+                        "Bawahan Langsung": "Risk Management Officer dan Governance, Compliance & Internal Control (GCIC) Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Kerja Risk Management & Governance, Compliance & Internal Control (GCIC) dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "President Director & Financial Director",
+                            "Tujuan": "Memberikan klarifikasi teknis, presentasi sistem GCG/ERM, atau validasi temuan risiko yang menjadi perhatian utama Direksi"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "General Manager of LGRC",
+                            "Tujuan": "Melaporkan status implementasi framework GRC dan eskalasi risiko yang melampaui risk appetite"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Seluruh General Manager",
+                            "Tujuan": "Sosialisasi, edukasi, dan monitoring implementasi ERM, GCG, dan ICS"
+                            },
+                            {
+                            "nomor": 4,
+                            "Unit Instansi": "Unit Audit Internal",
+                            "Tujuan": "Koordinasi dalam penetapan ruang lingkup audit dan tindak lanjut rekomendasi perbaikan GCG/ICS"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Konsultan/AuRegulator (OJK, BUMN, dll.)",
+                                "Tujuan": "Membantu follow-up status dan pengiriman dokumen"
+                            },
+                            {
+                                "nomor": 2,
+                                "Unit Instansi": "Regulator (OJK, BUMN, dll.)",
+                                "Tujuan": "Memberikan data dan penjelasan teknis terkait Framework GCG/ERM yang diminta untuk keperluan filing atau pelaporan wajib"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Menetapkan dan mengumumkan metodologi teknis (framework) ERM, GCG, compliance, dan ICS, yang wajib dijadikan acuan oleh seluruh unit kerja",
+                    "Meminta, mengakses, dan memeriksa seluruh data, dokumen, dan sistem informasi yang relevan untuk pelaksanaan control self-assessment (CSA) dan risk monitoring",
+                    "Merekomendasikan kepada GM LGRMC untuk menghentikan sementara proses bisnis yang menunjukkan critical control failure atau memiliki eksposur risiko tinggi yang belum dimitigasi",
+                    "Mengalokasikan dan mendelegasikan tugas risk assessment dan compliance monitoring kepada tim RMGCIC"
+                ],
+                "Section": "Spesifikasi Jabatan"
+                [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S2",
+                            "Jurusan": "Manajemen Risiko, Hukum Korporasi, Akuntansi, atau setara"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 7-9 tahun total, dengan pengalaman manajerial/spesialis senior minimal 3 tahun di fungsi GRC, Audit Internal, atau Manajemen Risiko"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Kerangka Kerja Manajemen Risiko (ERM)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Tata Kelola Perusahaan (GCG) & Pengendalian Internal (ICS)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Program Kepatuhan (Compliance)",
+                                "Level yang Dipersyaratkan": "Level 4 - Advanced"
+                            },
+                            {
+                                "nomor": 4, 
+                                "Kompetensi": "Audit/Assurance & Tindak Lanjut",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Expert"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Sistem Informasi Manajemen Risiko (SIM-R) / GRC Tools",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Spreadsheet & Analisis Data Statistik",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Sertifikasi Manajemen Risiko Level 4 (CRMP/ERMCP)",
+                                "keterangan": "Wajib dimiliki untuk memvalidasi keahlian dalam merancang framework ERM korporasi"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "nomor": 1,
+                                "sertifikat": "Certified GRC Professional (CGRC) atau Certified Internal Auditor (CIA)",
+                                "keterangan": "Sangat dianjurkan untuk memperkuat fungsi GCG dan Internal Control System"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "'Sehat jasmani dan rohani, lulus Medical Check Up (MCU) level eksekutif, dan tidak memiliki riwayat penyakit kronis yang membatasi kemampuan on-demand travel atau konsentrasi tinggi",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu menunjukkan ketahanan mental (resilience) tinggi, memiliki keterampilan manajemen stres yang teruji, dan stabil dalam pengambilan keputusan di bawah tekanan krisis risiko",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis di Kantor Pusat, namun wajib melakukan perjalanan dinas ke lokasi operasional untuk Risk Assessment dan Control Assessment",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jkerja normal, namun memerlukan overtime tinggi saat menyusun Risk Report atau menangani insiden risiko/kepatuhan mendesak",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Dokumen ERM framework dan metodologi penilaian risiko korporasi",
+                        "ALaporan risk register korporasi (top risks) dan laporan status mitigasi risiko",
+                        "Dokumen pedoman GCG dan laporan GCG assessment",
+                        "Laporan compliance universe dan audit kepatuhan triwulanan",
+                        "Dokumen ICS framework dan laporan control self-assessment (CSA)",
+                        "Fraud risk register dan laporan tindak lanjut temuan audit/GCG"
+                ]
+            }
+        ],
+        "Name": "Job Profile Risk Management Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Risk Management Officer",
+                    "Tingkat Band": "Band 3",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Senior Manager of Risk Management & Governance, Compliance & Internal Control"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Melaksanakan dan menganalisis proses Enterprise Risk Management (ERM) di tingkat operasional"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Memimpin dan Memfasilitasi Risk Assessment Workshop dan melakukan analisis data insiden risiko untuk penentuan skor risiko",
+                        "Hasil yang Diharapkan": "95% risk register unit kerja terisi dengan risk scoring yang akurat dan tervalidasi"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Menyusun draft laporan status risiko dan rekomendasi teknis untuk risk register korporasi bagi senior manager",
+                        "Hasil yang Diharapkan": "Draft laporan risk register bulanan/triwulanan diserahkan tepat waktu"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Memverifikasi dan memonitor implementasi rencana mitigasi oleh unit kerja dan melaporkan gap yang ditemukan",
+                        "Hasil yang Diharapkan": "Update status mitigasi risiko unit kerja mencapai 90% dari target"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Tidak memiliki wewenang anggaran; bertindak sebagai analis potensi dampak finansial dari risiko operasional"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengawasi seluruh risk owner (staf/officer di unit lain) dalam pelaksanaan risk assessment dan memimpin RMJO"
+                    },
+                    {
+                        "Bawahan Langsung": "Risk Management Junior Officer"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Risk Management dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Senior Manager RMGCIC",
+                            "Tujuan": "Melaporkan status analisis dan hasil Risk Assessment, menerima instruksi high-level"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Risk Management Junior Officer",
+                            "Tujuan": "Memberikan delegasi tugas data entry dan pengarsipan, serta mengawasi kualitas data"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Seluruh Unit Kerja/Risk Owner",
+                            "Tujuan": "Memfasilitasi Risk Workshop, verifikasi data insiden risiko, dan menguji tindak lanjut mitigasi"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": 1,
+                                "Unit Instansi": "Konsultan/AuRegulator (OJK, BUMN, dll.)",
+                                "Tujuan": "Berkoordinasi untuk pengumpulan data dan dokumentasi hasil analisis risiko"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Memimpin dan menjalankan Risk Assessment Workshop (sesuai metodologi SM)",
+                    "Meminta dan mengakses seluruh data insiden risiko, Key Risk Indicator (KRI), dan data mitigasi dari Unit Kerja",
+                    "Mendistribusikan dan mendelegasikan tugas harian data entry dan pengarsipan kepada RMJO"
+                ],
+                "Section": "Spesifikasi Jabatan"
+                [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Akuntansi, Teknik, Manajemen Risiko, atau setara"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 3-5 tahun di bidang Manajemen Risiko atau Audit Internal"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Metodologi Risk Assessment, ISO 31000, dan Statistik Dasar",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "ISO 31000",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Statistik Dasar",
+                                "Level yang Dipersyaratkan": "Level 3 - Proficient"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "pada MS Excel (Statistical Functions, Modeling)",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "GRC System/SIM-R (Full Access)",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Data Visualization Tools (Power BI/Tableau)",
+                                "Level yang Dipersyaratkan": "Advanced"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": 1,
+                                "sertifikat": "Sertifikasi Manajemen Risiko Level 2 (CRMO/ERMAP)",
+                                "keterangan": "Memastikan kompetensi dalam melaksanakan dan menganalisis proses penilaian risiko, termasuk identifikasi, pengukuran, dan mitigasi risiko operasional"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani. Mampu melakukan perjalanan dinas sesekali (10-20%) ke lokasi operasional",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu bekerja dengan ketelitian dan fokus tinggi dalam menganalisis data risiko yang kompleks",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis di Kantor Pusat, dengan kunjungan lapangan untuk Risk Assessment",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal, dengan overtime saat penutupan periode pelaporan risiko",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Laporan hasil risk assessment unit kerja dan laporan trending insiden risiko",
+                        "Draft laporan risk register korporasi (Input untuk SM)",
+                        "Laporan Status Verifikasi Implementasi Mitigasi Risiko Unit",
+                        "Database Risiko (SIM-R) terbarui dan tervalidasi"
+                ]
+            }
+        ],
+        "Name": "Job Profile Risk Management Junior Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Risk Management Junior Officer",
+                    "Tingkat Band": "Band 4",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Risk Management Officer"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Memberikan dukungan eksekusi dan administrasi data primer yang akurat kepada Risk Management Officer"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Memasukkan data insiden risiko, risk register baru, dan key risk indicator (KRI) ke dalam SIM-R",
+                        "Hasil yang Diharapkan": "100% data SIM-R terbarui tepat waktu"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengumpulkan data insiden dan mitigasi dari unit kerja dan mengadministrasikan dokumen ERM (copy dokumen, jadwal rapat)",
+                        "Hasil yang Diharapkan": "Dokumen ERM terarsip rapi"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Membantu Officer dalam penyiapan materi presentasi risiko dan laporan status risiko sederhana",
+                        "Hasil yang Diharapkan": "Materi presentasi dan laporan rutin (harian/mingguan) disiapkan akurat"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Input data yang berpotensi memiliki dampak finansial"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengkoordinasikan pengumpulan data dari staf Unit Kerja"
+                    },
+                    {
+                        "Bawahan Langsung": "-"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Risk Management dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Risk Management Officer",
+                            "Tujuan": "Menerima instruksi harian, menyerahkan data hasil entry, dan melaporkan kendala pengumpulan data"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Staf/PIC Unit Kerja (Risk Owner)",
+                            "Tujuan": "Koordinasi pengumpulan data insiden risiko, bukti mitigasi, dan follow-up kelengkapan dokumen"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Unit IT/Digital",
+                            "Tujuan": "Berkoordinasi untuk troubleshooting atau input access pada SIM-R/Database Risiko"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": "-",
+                                "Unit Instansi": "-",
+                                "Tujuan": "-"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengakses SIM-R atau database risiko untuk tujuan data entry dan update status",
+                    "Meminta data insiden risiko rutin kepada staf unit kerja (sesuai SOP)"
+                ],
+                "Section": "Spesifikasi Jabatan"
+                [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Akuntansi/Manajemen/Teknik"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 1-3 tahun di bidang data processing atau administratif"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Metodologi Risk Assessment Dasar",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Siklus Hidup Dokumen ERM",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Basic"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "MS Excel (Data Entry, Basic Formulas, Pivot Table)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "GRC System/SIM-R (Input Only)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Document Management System (DMS)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani serta memiliki kemampuan duduk lama dan beraktivitas di depan komputer",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu bekerja dengan ketelitian dan akurasi tinggi dalam data entry di bawah deadline rutin",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis kantor pusat (dominan), dengan perjalanan dinas yang sangat minim",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Database risiko (SIM-R) terbarui harian/mingguan",
+                        "Arsip dokumen ERM terindeks dan terkontrol",
+                        "Laporan rutin (Harian/Mingguan) data entry risiko"
+                ]
+            }
+        ],
+         "Name": "Job Profile Governance, Compliance & Internal Control Officer" [
+            {
+                "Section": "Identifikasi" [
+                    {
+                    "Jabatan": "Governance, Compliance & Internal Control Officer",
+                    "Tingkat Band": "Band 3",
+                    "Direktorat": " Financial Director",
+                    "Group Head": "-",
+                    "Department": "Legal, Governance, Risk Management & Compliance",
+                    "Unit": "-",
+                    "Seksi": "-",
+                    "Perusahaan": "PT Semen Indonesia Logistik",
+                    "Jabatan Atasan": "Senior Manager of Risk Management & Governance, Compliance & Internal Control"
+                    }
+                ],
+                "Section": "Tujuan Jabatan" [
+                    "Melaksanakan, menguji, dan memonitor efektivitas Program GCG, Kepatuhan, dan Pengendalian Internal"
+                ],
+                "Section": "Tanggung Jawab" [
+                    {
+                        "nomor": 1,
+                        "Tanggung Jawab": "Melaksanakan dan mendokumentasikan pengujian Control Self-Assessment (CSA) pada proses bisnis krusial, dan menganalisis gap kontrol yang ditemukan",
+                        "Hasil yang Diharapkan": "100% data SIM-R terbarui tepat waktu"
+                    },
+                    {
+                        "nomor": 2,
+                        "Tanggung Jawab": "Mengumpulkan data insiden dan mitigasi dari unit kerja dan mengadministrasikan dokumen ERM (copy dokumen, jadwal rapat)",
+                        "Hasil yang Diharapkan": "Dokumen ERM terarsip rapi"
+                    },
+                    {
+                        "nomor": 3,
+                        "Tanggung Jawab": "Membantu Officer dalam penyiapan materi presentasi risiko dan laporan status risiko sederhana",
+                        "Hasil yang Diharapkan": "Materi presentasi dan laporan rutin (harian/mingguan) disiapkan akurat"
+                    }
+                ],
+                "Section": "Dimensi" [
+                    {
+                        "Dimensi Keuangan": "Input data yang berpotensi memiliki dampak finansial"
+                    },
+                    {
+                        "Dimensi non Keuangan": "Mengkoordinasikan pengumpulan data dari staf Unit Kerja"
+                    },
+                    {
+                        "Bawahan Langsung": "-"
+                    },
+                    {
+                        "Cakupan Wilayah": "Unit Risk Management dalam Department Legal, Governance, Risk Management & Compliance"
+                    }
+                ],
+                "Section": "Hubungan Kerja" [
+                    {
+                        "hubungan kerja": "Internal Perusahaan" [
+                            {
+                            "nomor": 1,
+                            "Unit Instansi": "Risk Management Officer",
+                            "Tujuan": "Menerima instruksi harian, menyerahkan data hasil entry, dan melaporkan kendala pengumpulan data"
+                            },
+                            {
+                            "nomor": 2,
+                            "Unit Instansi": "Staf/PIC Unit Kerja (Risk Owner)",
+                            "Tujuan": "Koordinasi pengumpulan data insiden risiko, bukti mitigasi, dan follow-up kelengkapan dokumen"
+                            },
+                            {
+                            "nomor": 3,
+                            "Unit Instansi": "Unit IT/Digital",
+                            "Tujuan": "Berkoordinasi untuk troubleshooting atau input access pada SIM-R/Database Risiko"
+                            }
+                        ],
+                        "hubungan kerja": "Eksternal Perusahaan" [
+                            {
+                                "nomor": "-",
+                                "Unit Instansi": "-",
+                                "Tujuan": "-"
+                            }
+                        ]
+                    }
+                ],
+                "Section": "Wewenang" [
+                    "Mengakses SIM-R atau database risiko untuk tujuan data entry dan update status",
+                    "Meminta data insiden risiko rutin kepada staf unit kerja (sesuai SOP)"
+                ],
+                "Section": "Spesifikasi Jabatan"
+                [
+                    {
+                        "Jenis": "Spesifikasi Umum Jabatan" {
+                            "Pendidikan": {
+                            "Kualifikasi Pendidikan": "Minimal S1",
+                            "Jurusan": "Akuntansi/Manajemen/Teknik"
+                            },
+                            "Pengalaman Kerja": {
+                            "Minimal 1-3 tahun di bidang data processing atau administratif"
+                            }
+                        },
+                    },
+                    {
+                        "Jenis": "Core Values" {
+                            "1": "Amanah",
+                            "2": "Kompeten",
+                            "3": "Loyal",
+                            "4": "Adaptif",
+                            "5": "Kolaboratif",
+                            "6": "Harmonis"
+                        },
+                    },
+                    {
+                        "Jenis": "Kompetensi Jabatan" 
+                        {
+                            "Kompetensi Perilaku": "Kompetensi Inti" [
+                                "Authenticity",
+                                "Learning Agility",
+                                "Adaptability",
+                                "Valuing Diversity"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Primer" [
+                                "Strategic Planning",
+                                "Business Insight",
+                                "Developing Startegic Relationship",
+                                "Leading Change",
+                                "Aligning Performance for Success"
+                            ],
+                            "Kompetensi Perilaku": "Kompetensi Bidang Sekunder" [
+                                "Leading Through Vision and Values",
+                                "Strategic Influence",
+                                "Driving Execution"
+                            ]
+                        },
+                        {
+                            "Kompetensi Teknis": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Metodologi Risk Assessment Dasar",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "Siklus Hidup Dokumen ERM",
+                                "Level yang Dipersyaratkan": "Level 2 - Basic"
+                            }
+                        },
+                        {
+                            "Bahasa": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "Inggris",
+                                "Level yang Dipersyaratkan": "Basic"
+                            }
+                        },
+                        {
+                            "Komputer": 
+                            {
+                                "nomor": 1,
+                                "Kompetensi": "MS Excel (Data Entry, Basic Formulas, Pivot Table)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 2,
+                                "Kompetensi": "GRC System/SIM-R (Input Only)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            },
+                            {
+                                "nomor": 3,
+                                "Kompetensi": "Document Management System (DMS)",
+                                "Level yang Dipersyaratkan": "Proficient"
+                            }
+                        }
+                    },
+                    {
+                        "Jenis": "Sertifikasi"
+                        {
+                            "sertifikasi": "wajib" 
+                            {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        },
+                        {
+                            "sertifikasi": "optional" {
+                                "nomor": "-",
+                                "sertifikat": "-",
+                                "keterangan": "-"
+                            }
+                        }
+                    }
+                ],
+                "Section": "Kesehatan dan Lingkungan Kerja" [
+                {
+                    "nomor": 1,
+                    "Persyaratan": "Sehat jasmani dan rohani serta memiliki kemampuan duduk lama dan beraktivitas di depan komputer",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 2,
+                    "Persyaratan": "Mampu bekerja dengan ketelitian dan akurasi tinggi dalam data entry di bawah deadline rutin",
+                    "keterangan": "Baik"
+                },
+                {
+                    "nomor": 3,
+                    "Persyaratan": "Berbasis kantor pusat (dominan), dengan perjalanan dinas yang sangat minim",
+                    "Keterangan": "Baik"
+                },
+                {
+                    "nomor": 4,
+                    "Persyaratan": "Jam kerja normal",
+                    "Keterangan": "Baik"
+                }
+                ],
+                "Section": "Output" [
+                        "Database risiko (SIM-R) terbarui harian/mingguan",
+                        "Arsip dokumen ERM terindeks dan terkontrol",
+                        "Laporan rutin (Harian/Mingguan) data entry risiko"
+                ]
+            }
+        ],
+    }
+]
