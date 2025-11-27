@@ -13,7 +13,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "PRESIDENT DIRECTOR"
       },
-      "tujuan_jabatan": "Mempelopori dan mengkoordinasikan pelaksanaan strategi pengadaan perusahaan (NOW) dengan memimpin perencanaan kebutuhan, proses sourcing, evaluasi vendor, dan pengendalian kontrak lintas unit (WHAT) untuk memastikan efisiensi biaya, kepatuhan, kualitas layanan, dan pemenuhan kebutuhan operasional perusahaan secara optimal (WHY).",
+      "tujuan_jabatan": "Mengelola dan mengarahkan pelaksanaan strategi pengadaan perusahaan (HOW) dengan memimpin perencanaan kebutuhan, proses sourcing, evaluasi vendor, dan pengendalian kontrak lintas unit (WHAT) untuk memastikan efisiensi biaya, kepatuhan, kualitas layanan, dan pemenuhan kebutuhan operasional perusahaan secara optimal (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -22,22 +22,22 @@
         },
         {
           "id": 2,
-          "tanggung_jawab": "Mengkoordinasikan perencanaan kebutuhan pengadaan tahunan (APP) dan memastikan keselarasan dengan RKAP serta kebutuhan operasional.",
+          "tanggung_jawab": "Mengendalikan perencanaan kebutuhan pengadaan tahunan (APP) dan memastikan keselarasan dengan RKAP serta kebutuhan operasional.",
           "hasil_diharapkan": "APP tersusun akurat, prioritas pengadaan jelas, dan kebutuhan user terpenuhi tepat waktu dan tepat nilai."
         },
         {
           "id": 3,
-          "tanggung_jawab": "Mengawasi seluruh proses sourcing vendor, tender, evaluasi penawaran, negosiasi, dan penunjukan penyedia lintas unit.",
+          "tanggung_jawab": "Mengawasi seluruh proses sourcing vendor, tender, evaluasi penawaran, negosiasi, dan penunjukan pemenang lintas unit.",
           "hasil_diharapkan": "Penunjukan vendor berlangsung transparan, kompetitif, dan menghasilkan nilai terbaik dari harga, kualitas, dan ketepalan pengiriman."
         },
         {
           "id": 4,
-          "tanggung_jawab": "Memantau evaluasi kinerja vendor, termasuk penilaian kualitas layanan, ketepatan waktu, dan kepatuhan terhadap perjanjian.",
-          "hasil_diharapkan": "Pemeringkatan kualitas vendor secara berkala dan mitigasi risiko pengadaan melalui perbaikan berkelanjutan."
+          "tanggung_jawab": "Mengarahkan evaluasi kinerja vendor, termasuk penilaian kualitas layanan, ketepatan waktu, dan kepatuhan terhadap kontrak.",
+          "hasil_diharapkan": "Peningkatan kualitas vendor secara berkala dan mitigasi risiko pengadaan melalui perbaikan berkelanjutan."
         },
         {
           "id": 5,
-          "tanggung_jawab": "Mengawasi proses perancangan kontrak, kesesuaian dokumen, serta aspek legalitas bersama fungsi Legal dan Finance.",
+          "tanggung_jawab": "Mengendalikan proses penerbitan kontrak, kesesuaian dokumen, serta kepastian legalitas bersama fungsi Legal dan Finance.",
           "hasil_diharapkan": "Kontrak valid, lolos pemeriksaan audit, dan mengurangi risiko hukum dan finansial perusahaan."
         },
         {
@@ -53,7 +53,7 @@
         {
           "id": 8,
           "tanggung_jawab": "Mengoptimalkan biaya pengadaan melalui strategi negosiasi, konsolidasi kebutuhan, serta analisis cost-saving.",
-          "hasil_diharapkan": "Penghematan biaya tercapai tanpa mengorbankan kualitas dan ketepalan layanan bagi user."
+          "hasil_diharapkan": "Penghematan biaya tercapai tanpa mengorbankan kualitas dan ketepatan layanan bagi user."
         },
         {
           "id": 9,
@@ -67,10 +67,10 @@
         }
       ],
       "dimensi": {
-        "keuangan": "",
-        "non_keuangan": "",
-        "bawahan_langsung": "",
-        "cakupan_wilayah": ""
+        "keuangan": "Mengelola keseluruhan nilai spend & kontrak pengadaan barang/jasa perusahaan.",
+        "non_keuangan": "Volume PR/PO, vendor, kontrak, SLA procurement, compliance SOP",
+        "bawahan_langsung": "SM of Logistics Procurement; SM of Construction & Head Office Procurement; SM of Cruise & Port Operations Procurement.",
+        "cakupan_wilayah": "Seluruh area dan unit operasional SILOG."
       },
       "hubungan_kerja": {
         "internal": [
@@ -80,7 +80,7 @@
           },
           {
             "unit": "Legal",
-            "tujuan": "Memastikan seluruh dokumen kontrak, adendum, dan legalitas tender sesuai ketentuan hukum dan standar compliance perusahaan."
+            "tujuan": "Memastikan seluruh dokumen kontrak, adendum, dan kegiatan tender sesuai ketentuan hukum dan standar compliance perusahaan."
           },
           {
             "unit": "FNFP",
@@ -88,15 +88,15 @@
           },
           {
             "unit": "Operational Logistic",
-            "tujuan": "Memenuhi kebutuhan barang/jasa operasi secara tepat waktu, tepat spesifikasi, dan mendukung kelancaran operasional unit."
+            "tujuan": "Memenuhi kebutuhan barang/jasa operasional secara tepat waktu, tepat spesifikasi, dan mendukung kelancaran operasional unit."
           },
           {
             "unit": "Unit Construction & HO",
-            "tujuan": "Memenuhi kebutuhan pengadaan konstruksi, jasa teknik, dan kebutuhan administratif head office sesuai standar kualitas."
+            "tujuan": "Mengelola kebutuhan pengadaan konstruksi, jasa teknis, dan kebutuhan administratif head office sesuai standar kualitas."
           },
           {
             "unit": "Warehouse / Asset Management",
-            "tujuan": "Sinkronisasi penerimaan barang, pemeriksaan spesifikasi, dan penyelesaian ketidaksesuaian barang/jasa."
+            "tujuan": "Sinkronisasi penerimaan barang, pengecekan spesifikasi, dan penyelesaian ketidaksesuaian barang/jasa."
           },
           {
             "unit": "Procurement SM & Officers",
@@ -128,7 +128,7 @@
       ],
       "spesifikasi_jabatan": {
         "pendidikan": {
-          "kualifikasi": "S1 relevant, S2 dianjurkan",
+          "kualifikasi": "S1 relevan, S2 diutamakan",
           "jurusan_s1": "Manajemen, Teknik Industri, Logistik, Supply Chain, Administrasi Bisnis",
           "jurusan_s2": "Manajemen/Keuangan/Strategic Management"
         },
@@ -243,7 +243,7 @@
         },
         {
           "id": 2,
-          "tanggung_jawab": "Mengawasi proses sourcing vendor, termasuk pemanggilan penawaran, klarifikasi teknis, dan evaluasi dokumen.",
+          "tanggung_jawab": "Mengelola proses sourcing vendor, termasuk permintaan penawaran, klarifikasi teknis, dan evaluasi dokumen.",
           "hasil_diharapkan": "Pemilihan vendor berlangsung kompetitif dan sesuai kriteria teknis serta administratif."
         },
         {
@@ -258,13 +258,13 @@
         },
         {
           "id": 5,
-          "tanggung_jawab": "Mengajukan vendor pemenang untuk persetujuan GM Procurement.",
-          "hasil_diharapkan": "Rekomendasi pemenang objektif, tertulis, dan dapat dipertanggungjawabkan."
+          "tanggung_jawab": "Mengusulkan vendor pemenang untuk persetujuan GM Procurement.",
+          "hasil_diharapkan": "Rekomendasi pemenang objektif, terukur, dan dapat dipertanggungjawabkan."
         },
         {
           "id": 6,
           "tanggung_jawab": "Mengawasi penerbitan PO, kesesuaian dokumen, serta penyelesaian administrasi tender.",
-          "hasil_diharapkan": "PO tepat waktu, lolos screening, dan sesuai prosedur procurement."
+          "hasil_diharapkan": "PO tepat waktu, bebas kesalahan, dan sesuai prosedur procurement."
         },
         {
           "id": 7,
@@ -288,10 +288,10 @@
         }
       ],
       "dimensi": {
-        "keuangan": "",
-        "non_keuangan": "",
-        "bawahan_langsung": "",
-        "cakupan_wilayah": ""
+        "keuangan": "Mengelola nilai spend & kontrak pengadaan logistik serta efisiensi biaya unit Logistik",
+        "non_keuangan": "Volume PR/PO, vendor, dokumen tender/administrasi, SLA & compliance SOP procurement logistik.",
+        "bawahan_langsung": "Logistic Sourcing & Vendor Management Officer; Logistic Sourcing & Vendor Management Jr. Officer; Logistic Procurement Administration Officer; Logistic Procurement Administration Jr. Officer.",
+        "cakupan_wilayah": "Seluruh kebutuhan pengadaan untuk unit Logistik di area operasional perusahaan"
       },
       "hubungan_kerja": {
         "internal": [
@@ -308,7 +308,7 @@
             "tujuan": "Memastikan kebutuhan barang/jasa terpenuhi akurat dan tepat waktu."
           },
           {
-            "unit": "FP",
+            "unit": "FnFP",
             "tujuan": "Penyelarasan rencana kebutuhan unit dengan RKAP-APP."
           },
           {
@@ -321,7 +321,7 @@
           },
           {
             "unit": "GM Procurement",
-            "tujuan": "Pelaporan realisasi, eskalsasi issue, dan persetujuan vendor pemenang."
+            "tujuan": "Pelaporan realisasi, eskalasi issue, dan persetujuan vendor pemenang."
           }
         ],
         "eksternal": [
@@ -352,7 +352,7 @@
       ],
       "spesifikasi_jabatan": {
         "pendidikan": {
-          "kualifikasi": "S1 Relevant, S2 Procurement",
+          "kualifikasi": "S1 Relevant, S2 Diutamakan",
           "jurusan_s1": "Manajemen, Teknik Industri, Supply Chain, Logistik, Administrasi Bisnis",
           "jurusan_s2": ""
         },
@@ -458,7 +458,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "SM OF PROCUREMENT"
       },
-      "tujuan_jabatan": "Mengkoordinasikan proses pengadaan logistik secara end-to-end (HOW) melalui pengumpulan kebutuhan, sourcing vendor, permintaan penawaran, evaluasi administrasi, penyiapan dokumen tender, serta pemantauan pemenuhan barang/jasa (WHAT) untuk memastikan ketersediaan material logistik yang akurat, tepat waktu, dan sesuai spesifikasi demi kelancaran operasi perusahaan (WHY)",
+      "tujuan_jabatan": "Melaksanakan proses pengadaan logistik secara end-to-end (HOW) melalui pengumpulan kebutuhan, sourcing vendor, permintaan penawaran, evaluasi administrasi, penerbitan dokumen tender, serta pemantauan pemenuhan barang/jasa (WHAT) untuk memastikan ketersediaan material logistik yang akurat, tepat waktu, dan sesuai spesifikasi demi kelancaran operasi perusahaan (WHY)",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -477,7 +477,7 @@
         },
         {
           "id": 4,
-          "tanggung_jawab": "Mengkoordinasikan klarifikasi teknis dan administratif dengan vendor serta berkoordinasi dengan user.",
+          "tanggung_jawab": "Melaksanakan klarifikasi teknis dan administratif dengan vendor serta berkoordinasi dengan user.",
           "hasil_diharapkan": "Informasi penawaran lengkap, valid, dan dapat dievaluasi dengan objektif."
         },
         {
@@ -487,7 +487,7 @@
         },
         {
           "id": 6,
-          "tanggung_jawab": "Menyiapkan rekomendasi administratif pemenang tender dan diajukan SM untuk approval.",
+          "tanggung_jawab": "Membuat rekomendasi administratif pemenang tender dan diajukan SM LOgistics.",
           "hasil_diharapkan": "Rekomendasi terdokumentasi dan sesuai kriteria evaluasi."
         },
         {
@@ -512,10 +512,10 @@
         }
       ],
       "dimensi": {
-        "keuangan": "",
-        "non_keuangan": "",
+        "keuangan": "Mengelola nilai spend & proses evaluasi harga pengadaan logistik.",
+        "non_keuangan": "Volume PR/PO, vendor, dokumen tender, SLA sourcing & compliance SOP.",
         "bawahan_langsung": "",
-        "cakupan_wilayah": ""
+        "cakupan_wilayah": "Pengadaan logistik di seluruh area operasional terkait."
       },
       "hubungan_kerja": {
         "internal": [
@@ -3403,6 +3403,6 @@
       }
     }
   ]
-
 }
+
 
