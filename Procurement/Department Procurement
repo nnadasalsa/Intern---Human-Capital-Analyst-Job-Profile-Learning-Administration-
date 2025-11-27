@@ -68,7 +68,7 @@
       ],
       "dimensi": {
         "keuangan": "Mengelola keseluruhan nilai spend & kontrak pengadaan barang/jasa perusahaan.",
-        "non_keuangan": "Volume PR/PO, vendor, kontrak, SLA procurement, compliance SOP",
+        "non_keuangan": "Volume PR/PO, vendor, kontrak, SLA procurement, compliance SOP.",
         "bawahan_langsung": "SM of Logistics Procurement; SM of Construction & Head Office Procurement; SM of Cruise & Port Operations Procurement.",
         "cakupan_wilayah": "Seluruh area dan unit operasional SILOG."
       },
@@ -699,12 +699,12 @@
         },
         {
           "id": 6,
-          "tanggung_jawab": "Memastikan kelengkapan dokumen tender dari vendor",
+          "tanggung_jawab": "Menindaklanjuti kelengkapan dokumen tender dari vendor",
           "hasil_diharapkan": "Dokumen lengkap tidak kurang untuk tahap evaluasi."
         },
         {
           "id": 7,
-          "tanggung_jawab": "Memantau proses penerbitan PO (input sistem, pengesahan draft)",
+          "tanggung_jawab": "Mambantu proses penerbitan PO (input sistem, pengecekan data)",
           "hasil_diharapkan": "PO terbit cepat dan sesuai data tender"
         },
         {
@@ -724,10 +724,10 @@
         }
       ],
       "dimensi": {
-        "keuangan": "Tidak memegang keputusan finansial",
-        "non_keuangan": "",
+        "keuangan": "Tidak memiliki kewenangan finansial (hanya administrasi RFQ & penawaran).",
+        "non_keuangan": "Dokumen tender dasar, input data penawaran, kelengkapan dokumen vendor, arsip.",
         "bawahan_langsung": "",
-        "cakupan_wilayah": ""
+        "cakupan_wilayah": "Unit Logistics Procurement."
       },
       "hubungan_kerja": {
         "internal": [
@@ -887,7 +887,7 @@
         },
         {
           "id": 2,
-          "tanggung_jawab": "Menyiapkan dan mengelola dokumen administrasi tender tingkat lanjut (BA klarifikasi, undangan, LPB tender, hasil tender)",
+          "tanggung_jawab": "Menyiapkan dan mengelola dokumen administrasi tender tingkat lanjut (BA klarifikasi, undangan, LPB tender, risalah tender)",
           "hasil_diharapkan": "Dokumen tender lengkap, memenuhi standar audit, dan siap sebagai dasar evaluasi."
         },
         {
@@ -897,17 +897,17 @@
         },
         {
           "id": 4,
-          "tanggung_jawab": "Menerbitkan dan menandatangani PO berdasarkan hasil tender/kontrak, termasuk verifikasi harga, kuantitas, dan ketentuan komersial.",
+          "tanggung_jawab": "Menyusun dan menerbitkan PO berdasarkan hasil tender/kontrak, termasuk verifikasi harga, kuantitas, dan ketentuan komersial.",
           "hasil_diharapkan": "PO terbit akurat, sesuai kesepakatan, dan lolos risiko kesalahan harga."
         },
         {
           "id": 5,
-          "tanggung_jawab": "Mengkoordinasikan proses penerimaan barang/jasa dengan warehouse dan user, termasuk kelengkapan GRR&ST.",
+          "tanggung_jawab": "Mengkoordinasikan proses penerimaan barang/jasa dengan warehouse dan user, termasuk kelengkapan GR/BAST.",
           "hasil_diharapkan": "Penerimaan barang/jasa terdokumentasi rapi dan siap sebagai dasar pembayaran"
         },
         {
           "id": 6,
-          "tanggung_jawab": "Melakukan verifikasi kesesuaian invoice terhadap PO, kontrak, GRR&ST sebelum dikirimkan ke Finance.",
+          "tanggung_jawab": "Melakukan verifikasi kesesuaian invoice terhadap PO, kontrak, GR/BAST sebelum dikirimkan ke Finance.",
           "hasil_diharapkan": "Invoice yang disampaikan ke Finance lolos mismatch dan memenuhi persyaratan audit."
         },
         {
@@ -918,17 +918,17 @@
         {
           "id": 8,
           "tanggung_jawab": "Menyiapkan nomor pembayaran dan melakukan penjadwalan pembayaran (scheduling) sesuai ketentuan.",
-          "hasil_diharapkan": "Pembayaran tertata rapi dan sesuai ketentuan sehingga minim vendor complaint menurun."
+          "hasil_diharapkan": "Pembayaran terjadwal rapi dan risiko keterlambatan penalti/vendor complaint menurun."
         },
         {
           "id": 9,
-          "tanggung_jawab": "Menganalisa ketidaksesuaian dan kondisi status dokumen invoice/PO/GR yang tidak sesuai, serta berkoordinasi dengan vendor dan user.",
+          "tanggung_jawab": "Menangani klarifikasi dan koreksi atas dokumen dokumen invoice/PO/GR yang tidak sesuai, serta berkoordinasi dengan vendor dan user.",
           "hasil_diharapkan": "Permasalahan dokumen terselesaikan cepat dan tidak menghambat proses pembayaran."
         },
         {
           "id": 10,
-          "tanggung_jawab": "Mengarsipkan seluruh dokumen tender, kontrak, PO, GRR&ST, dan invoice secara sistematis untuk keperluan audit internal maupun eksternal.",
-          "hasil_diharapkan": "Arsip lengkap, tertata, dan memenuhi standar audit perusahaan."
+          "tanggung_jawab": "Mengarsipkan seluruh dokumen tender, kontrak, PO, GR/BAST, dan invoice secara sistematis untuk keperluan audit internal maupun eksternal.",
+          "hasil_diharapkan": "Arsip lengkap, telusur, dan memenuhi standar audit perusahaan."
         }
       ],
       "dimensi": {
@@ -1078,7 +1078,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "SM OF PROCUREMENT"
       },
-      "tujuan_jabatan": "Mengelola administrasi proses pengadaan logistik (HOW) dengan memproses PR, menyiapkan dan menata dokumen tender/kontrak, menerbitkan PO, memverifikasi dokumen invoice, serta memantau timeline pembayaran (WHAT) untuk memastikan akurasi, ketertiban, dan kelancaran alur administrasi pengadaan logistik sesuai SOP dan SLA (WHY).",
+      "tujuan_jabatan": "Mengelola administrasi proses pengadaan logistik (HOW) dengan memproses PR, menyiapkan dan menata dokumen tender/kontrak, menerbitkan PO, memverifikasi dokumen invoice, serta memantau status pembayaran (WHAT) untuk memastikan akurasi, ketertiban, dan kelancaran alur administrasi pengadaan logistik sesuai SOP dan SLA (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -1102,13 +1102,13 @@
         },
         {
           "id": 5,
-          "tanggung_jawab": "Mengarsipkan dokumen tender, PO, GRR&ST, dan invoice secara sistematis (fisik & digital).",
-          "hasil_diharapkan": "Arsip mudah diakses saat dibutuhkan untuk monitoring atau audit"
+          "tanggung_jawab": "Mengarsipkan dokumen tender, PO, GR/BAST, dan invoice secara sistematis (fisik & digital).",
+          "hasil_diharapkan": "Arsip mudah ditelusuri saat dibutuhkan untuk monitoring atau audit"
         },
         {
           "id": 6,
           "tanggung_jawab": "Mengumpulkan invoice vendor dan melakukan pengecekan dasar terhadap kecocokan nomor PO.",
-          "hasil_diharapkan": "Invoice siap diproses lebih lanjut oleh Officer tanpa menemui dasar."
+          "hasil_diharapkan": "Invoice siap diproses lebih lanjut oleh Officer tanpa mismatch dasar."
         },
         {
           "id": 7,
@@ -1274,53 +1274,53 @@
       "tanggung_jawab": [
         {
           "id": 1,
-          "tanggung_jawab": "Mengumpulkan dan memverifikasi PR kebutuhan konstruksi/HO dari user.",
-          "hasil_diharapkan": "PR lengkap, valid, dan siap ditindaklanjuti ke tahap sourcing."
+          "tanggung_jawab": "Menyusun rencana kebutuhan pengadaan konstruksi & HO berdasarkan prioritas unit & RKAP.",
+          "hasil_diharapkan": "Rencana kebutuhan akurat & selaras dengan anggaran proyek."
         },
         {
           "id": 2,
-          "tanggung_jawab": "Melakukan pencarian dan seleksi awal vendor konstruksi, kontraktor, konsultan, dan penyedia jasa HO.",
-          "hasil_diharapkan": "Daftar vendor memenuhi persyaratan legalitas & kualifikasi dasar."
+          "tanggung_jawab": "Mengkoordinasikan sourcing vendor konstruksi, kontraktor, konsultan, dan penyedia jasa pendukung.",
+          "hasil_diharapkan": "Vendor memenuhi persyaratan teknis, administratif, dan kualifikasi proyek."
         },
         {
           "id": 3,
-          "tanggung_jawab": "Menyiapkan dokumen tender konstruksi/HO (administrasi, undangan, TOR dasar dari user).",
-          "hasil_diharapkan": "Dokumen tender rapi, lengkap, dan siap didistribusikan."
+          "tanggung_jawab": "Mengawasi pelaksanaan tender konstruksi: pre-bid, site visit, klarifikasi, evaluasi teknis-komersial.",
+          "hasil_diharapkan": "Tender berjalan transparan, terdokumentasi, dan menghasilkan pemenang yang kompeten."
         },
         {
           "id": 4,
-          "tanggung_jawab": "Mengelola proses klarifikasi administrasi dan kesesuaian persyaratan vendor.",
-          "hasil_diharapkan": "Vendor tersaring sesuai ketentuan administrasi & compliance."
+          "tanggung_jawab": "Melakukan negosiasi ruang lingkup pekerjaan, jadwal proyek, dan nilai kontrak.",
+          "hasil_diharapkan": "Kontrak optimal, efisien, dan memenuhi standar keselamatan & kualitas."
         },
         {
           "id": 5,
-          "tanggung_jawab": "Melakukan evaluasi administrasi & komersial dasar sesuai arahan SM.",
-          "hasil_diharapkan": "Hasil evaluasi objektif dan terdokumentasi."
+          "tanggung_jawab": "Mengusulkan vendor pemenang tender kepada GM Procurement untuk persetujuan.",
+          "hasil_diharapkan": "Rekomendasi objektif dengan justifikasi lengkap berdasarkan evaluasi."
         },
         {
           "id": 6,
-          "tanggung_jawab": "Melakukan negosiasi harga termasuk harga, layanan dasar, dan paket.",
-          "hasil_diharapkan": "Usulan penawaran kompetitif untuk dibahas bersama SM."
+          "tanggung_jawab": "Mengawasi proses penerbitan PO/Kontrak dan memastikan kepatuhan dokumen.",
+          "hasil_diharapkan": "Dokumen kontrak lengkap, valid, dan sesuai SOP pengadaan."
         },
         {
           "id": 7,
-          "tanggung_jawab": "Mengajukan rekomendasi hasil vendor untuk tender GM sebelum finalisasi.",
-          "hasil_diharapkan": "Usulan vendor memiliki justifikasi logis dan berbasis data tender."
+          "tanggung_jawab": "Memantau kemajuan pekerjaan konstruksi & HO bersama user & kontraktor.",
+          "hasil_diharapkan": "Progres proyek sesuai timeline dan SLA, deviasi cepat diatasi."
         },
         {
           "id": 8,
-          "tanggung_jawab": "Mendukung penyusunan draft PO/kontrak dan memastikan dokumen vendor lengkap.",
-          "hasil_diharapkan": "Kontrak siap proses legal, tanpa kekurangan dokumen."
+          "tanggung_jawab": "Memimpin proses penyelesaian ketidaksesuaian pekerjaan, komplain, dan masalah lapangan.",
+          "hasil_diharapkan": "Isu terselesaikan tanpa mengganggu pelaksanaan proyek."
         },
         {
           "id": 9,
-          "tanggung_jawab": "Memantau progres pelaksanaan konstruksi/HO berdasarkan user dan vendor.",
-          "hasil_diharapkan": "Progres terpantau rutin, deviasi cepat diidentifikasi."
+          "tanggung_jawab": "Mengevaluasi kinerja vendor konstruksi & HO secara berkala.",
+          "hasil_diharapkan": "Vendor berkinerja baik dan risiko proyek menurun."
         },
         {
           "id": 10,
-          "tanggung_jawab": "Mengumpulkan data kinerja vendor untuk evaluasi berkala.",
-          "hasil_diharapkan": "Data evaluasi vendor terdokumentasi dan mendukung keputusan SM."
+          "tanggung_jawab": "Membimbing Officer & Jr. Officer dalam pelaksanaan tender & administrasi kontrak.",
+          "hasil_diharapkan": "Kapabilitas tim meningkat dan proses berjalan sesuai standar."
         }
       ],
       "dimensi": {
@@ -1508,7 +1508,7 @@
         {
           "id": 3,
           "tanggung_jawab": "Menyiapkan dokumen tender konstruksi/HO (administrasi, undangan, TOR dasar dari user).",
-          "hasil_diharapkan": "Dokumen tender rapi, lengkap, dan siap didistribusikan."
+          "hasil_diharapkan": "Dokumen tender rapi, lengkap, dan siap disirkulasikan."
         },
         {
           "id": 4,
@@ -1522,12 +1522,12 @@
         },
         {
           "id": 6,
-          "tanggung_jawab": "Melakukan negosiasi harga termasuk harga, layanan dasar, dan paket.",
+          "tanggung_jawab": "Melakukan negosiasi awal ruang lingkup kerja, biaya dasar, dan jadwal.",
           "hasil_diharapkan": "Usulan penawaran kompetitif untuk dibahas bersama SM."
         },
         {
           "id": 7,
-          "tanggung_jawab": "Mengajukan rekomendasi hasil vendor untuk tender GM sebelum finalisasi.",
+          "tanggung_jawab": "Menyusun rekomendasi awal vendor untuk review SM sebelum finalisasi.",
           "hasil_diharapkan": "Usulan vendor memiliki justifikasi logis dan berbasis data tender."
         },
         {
@@ -1537,7 +1537,7 @@
         },
         {
           "id": 9,
-          "tanggung_jawab": "Memantau progres pelaksanaan konstruksi/HO berdasarkan user dan vendor.",
+          "tanggung_jawab": "Memantau progres pekerjaan konstruksi/HO bersama user dan vendor.",
           "hasil_diharapkan": "Progres terpantau rutin, deviasi cepat diidentifikasi."
         },
         {
@@ -1722,7 +1722,7 @@
         {
           "id": 2,
           "tanggung_jawab": "Menghubungi vendor untuk pengumpulan penawaran (RFQ) dan dokumen administrasi.",
-          "hasil_diharapkan": "Dokumen vendor terkumpul dan tepat waktu."
+          "hasil_diharapkan": "Dokumen vendor lengkap dan tepat waktu."
         },
         {
           "id": 3,
@@ -1918,7 +1918,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT"
       },
-      "tujuan_jabatan": "Mengelola administrasi pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui verifikasi PR, penyusunan dokumen tender, penerbitan PO, pengelolaan dokumen kontrak, serta verifikasi invoice dan jadwal pembayaran (WHAT) untuk memastikan akurasi, kepatuhan, dan kelancaran proses administrasi pengadaan (WHY).",
+      "tujuan_jabatan": "Mengelola administrasi pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui verifikasi PR, penyusunan dokumen tender, penerbitan PO, pengendalian dokumen kontrak, serta verifikasi invoice dan jadwal pembayaran (WHAT) untuk memastikan akurasi, kepatuhan, dan kelancaran proses administrasi pengadaan (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -1937,7 +1937,7 @@
         },
         {
           "id": 4,
-          "tanggung_jawab": "Menyusun dan menandatangani PO berdasarkan pemenang tender atau kontrak yang disetujui.",
+          "tanggung_jawab": "Menyusun dan menerbitkan PO berdasarkan hasil tender atau kontrak yang disetujui.",
           "hasil_diharapkan": "PO akurat, tepat waktu, dan sesuai ketentuan pengadaan."
         },
         {
@@ -1957,7 +1957,7 @@
         },
         {
           "id": 8,
-          "tanggung_jawab": "Melakukan penjadwalan pembayaran dan mengirimkan reminder internal untuk invoice yang mendekati jatuh tempo.",
+          "tanggung_jawab": "Melakukan penjadwalan pembayaran dan menjadwalkan reminder internal untuk invoice yang mendekati jatuh tempo.",
           "hasil_diharapkan": "Proses pembayaran minim keterlambatan dan transparan."
         },
         {
@@ -2135,7 +2135,7 @@
         {
           "id": 2,
           "tanggung_jawab": "Menyiapkan dokumen administrasi tender (undangan, daftar hadir, form administrasi).",
-          "hasil_diharapkan": "Dokumen tender rapi, sesuai template, siap didistribusikan."
+          "hasil_diharapkan": "Dokumen tender rapi, sesuai template, siap disirkulasikan."
         },
         {
           "id": 3,
@@ -2150,7 +2150,7 @@
         {
           "id": 5,
           "tanggung_jawab": "Mengarsipkan dokumen tender, kontrak, PO, BAST/GR, dan administrasi proyek.",
-          "hasil_diharapkan": "Arsip mudah diakses & memenuhi standar audit."
+          "hasil_diharapkan": "Arsip mudah ditelusuri & memenuhi standar audit."
         },
         {
           "id": 6,
@@ -2331,7 +2331,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "GM OF PROCUREMENT"
       },
-      "tujuan_jabatan": "Mengelola proses pengadaan Cruise & Port Operations (HOW) dengan memimpin perencanaan kebutuhan, sourcing vendor maritim, tender layanan pelabuhan, negosiasi, kontraktasi, serta monitoring pemenuhan barang/jasa operasional (WHAT) untuk memastikan kelancaran layanan pelabuhan, efisiensi biaya, dan pemenuhan SLA operasional (WHY).",
+      "tujuan_jabatan": "Mengelola proses pengadaan Cruise & Port Operations (HOW) dengan memimpin perencanaan kebutuhan, sourcing vendor maritim, tender layanan pelabuhan, negosiasi, kontraktual, serta monitoring pemenuhan barang/jasa operasional (WHAT) untuk memastikan kelancaran layanan pelabuhan, efisiensi biaya, dan pemenuhan SLA operasional (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -2350,18 +2350,18 @@
         },
         {
           "id": 4,
-          "tanggung_jawab": "Melakukan negosiasi harga termasuk pekerjaan, harga layanan, jadwal, dan ketentuan port service.",
+          "tanggung_jawab": "Melakukan negosiasi ruang lingkup pekerjaan, harga layanan, jadwal, dan ketentuan port service.",
           "hasil_diharapkan": "Kesepakatan kontrak kompetitif, efisien, dan mendukung operasional pelabuhan."
         },
         {
           "id": 5,
-          "tanggung_jawab": "Mengajukan vendor pemenang tender kepada GM Procurement untuk persetujuan.",
-          "hasil_diharapkan": "Rekomendasi vendor berdasarkan evaluasi objektif & analisis yang kuat."
+          "tanggung_jawab": "Mengusulkan vendor pemenang tender kepada GM Procurement untuk persetujuan.",
+          "hasil_diharapkan": "Rekomendasi vendor berbasis evaluasi objektif & analisis yang kuat."
         },
         {
           "id": 6,
-          "tanggung_jawab": "Mengawasi proses penerbitan PO/kontrak dan kesesuaian dokumen vendor.",
-          "hasil_diharapkan": "Dokumen kontraktasi valid, lengkap, dan sesuai SOP procurement."
+          "tanggung_jawab": "Mengawasi proses penerbitan PO/kontrak dan kelengkapan dokumen vendor.",
+          "hasil_diharapkan": "Dokumen kontraktual sah, lengkap, dan sesuai SOP procurement."
         },
         {
           "id": 7,
@@ -2370,7 +2370,7 @@
         },
         {
           "id": 8,
-          "tanggung_jawab": "Mengelola eskalasi masalah layanan, keterlambatan, atau ketidaksesuaian vendor C&P.",
+          "tanggung_jawab": "Menangani eskalasi masalah layanan, keterlambatan, atau ketidaksesuaian vendor C&P.",
           "hasil_diharapkan": "Permasalahan diselesaikan tanpa mengganggu operasional pelabuhan."
         },
         {
@@ -2558,11 +2558,11 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
       },
-      "tujuan_jabatan": "Melakukan proses pengadaan Cruise & Port Operations (HOW) melalui sourcing vendor maritim, penyiapan tender, klarifikasi teknis/administrasi, evaluasi penawaran, negosiasi awal, serta pengelolaan kontrak dan layanan operasional pelabuhan (WHAT) untuk memastikan pemenuhan kebutuhan C&P secara efektif, kompetitif, dan sesuai SLA operasional (WHY).",
+      "tujuan_jabatan": "Melakukan proses pengadaan Cruise & Port Operations (HOW) melalui sourcing vendor maritim, penyiapan tender, klarifikasi teknis-administrasi, evaluasi penawaran, negosiasi awal, serta pengendalian kontrak dan layanan operasional pelabuhan (WHAT) untuk memastikan pemenuhan kebutuhan C&P secara efektif, kompetitif, dan sesuai SLA operasional (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
-          "tanggung_jawab": "Menyusun PR kebutuhan Cruise & Port Operations dari unit terkait dan memverifikasi kelengkapan dasar.",
+          "tanggung_jawab": "Mengumpulkan PR kebutuhan Cruise & Port Operations dari unit terkait dan memverifikasi kelengkapan dasar.",
           "hasil_diharapkan": "PR siap diproses tanpa kekurangan data."
         },
         {
@@ -2602,13 +2602,13 @@
         },
         {
           "id": 9,
-          "tanggung_jawab": "Menyiapkan kelengkapan dokumen kontrak dan memastikan vendor memenuhi persyaratan.",
-          "hasil_diharapkan": "Dokumen kontrak siap proses legal dan lolos kekurangan."
+          "tanggung_jawab": "Mengelola kelengkapan dokumen kontrak dan memastikan vendor memenuhi persyaratan.",
+          "hasil_diharapkan": "Dokumen kontrak siap proses legal dan bebas kekurangan."
         },
         {
           "id": 10,
-          "tanggung_jawab": "Memastikan pemenuhan layanan pelabuhan (delivery supplies, utility support, docking, cleaning) dan menindaklanjuti masalah operasional.",
-          "hasil_diharapkan": "SLA tercapai dan masalah teridentifikasi cepat."
+          "tanggung_jawab": "Memantau pemenuhan layanan pelabuhan (delivery supplies, utility support, docking, fueling) dan menindaklanjuti masalah operasional.,",
+          "hasil_diharapkan": "SLA tercapai dan masalah terselesaikan cepat."
         }
       ],
       "dimensi": {
@@ -2989,7 +2989,7 @@
       "effective_date": "1 Januari 2025",
       "identification": {
         "jabatan": "CRUISE & PORT OPERATIONS PROCUREMENT ADMINISTRATION OFFICER",
-        "tingkat_banding": "Banc3",
+        "tingkat_banding": "Band 3",
         "direktorat": "PRESIDENT DIRECTOR",
         "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
         "departemen": "DEPARTMENT OF PROCUREMENT",
@@ -2998,7 +2998,7 @@
         "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
         "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
       },
-      "tujuan_jabatan": "Mengelola administrasi pengadaan Cruise & Port Operations (HOW) dengan memeriksa PR, menyusun dokumen tender, mengelola PO dan kontrak, memeriksa invoice, memastikan kelengkapan dokumen vendor, serta mengarsipkan seluruh dokumen pelaksanaan layanan pelabuhan (WHAT), untuk memastikan proses procurement dan pemenuhan SLA operations (WHY).",
+      "tujuan_jabatan": "Mengelola administrasi pengadaan Cruise & Port Operations (HOW) dengan memverifikasi PR, menyiapkan dokumen tender, mengelola PO dan kontrak, memeriksa invoice, memastikan kelengkapan dokumen vendor, serta mengarsipkan seluruh dokumen pelaksanaan layanan pelabuhan (WHAT) untuk menjamin ketertiban proses procurement dan pemenuhan SLA operasional (WHY).",
       "tanggung_jawab": [
         {
           "id": 1,
@@ -3017,7 +3017,7 @@
         },
         {
           "id": 4,
-          "tanggung_jawab": "Menyusun dan memeriksa PO berdasarkan hasil tender atau kontrak.",
+          "tanggung_jawab": "Menyusun dan menerbitkan PO berdasarkan hasil tender atau kontrak.",
           "hasil_diharapkan": "PO akurat, tepat waktu, sesuai SOP dan approval line."
         },
         {
@@ -3032,12 +3032,12 @@
         },
         {
           "id": 7,
-          "tanggung_jawab": "Menginput invoice ke Finance dan memantau status verifikasi serta jadwal pembayaran.",
+          "tanggung_jawab": "Mengirimkan invoice ke Finance dan memantau status verifikasi serta jadwal pembayaran.",
           "hasil_diharapkan": "Pembayaran tepat waktu dan vendor mendapatkan update status."
         },
         {
           "id": 8,
-          "tanggung_jawab": "Menginformasikan user/Finance atas dokumen yang belum lengkap atau jadwal tempo pembayaran.",
+          "tanggung_jawab": "Mengingatkan user/Finance atas dokumen yang belum lengkap atau jatuh tempo pembayaran.",
           "hasil_diharapkan": "SLA pembayaran terjaga dan risiko keterlambatan minim."
         },
         {
