@@ -1,0 +1,597 @@
+{
+  "Profil Jabatan": [
+    {
+      "effective_date": "",
+      "identification": {
+        "jabatan": "TASK FORCE REMIDIAL RECOVERY SENIOR OFFICER",
+        "tingkat_banding": "Band 2",
+        "direktorat": "",
+        "group_head": "GROUP HEAD OF STRATEGIC FINANCE",
+        "departemen": "-",
+        "unit": "TASK FORCE REMIDIAL RECOVERY",
+        "seksi": "SECTION OF TASK FORCE REMIDIAL RECOVERY",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": ""
+      },
+      "tujuan_jabatan": "Mengkoordinasikan dan mengendalikan pelaksanaan remedial recovery piutang bermasalah (WHAT) melalui persiapan dokumen, perencanaan penagihan, eksekusi penagihan dan penetapan skema penyelesaian, pelaporan hasil, serta tindak lanjut janji bayar dan koordinasi somasi/litigasi dengan legal (HOW) untuk meningkatkan realisasi penagihan dan menghasilkan rekomendasi tindak lanjut atas piutang bermasalah secara tepat (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengkoordinasikan persiapan dokumen penagihan dengan memastikan kelengkapan dan kesesuaian data sistem dengan data fisik, informasi pelanggan, histori transaksi, serta validasi lokasi pelanggan.",
+          "hasil_diharapkan": "Dokumen penagihan lengkap, valid, dan siap digunakan sebagai dasar pelaksanaan penagihan serta eskalasi penanganan."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyusun dan mengarahkan perencanaan penagihan berdasarkan analisa data piutang, perencanaan strategi penagihan, perhitungan kebutuhan biaya, dan identifikasi risiko penagihan.",
+          "hasil_diharapkan": "Rencana penagihan terstruktur, prioritas penanganan jelas, biaya terestimasi, serta risiko terdokumentasi untuk mendukung efektivitas eksekusi."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengendalikan pelaksanaan penagihan di lapangan melalui survei keadaan pelanggan, rekonsiliasi piutang, permintaan pembayaran/pelunasan, dan penetapan skema penyelesaian (surat permintaan pembayaran/cicilan/restruktur) sesuai hasil komunikasi dan kondisi pembayaran pelanggan.",
+          "hasil_diharapkan": "Skema penyelesaian disepakati/ditetapkan secara tepat dan progres penagihan berjalan sesuai target untuk meningkatkan peluang realisasi pembayaran."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengkoordinasikan penerbitan dan penyampaian surat permintaan pembayaran (Surat 1 dan Surat 2) apabila jalur surat dipilih serta memantau respons pelanggan hingga terdapat penyelesaian atau keputusan eskalasi.",
+          "hasil_diharapkan": "Surat permintaan pembayaran tersampaikan, respons pelanggan terdokumentasi, dan keputusan tindak lanjut dapat ditetapkan secara cepat."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Menyusun laporan hasil penagihan secara komprehensif meliputi laporan ke tim cabang, laporan ke tim legal untuk kasus yang akan disomasi/litigasi, usulan penghapusan untuk pelanggan pailit/tidak ditemukan, serta laporan internal untuk pembaruan data.",
+          "hasil_diharapkan": "Collection report tersedia tepat waktu, handover penanganan jelas, serta data piutang bermasalah ter-update dan dapat ditelusuri."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengendalikan tindak lanjut janji bayar secara mingguan/bulanan serta mengajukan permintaan somasi kepada legal (Somasi 1–3) dengan melengkapi dokumen pendukung dan memantau progres sesuai target, termasuk koordinasi tindak lanjut litigasi apabila diperlukan.",
+          "hasil_diharapkan": "Janji bayar termonitor hingga terealisasi atau status berubah, proses somasi/litigasi berjalan terkontrol, dan progres penanganan terdokumentasi."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Menyusun rekomendasi tindak lanjut atas piutang bermasalah termasuk rekomendasi blacklist pelanggan berdasarkan histori penanganan dan hasil penagihan.",
+          "hasil_diharapkan": "Rekomendasi tindak lanjut dan daftar rekomendasi blacklist tersedia sebagai dasar keputusan manajemen untuk mitigasi risiko piutang berulang."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Nilai piutang bermasalah yang ditangani (collection/recovery) sesuai penugasan dan portofolio kasus.",
+        "non_keuangan": "Ketepatan dan kualitas laporan penagihan (collection report), akurasi dokumentasi histori kasus, serta efektivitas koordinasi lintas pihak (cabang/legal) dalam penyelesaian piutang.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Sesuai kebutuhan penanganan piutang bermasalah (dapat mencakup wilayah cabang/area operasi perusahaan)."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "GROUP HEAD OF STRATEGIC FINANCE",
+            "tujuan": "Pelaporan progres penanganan piutang bermasalah, eskalasi kendala, dan penyampaian rekomendasi tindak lanjut."
+          },
+          {
+            "unit": "TIM CABANG/AREA (OPERASIONAL PENAGIHAN)",
+            "tujuan": "Koordinasi kunjungan/penagihan lanjutan, handover kasus, dan konfirmasi realisasi pembayaran."
+          },
+          {
+            "unit": "FINANCE/AR (PENGELOLA DATA PIUTANG)",
+            "tujuan": "Rekonsiliasi data piutang, validasi histori transaksi, dan pembaruan status pembayaran."
+          },
+          {
+            "unit": "LEGAL",
+            "tujuan": "Pengajuan permintaan somasi, kelengkapan dokumen pendukung, pemantauan progres somasi/litigasi, serta konsultasi langkah hukum."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "PELANGGAN/DEBITUR",
+            "tujuan": "Komunikasi penagihan, klarifikasi kewajiban pembayaran, negosiasi skema penyelesaian (cicilan/restruktur), dan konfirmasi realisasi pembayaran."
+          },
+          {
+            "unit": "KONSULTAN HUKUM (BILA DIPERLUKAN)",
+            "tujuan": "Koordinasi tindak lanjut litigasi dan pendampingan hukum sesuai arahan unit legal."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menetapkan prioritas penanganan piutang bermasalah dan rencana penagihan pada portofolio kasus yang ditugaskan.",
+        "Menetapkan skema penyelesaian penagihan (surat/cicilan/restruktur) berdasarkan hasil komunikasi dan kondisi pembayaran pelanggan sesuai ketentuan yang berlaku.",
+        "Mengusulkan eskalasi penanganan ke proses somasi/litigasi melalui unit legal sesuai kriteria dan hasil penagihan.",
+        "Mengesahkan/menyetujui draft laporan hasil penagihan dan rekomendasi tindak lanjut sebelum disampaikan kepada pihak terkait."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "",
+          "jurusan_s1": "",
+          "jurusan_s2": ""
+        },
+        "pengalaman_kerja": "",
+        "core_values": [
+          ""
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              ""
+            ],
+            "bidang_primer": [
+              ""
+            ],
+            "bidang_sekunder": [
+              ""
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Operational SOP Compliance",
+              "level": "Level 2"
+            },
+            {
+              "kompetensi": "Office Tools & Reporting",
+              "level": "Level 2"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "",
+              "level": ""
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "",
+              "level": ""
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "Kesehatan dan Lingkungan Kerja": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": ""
+          }
+        ],
+        "output": [
+          "Realisasi penagihan (Collection Report)",
+          "Bukti pembayaran",
+          "Laporan piutang bermasalah",
+          "Rekomendasi tindak lanjut atas piutang bermasalah",
+          "Dokumentasi histori piutang bermasalah",
+          "Daftar rekomendasi blacklist pelanggan"
+        ]
+      }
+    },
+    {
+  "Profil Jabatan": [
+    {
+      "effective_date": "",
+      "identification": {
+        "jabatan": "TASK FORCE REMIDIAL RECOVERY OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "FINANCE DIRECTORATE (SILOG)",
+        "group_head": "GROUP HEAD OF STRATEGIC FINANCE",
+        "departemen": "-",
+        "unit": "TASK FORCE REMIDIAL RECOVERY",
+        "seksi": "SECTION OF TASK FORCE REMIDIAL RECOVERY",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "TASK FORCE REMIDIAL RECOVERY SENIOR OFFICER"
+      },
+      "tujuan_jabatan": "Melaksanakan kegiatan remedial recovery atas piutang bermasalah (WHAT) melalui persiapan dokumen penagihan, perencanaan penagihan berbasis analisa data, pelaksanaan penagihan dan negosiasi skema penyelesaian (surat/cicilan/restruktur), penyusunan laporan hasil, serta tindak lanjut janji bayar dan koordinasi permintaan somasi/litigasi bersama legal (HOW) untuk mendorong realisasi penagihan, memastikan kontrol administrasi kasus yang akurat, dan mendukung rekomendasi tindak lanjut atas piutang bermasalah (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan dan memverifikasi dokumen penagihan dengan memastikan kesesuaian data sistem dengan dokumen fisik, melengkapi informasi pelanggan, mengecek histori transaksi, serta memvalidasi lokasi pelanggan sebagai dasar pelaksanaan penagihan.",
+          "hasil_diharapkan": "Data dan dokumen penagihan lengkap, valid, dan siap digunakan untuk komunikasi penagihan maupun proses eskalasi."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Melaksanakan analisa data piutang bermasalah untuk menyusun rencana penagihan, menetapkan prioritas penanganan, mengestimasi biaya yang dibutuhkan, serta mengidentifikasi risiko penagihan sesuai karakteristik pelanggan dan kasus.",
+          "hasil_diharapkan": "Rencana penagihan tersusun dengan prioritas dan strategi yang jelas; biaya dan risiko terdokumentasi untuk mendukung keputusan penanganan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Melaksanakan penagihan melalui survei/kunjungan (bila diperlukan), komunikasi dengan pelanggan, rekonsiliasi piutang, serta permintaan pembayaran/pelunasan sesuai prosedur dan rencana penagihan yang ditetapkan.",
+          "hasil_diharapkan": "Proses penagihan berjalan efektif; status piutang terkonfirmasi; peluang pembayaran meningkat."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Melakukan negosiasi dan mendukung penetapan skema penyelesaian piutang (surat permintaan pembayaran/cicilan/restruktur) berdasarkan hasil komunikasi dan kondisi pembayaran pelanggan serta mendokumentasikan hasil kesepakatan.",
+          "hasil_diharapkan": "Skema penyelesaian disepakati secara jelas, terdokumentasi, dan dapat ditindaklanjuti sesuai ketentuan yang berlaku."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Menyusun dan menyampaikan Surat Permintaan Pembayaran 1 dan 2 (apabila jalur surat dipilih) sesuai ketentuan/format yang berlaku, serta memantau respons pelanggan sampai terdapat penyelesaian atau keputusan eskalasi.",
+          "hasil_diharapkan": "Surat permintaan pembayaran tersampaikan tepat waktu; respons dan tindak lanjut pelanggan tercatat sebagai dasar pengambilan keputusan."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Menyusun laporan hasil penagihan (collection report) dan dokumentasi histori piutang bermasalah, termasuk laporan untuk cabang atas kasus yang dilanjutkan penagihannya oleh cabang, laporan untuk legal atas kasus yang akan disomasi/litigasi, usulan penghapusan untuk pelanggan pailit/tidak ditemukan, serta update internal data.",
+          "hasil_diharapkan": "Laporan penagihan lengkap, akurat, tepat waktu, dan dapat ditelusuri; handover ke unit terkait berjalan jelas."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Melaksanakan tindak lanjut janji bayar secara mingguan/bulanan dengan monitoring dan konfirmasi realisasi pembayaran, serta melakukan koordinasi pengajuan permintaan somasi kepada legal (Somasi 1–3) dengan melengkapi dokumen pendukung dan memantau progres sesuai target.",
+          "hasil_diharapkan": "Janji bayar termonitor hingga terealisasi atau status berubah; proses somasi berjalan terkontrol dan progres tertelusur."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Menyusun rekomendasi tindak lanjut atas piutang bermasalah, termasuk rekomendasi blacklist pelanggan, berdasarkan hasil penagihan dan histori penanganan, untuk disampaikan kepada Senior Officer sebagai bahan keputusan.",
+          "hasil_diharapkan": "Rekomendasi tindak lanjut tersedia dan berbasis data sebagai dasar mitigasi risiko piutang berulang."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Berperan langsung terhadap peningkatan realisasi penagihan pada portofolio piutang bermasalah yang ditangani; berdampak pada penurunan saldo outstanding melalui pencapaian pembayaran dan skema penyelesaian.",
+        "non_keuangan": "Kualitas komunikasi dan negosiasi dengan pelanggan; ketepatan waktu pelaksanaan penagihan sesuai SLA; akurasi rekonsiliasi dan dokumentasi histori kasus; ketepatan dan kelengkapan collection report serta rekomendasi tindak lanjut.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Sesuai kebutuhan penanganan piutang bermasalah (lintas cabang/area operasional perusahaan)."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Task Force Remidial Recovery Senior Officer",
+            "tujuan": "Pelaporan progres penanganan kasus, penyampaian kendala, dan meminta persetujuan/arah keputusan untuk eskalasi dan rekomendasi tindak lanjut."
+          },
+          {
+            "unit": "Finance/Account Receivable (AR)",
+            "tujuan": "Rekonsiliasi data piutang, validasi histori transaksi, konfirmasi bukti pembayaran, serta pembaruan status pembayaran."
+          },
+          {
+            "unit": "Tim Cabang/Area Operasional",
+            "tujuan": "Koordinasi kunjungan/penagihan lanjutan, penelusuran pelanggan, serta handover kasus yang dilanjutkan penagihannya oleh cabang."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Pengajuan permintaan somasi, penyediaan dokumen pendukung, pemantauan progres somasi/litigasi, serta konsultasi langkah hukum."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Pelanggan/Debitur",
+            "tujuan": "Komunikasi penagihan, klarifikasi kewajiban pembayaran, negosiasi skema penyelesaian, dan konfirmasi realisasi pembayaran."
+          },
+          {
+            "unit": "Konsultan Hukum (bila diperlukan, melalui legal)",
+            "tujuan": "Koordinasi data/dokumen dan dukungan informasi kasus untuk tindak lanjut litigasi."
+          }
+        ]
+      },
+      "wewenang": [
+        "Meminta data/dokumen pendukung kepada unit terkait untuk kelengkapan penanganan piutang bermasalah sesuai penugasan.",
+        "Melakukan komunikasi dan negosiasi awal dengan pelanggan untuk penetapan skema penyelesaian (surat/cicilan/restruktur) sesuai ketentuan yang berlaku.",
+        "Menyusun dan menyampaikan surat permintaan pembayaran sesuai format/ketentuan yang berlaku apabila jalur surat dipilih.",
+        "Mengusulkan eskalasi penanganan ke somasi/litigasi melalui legal kepada Senior Officer berdasarkan hasil penagihan dan respons pelanggan.",
+        "Mengusulkan rekomendasi tindak lanjut (termasuk blacklist/penghapusan) kepada Senior Officer berdasarkan data dan histori penanganan."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "Minimal S1",
+          "jurusan_s1": "Akuntansi/Manajemen Keuangan/Manajemen Bisnis/Ekonomi/Hukum (diutamakan relevan dengan penagihan/piutang)",
+          "jurusan_s2": "Manajemen/Keuangan/Hukum (opsional)",
+          "keterangan": "Memiliki pemahaman dasar proses piutang, penagihan, dan dokumentasi administrasi keuangan."
+        },
+        "pengalaman_kerja": "Minimal 1–3 tahun pengalaman di bidang account receivable/collection/credit control/recovery atau fungsi serupa; terbiasa melakukan komunikasi penagihan dan pembuatan laporan.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Integritas dan kepatuhan SOP",
+              "Komunikasi efektif",
+              "Kolaborasi lintas fungsi",
+              "Orientasi hasil",
+              "Adaptif dan tahan tekanan"
+            ],
+            "bidang_primer": [
+              "Negosiasi dan influencing",
+              "Problem solving",
+              "Manajemen prioritas",
+              "Customer handling"
+            ],
+            "bidang_sekunder": [
+              "Administrasi dan dokumentasi",
+              "Ketelitian (attention to detail)",
+              "Manajemen konflik",
+              "Continuous improvement"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Operational SOP Compliance",
+              "level": "Level 2"
+            },
+            {
+              "kompetensi": "Office Tools & Reporting",
+              "level": "Level 2"
+            },
+            {
+              "kompetensi": "Collection & Recovery Process (Remedial)",
+              "level": "Intermediate"
+            },
+            {
+              "kompetensi": "Account Receivable Reconciliation",
+              "level": "Basic-Intermediate"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Bahasa Indonesia",
+              "level": "Fasih"
+            },
+            {
+              "bahasa": "Bahasa Inggris",
+              "level": "Menengah (working proficiency)"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Microsoft Excel/Google Sheets",
+              "level": "Menengah"
+            },
+            {
+              "aplikasi": "Microsoft Word/Google Docs",
+              "level": "Menengah"
+            },
+            {
+              "aplikasi": "Email & Document Management",
+              "level": "Menengah"
+            },
+            {
+              "aplikasi": "Sistem ERP/Keuangan (sesuai sistem perusahaan)",
+              "level": "Dasar-Menengah"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": [
+            "Pelatihan Negotiation Skills",
+            "Pelatihan Collection/AR Management"
+          ]
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Kesiapan melakukan perjalanan dinas/kunjungan lapangan",
+            "keterangan": "Dibutuhkan untuk pelaksanaan penagihan, verifikasi kondisi pelanggan, dan konfirmasi lokasi sesuai kebutuhan kasus."
+          },
+          {
+            "persyaratan": "Mampu bekerja dengan target dan tenggat waktu ketat",
+            "keterangan": "Dibutuhkan untuk memenuhi SLA persiapan/perencanaan/pelaporan dan monitoring tindak lanjut kasus."
+          }
+        ],
+        "output": [
+          "Realisasi penagihan (Collection Report)",
+          "Bukti pembayaran",
+          "Laporan Piutang bermasalah",
+          "Rekomendasi tindak lanjut atas piutang bermasalah",
+          "Dokumentasi histori piutang bermasalah",
+          "Daftar Rekomendasi Blacklist pelanggan"
+        ]
+      }
+    }
+  ]
+},
+{
+  "Profil Jabatan": [
+    {
+      "effective_date": "",
+      "identification": {
+        "jabatan": "TASK FORCE REMIDIAL RECOVERY JUNIOR OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "FINANCE DIRECTORATE (SILOG)",
+        "group_head": "GROUP HEAD OF STRATEGIC FINANCE",
+        "departemen": "-",
+        "unit": "TASK FORCE REMIDIAL RECOVERY",
+        "seksi": "SECTION OF TASK FORCE REMIDIAL RECOVERY",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "TASK FORCE REMIDIAL RECOVERY OFFICER"
+      },
+      "tujuan_jabatan": "Mendukung pelaksanaan remedial recovery atas piutang bermasalah (WHAT) melalui pengumpulan dan pembaruan data/dokumen penagihan, dukungan rekonsiliasi piutang, penyiapan administrasi penagihan, pembaruan monitoring janji bayar, serta penyusunan dokumentasi dan laporan hasil penagihan (HOW) untuk memastikan proses penagihan berjalan tertib, informasi kasus akurat, dan progres penanganan piutang bermasalah dapat dipantau secara berkala (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan, menyiapkan, dan mengarsipkan dokumen penagihan dengan memastikan data sistem sesuai dengan dokumen fisik, melengkapi informasi pelanggan, histori transaksi, serta data lokasi pelanggan sesuai kebutuhan penanganan kasus.",
+          "hasil_diharapkan": "Dokumen penagihan tersusun rapi, lengkap, mudah ditelusuri, dan siap digunakan untuk pelaksanaan penagihan maupun eskalasi penanganan."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Mendukung kegiatan analisa data penagihan dengan menyiapkan rekap data piutang bermasalah, daftar prioritas kasus, serta ringkasan informasi pelanggan sebagai bahan perencanaan penagihan.",
+          "hasil_diharapkan": "Data analisa dan rekap kasus tersedia tepat waktu sebagai dasar perencanaan penagihan dan penetapan prioritas penanganan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Membantu proses rekonsiliasi piutang dengan menyiapkan data pembanding, mencatat hasil konfirmasi pembayaran, mengumpulkan bukti pembayaran, dan mengajukan pembaruan status pembayaran kepada unit terkait (AR/Finance) sesuai prosedur.",
+          "hasil_diharapkan": "Status piutang ter-update akurat berdasarkan bukti bayar dan hasil konfirmasi; data rekonsiliasi terdokumentasi."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menyiapkan administrasi pelaksanaan penagihan, termasuk penjadwalan/agenda kunjungan (bila diperlukan), penyiapan draft komunikasi/nota internal, dan kelengkapan dokumen untuk komunikasi penagihan kepada pelanggan.",
+          "hasil_diharapkan": "Kegiatan penagihan berjalan tertib dengan dukungan administrasi yang lengkap; risiko keterlambatan karena dokumen/agenda tidak siap dapat diminimalkan."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mendukung pelaksanaan jalur surat permintaan pembayaran dengan menyiapkan draft/format surat permintaan pembayaran sesuai ketentuan, mendokumentasikan bukti pengiriman, serta mengarsipkan respons pelanggan untuk kebutuhan tindak lanjut.",
+          "hasil_diharapkan": "Dokumentasi surat permintaan pembayaran lengkap (draft, bukti kirim, respons), sehingga tindak lanjut dan keputusan eskalasi dapat dilakukan berbasis data."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Melakukan pembaruan monitoring janji bayar mingguan/bulanan dengan mencatat jadwal, progres follow up, status realisasi pembayaran, serta mengingatkan pihak terkait sesuai arahan Officer/Senior Officer.",
+          "hasil_diharapkan": "Monitoring janji bayar ter-update berkala; keterlambatan tindak lanjut dapat diminimalkan dan progres penanganan dapat dipantau."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mendukung proses pengajuan permintaan somasi kepada legal dengan menyiapkan kelengkapan dokumen pendukung (kronologi, nilai piutang, dokumen transaksi, bukti komunikasi/penagihan) dan memperbarui status progres somasi sesuai informasi dari legal.",
+          "hasil_diharapkan": "Permintaan somasi dapat diajukan lengkap dan tepat waktu; progres somasi terdokumentasi untuk pelaporan dan pengambilan keputusan."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Menyusun, memperbarui, dan mengarsipkan collection report, dokumentasi histori piutang bermasalah, serta rekap rekomendasi tindak lanjut (termasuk blacklist pelanggan) berdasarkan arahan Officer/Senior Officer.",
+          "hasil_diharapkan": "Laporan dan histori kasus tersedia akurat, konsisten, dan mudah ditelusuri sebagai dasar tindak lanjut dan mitigasi risiko."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mendukung akurasi data dan kelengkapan bukti pembayaran yang berdampak pada ketepatan pencatatan realisasi penagihan; kontribusi tidak langsung pada peningkatan recovery melalui tertib administrasi dan monitoring.",
+        "non_keuangan": "Kerapian administrasi dokumen penagihan, kecepatan pembaruan data/status kasus, ketelitian rekonsiliasi data dan bukti bayar, serta konsistensi monitoring janji bayar dan histori penanganan kasus.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Dukungan penanganan piutang bermasalah sesuai kebutuhan unit (administrasi dan monitoring dapat mencakup lintas cabang/area)."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Task Force Remidial Recovery Officer",
+            "tujuan": "Menerima arahan kerja harian, menyampaikan progres dokumentasi/monitoring, dan melaporkan kendala administrasi penanganan kasus."
+          },
+          {
+            "unit": "Task Force Remidial Recovery Senior Officer",
+            "tujuan": "Menyediakan data/dokumen pendukung untuk pelaporan dan keputusan eskalasi serta membantu penyiapan bahan rekomendasi tindak lanjut."
+          },
+          {
+            "unit": "Finance/Account Receivable (AR)",
+            "tujuan": "Konfirmasi data piutang, pembaruan status pembayaran, validasi bukti bayar, dan dukungan rekonsiliasi data."
+          },
+          {
+            "unit": "Tim Cabang/Area Operasional",
+            "tujuan": "Koordinasi data lokasi pelanggan, dukungan informasi lapangan, serta dokumentasi handover kasus bila penagihan dilanjutkan oleh cabang."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Koordinasi kelengkapan dokumen pendukung permintaan somasi dan pembaruan status progres somasi/litigasi."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Pelanggan/Debitur (melalui arahan Officer)",
+            "tujuan": "Dukungan administrasi komunikasi penagihan (misal pengiriman dokumen/konfirmasi data) bila diperlukan."
+          },
+          {
+            "unit": "Kurir/Pos (bila diperlukan)",
+            "tujuan": "Pengiriman dokumen penagihan/administrasi dan pengumpulan bukti pengiriman."
+          }
+        ]
+      },
+      "wewenang": [
+        "Meminta kelengkapan dokumen/data penagihan kepada unit terkait sesuai arahan Officer/Senior Officer.",
+        "Melakukan pembaruan data status kasus, monitoring janji bayar, dan histori penanganan pada media pencatatan yang ditetapkan unit.",
+        "Mengarsipkan dan mengelola dokumen penagihan (fisik/digital) sesuai standar kerapian dan tata kelola dokumen yang berlaku.",
+        "Mengusulkan perbaikan format rekap/monitoring dan cara pengarsipan untuk meningkatkan ketertiban administrasi penanganan kasus."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "Minimal D3/S1",
+          "jurusan_s1": "Akuntansi/Manajemen Keuangan/Manajemen Bisnis/Ekonomi/Administrasi (diutamakan relevan dengan penagihan/piutang)",
+          "jurusan_s2": "-",
+          "keterangan": "Memiliki pemahaman dasar administrasi keuangan dan pengelolaan dokumen."
+        },
+        "pengalaman_kerja": "Diutamakan memiliki pengalaman 0–2 tahun pada fungsi administrasi keuangan/AR/collection atau pekerjaan administrasi dan pelaporan; terbiasa mengolah data dan menyusun dokumentasi.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Integritas dan kepatuhan SOP",
+              "Ketelitian (attention to detail)",
+              "Komunikasi efektif",
+              "Kolaborasi",
+              "Orientasi hasil (supporting)"
+            ],
+            "bidang_primer": [
+              "Kerapian administrasi dan dokumentasi",
+              "Manajemen waktu dan prioritas",
+              "Problem awareness",
+              "Service orientation"
+            ],
+            "bidang_sekunder": [
+              "Adaptability",
+              "Continuous improvement",
+              "Stress tolerance"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Operational SOP Compliance",
+              "level": "Level 2"
+            },
+            {
+              "kompetensi": "Office Tools & Reporting",
+              "level": "Level 2"
+            },
+            {
+              "kompetensi": "Data Administration & Documentation (Collection)",
+              "level": "Basic-Intermediate"
+            },
+            {
+              "kompetensi": "Account Receivable Data Handling",
+              "level": "Basic"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Bahasa Indonesia",
+              "level": "Fasih"
+            },
+            {
+              "bahasa": "Bahasa Inggris",
+              "level": "Dasar-Menengah"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Microsoft Excel/Google Sheets",
+              "level": "Menengah"
+            },
+            {
+              "aplikasi": "Microsoft Word/Google Docs",
+              "level": "Menengah"
+            },
+            {
+              "aplikasi": "Email & Document Management",
+              "level": "Menengah"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": [
+            "Pelatihan dasar Microsoft Excel/Spreadsheet",
+            "Pelatihan administrasi dokumen"
+          ]
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Mampu bekerja teliti dan rapi dalam pengelolaan dokumen",
+            "keterangan": "Dibutuhkan untuk memastikan histori kasus, bukti bayar, dan collection report akurat dan dapat ditelusuri."
+          },
+          {
+            "persyaratan": "Mampu bekerja dengan tenggat waktu pelaporan",
+            "keterangan": "Dibutuhkan untuk memenuhi SLA persiapan dokumen, pelaporan hasil, dan pembaruan monitoring kasus."
+          },
+          {
+            "persyaratan": "Kesiapan mendukung kegiatan lapangan bila diperlukan",
+            "keterangan": "Bila dibutuhkan untuk dukungan penagihan/survei pelanggan sesuai arahan Officer."
+          }
+        ],
+        "output": [
+          "Realisasi penagihan (Collection Report)",
+          "Bukti pembayaran",
+          "Laporan Piutang bermasalah",
+          "Rekomendasi tindak lanjut atas piutang bermasalah",
+          "Dokumentasi histori piutang bermasalah",
+          "Daftar Rekomendasi Blacklist pelanggan"
+        ]
+      }
+    }
+  ]
+}
+
+
+  ]
+}
+
