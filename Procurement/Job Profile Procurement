@@ -1,0 +1,3194 @@
+{
+  "Profil Jabatan": [
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "GM OF PROCUREMENT",
+        "tingkat_banding": "Band 1",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "-",
+        "seksi": "-",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "PRESIDENT DIRECTOR"
+      },
+      "tujuan_jabatan": "Mengelola dan mengarahkan pelaksanaan strategi pengadaan perusahaan (HOW) dengan memimpin perencanaan kebutuhan, proses sourcing, evaluasi vendor, dan pengendalian kontrak lintas unit (WHAT) untuk memastikan efisiensi biaya, kepatuhan, kualitas layanan, dan pemenuhan kebutuhan operasional perusahaan secara optimal (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Merumuskan strategi, kebijakan, dan pedoman pengadaan untuk seluruh unit bisnis (logistik, konstruksi/HO, dan operasional pelabuhan) yang selaras dengan RKAP serta regulasi dan kebijakan grup SIG.",
+          "hasil_diharapkan": "Tersusunnya arah strategis dan kebijakan procurement yang seragam, efektif, dan sesuai RKAP serta standar tata kelola perusahaan."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Mengendalikan perencanaan kebutuhan pengadaan tahunan (APP) termasuk penetapan KPI dan SLA utama proses procurement serta memastikan keselarasan dengan RKAP dan kebutuhan operasional.",
+          "hasil_diharapkan": "APP tersusun akurat dengan KPI dan SLA yang jelas, prioritas pengadaan terpetakan, dan kebutuhan user terpenuhi tepat waktu dan tepat nilai."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengawasi seluruh proses sourcing vendor, tender, evaluasi penawaran, negosiasi, dan penunjukan pemenang lintas unit.",
+          "hasil_diharapkan": "Pemilihan vendor berlangsung transparan, kompetitif, dan menghasilkan nilai terbaik terkait harga, kualitas, dan ketepatan pengiriman."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengarahkan evaluasi kinerja vendor termasuk penilaian kualitas layanan, ketepatan waktu, dan kepatuhan terhadap kontrak.",
+          "hasil_diharapkan": "Peningkatan kualitas vendor secara berkala dan mitigasi risiko pengadaan melalui perbaikan berkelanjutan."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengendalikan proses penerbitan kontrak, kesesuaian dokumen, serta kepastian legalitas bersama fungsi Legal dan Finance.",
+          "hasil_diharapkan": "Kontrak valid, bebas temuan audit, dan mengurangi risiko hukum dan finansial perusahaan."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Menetapkan kerangka kerja dan mengawasi pelaksanaan proses penerbitan Purchase Order (PO), verifikasi invoice, dan penyelesaian pembayaran sesuai SLA melalui pembinaan SM dan tim procurement.",
+          "hasil_diharapkan": "Terbangun sistem administrasi pengadaan yang cepat, akurat, patuh SLA dan matriks kewenangan, serta minim bottleneck terhadap cashflow perusahaan."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengawasi monitoring kedatangan barang/jasa, kesesuaian spesifikasi, serta penyelesaian isu dan komplain strategis yang di-eskalasi dari unit operasional.",
+          "hasil_diharapkan": "Barang/jasa diterima sesuai spesifikasi dan waktu, serta isu operasional yang kritikal tertangani secara efektif tanpa mengganggu kelancaran bisnis."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mengoptimalkan biaya pengadaan melalui strategi negosiasi, konsolidasi kebutuhan, serta analisis cost-saving.",
+          "hasil_diharapkan": "Penghematan biaya tercapai tanpa mengorbankan kualitas dan ketepatan layanan bagi user."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Mengembangkan sistem manajemen vendor, digitalisasi proses procurement, dan penguatan governance serta compliance terhadap kebijakan internal dan regulasi.",
+          "hasil_diharapkan": "Proses pengadaan lebih efisien, terstandar, mudah diaudit, transparan, dan selaras dengan prinsip tata kelola serta ketentuan regulasi."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Membina, mengarahkan, dan mengevaluasi kinerja para Senior Manager serta memastikan kolaborasi antar unit procurement.",
+          "hasil_diharapkan": "Kinerja tim meningkat, koordinasi lintas unit lebih efektif, serta tujuan departemen tercapai secara konsisten."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Mengawasi dan memastikan seluruh kontrak pengadaan strategis telah melalui proses review oleh fungsi Legal, serta mengambil keputusan atas isu risiko utama yang diidentifikasi dalam proses tersebut.",
+          "hasil_diharapkan": "Seluruh kontrak pengadaan strategis ter-review secara memadai oleh Legal, risiko utama teridentifikasi dan dimitigasi, serta keputusan GM mengurangi potensi sengketa, penalti, dan temuan audit material bagi perusahaan."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mengelola keseluruhan nilai spend & kontrak pengadaan barang/jasa perusahaan.",
+        "non_keuangan": "Volume PR/PO, jumlah vendor aktif, kontrak aktif, SLA procurement, tingkat compliance SOP.",
+        "bawahan_langsung": "SM of Logistics Procurement; SM of Construction & Head Office Procurement; SM of Cruise & Port Operations Procurement",
+        "cakupan_wilayah": "Seluruh area dan unit operasional SILOG."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Finance Department",
+            "tujuan": "Memastikan kecukupan anggaran pengadaan, verifikasi invoice, dan kelancaran proses pembayaran sesuai SLA."
+          },
+          {
+            "unit": "Legal Department",
+            "tujuan": "Memastikan seluruh dokumen kontrak, adendum, dan kegiatan tender sesuai ketentuan hukum dan standar compliance perusahaan."
+          },
+          {
+            "unit": "FNFP",
+            "tujuan": "Sinkronisasi rencana kebutuhan tahunan APP–RKAP dan memastikan prioritas pengadaan tepat."
+          },
+          {
+            "unit": "Operational Logistic Unit",
+            "tujuan": "Memenuhi kebutuhan barang/jasa operasional tepat waktu dan spesifikasi untuk kelancaran unit operasional."
+          },
+          {
+            "unit": "Construction & Head Office Unit",
+            "tujuan": "Mengelola kebutuhan pengadaan konstruksi, jasa teknis, dan kebutuhan administratif head office sesuai standar kualitas."
+          },
+          {
+            "unit": "Warehouse / Asset Management",
+            "tujuan": "Sinkronisasi penerimaan barang, pengecekan spesifikasi, dan penyelesaian ketidaksesuaian barang/jasa."
+          },
+          {
+            "unit": "Procurement SM & Officers",
+            "tujuan": "Koordinasi pelaksanaan tender, evaluasi vendor, penerbitan PO, serta monitoring progres pengadaan."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Mitra Strategis (Investor, Vendor, Konsultan)",
+            "tujuan": "Kolaborasi bisnis, penyiapan MoU, analisis potensi kerja sama (JV)."
+          },
+          {
+            "unit": "Regulator Pemerintah",
+            "tujuan": "Kepatuhan regulasi, perizinan, dan dukungan terhadap program strategis nasional."
+          },
+          {
+            "unit": "Lembaga Sertifikasi",
+            "tujuan": "Memastikan penerapan standar mutu manajemen dan sertifikasi ISO."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menyetujui strategi pengadaan dan kebijakan procurement.",
+        "Menyetujui vendor pemenang untuk nilai tertentu sesuai matriks kewenangan.",
+        "Menyetujui PO besar/strategis.",
+        "Menyetujui tindakan perbaikan terhadap vendor bermasalah.",
+        "Mengarahkan tindakan negosiasi strategis.",
+        "Mengambil keputusan final dalam eskalasi tender."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "S1 relevan, S2 diutamakan",
+          "jurusan_s1": "Manajemen, Teknik Industri, Logistik, Supply Chain, Administrasi Bisnis",
+          "jurusan_s2": "Manajemen, Keuangan, atau Strategic Management"
+        },
+        "pengalaman_kerja": "Minimal 10–12 tahun pengalaman di bidang procurement/supply chain dengan pengalaman manajerial senior.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Aligning Performance for Success",
+              "Business Insight",
+              "Developing Strategic Relationships",
+              "Driving Innovation",
+              "Leading Change",
+              "Strategic Planning"
+            ],
+            "bidang_sekunder": [
+              "Driving Execution",
+              "Driving for Result",
+              "Leading Through Vision and Values",
+              "Market Insight",
+              "Strategic Influence"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 4 - Advanced"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 4 - Advanced"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 4 - Advanced"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "Dokumen Strategi & Kebijakan Pengadaan Perusahaan (annual & mid-term).",
+          "Rekomendasi Vendor Strategis dan Hasil Evaluasi Kinerja Vendor.",
+          "Laporan Realisasi Pengadaan & Cost Efficiency (bulanan/triwulanan).",
+          "Laporan Monitoring Tender, PO, dan Pemenuhan Kebutuhan User lintas unit.",
+          "Rekomendasi Mitigasi Risiko Pengadaan serta tindakan korektif atas temuan audit.",
+          "Keputusan rapat strategis procurement (dengan Direksi/Manajemen Tinggi)."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "SM OF LOGISTICS PROCUREMENT",
+        "tingkat_banding": "Band 2",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF LOGISTICS PROCUREMENT",
+        "seksi": "-",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "GM OF PROCUREMENT"
+      },
+      "tujuan_jabatan": "Mengelola dan mengawasi pelaksanaan proses pengadaan di unit terkait (HOW) dengan memimpin perencanaan kebutuhan, sourcing vendor, tender, evaluasi penawaran, serta penerbitan PO dan monitoring pemenuhan barang/jasa (WHAT) untuk memastikan efisiensi biaya, ketepatan spesifikasi, kualitas layanan, dan kelancaran operasional unit (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Menyusun rencana kebutuhan pengadaan unit sesuai prioritas operasional dan anggaran, serta menyelaraskannya dengan RKAP dan APP unit (Annual Procurement Plan).",
+          "hasil_diharapkan": "Rencana kebutuhan akurat, terkoordinasi, dan selaras dengan RKAP–APP."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Mengelola proses sourcing vendor termasuk permintaan penawaran, klarifikasi teknis, dan evaluasi dokumen.",
+          "hasil_diharapkan": "Pemilihan vendor berlangsung kompetitif dan sesuai kriteria teknis serta administratif."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengkoordinasikan pelaksanaan tender dan evaluasi penawaran bersama tim procurement dan user.",
+          "hasil_diharapkan": "Tender berjalan transparan, terdokumentasi baik, dan menghasilkan pemenang yang memenuhi kebutuhan."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Melakukan negosiasi harga, ruang lingkup, dan syarat komersial lainnya dengan tetap memperhatikan SLA operasional.",
+          "hasil_diharapkan": "Harga optimal tercapai tanpa mengurangi kualitas atau SLA operasional."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengusulkan vendor pemenang untuk persetujuan GM Procurement berdasarkan hasil evaluasi teknis, komersial, dan rekam jejak kinerja.",
+          "hasil_diharapkan": "Rekomendasi pemenang objektif, terukur, dan dapat dipertanggungjawabkan."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengawasi penerbitan PO, kelengkapan dan kesesuaian dokumen tender/administrasi, serta koordinasi dengan Finance untuk mendukung proses invoice dan pembayaran sesuai prosedur procurement.",
+          "hasil_diharapkan": "PO terbit tepat waktu, bebas kesalahan, dan administrasi tender mendukung kelancaran proses verifikasi invoice dan pembayaran."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Memantau pengiriman dan serah-terima barang/jasa, pemeriksaan kesesuaian spesifikasi, serta penyelesaian ketidaksesuaian bersama user dan vendor.",
+          "hasil_diharapkan": "Barang/jasa diterima sesuai spesifikasi dan waktu, serta komplain terselesaikan cepat."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Melakukan penilaian kinerja vendor dan menyusun rekomendasi perbaikan.",
+          "hasil_diharapkan": "Vendor berkinerja baik dan risiko pengadaan menurun."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Membimbing, mendampingi, dan mengawasi kinerja Officer & Junior Officer agar bekerja sesuai SOP dan target SLA pengadaan.",
+          "hasil_diharapkan": "Tim bekerja konsisten sesuai SOP dan target SLA pengadaan tercapai."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Menyusun laporan realisasi pengadaan unit termasuk analisis cost efficiency dan progress pemenuhan kebutuhan, serta melaporkannya secara berkala kepada GM.",
+          "hasil_diharapkan": "Laporan lengkap, akurat, dan memberikan insight biaya serta kinerja pengadaan sebagai dasar keputusan manajerial."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Menganalisis realisasi biaya pengadaan logistik dan menyusun rekomendasi inisiatif cost efficiency di level unit.",
+          "hasil_diharapkan": "Tersusunnya rekomendasi cost efficiency yang terukur dan dapat diimplementasikan."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mengelola nilai spend & kontrak pengadaan logistik serta efisiensi biaya unit Logistik.",
+        "non_keuangan": "Volume PR/PO, jumlah vendor, dokumen tender/administrasi, SLA dan tingkat compliance SOP procurement logistik.",
+        "bawahan_langsung": "Logistic Sourcing & Vendor Management Officer; Logistic Sourcing & Vendor Management Jr. Officer; Logistic Procurement Administration Officer; Logistic Procurement Administration Jr. Officer",
+        "cakupan_wilayah": "Seluruh kebutuhan pengadaan untuk unit Logistik di area operasional perusahaan."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Finance",
+            "tujuan": "Verifikasi invoice, konfirmasi anggaran, dan dukungan proses pembayaran."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Review kontrak dan memastikan kepatuhan dokumen tender."
+          },
+          {
+            "unit": "Operations / Unit Terkait",
+            "tujuan": "Memastikan kebutuhan barang/jasa tersampaikan akurat dan tepat waktu."
+          },
+          {
+            "unit": "PFNP",
+            "tujuan": "Penyelarasan rencana kebutuhan unit dengan RKAP–APP."
+          },
+          {
+            "unit": "Warehouse / Asset",
+            "tujuan": "Koordinasi penerimaan barang, pemeriksaan spesifikasi, dan penyelesaian keluhan."
+          },
+          {
+            "unit": "IT / System",
+            "tujuan": "Mendukung kebutuhan update sistem pengadaan dan monitoring proses."
+          },
+          {
+            "unit": "GM Procurement",
+            "tujuan": "Pelaporan realisasi, eskalasi isu, dan persetujuan vendor pemenang."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor & Supplier",
+            "tujuan": "Penyediaan barang/jasa sesuai spesifikasi dan SLA."
+          },
+          {
+            "unit": "Kontraktor / Konsultan",
+            "tujuan": "Pemenuhan jasa teknis dan deliverables proyek."
+          },
+          {
+            "unit": "Auditor Eksternal",
+            "tujuan": "Penyediaan dokumen tender dan bukti pendukung untuk keperluan audit."
+          },
+          {
+            "unit": "Mitra Operasional",
+            "tujuan": "Koordinasi terkait kebutuhan logistik dan layanan pendukung."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menyetujui dokumen tender sebelum diajukan ke GM Procurement.",
+        "Menyetujui shortlist vendor dan hasil evaluasi teknis.",
+        "Menandatangani form klarifikasi dan berita acara internal.",
+        "Mengarahkan negosiasi teknis dan komersial.",
+        "Mengambil keputusan operasional pengadaan di level unit."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "S1 Relevan, S2 Diutamakan",
+          "jurusan_s1": "Manajemen, Teknik Industri, Supply Chain, Logistik, Administrasi Bisnis",
+          "jurusan_s2": "-"
+        },
+        "pengalaman_kerja": "5–7 tahun pengalaman di bidang procurement/supply chain dengan pengalaman manajerial.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Aligning Performance for Success",
+              "Business Insight",
+              "Developing Strategic Relationships",
+              "Driving Innovation",
+              "Leading Change",
+              "Strategic Planning"
+            ],
+            "bidang_sekunder": [
+              "Driving Execution",
+              "Driving for Result",
+              "Leading Through Vision and Values",
+              "Market Insight",
+              "Strategic Influence"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 3"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "Rencana kebutuhan pengadaan unit (APP Unit).",
+          "Dokumen tender lengkap (TOR, HPS, BA klarifikasi/evaluasi/pemenang).",
+          "Laporan realisasi tender, PO, dan progress pemenuhan kebutuhan.",
+          "Rekomendasi vendor pemenang per paket pengadaan.",
+          "Laporan evaluasi kinerja vendor unit.",
+          "Laporan cost efficiency di level unit."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "LOGISTIC SOURCING & VENDOR MANAGEMENT OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF LOGISTICS PROCUREMENT",
+        "seksi": "LOGISTIC SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF LOGISTICS PROCUREMENT"
+      },
+      "tujuan_jabatan": "Melaksanakan proses pengadaan logistik secara end-to-end (HOW) melalui pengumpulan kebutuhan, sourcing vendor, permintaan penawaran, evaluasi administrasi, penerbitan dokumen tender, serta pemantauan pemenuhan barang/jasa (WHAT) untuk memastikan ketersediaan material logistik yang akurat, tepat waktu, dan sesuai spesifikasi demi kelancaran operasi perusahaan (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan kebutuhan pengadaan logistik dari user dan memverifikasi kelengkapannya (memastikan spesifikasi, volume, dan dokumen pendukung sudah lengkap).",
+          "hasil_diharapkan": "Data kebutuhan akurat dan siap diproses ke tahap tender."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Melakukan sourcing vendor logistik termasuk permintaan penawaran dan pengumpulan dokumen administratif.",
+          "hasil_diharapkan": "Vendor kompetitif dan memenuhi persyaratan awal."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyusun dan mengelola dokumen tender (undangan, TOR, HPS, BA klarifikasi, dan dokumen pendukung lainnya).",
+          "hasil_diharapkan": "Dokumen tender rapi, lengkap, dan sesuai SOP procurement."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Melaksanakan klarifikasi teknis dan administratif dengan vendor serta berkoordinasi dengan user untuk memastikan kesamaan pemahaman atas spesifikasi, ruang lingkup pekerjaan, dan syarat administrasi.",
+          "hasil_diharapkan": "Informasi penawaran lengkap, valid, dan dapat dievaluasi secara objektif."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mendukung proses evaluasi penawaran (administrasi, teknis, dan komersial: perbandingan harga, skema pembayaran, dan ketentuan komersial lainnya).",
+          "hasil_diharapkan": "Hasil evaluasi akurat dan mendukung keputusan pemilihan vendor."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Membuat rekomendasi administratif pemenang tender untuk ditinjau SM Logistics berdasarkan hasil evaluasi administrasi, teknis, dan komersial.",
+          "hasil_diharapkan": "Rekomendasi dokumentatif dan sesuai kriteria evaluasi."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Menyusun PO berdasarkan hasil tender/negosiasi dan memastikan kesesuaian dengan hasil evaluasi serta dokumen pendukung.",
+          "hasil_diharapkan": "PO terbit tepat waktu dan sesuai persyaratan."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Memantau pengiriman barang/logistik dan memastikan kelengkapan serah-terima bersama warehouse/user termasuk pengecekan kesesuaian jumlah, kualitas, dan spesifikasi.",
+          "hasil_diharapkan": "Barang/jasa diterima sesuai spesifikasi dan jadwal."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Mengelola data vendor logistik (profil, legalitas, masa berlaku dokumen), melakukan monitoring kinerja vendor (kualitas layanan, ketepatan waktu, dan kepatuhan kontrak), serta memastikan database selalu terbarui.",
+          "hasil_diharapkan": "Database vendor selalu update dan kinerja vendor terukur."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Menyiapkan laporan realisasi tender, PO, vendor, dan progress pengadaan logistik (termasuk ringkasan status paket, vendor terlibat, dan pemenuhan kebutuhan).",
+          "hasil_diharapkan": "Laporan lengkap, akurat, dan mendukung kebutuhan monitoring SM & GM."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mengelola nilai spend dan proses evaluasi harga pengadaan logistik.",
+        "non_keuangan": "Volume PR/PO, jumlah vendor, dokumen tender, SLA sourcing, dan tingkat compliance SOP.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Pengadaan logistik di seluruh area operasional terkait."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "User Logistik / Operasional",
+            "tujuan": "Memastikan kebutuhan logistik tersampaikan akurat dan tepat waktu."
+          },
+          {
+            "unit": "Warehouse & Asset",
+            "tujuan": "Koordinasi penerimaan barang, pemeriksaan spesifikasi, dan penyelesaian ketidaksesuaian."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Verifikasi anggaran dan proses pembayaran vendor."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Pemeriksaan legalitas vendor dan dokumen kontraktual."
+          },
+          {
+            "unit": "IT/System",
+            "tujuan": "Mendukung update data vendor dan sistem e-procurement."
+          },
+          {
+            "unit": "SM Procurement Logistics",
+            "tujuan": "Pelaporan realisasi dan eskalasi isu tender."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor Logistik",
+            "tujuan": "Penyediaan barang/jasa sesuai spesifikasi."
+          },
+          {
+            "unit": "Transporter / Fleet Provider",
+            "tujuan": "Pemenuhan kebutuhan transportasi dan delivery order."
+          },
+          {
+            "unit": "Auditor Eksternal",
+            "tujuan": "Penyediaan dokumen tender untuk pemeriksaan."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menghubungi vendor untuk permintaan penawaran.",
+        "Melakukan klarifikasi administrasi dan teknis pada level officer.",
+        "Menyusun dokumen tender dan evaluasi administrasi.",
+        "Menginput dan menerbitkan PO sesuai delegasi."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "S1",
+          "jurusan_s1": "Manajemen, Logistik, Teknik Industri, Supply Chain, Administrasi Bisnis",
+          "jurusan_s2": "-"
+        },
+        "pengalaman_kerja": "1–3 tahun pengalaman procurement/logistik.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Coaching",
+              "Decision Making",
+              "Execution",
+              "Gaining Commitment",
+              "Work Standards"
+            ],
+            "bidang_sekunder": [
+              "Building Partnerships",
+              "Business Awareness",
+              "Customer Focus",
+              "Innovation"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 3"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "Dokumen tender lengkap paket logistik (TOR, HPS, dokumen evaluasi).",
+          "PO paket logistik yang valid dan tepat waktu.",
+          "Laporan realisasi pengadaan logistik (bulanan).",
+          "Rekap kinerja vendor logistik dan masa berlaku dokumen.",
+          "Data pengiriman dan serah-terima barang/jasa yang terdokumentasi."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "LOGISTIC SOURCING & VENDOR MANAGEMENT JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF LOGISTICS PROCUREMENT",
+        "seksi": "LOGISTIC SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF LOGISTICS PROCUREMENT"
+      },
+      "tujuan_jabatan": "Mendukung proses pengadaan logistik (HOW) dengan menyiapkan dokumen tender, mengelola data vendor, mengumpulkan penawaran, memproses administrasi PO, serta memantau progress pengiriman barang/jasa (WHAT) untuk memastikan kelancaran operasional pengadaan logistik secara akurat, tertib, dan tepat waktu (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan kebutuhan pengadaan logistik dari user dan menyiapkan data awal (memastikan informasi kebutuhan, volume, dan spesifikasi dasar tercatat dengan lengkap).",
+          "hasil_diharapkan": "Data kebutuhan lengkap dan siap diproses officer."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menghubungi vendor untuk permintaan penawaran sederhana (RFQ — Request for Quotation: permintaan penawaran harga ke vendor) dan melengkapi dokumen administrasi.",
+          "hasil_diharapkan": "Penawaran/vendor data terkumpul tepat waktu."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyiapkan dokumen tender dasar (undangan, form penawaran, TOR — Terms of Reference: kerangka acuan kerja yang berisi ruang lingkup dan spesifikasi kebutuhan, serta format/template yang dibutuhkan).",
+          "hasil_diharapkan": "Dokumen tertata rapi dan sesuai SOP (Standard Operating Procedure: prosedur baku perusahaan)."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menginput data penawaran vendor ke template evaluasi (memindahkan data harga, syarat pembayaran, dan informasi utama penawaran ke format yang siap dinilai oleh officer/atasan).",
+          "hasil_diharapkan": "Data evaluasi akurat dan mudah ditinjau officer."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengelola file administrasi vendor (legalitas, masa berlaku dokumen, dan kelengkapan persyaratan dasar).",
+          "hasil_diharapkan": "Database vendor selalu update dan terdokumentasi."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Menindaklanjuti kelengkapan dokumen tender dari vendor (menghubungi vendor jika ada dokumen yang belum lengkap atau tidak sesuai).",
+          "hasil_diharapkan": "Dokumen lengkap tanpa kekurangan untuk tahap evaluasi."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Membantu proses penerbitan PO (Purchase Order: dokumen resmi pemesanan barang/jasa dari perusahaan ke vendor) melalui input sistem dan pengecekan data berdasarkan hasil tender.",
+          "hasil_diharapkan": "PO terbit cepat dan sesuai data tender."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Memantau status pengiriman barang/jasa dan menginformasikan progres kepada officer (misalnya status dikirim, dalam perjalanan, atau sudah diterima oleh warehouse/user).",
+          "hasil_diharapkan": "Update pengiriman jelas dan terdokumentasi."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Menyiapkan laporan administrasi tender, rekap vendor, dan progress pengadaan (ringkasan paket, vendor yang terlibat, dan status proses).",
+          "hasil_diharapkan": "Laporan rapi, akurat, dan mendukung monitoring unit."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, PO, dan serah-terima barang/jasa (baik fisik maupun digital) sesuai standar audit.",
+          "hasil_diharapkan": "Arsip digital & fisik lengkap sesuai standar audit."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Membantu kelengkapan dokumen untuk proses pembayaran vendor (invoice support), misalnya memastikan PO, kontrak, dan dokumen pendukung telah sesuai sebelum diajukan ke Finance.",
+          "hasil_diharapkan": "Dokumen pembayaran vendor lengkap dan meminimalkan risiko retur/penundaan proses pembayaran."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Tidak memiliki kewenangan finansial (hanya administrasi RFQ & penawaran).",
+        "non_keuangan": "Dokumen tender dasar, input data penawaran, kelengkapan dokumen vendor, arsip.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Unit Logistics Procurement."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "User operasional logistik",
+            "tujuan": "Pengumpulan kebutuhan dan konfirmasi data."
+          },
+          {
+            "unit": "Officer Logistics Procurement",
+            "tujuan": "Mendukung pelaksanaan tender dan penerbitan PO."
+          },
+          {
+            "unit": "Warehouse",
+            "tujuan": "Update pengiriman dan serah terima barang."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Kelengkapan dokumen pembayaran (invoice support)."
+          },
+          {
+            "unit": "IT/System",
+            "tujuan": "Update vendor dan input sistem e-proc."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor Logistik",
+            "tujuan": "Permintaan penawaran dan dokumen administrasi."
+          },
+          {
+            "unit": "Transporter",
+            "tujuan": "Informasi progress pengiriman."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menghubungi vendor untuk RFQ.",
+        "Menginput PO berdasarkan data yang telah diverifikasi Officer.",
+        "Mengelola administrasi vendor dan arsip tender.",
+        "Mengupdate data pengiriman dan status barang."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "D3–S1",
+          "jurusan_s1": "Manajemen logistik, supply chain, administrasi bisnis",
+          "jurusan_s2": "-"
+        },
+        "pengalaman_kerja": "0–2 tahun pengalaman procurement/logistik.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Building Positive Working Relationships",
+              "Communication",
+              "Continuous Improvement",
+              "Problem Analysis",
+              "Quality Orientation"
+            ],
+            "bidang_sekunder": [
+              "Customer Orientation",
+              "Planning & Organizing"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 3"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": [
+            {
+              "sertifikat": "Business Development Expert",
+              "keterangan": "-"
+            }
+          ]
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "Dokumen tender dasar (RFQ, undangan, rekap penawaran).",
+          "Data vendor dan administrasi vendor yang valid.",
+          "Input PO yang akurat dan lengkap.",
+          "Laporan sederhana: rekap tender, rekap vendor, status pengiriman.",
+          "Arsip dokumen pengadaan logistik yang sesuai standar audit."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "LOGISTICS PROCUREMENT ADMINISTRATION OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF LOGISTICS PROCUREMENT",
+        "seksi": "LOGISTICS PROCUREMENT ADMINISTRATION",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF LOGISTICS PROCUREMENT"
+      },
+      "tujuan_jabatan": "Mendukung proses administrasi pengadaan logistik (HOW) dengan menyiapkan dokumen tender, memproses PO, mengelola arsip kontrak, memantau kelengkapan invoice, dan memperbarui data vendor (WHAT) untuk memastikan akurasi, ketertiban, dan kelancaran alur administrasi pengadaan logistik (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Melakukan verifikasi kelengkapan PR (Purchase Requisition: permintaan pembelian barang/jasa dari user) sebelum proses pengadaan dilakukan.",
+          "hasil_diharapkan": "PR valid, layak diproses, dan menghindari pengembalian berulang."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyiapkan dokumen administrasi tender tingkat lanjut (BA klarifikasi, undangan, LPB final, dan risalah tender).",
+          "hasil_diharapkan": "Dokumen tender lengkap, memenuhi standar audit, dan siap sebagai dasar evaluasi."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengelola registrasi dan re-registrasi vendor termasuk legalitas dan kelengkapan persyaratan administrasi.",
+          "hasil_diharapkan": "Vendor compliant dan siap digunakan."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menyusun dan menerbitkan PO (Purchase Order) berdasarkan hasil tender/kontrak.",
+          "hasil_diharapkan": "PO akurat, sesuai kesepakatan, tanpa kesalahan harga."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengkoordinasikan penerimaan barang/jasa termasuk kelengkapan GR/BAST (Goods Receipt dan Berita Acara Serah Terima).",
+          "hasil_diharapkan": "Penerimaan terdokumentasi sah dan siap untuk pembayaran."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Melakukan verifikasi invoice terhadap PO, kontrak, dan GR/BAST.",
+          "hasil_diharapkan": "Invoice bebas mismatch dan memenuhi syarat audit."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengirim invoice yang telah diverifikasi ke Finance dan memonitor status pembayaran termasuk follow up jika mendekati jatuh tempo.",
+          "hasil_diharapkan": "Informasi status pembayaran jelas, akurat, dan siap diinformasikan kepada vendor/user."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Menyiapkan nomor pembayaran dan melakukan penjadwalan pembayaran sesuai term di kontrak/PO dan ketentuan internal.",
+          "hasil_diharapkan": "Pembayaran terjadwal rapi dan risiko keterlambatan penalti/vendor complaint menurun."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Menangani klarifikasi dan koreksi dokumen invoice/PO/GR dengan menghubungi vendor atau internal terkait bila ada perbedaan data.",
+          "hasil_diharapkan": "Permasalahan dokumen terselesaikan cepat dan tidak menghambat proses pembayaran."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengarsipkan seluruh dokumen tender, kontrak, PO, GR/BAST, dan invoice secara fisik maupun digital sesuai standar audit.",
+          "hasil_diharapkan": "Arsip lengkap, mudah ditelusuri, dan memenuhi standar audit perusahaan."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Administrasi PR–PO–invoice untuk pengadaan logistik (tanpa kewenangan keputusan).",
+        "non_keuangan": "Dokumen tender & kontrak, GR/BAST, SLA dokumen, compliance administrasi.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Unit Logistics Procurement."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Officer Logistics Procurement",
+            "tujuan": "Koordinasi proses tender dan penerbitan PO agar dokumen administrasi sesuai data hasil evaluasi."
+          },
+          {
+            "unit": "User Logistik",
+            "tujuan": "Pengumpulan dokumen kebutuhan, konfirmasi PR, dan klarifikasi administrasi terkait pengadaan."
+          },
+          {
+            "unit": "Warehouse",
+            "tujuan": "Konfirmasi data penerimaan barang/jasa (GR/BAST) sebagai dasar proses pembayaran."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Verifikasi invoice dan kelengkapan dokumen pendukung untuk proses pembayaran."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Verifikasi awal/legalitas dasar vendor dan dokumen kontraktual terkait."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor",
+            "tujuan": "Penyampaian dan klarifikasi dokumen PO, invoice, serta kelengkapan administrasi tender."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menginput PO.",
+        "Mengarsipkan dokumen tender.",
+        "Memeriksa kelengkapan invoice dasar.",
+        "Menghubungi vendor terkait administrasi."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "SMA–S1",
+          "jurusan_s1": "Administrasi, Manajemen, Akuntansi, Logistik",
+          "jurusan_s2": "-"
+        },
+        "pengalaman_kerja": "0–2 tahun administrasi procurement/logistik.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Coaching",
+              "Decision Making",
+              "Execution",
+              "Gaining Commitment",
+              "Work Standards"
+            ],
+            "bidang_sekunder": [
+              "Building Partnerships",
+              "Business Awareness",
+              "Customer Focus",
+              "Innovation"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 3"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "Input PO yang lengkap, benar, dan tepat waktu.",
+          "Arsip administrasi tender & kontrak yang sesuai standar audit.",
+          "Rekap invoice & status pembayaran.",
+          "Data vendor update (legalitas dasar & masa berlaku).",
+          "Laporan administrasi pengadaan sederhana."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "LOGISTICS PROCUREMENT ADMINISTRATION JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF LOGISTICS PROCUREMENT",
+        "seksi": "LOGISTICS PROCUREMENT ADMINISTRATION",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF LOGISTICS PROCUREMENT"
+      },
+      "tujuan_jabatan": "Mendukung administrasi proses pengadaan logistik (HOW) dengan memproses dan menginput PR, menyiapkan dan mengelola dokumen tender/kontrak dasar, menginput data PO ke sistem, mengumpulkan dan melakukan pengecekan dasar kelengkapan invoice, serta mencatat dan memantau status pembayaran (WHAT) untuk memastikan akurasi, ketertiban, dan kelancaran alur administrasi pengadaan logistik sesuai SOP dan SLA (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Menerima dan memeriksa kelengkapan dokumen PR/kebutuhan barang & jasa dari user logistik.",
+          "hasil_diharapkan": "Dokumen lengkap secara dasar, jelas, dan siap dilanjutkan untuk verifikasi Officer."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyiapkan dan mengelola dokumen administrasi tender sesuai template (form administrasi, BA, undangan, LPB).",
+          "hasil_diharapkan": "Dokumen administrasi tender rapi, terdokumentasi, dan memenuhi standar audit."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menginput data PR dan data PO ke dalam sistem sesuai hasil proses pengadaan.",
+          "hasil_diharapkan": "Data tercatat dengan akurat, tanpa duplikasi, dan sesuai SOP."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengumpulkan legalitas dasar vendor (NPWP, NIB, KTP PIC, rekening bank) sebagai kelengkapan administrasi awal.",
+          "hasil_diharapkan": "Dokumen vendor terkumpul lengkap untuk diverifikasi lebih lanjut oleh Officer."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, kontrak, PO, GR, BAST, dan invoice secara fisik dan digital.",
+          "hasil_diharapkan": "Arsip mudah ditelusuri saat dibutuhkan untuk monitoring atau audit."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengumpulkan invoice vendor dan melakukan pengecekan dasar kecocokan dengan nomor PO.",
+          "hasil_diharapkan": "Invoice siap diproses lebih lanjut oleh Officer tanpa mismatch dasar."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mencatat dan memonitor status verifikasi invoice dan pembayaran (posisi proses, sudah dikirim ke Finance, atau masih menunggu kelengkapan).",
+          "hasil_diharapkan": "Status invoice tercatat rapi dan bisa diakses saat diperlukan."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mendukung penyusunan laporan administrasi rutin (rekap PO, invoice, dan aging pembayaran).",
+          "hasil_diharapkan": "Laporan dasar tersusun rapi dan mendukung pelaporan unit."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Melakukan follow-up sederhana kepada vendor terkait kelengkapan dokumen administrasi (invoice, legalitas, atau dokumen pendukung lain yang belum lengkap).",
+          "hasil_diharapkan": "Vendor merespons lebih cepat dan proses administrasi lebih lancar."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Administrasi PR–PO–GR–invoice dengan nilai pengadaan variatif.",
+        "non_keuangan": "Arsip tender, kelengkapan dokumen vendor, SLA input data & pengecekan dasar.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Administrasi Logistics Procurement."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Officer Logistics Procurement",
+            "tujuan": "Mendukung proses tender dan PO."
+          },
+          {
+            "unit": "User Logistik",
+            "tujuan": "Pengumpulan dokumen kebutuhan dan klarifikasi administrasi."
+          },
+          {
+            "unit": "Warehouse",
+            "tujuan": "Konfirmasi dokumen penerimaan barang."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Verifikasi invoice dan proses pembayaran."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Verifikasi legalitas vendor tingkat dasar."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor",
+            "tujuan": "Penyampaian dokumen PO, invoice, dan administrasi tender."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menginput data PR dan draft PO ke dalam sistem sesuai arahan Officer Logistics Procurement.",
+        "Mengembalikan PR atau invoice yang tidak lengkap kepada user/vendor dengan menyampaikan catatan kelengkapan yang dibutuhkan.",
+        "Menghubungi vendor untuk meminta kelengkapan dokumen administrasi pengadaan.",
+        "Mengirim reminder internal terkait jatuh tempo pembayaran kepada pihak terkait di internal perusahaan."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi": "D3–S1",
+          "jurusan_s1": "Administrasi, Manajemen, Akuntansi, Logistik atau bidang relevan",
+          "jurusan_s2": "-"
+        },
+        "pengalaman_kerja": "2–4 tahun pengalaman di administrasi procurement.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi": {
+          "perilaku": {
+            "inti": [
+              "Adaptability",
+              "Authenticity",
+              "Contributing to Society",
+              "Learning Agility",
+              "Valuing Diversity"
+            ],
+            "bidang_primer": [
+              "Building Positive Working Relationships",
+              "Communication",
+              "Continuous Improvement",
+              "Problem Analysis",
+              "Quality Orientation"
+            ],
+            "bidang_sekunder": [
+              "Customer Orientation",
+              "Planning & Organizing"
+            ]
+          },
+          "teknis": [
+            {
+              "kompetensi": "Procurement Administration",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Sourcing Management",
+              "level": "Level 3"
+            },
+            {
+              "kompetensi": "Vendor Management",
+              "level": "Level 3"
+            }
+          ],
+          "bahasa": [
+            {
+              "bahasa": "Inggris",
+              "level": "Intermediate"
+            },
+            {
+              "bahasa": "Mandarin",
+              "level": "Intermediate"
+            }
+          ],
+          "komputer": [
+            {
+              "aplikasi": "Tools FS",
+              "level": "Expert"
+            },
+            {
+              "aplikasi": "MS Project",
+              "level": "Expert"
+            }
+          ]
+        },
+        "sertifikasi": {
+          "wajib": [],
+          "opsional": []
+        },
+        "persyaratan_khusus": [
+          {
+            "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+            "keterangan": "Baik"
+          }
+        ],
+        "output": [
+          "PO pengadaan logistik yang lengkap, akurat, dan tepat waktu.",
+          "Dokumen administrasi tender & kontrak yang terdokumentasi dengan baik.",
+          "Rekap status invoice dan pembayaran vendor logistik.",
+          "Arsip digital & fisik proses pengadaan (PR–PO–GR–invoice) yang siap audit."
+        ]
+      }
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "tingkat_banding": "Band 2",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "seksi": "-",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "GM OF PROCUREMENT"
+      },
+      "tujuan_jabatan": "Mengelola proses pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui perencanaan kebutuhan, sourcing vendor, tender teknis–komersial, negosiasi, serta pengendalian kontrak dan pemenuhan pekerjaan (WHAT) untuk memastikan kualitas konstruksi, ketepatan anggaran, dan kelancaran operasional Head Office secara efektif dan sesuai standar (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Menyusun rencana kebutuhan pengadaan konstruksi dan Head Office (HO: kantor pusat perusahaan) berdasarkan prioritas unit dan RKAP (Rencana Kerja dan Anggaran Perusahaan: dokumen rencana kegiatan dan anggaran tahunan perusahaan).",
+          "hasil_yang_diharapkan": "Rencana kebutuhan akurat, terprioritas, dan selaras dengan anggaran yang disetujui."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Memastikan kelengkapan dan kualitas dokumen teknis dan komersial (TOR — Terms of Reference: dokumen ruang lingkup dan spesifikasi pekerjaan, BoQ — Bill of Quantity: rincian jenis dan volume pekerjaan/material, HPS — Harga Perkiraan Sendiri: estimasi biaya internal, serta jadwal pelaksanaan proyek) bersama unit Project/Engineering dan user sebelum proses tender dilaksanakan.",
+          "hasil_yang_diharapkan": "Dokumen tender teknis dan komersial siap dilelang, minim revisi, dan mencerminkan kebutuhan proyek yang sebenarnya."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengelola dan mengawasi kegiatan sourcing vendor (proses mencari dan memilih calon vendor/kontraktor potensial), kontraktor, konsultan, dan penyedia jasa pendukung untuk paket konstruksi dan kebutuhan HO di level unit.",
+          "hasil_yang_diharapkan": "Vendor/kontraktor/konsultan yang diundang tender memenuhi persyaratan teknis dan administratif dasar."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengawasi proses tender konstruksi (tender: proses pemilihan vendor secara terstruktur) termasuk pre-bid/aanwijzing (pertemuan penjelasan pekerjaan sebelum penawaran), site visit (kunjungan ke lokasi proyek), penerimaan dan ranking penawaran, serta klarifikasi dan evaluasi teknis–komersial (penilaian spesifikasi teknis dan aspek harga/komersial).",
+          "hasil_yang_diharapkan": "Tender berjalan transparan, terdokumentasi lengkap, dan menghasilkan rekomendasi pemenang yang kompeten."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Melakukan negosiasi scope pekerjaan (ruang lingkup pekerjaan yang akan dilaksanakan vendor), jadwal/timeline proyek, dan nilai kontrak (perjanjian tertulis kerja sama antara perusahaan dan vendor).",
+          "hasil_yang_diharapkan": "Kontrak yang disepakati optimal dari sisi biaya, ruang lingkup, dan jadwal tanpa mengurangi kualitas pekerjaan."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengusulkan vendor/kontraktor pemenang kepada GM Procurement dengan menyajikan ringkasan hasil evaluasi teknis dan komersial beserta justifikasinya.",
+          "hasil_yang_diharapkan": "Rekomendasi pemenang objektif, terukur, dan dapat dipertanggungjawabkan."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengawasi proses penerbitan PO (Purchase Order: dokumen resmi pemesanan barang/jasa) dan/atau kontrak serta memastikan kelengkapan dokumen administrasi sesuai SOP (Standard Operating Procedure: prosedur baku perusahaan).",
+          "hasil_yang_diharapkan": "PO/kontrak valid, sesuai prosedur, dan siap digunakan sebagai dasar pelaksanaan pekerjaan serta pembayaran."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Memantau progres pekerjaan konstruksi dan kebutuhan HO bersama user dan kontraktor/konsultan, termasuk ketercapaian milestone proyek dan kepatuhan terhadap SLA proyek (Service Level Agreement: standar waktu dan mutu layanan yang disepakati).",
+          "hasil_yang_diharapkan": "Progres pekerjaan sesuai timeline, spesifikasi, dan komitmen SLA yang telah disepakati."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Memimpin penyelesaian isu lapangan, ketidaksesuaian pekerjaan dengan spesifikasi (quality issue), keterlambatan, dan komplain dari user atau vendor, termasuk eskalasi bila diperlukan.",
+          "hasil_yang_diharapkan": "Isu lapangan terselesaikan cepat dan efektif tanpa menghambat kelancaran proyek."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengevaluasi kinerja vendor/kontraktor dan penyedia jasa HO secara berkala (misalnya dari aspek kualitas pekerjaan, ketepatan waktu, keselamatan kerja, dan kepatuhan administrasi).",
+          "hasil_yang_diharapkan": "Profil kinerja vendor terdokumentasi, risiko berkurang, dan menjadi dasar pengambilan keputusan untuk penggunaan vendor di proyek berikutnya."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Membimbing, mendampingi, dan mengawasi Officer dan Jr. Officer (Sourcing & Vendor Management maupun Procurement Administration) dalam pelaksanaan tender, administrasi kontrak, dan monitoring proyek.",
+          "hasil_yang_diharapkan": "Kapabilitas tim meningkat, alur kerja lebih mandiri dan konsisten, serta target pengadaan konstruksi dan HO tercapai."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mengelola spend & kontrak pengadaan konstruksi dan kebutuhan Head Office (material, jasa teknis, proyek).",
+        "non_keuangan": "Volume PR/PO konstruksi & HO, tender proyek, vendor/kontraktor, SLA proyek, compliance dokumen.",
+        "bawahan_langsung": "Officer, Jr. Officer (Sourcing & Vendor Management), Officer & Jr. Officer (Procurement Administration).",
+        "cakupan_wilayah": "Seluruh proyek konstruksi & kebutuhan operasional Head Office SILOG."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Project/Engineering",
+            "tujuan": "Verifikasi teknis, scope pekerjaan, & monitoring progress proyek."
+          },
+          {
+            "unit": "Maintenance/Facility",
+            "tujuan": "Pemenuhan kebutuhan HO & jasa operasional."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Persetujuan anggaran, verifikasi invoice & pembayaran."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Penyusunan & review kontrak konstruksi."
+          },
+          {
+            "unit": "Warehouse/Asset",
+            "tujuan": "Penerimaan material konstruksi & pemeriksaan jumlah/spesifikasi."
+          },
+          {
+            "unit": "Planning & Budgeting",
+            "tujuan": "Finalisasi APP konstruksi dan penyelarasan RKAP."
+          },
+          {
+            "unit": "GM Procurement",
+            "tujuan": "Pelaporan dan eskalasi masalah proyek."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Kontraktor Konstruksi",
+            "tujuan": "Pelaksanaan pekerjaan sesuai spesifikasi proyek."
+          },
+          {
+            "unit": "Konsultan Pengawas",
+            "tujuan": "Supervisi kualitas, metode, dan timeline pekerjaan."
+          },
+          {
+            "unit": "Vendor Material",
+            "tujuan": "Pengadaan material konstruksi sesuai spesifikasi."
+          },
+          {
+            "unit": "Auditor Eksternal",
+            "tujuan": "Kepatuhan dokumen tender dan kontrak."
+          }
+        ]
+      },
+      "wewenang": [
+        "Menyetujui dokumen tender & shortlist vendor sebelum diajukan ke GM.",
+        "Mengarahkan negosiasi teknis & komersial.",
+        "Mengambil keputusan operasional pengadaan konstruksi & HO di level SM.",
+        "Menyetujui dokumen klarifikasi & berita acara internal."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "S1 Relevan, S2 Procurement",
+          "jurusan": "S1 Teknik Sipil, Teknik Industri, Manajemen, Supply Chain, atau terkait; S2 Project Management / Engineering Management."
+        },
+        "pengalaman_kerja": "5-7 tahun pengalaman procurement/supply chain dengan pengalaman manajerial.",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Aligning performance for success",
+            "Business Insight",
+            "Developing Strategic Relationships",
+            "Driving Innovation",
+            "Leading Change",
+            "Strategic Planning"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Driving Execution",
+            "Driving for Result",
+            "Leading Through Vision and Values",
+            "Market Insight",
+            "Strategic Influence"
+          ]
+        },
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "Procurement Administration",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Sourcing Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Vendor Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          }
+        ],
+        "bahasa": [
+          {
+            "bahasa": "Inggris",
+            "level_yang_dipersyaratkan": "Intermediate"
+          },
+          {
+            "bahasa": "Mandarin",
+            "level_yang_dipersyaratkan": "Intermediate"
+          }
+        ],
+        "komputer": [
+          {
+            "kompetensi": "Tools FS",
+            "level_yang_dipersyaratkan": "Expert"
+          },
+          {
+            "kompetensi": "MS Project",
+            "level_yang_dipersyaratkan": "Expert"
+          }
+        ],
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+      "kesehatan_dan_lingkungan_kerja": [
+        {
+          "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+          "keterangan": "Baik"
+        }
+      ],
+      "output": [
+        "Rencana kebutuhan konstruksi & HO (APP Unit).",
+        "Dokumen tender konstruksi lengkap (TOR, HPS, evaluasi teknis & komersial).",
+        "Kontrak konstruksi/HO yang valid & lengkap.",
+        "Laporan realisasi pengadaan proyek dan HO.",
+        "Rekomendasi vendor pemenang.",
+        "Laporan evaluasi kinerja vendor."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CONSTRUCTION & HEAD OFFICE SOURCING & VENDOR MANAGEMENT OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "seksi": "CONSTRUCTION & HEAD OFFICE SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT"
+      },
+      "tujuan_jabatan": "Melaksanakan proses pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui sourcing vendor, penyiapan tender, evaluasi administrasi–teknis dasar, negosiasi awal, serta pengelolaan kontrak dan kinerja vendor (WHAT) untuk memastikan layanan pengadaan yang efektif, transparan, dan memenuhi kebutuhan proyek serta operasional Head Office (WHY).",
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan dan memverifikasi PR (Purchase Requisition: permintaan pembelian barang/jasa dari user) kebutuhan konstruksi/HO (Head Office: kantor pusat perusahaan) dari user, termasuk klarifikasi awal spesifikasi/TOR dasar (Terms of Reference: dokumen ruang lingkup dan spesifikasi pekerjaan) bersama user/project sebelum proses tender dilaksanakan.",
+          "hasil_yang_diharapkan": "PR lengkap, valid, dan siap ditindaklanjuti ke tahap sourcing."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Melakukan pencarian dan seleksi awal vendor konstruksi, kontraktor, konsultan, dan penyedia jasa pendukung HO, termasuk pengumpulan informasi legalitas dasar (misalnya NPWP, NIB, akta perusahaan) dan pengalaman proyek sebelumnya.",
+          "hasil_yang_diharapkan": "Daftar vendor awal yang memenuhi persyaratan legalitas dan kualifikasi dasar untuk diikutsertakan dalam tender."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyiapkan dokumen tender konstruksi/HO (administrasi, surat undangan, TOR dasar dari user, dan formulir penawaran) sesuai template dan prosedur tender (tender: proses pemilihan vendor secara resmi dan terstruktur).",
+          "hasil_yang_diharapkan": "Dokumen tender tersusun rapi, lengkap, dan siap disirkulasikan kepada vendor sesuai jadwal."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengelola proses penerimaan penawaran dari vendor dan klarifikasi administrasi serta kesesuaian persyaratan vendor, termasuk memastikan seluruh dokumen penawaran lengkap, sesuai ketentuan compliance (kepatuhan terhadap kebijakan dan prosedur pengadaan), dan terdokumentasi dengan baik.",
+          "hasil_yang_diharapkan": "Vendor tersaring sesuai ketentuan administrasi dan compliance, dengan dokumen penawaran yang lengkap dan tertata."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Melakukan evaluasi administrasi dan komersial dasar (perbandingan kelengkapan dokumen, harga penawaran, dan syarat pembayaran utama) sesuai arahan SM, berdasarkan rekap penawaran vendor yang telah diterima.",
+          "hasil_yang_diharapkan": "Hasil evaluasi objektif, terdokumentasi, dan dapat digunakan sebagai dasar penyusunan rekomendasi vendor ke SM."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Melakukan negosiasi awal ruang lingkup kerja (scope pekerjaan yang akan dilaksanakan vendor), biaya dasar, dan jadwal pelaksanaan proyek dengan vendor, dalam batas kewenangan Officer dan sesuai arahan SM.",
+          "hasil_yang_diharapkan": "Usulan harga, ruang lingkup, dan jadwal yang lebih kompetitif untuk dibahas dan difinalisasi bersama SM."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Menyusun rekomendasi awal vendor/kontraktor berdasarkan hasil evaluasi administrasi, komersial dasar, dan masukan teknis dari user/project untuk direview oleh SM sebelum penetapan pemenang.",
+          "hasil_yang_diharapkan": "Usulan vendor yang memiliki justifikasi logis, berbasis data tender, dan mudah dipahami oleh SM dalam proses pengambilan keputusan."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mendukung penyusunan draft PO (Purchase Order: dokumen resmi pemesanan barang/jasa) dan/atau kontrak, termasuk memastikan kelengkapan dokumen pendukung vendor (legalitas, NPWP, rekening, dokumen pendukung teknis) sebelum proses review Legal dan approval manajemen.",
+          "hasil_yang_diharapkan": "Draft PO/kontrak siap diajukan ke fungsi Legal dan manajemen tanpa kekurangan dokumen administrasi vendor."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Memantau progres pekerjaan konstruksi/HO bersama user dan vendor pada level administrasi dan pelaporan, termasuk mencatat deviasi signifikan terhadap rencana awal atau SLA proyek (Service Level Agreement: standar waktu dan mutu layanan yang disepakati) dan mengeskalasinya kepada SM Construction & HO Procurement.",
+          "hasil_yang_diharapkan": "Progres pekerjaan terpantau rutin, deviasi cepat diidentifikasi, dan isu dapat segera diekskalasi untuk penanganan di level manajerial."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengumpulkan dan memperbarui data kinerja vendor (misalnya kualitas pekerjaan, ketepatan waktu, kepatuhan administrasi, dan respons terhadap komplain) sebagai bahan evaluasi berkala di unit Construction & HO Procurement.",
+          "hasil_yang_diharapkan": "Data evaluasi kinerja vendor terdokumentasi dengan baik dan dapat digunakan sebagai dasar keputusan penggunaan vendor pada proyek berikutnya."
+        }
+      ],
+      "dimensi": {
+        "keuangan": "Mengelola evaluasi harga & negosiasi awal paket konstruksi/HO.",
+        "non_keuangan": "Dokumen tender, vendor/kontraktor, evaluasi admin–komersial dasar, SLA tender proyek.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Pengadaan konstruksi & HO seluruh area operasional."
+      },
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "User Construction / Engineering",
+            "tujuan": "Klarifikasi TOR, kebutuhan proyek, dan monitoring progres pekerjaan."
+          },
+          {
+            "unit": "Facility / General Services HO",
+            "tujuan": "Pemenuhan kebutuhan jasa & barang pendukung HO."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Review kontrak, legalitas vendor, dan compliance dokumen."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Verifikasi terms pembayaran & pencocokan dokumen kontrak."
+          },
+          {
+            "unit": "Warehouse/Asset",
+            "tujuan": "Validasi penerimaan barang/jasa proyek."
+          },
+          {
+            "unit": "SM Construction & HO Procurement",
+            "tujuan": "Arahan evaluasi, negosiasi, dan persetujuan vendor."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Kontraktor Konstruksi",
+            "tujuan": "Penyampaian dokumen tender, penawaran, klarifikasi teknis/administrasi."
+          },
+          {
+            "unit": "Konsultan Perencana/Pengawas",
+            "tujuan": "Sinkronisasi dokumen teknis dan progress pekerjaan."
+          },
+          {
+            "unit": "Vendor Material Konstruksi",
+            "tujuan": "Penawaran material sesuai spesifikasi."
+          },
+          {
+            "unit": "Auditor",
+            "tujuan": "Penyediaan dokumen tender & kontrak sesuai kebutuhan audit."
+          }
+        ]
+      },
+      "wewenang": [
+        "Melakukan pra-seleksi administrasi vendor.",
+        "Mengelola proses tender (administrasi, klarifikasi, dokumentasi).",
+        "Melakukan negosiasi awal sesuai batas kewenangan Officer.",
+        "Mengembalikan PR/dokumen vendor yang tidak lengkap.",
+        "Mengakses sistem procurement sesuai otorisasi."
+      ],
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "S1",
+          "jurusan": "S1 Teknik Sipil / Teknik Industri / Manajemen / Supply Chain atau bidang relevan"
+        },
+        "pengalaman_kerja": "2-4 tahun dalam procurement konstruksi atau relevan",
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Coaching",
+            "Decision Making",
+            "Execution",
+            "Gaining Commitment",
+            "Work Standards"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Building Partnerships",
+            "Business Awareness",
+            "Customer Focus",
+            "Innovation"
+          ]
+        },
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "Procurement Administration",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Sourcing Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Vendor Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          }
+        ],
+        "bahasa": [
+          {
+            "bahasa": "Inggris",
+            "level_yang_dipersyaratkan": "Intermediate"
+          },
+          {
+            "bahasa": "Mandarin",
+            "level_yang_dipersyaratkan": "Intermediate"
+          }
+        ],
+        "komputer": [
+          {
+            "kompetensi": "Tools FS",
+            "level_yang_dipersyaratkan": "Expert"
+          },
+          {
+            "kompetensi": "MS Project",
+            "level_yang_dipersyaratkan": "Expert"
+          }
+        ],
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+      "kesehatan_dan_lingkungan_kerja": [
+        {
+          "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+          "keterangan": "Baik"
+        }
+      ],
+      "output": [
+        "Daftar vendor konstruksi & HO yang lulus pra-seleksi administrasi.",
+        "Dokumen tender konstruksi/HO lengkap.",
+        "Rekap hasil evaluasi administrasi & komersial.",
+        "Berita acara klarifikasi dan negosiasi awal.",
+        "Rekomendasi awal vendor untuk SM.",
+        "Laporan monitoring progres pekerjaan konstruksi/HO.",
+        "Data evaluasi kinerja vendor."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CONSTRUCTION & HEAD OFFICE SOURCING & VENDOR MANAGEMENT JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "seksi": "CONSTRUCTION & HEAD OFFICE SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mendukung proses pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui pengumpulan kebutuhan, penyiapan dokumen tender, pengelolaan data vendor, input administrasi penawaran, serta monitoring progres pekerjaan (WHAT) untuk memastikan kelancaran proses pengadaan secara akurat, tertib, dan sesuai SOP (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan PR dan memastikan kelengkapan dasar kebutuhan konstruksi/HO.",
+          "hasil_yang_diharapkan": "PR siap diproses tanpa kekurangan data."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menghubungi vendor untuk pengumpulan penawaran (RFQ) dan dokumen administrasi.",
+          "hasil_yang_diharapkan": "Penawaran & dokumen administrasi lengkap tepat waktu."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyiapkan administrasi tender (undangan, daftar hadir, formulir penawaran, dan dokumen pendukung).",
+          "hasil_yang_diharapkan": "Dokumen tender rapi dan sesuai SOP."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menginput data penawaran vendor ke dalam format evaluasi awal.",
+          "hasil_yang_diharapkan": "Data evaluasi akurat dan siap direview."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengelola kelengkapan dokumen legalitas vendor dan melakukan update berkala.",
+          "hasil_yang_diharapkan": "Database vendor compliant dan ter-update."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Follow-up klarifikasi administrasi kepada vendor.",
+          "hasil_yang_diharapkan": "Dokumen administrasi vendor lengkap tanpa keterlambatan."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Membantu pengumpulan data untuk penyusunan TOR dan dokumen tender lain.",
+          "hasil_yang_diharapkan": "TOR dan tender sesuai kebutuhan user."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mendukung penyusunan draft PO/kontrak dengan input data & pengecekan konsistensi.",
+          "hasil_yang_diharapkan": "Draft PO/kontrak siap ditinjau atasan."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Memantau progres pekerjaan konstruksi/HO bersama Officer dan mencatat deviasi.",
+          "hasil_yang_diharapkan": "Progres terdokumentasi & deviasi terlaporkan."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, penawaran, kontrak, dan laporan progres.",
+          "hasil_yang_diharapkan": "Arsip tertata, mudah ditelusuri, sesuai standar audit."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Mengumpulkan dokumen serah terima pekerjaan (BAST).",
+          "hasil_yang_diharapkan": "Arsip BAST lengkap & sesuai standar audit."
+        },
+        {
+          "id": 12,
+          "tanggung_jawab": "Mendukung proses pembayaran dengan mengumpulkan & menyusun paket dokumen lengkap.",
+          "hasil_yang_diharapkan": "Dokumen pembayaran lengkap sehingga verifikasi Finance lancar."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Tidak memiliki kewenangan finansial.",
+        "non_keuangan": "Administrasi tender, RFQ, kelengkapan dokumen vendor, input evaluasi.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Proses administrasi pengadaan konstruksi & Head Office."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "User Construction / Engineering",
+            "tujuan": "Pengumpulan kebutuhan & penjelasan awal scope."
+          },
+          {
+            "unit": "Facility / General Services HO",
+            "tujuan": "Pemenuhan kebutuhan operasional HO."
+          },
+          {
+            "unit": "Officer Construction & HO Procurement",
+            "tujuan": "Koordinasi tender, evaluasi awal, administrasi kontrak."
+          },
+          {
+            "unit": "Finance",
+            "tujuan": "Kelengkapan dokumen pembayaran."
+          },
+          {
+            "unit": "Warehouse/Asset",
+            "tujuan": "Konfirmasi dokumen penerimaan barang/jasa."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Kelengkapan legalitas vendor & pengecekan dokumen kontraktual."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor / Kontraktor Konstruksi",
+            "tujuan": "Pengumpulan penawaran & administrasi tender."
+          },
+          {
+            "unit": "Konsultan (perencana/pengawas)",
+            "tujuan": "Dokumen teknis & update progres pekerjaan."
+          }
+        ]
+      },
+
+      "wewenang": [
+        "Menghubungi vendor untuk permintaan penawaran & administrasi tender.",
+        "Mengembalikan dokumen vendor/PR yang tidak lengkap.",
+        "Menginput data tender.",
+        "Mengarsipkan dokumen tender & kontrak."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3–S1",
+          "jurusan": "Manajemen, Teknik Sipil, Teknik Industri, Supply Chain, Administrasi"
+        },
+        "pengalaman_kerja": "0–2 tahun pengalaman procurement atau konstruksi/HO",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Building Positive Working Relationships",
+            "Communication",
+            "Continuous Improvement",
+            "Problem Analysis",
+            "Quality Orientation"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Customer Orientation",
+            "Planning & Organizing"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "Procurement Administration",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Sourcing Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Vendor Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        {
+          "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+          "keterangan": "Baik"
+        }
+      ],
+
+      "output": [
+        "Dokumen tender dasar (undangan, form penawaran, rekap penawaran).",
+        "Data vendor & dokumen legalitas ter-update.",
+        "Input evaluasi administrasi & komersial awal.",
+        "Arsip dokumen tender–kontrak konstruksi/HO.",
+        "Laporan sederhana monitoring progres pekerjaan."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CONSTRUCTION & HEAD OFFICE PROCUREMENT ADMINISTRATION OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "seksi": "CONSTRUCTION & HEAD OFFICE PROCUREMENT ADMINISTRATION",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mengelola administrasi pengadaan konstruksi dan kebutuhan Head Office (HOW) melalui verifikasi PR, penyusunan dokumen tender, penerbitan PO, pengendalian dokumen kontrak, serta verifikasi invoice dan jadwal pembayaran (WHAT) untuk memastikan akurasi, kepatuhan, dan kelancaran proses administrasi pengadaan (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Memeriksa kelengkapan PR konstruksi/HO dan memastikan kesesuaian administrasinya sebelum proses tender dimulai.",
+          "hasil_yang_diharapkan": "PR siap ditindaklanjuti tanpa kekurangan data (spesifikasi, volume, lokasi, jadwal, dan lampiran pendukung)."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Mengkoordinasikan klarifikasi PR, spesifikasi teknis, dan scope pekerjaan konstruksi/HO dengan user terkait sebelum tender.",
+          "hasil_yang_diharapkan": "PR dan scope pekerjaan dipahami jelas oleh seluruh pihak sehingga meminimalkan perubahan di tengah proses pengadaan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyusun dokumen administrasi tender (surat undangan, formulir administrasi, berita acara, daftar hadir, dan dokumen pendukung lain) sesuai SOP dan ketentuan audit.",
+          "hasil_yang_diharapkan": "Dokumen tender lengkap, konsisten dengan SOP, dan memenuhi standar audit."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Mengelola data registrasi vendor konstruksi/HO, termasuk dokumen legalitas dan masa berlakunya, serta melakukan update berkala.",
+          "hasil_yang_diharapkan": "Data vendor terbarui, terdokumentasi rapi, dan compliant dengan persyaratan legal dan administrasi perusahaan."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Menerima, memeriksa kelengkapan, dan merekap dokumen penawaran vendor (administrasi dan komersial) sesuai ketentuan tender.",
+          "hasil_yang_diharapkan": "Dokumen penawaran vendor lengkap, terdokumentasi rapi, dan siap digunakan dalam proses evaluasi."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Menyusun dan menerbitkan PO berdasarkan hasil tender atau kontrak yang telah disetujui, termasuk input data ke sistem bila diperlukan.",
+          "hasil_yang_diharapkan": "PO akurat, terbit tepat waktu, dan sesuai ketentuan pengadaan serta hasil persetujuan."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengelola dokumen kontrak dan memastikan seluruh persyaratan administrasi vendor (legalitas, jaminan, lampiran teknis) terpenuhi sebelum kontrak dijalankan.",
+          "hasil_yang_diharapkan": "Dokumen kontrak lengkap, terdokumentasi, dan siap ditindaklanjuti oleh user/Legal."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Memeriksa kesesuaian invoice terhadap PO, kontrak, dan BAST/GR sebelum diserahkan ke Finance.",
+          "hasil_yang_diharapkan": "Invoice valid, sesuai dokumen pendukung, dan siap diverifikasi Finance tanpa revisi berulang."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Mengirimkan invoice yang sudah diperiksa ke Finance/Accounting dan memantau status verifikasi serta jadwal pembayaran kepada vendor.",
+          "hasil_yang_diharapkan": "Status pembayaran jelas, terdokumentasi, dan dapat diinformasikan akurat kepada vendor maupun user."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Menjadwalkan pembayaran dan menyusun reminder internal untuk invoice yang mendekati jatuh tempo sesuai SLA.",
+          "hasil_yang_diharapkan": "Pembayaran minim keterlambatan, kepatuhan terhadap SLA pembayaran terjaga, dan risiko komplain vendor menurun."
+        },
+        {
+          "id": 11,
+          "tanggung_jawab": "Mengkoordinasikan penyelesaian temuan administrasi (misalnya selisih dokumen, kekurangan bukti, kesalahan input data) dengan user, Finance, Warehouse/Asset, atau vendor.",
+          "hasil_yang_diharapkan": "Temuan administratif terselesaikan cepat, akurat, dan terdokumentasi sehingga tidak menghambat proses pengadaan maupun pembayaran."
+        },
+        {
+          "id": 12,
+          "tanggung_jawab": "Mengelola pengarsipan dokumen tender, PO, kontrak, invoice, BAST/GR, dan dokumen pendukung lain (fisik maupun digital) sesuai standar audit dan SLA dokumen & arsip.",
+          "hasil_yang_diharapkan": "Arsip dokumen tertata, mudah ditelusuri, dan pemenuhan SLA dokumen & arsip terjaga."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Mengelola administrasi dokumen PR–PO–kontrak–invoice pekerjaan konstruksi dan kebutuhan Head Office (tanpa kewenangan keputusan finansial/approval pembayaran).",
+        "non_keuangan": "Dokumen tender dan kontrak, data registrasi & legalitas vendor, PR yang telah diverifikasi, BAST/GR, invoice dan status pembayaran, serta pemenuhan SLA pemrosesan dokumen dan pengarsipan.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Administrasi pengadaan pekerjaan konstruksi dan kebutuhan Head Office dalam lingkup perusahaan."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "User Construction / Engineering",
+            "tujuan": "Konfirmasi PR, BAST/GR, dan scope pekerjaan."
+          },
+          {
+            "unit": "Facility / General Services HO",
+            "tujuan": "Pengadaan kebutuhan operasional HO."
+          },
+          {
+            "unit": "SM Construction & HO Procurement",
+            "tujuan": "Finalisasi tender/PO dan eskalasi permasalahan."
+          },
+          {
+            "unit": "Finance / Accounting",
+            "tujuan": "Verifikasi invoice, pembayaran vendor, dan penyelesaian selisih dokumen."
+          },
+          {
+            "unit": "Warehouse/Asset",
+            "tujuan": "Validasi penerimaan barang dan bukti serah terima."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Verifikasi legalitas vendor dan dokumen kontrak."
+          },
+          {
+            "unit": "IT/System",
+            "tujuan": "Dukungan sistem procurement dan arsip digital."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor/Kontraktor/Konsultan",
+            "tujuan": "Penyampaian dokumen tender, PO, dan invoice."
+          },
+          {
+            "unit": "Auditor",
+            "tujuan": "Pemeriksaan arsip tender, kontrak, dan invoice."
+          }
+        ]
+      },
+
+      "wewenang": [
+        "Menginput dan menerbitkan PO sesuai delegasi.",
+        "Memeriksa dan mengembalikan invoice/dokumen vendor yang tidak lengkap.",
+        "Mengelola administrasi kontrak dan data vendor.",
+        "Menyampaikan reminder internal terkait jatuh tempo pembayaran."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3–S1",
+          "jurusan": "Administrasi, Manajemen, Akuntansi, Supply Chain, Teknik relevan"
+        },
+        "pengalaman_kerja": "2–4 tahun administrasi procurement konstruksi/HO.",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Coaching",
+            "Decision Making",
+            "Execution",
+            "Gaining Commitment",
+            "Work Standards"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Building Partnerships",
+            "Business Awareness",
+            "Customer Focus",
+            "Innovation"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "Procurement Administration",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Sourcing Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Vendor Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        {
+          "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+          "keterangan": "Baik"
+        }
+      ],
+
+      "output": [
+        "Dokumen tender dasar (undangan, formulir penawaran, daftar hadir, dan rekap penawaran) tersusun rapi dan sesuai SOP.",
+        "Data vendor dan dokumen legalitas yang ter-update serta compliant dengan persyaratan perusahaan.",
+        "Rekap/evaluasi awal administrasi dan komersial penawaran vendor yang siap digunakan oleh Officer/SM.",
+        "Arsip dokumen tender, kontrak, dan dokumen pendukung konstruksi/HO yang tertata dan mudah ditelusuri.",
+        "Laporan sederhana monitoring progres pekerjaan konstruksi/HO (ringkasan progres, deviasi utama, dan catatan penting).",
+        "Dokumen serah terima pekerjaan yang lengkap (BAST dan dokumen terkait lainnya).",
+        "Paket dokumen pendukung pembayaran (kontrak, PO, BAST, invoice, dan dokumen lain yang disyaratkan) yang tersusun lengkap dan akurat."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CONSTRUCTION & HEAD OFFICE PROCUREMENT ADMINISTRATION JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CONSTRUCTION & HEAD OFFICE PROCUREMENT",
+        "seksi": "CONSTRUCTION & HEAD OFFICE PROCUREMENT ADMINISTRATION",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CONSTRUCTION & HEAD OFFICE PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mendukung administrasi pengadaan konstruksi dan kebutuhan Head Office (HOW) dengan menyiapkan dokumen tender, memproses PR dan PO, mengelola arsip kontrak, memeriksa invoice, serta memantau kelengkapan dokumen vendor (WHAT) untuk memastikan ketertiban administrasi dan kelancaran proses pengadaan (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan PR kebutuhan konstruksi/HO dan memeriksa kelengkapan administrasinya.",
+          "hasil_yang_diharapkan": "PR lengkap dan siap diproses tanpa revisi berulang."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyiapkan dokumen administrasi tender sesuai template dan arahan Officer/SM.",
+          "hasil_yang_diharapkan": "Dokumen tender rapi, sesuai template, dan siap disirkulasikan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengelola dan memperbarui data legalitas vendor di database.",
+          "hasil_yang_diharapkan": "Database vendor akurat, update, dan compliant."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menginput dan memproses PO berdasarkan hasil tender/kontrak.",
+          "hasil_yang_diharapkan": "PO terbit tepat waktu dan sesuai ketentuan."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, kontrak, PO, BAST/GR, dan administrasi proyek.",
+          "hasil_yang_diharapkan": "Arsip mudah ditelusuri dan memenuhi standar audit."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengumpulkan invoice dan memeriksa kecocokan data dengan PO dan BAST/GR.",
+          "hasil_yang_diharapkan": "Invoice valid dan siap diverifikasi."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengirimkan invoice ke Finance serta memantau status verifikasi dan pembayaran.",
+          "hasil_yang_diharapkan": "Status invoice dan pembayaran terdokumentasi jelas."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mengingatkan internal terkait dokumen yang belum lengkap atau pembayaran yang mendekati jatuh tempo.",
+          "hasil_yang_diharapkan": "Proses dokumen & pembayaran minim keterlambatan."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Mendukung penyiapan laporan administrasi pengadaan konstruksi/HO.",
+          "hasil_yang_diharapkan": "Laporan rapi, mudah dipahami, dan membantu monitoring."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Menghubungi vendor terkait permintaan dokumen administrasi tambahan.",
+          "hasil_yang_diharapkan": "Dokumen vendor terpenuhi tepat waktu tanpa hambatan."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Administrasi PR–PO–GR–invoice pekerjaan konstruksi/HO.",
+        "non_keuangan": "Arsip tender, kelengkapan dokumen vendor, SLA input data & pengecekan dasar.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Administrasi konstruksi & Head Office."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          {
+            "unit": "Officer Construction & HO Procurement",
+            "tujuan": "Koordinasi tender, PO, dan administrasi kontrak."
+          },
+          {
+            "unit": "User Construction / Engineering",
+            "tujuan": "Konfirmasi kebutuhan & dokumen BAST/GR."
+          },
+          {
+            "unit": "Facility / General Services HO",
+            "tujuan": "Pemenuhan kebutuhan operasional HO."
+          },
+          {
+            "unit": "Finance / Accounting",
+            "tujuan": "Verifikasi invoice, input pembayaran, dan penyelesaian selisih."
+          },
+          {
+            "unit": "Warehouse/Asset",
+            "tujuan": "Validasi dokumen penerimaan barang/jasa."
+          },
+          {
+            "unit": "Legal",
+            "tujuan": "Legalitas vendor & dokumen kontraktual dasar."
+          }
+        ],
+        "eksternal": [
+          {
+            "unit": "Vendor/Kontraktor/Konsultan",
+            "tujuan": "Pengumpulan dokumen administrasi, PO, invoice."
+          },
+          {
+            "unit": "Auditor",
+            "tujuan": "Penyediaan arsip & dokumen administrasi tender/kontrak."
+          }
+        ]
+      },
+
+      "wewenang": [
+        "Menginput PO konstruksi & HO.",
+        "Mengarsipkan dokumen tender, kontrak, dan administrasi proyek.",
+        "Menghubungi vendor terkait kelengkapan administrasi.",
+        "Mengembalikan PR/invoice yang tidak lengkap."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3–S1",
+          "jurusan": "Administrasi, Manajemen, Akuntansi, Supply Chain, Teknik relevan"
+        },
+        "pengalaman_kerja": "0–2 tahun administrasi procurement/konstruksi/HO",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Building Positive Working Relationships",
+            "Communication",
+            "Continuous Improvement",
+            "Problem Analysis",
+            "Quality Orientation"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Customer Orientation",
+            "Planning & Organizing"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          {
+            "kompetensi": "Procurement Administration",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Sourcing Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          },
+          {
+            "kompetensi": "Vendor Management",
+            "level_yang_dipersyaratkan": "Level 3"
+          }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        {
+          "persyaratan": "Fit to work dalam pemeriksaan kesehatan",
+          "keterangan": "Baik"
+        }
+      ],
+
+      "output": [
+        "Input PO konstruksi/HO yang lengkap & akurat.",
+        "Arsip tender–kontrak–PO yang memenuhi standar audit.",
+        "Rekap invoice & status pembayaran.",
+        "Data vendor & legalitas yang update.",
+        "Laporan administrasi pengadaan (simple)."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "tingkat_banding": "Band 2",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "seksi": "-",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "GM OF PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mengelola proses pengadaan Cruise & Port Operations (HOW) dengan memimpin perencanaan kebutuhan, sourcing vendor maritim, tender layanan pelabuhan, negosiasi, kontraktual, serta monitoring pemenuhan barang/jasa operasional (WHAT) untuk memastikan kelancaran layanan pelabuhan, efisiensi biaya, dan pencapaian SLA operasional (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Menyusun rencana kebutuhan pengadaan C&P berdasarkan usulan unit dan RKAP.",
+          "hasil_yang_diharapkan": "Rencana C&P terstruktur dan selaras prioritas operasional."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Mengkoordinasikan sourcing vendor maritim dan memastikan pemenuhan persyaratan legalitas & operasional.",
+          "hasil_yang_diharapkan": "Daftar vendor maritim memenuhi kualifikasi dan standar perusahaan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengawasi proses tender C&P agar sesuai SOP dan transparan.",
+          "hasil_yang_diharapkan": "Tender terdokumentasi lengkap dan menghasilkan pemenang kompeten."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Memimpin negosiasi ruang lingkup pekerjaan, harga, jadwal, dan layanan port service.",
+          "hasil_yang_diharapkan": "Kesepakatan kompetitif dan efisien mendukung operasional pelabuhan."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Menyusun rekomendasi vendor pemenang dan mengusulkannya kepada GM.",
+          "hasil_yang_diharapkan": "Rekomendasi objektif dan berbasis evaluasi menyeluruh."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengawasi finalisasi dan penerbitan PO/kontrak serta kelengkapan dokumen vendor.",
+          "hasil_yang_diharapkan": "Kontrak sah secara hukum dan sesuai SOP procurement."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Memantau pemenuhan layanan pelabuhan/maritim vendor dan pencapaian SLA.",
+          "hasil_yang_diharapkan": "SLA terpenuhi dan deviasi ditindaklanjuti secara cepat."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Menangani eskalasi masalah layanan, keterlambatan, dan ketidaksesuaian kinerja vendor.",
+          "hasil_yang_diharapkan": "Masalah layanan vendor tidak mengganggu operasional pelabuhan."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Melakukan evaluasi kinerja vendor maritim dan memberikan masukan kelanjutan kerja sama.",
+          "hasil_yang_diharapkan": "Peringkat vendor jelas, risiko menurun, keputusan strategis didukung data."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengelola efektivitas kerja tim procurement C&P (Sourcing, Vendor Management, Procurement Administration).",
+          "hasil_yang_diharapkan": "Tim bekerja efektif, kolaboratif, dan patuh SOP."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Mengelola administrasi dokumen PR, PO, BAST/GR, invoice konstruksi & kebutuhan HO (tanpa kewenangan finansial).",
+        "non_keuangan": "Arsip dokumen tender–kontrak–PO–BAST/GR–invoice; SLA administrasi & dokumen; update status invoice.",
+        "bawahan_langsung": "Officer & Jr Officer Sourcing, Officer & Jr Officer Procurement Administration (C&P).",
+        "cakupan_wilayah": "Seluruh pengadaan Cruise & Port Operations."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          { "unit": "Cruise Operations", "tujuan": "Klarifikasi kebutuhan layanan kapal & penumpang." },
+          { "unit": "Port Operations", "tujuan": "Pengadaan layanan operasional pelabuhan." },
+          { "unit": "Finance", "tujuan": "Verifikasi pembayaran & kontrak." },
+          { "unit": "Legal", "tujuan": "Review kontrak maritim/port service." },
+          { "unit": "Warehouse/Asset", "tujuan": "Validasi penerimaan material C&P." },
+          { "unit": "Planning & Budgeting", "tujuan": "Sinkronisasi kebutuhan dengan RKAP." },
+          { "unit": "GM Procurement", "tujuan": "Persetujuan vendor & eskalasi masalah." }
+        ],
+        "eksternal": [
+          { "unit": "Penyedia Layanan Pelabuhan", "tujuan": "Penawaran & layanan operasional." },
+          { "unit": "Ship Chandler / Marine Supplier", "tujuan": "Pemenuhan barang/jasa maritim." },
+          { "unit": "Docking/Repair Vendor", "tujuan": "Layanan perawatan & perbaikan kapal." },
+          { "unit": "Fuel Vendor", "tujuan": "Penyediaan BBM & utilities." },
+          { "unit": "Auditor", "tujuan": "Pemeriksaan tender & kontrak." }
+        ]
+      },
+
+      "wewenang": [
+        "Menyetujui dokumen tender & shortlist vendor sebelum diajukan ke GM.",
+        "Mengatur negosiasi awal & finalisasi opsi vendor.",
+        "Memastikan compliance dokumen vendor sebelum kontrak.",
+        "Pengambilan keputusan operasional di level SM (sourcing–tender–monitoring)."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "S1, S2 diutamakan",
+          "jurusan": "Teknik Perkapalan/Mesin/Industri, Logistik, Manajemen; S2 Maritime/Port Mgmt (nilai tambah)"
+        },
+        "pengalaman_kerja": "7–10 tahun procurement maritim/port/logistik dengan pengalaman manajerial",
+
+        "core_values": ["Amanah", "Kompeten", "Harmonis", "Loyal", "Adaptif", "Kolaboratif"],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+          "kompetensi_bidang_primer": [
+            "Aligning performance for success",
+            "Business Insight",
+            "Developing Strategic Relationships",
+            "Driving Innovation",
+            "Leading Change",
+            "Strategic Planning"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Driving Execution",
+            "Driving for Result",
+            "Leading Through Vision and Values",
+            "Market Insight",
+            "Strategic Influence"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          { "kompetensi": "Procurement Administration", "level_yang_dipersyaratkan": "Level 4" },
+          { "kompetensi": "Sourcing Management", "level_yang_dipersyaratkan": "Level 4" },
+          { "kompetensi": "Vendor Management", "level_yang_dipersyaratkan": "Level 4" }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        { "persyaratan": "Fit to work dalam pemeriksaan kesehatan", "keterangan": "Baik" }
+      ],
+
+      "output": [
+        "Rencana kebutuhan C&P (APP Unit).",
+        "Dokumen tender C&P lengkap.",
+        "Kontrak layanan pelabuhan & pengadaan maritim.",
+        "Laporan realisasi layanan & pemenuhan SLA.",
+        "Rekomendasi vendor pemenang.",
+        "Evaluasi kinerja vendor."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "seksi": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Melaksanakan proses pengadaan Cruise & Port Operations (HOW) melalui sourcing vendor maritim, penyiapan tender, klarifikasi teknis-administrasi, evaluasi penawaran, negosiasi awal, serta pengendalian kontrak dan layanan operasional pelabuhan (WHAT) untuk memastikan pemenuhan kebutuhan C&P secara efektif, kompetitif, dan sesuai SLA operasional (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan PR kebutuhan Cruise & Port Operations dan melakukan klarifikasi sederhana atas kebutuhan & TOR bersama user.",
+          "hasil_yang_diharapkan": "PR dan TOR C&P lengkap, jelas, dan siap diproses tanpa revisi berulang."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Melakukan sourcing vendor maritim dan mengupdate database vendor (legalitas, kategori layanan, pengalaman).",
+          "hasil_yang_diharapkan": "Daftar vendor maritim potensial, memenuhi legalitas dasar, relevan dengan kebutuhan C&P."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyiapkan dokumen tender C&P dan mengatur jadwal aanwijzing/klarifikasi.",
+          "hasil_yang_diharapkan": "Dokumen tender lengkap & konsisten, siap untuk proses pemilihan vendor."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Melakukan klarifikasi administrasi vendor dan mengecek kesesuaian dokumen dengan persyaratan tender.",
+          "hasil_yang_diharapkan": "Vendor yang masuk tahap tender telah lolos administrasi & compliant."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mendukung user dalam evaluasi teknis dasar penawaran vendor dan mendokumentasikan hasil diskusi teknis.",
+          "hasil_yang_diharapkan": "Evaluasi teknis vendor terdokumentasi rapi sebagai dasar keputusan."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Melakukan evaluasi komersial awal dan menyusun rekap penawaran C&P.",
+          "hasil_yang_diharapkan": "Data evaluasi komersial akurat & terstruktur."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Melakukan negosiasi awal dalam batas kewenangan Officer dan menyusun ringkasan hasil.",
+          "hasil_yang_diharapkan": "Hasil negosiasi awal kompetitif & realistis sebagai bahan eskalasi SM."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Menyusun rekomendasi awal vendor pemenang berdasarkan evaluasi teknis & komersial.",
+          "hasil_yang_diharapkan": "Rekomendasi objektif, berbasis data, mudah direview SM/GM."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Mengelola kelengkapan dokumen kontrak vendor C&P hingga siap difinalisasi.",
+          "hasil_yang_diharapkan": "Dokumen kontrak lengkap & bebas kekurangan administrasi."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Memantau pemenuhan layanan pelabuhan/maritim vendor terhadap SLA dan mencatat deviasi.",
+          "hasil_yang_diharapkan": "Layanan vendor sesuai SLA, deviasi terdokumentasi untuk evaluasi."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Mengelola nilai tender & evaluasi harga pengadaan port operations pada tahap administrasi–komersial; melakukan negosiasi awal paket marine services & port equipment.",
+        "non_keuangan": "Dokumen tender, vendor maritim, klarifikasi teknis & administrasi, SLA tender, akurasi dokumen, jumlah PR masuk, monitoring vendor compliance.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Seluruh lokasi operasional maritim perusahaan."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          { "unit": "Cruise Operations", "tujuan": "Penjabaran kebutuhan layanan kapal & penumpang." },
+          { "unit": "Port Operations", "tujuan": "Kebutuhan operasional pelabuhan & marine services." },
+          { "unit": "Engineering/Technical Support", "tujuan": "Klarifikasi teknis untuk peralatan maritim/port." },
+          { "unit": "Finance", "tujuan": "Verifikasi terms komersial & pembayaran." },
+          { "unit": "Legal", "tujuan": "Dokumen kontrak & compliance vendor." },
+          { "unit": "Warehouse/Asset", "tujuan": "Penerimaan barang & dokumen GR/BAST." },
+          { "unit": "SM C&P Procurement", "tujuan": "Arah evaluasi & persetujuan tender." }
+        ],
+        "eksternal": [
+          { "unit": "Penyedia layanan pelabuhan", "tujuan": "Layanan operasional dock, tug, utilities." },
+          { "unit": "Ship Chandler / Marine Supplier", "tujuan": "Pemenuhan marine supply & equipment." },
+          { "unit": "Vendor Fueling/Utilities", "tujuan": "Penyediaan BBM kapal & utilitas." },
+          { "unit": "Konsultan Maritim", "tujuan": "Dokumen teknis bila diperlukan." },
+          { "unit": "Auditor", "tujuan": "Pemeriksaan dokumen tender & kontrak." }
+        ]
+      },
+
+      "wewenang": [
+        "Melakukan pra-seleksi administrasi vendor.",
+        "Menjalankan proses tender (administrasi, klarifikasi, dokumentasi).",
+        "Melakukan negosiasi awal dalam batas kewenangan Officer.",
+        "Mengembalikan PR/dokumen vendor yang tidak lengkap.",
+        "Menginput data tender & rekomendasi awal vendor."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "S1",
+          "jurusan": "Teknik Perkapalan, Teknik Mesin, Teknik Industri, Logistik, Manajemen, atau relevan"
+        },
+        "pengalaman_kerja": "2–4 tahun procurement sektor maritim/port/logistik",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Coaching",
+            "Decision Making",
+            "Execution",
+            "Gaining Commitment",
+            "Work Standards"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Building Partnerships",
+            "Business Awareness",
+            "Customer Focus",
+            "Innovation"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          { "kompetensi": "Procurement Administration", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Sourcing Management", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Vendor Management", "level_yang_dipersyaratkan": "Level 3" }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        { "persyaratan": "Fit to work dalam pemeriksaan kesehatan", "keterangan": "Baik" }
+      ],
+
+      "output": [
+        "Daftar vendor C&P yang lulus administrasi & kualifikasi dasar.",
+        "Dokumen tender C&P lengkap.",
+        "Rekap evaluasi teknis & komersial awal.",
+        "Berita acara klarifikasi & negosiasi awal.",
+        "Rekomendasi awal vendor pemenang.",
+        "Laporan monitoring layanan pelabuhan & pemenuhan SLA."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "seksi": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mendukung proses pengadaan Cruise & Port Operations (HOW) dengan mengumpulkan kebutuhan, menyiapkan dokumen tender, mengelola data vendor maritim, menginput evaluasi penawaran, serta memantau pemenuhan layanan operasional pelabuhan (WHAT) untuk memastikan kelancaran proses pengadaan yang akurat, tertib, dan sesuai SOP (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan PR kebutuhan Cruise & Port Operations dan memeriksa kelengkapan administrasi awal.",
+          "hasil_yang_diharapkan": "PR lengkap secara administrasi dan siap diproses."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menghubungi vendor maritim dan penyedia layanan pelabuhan untuk permintaan penawaran (RFQ) dan dokumen administrasi.",
+          "hasil_yang_diharapkan": "Penawaran & dokumen administrasi vendor terkumpul lengkap dan tepat waktu."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menyiapkan dokumen tender dasar C&P sesuai template unit dan arahan Officer/SM.",
+          "hasil_yang_diharapkan": "Dokumen tender rapi, sesuai template, dan siap digunakan."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menginput data penawaran dan kelengkapan administrasi vendor ke format evaluasi.",
+          "hasil_yang_diharapkan": "Rekap penawaran akurat dan siap ditinjau oleh Officer."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengelola dan memperbarui data legalitas vendor maritim dan port services.",
+          "hasil_yang_diharapkan": "Database vendor valid, update, dan compliant."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Menindaklanjuti klarifikasi administrasi vendor sesuai hasil review Officer/SM.",
+          "hasil_yang_diharapkan": "Dokumen vendor lengkap sehingga tender/kontrak tidak terhambat."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mendukung pengumpulan dokumen teknis dasar dari user (TOR, spesifikasi layanan, gambar teknis sederhana).",
+          "hasil_yang_diharapkan": "Dokumen teknis dasar terkumpul dan siap untuk tender."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mendukung penyusunan draft PO/kontrak dengan input data dasar dan pengecekan kelengkapan dokumen pendukung.",
+          "hasil_yang_diharapkan": "Draft PO/kontrak lengkap dan siap direview."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Memantau pemenuhan layanan pelabuhan secara harian dan melaporkan deviasi kepada Officer.",
+          "hasil_yang_diharapkan": "Progres layanan harian terdokumentasi, deviasi cepat terlaporkan."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, penawaran, kontrak, dan dokumen pelaksanaan C&P.",
+          "hasil_yang_diharapkan": "Arsip rapi, sesuai standar audit, dan mudah ditelusuri."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Tidak memegang kewenangan finansial; mengelola administrasi RFQ & pengumpulan penawaran paket port operations bernilai variatif.",
+        "non_keuangan": "Administrasi tender, RFQ, database vendor marine/port, SLA input data, progres layanan, kelengkapan dokumen vendor.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Unit Cruise & Port Operations dan aktivitas marine support."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          { "unit": "Officer C&P Procurement", "tujuan": "Koordinasi tender & evaluasi." },
+          { "unit": "Cruise Operations", "tujuan": "Klarifikasi kebutuhan layanan kapal & penumpang." },
+          { "unit": "Port Operations", "tujuan": "Pemenuhan kebutuhan operasional pelabuhan." },
+          { "unit": "Finance", "tujuan": "Pengumpulan dokumen verifikasi pembayaran." },
+          { "unit": "Legal", "tujuan": "Kelengkapan legalitas vendor & dokumen kontrak." },
+          { "unit": "Warehouse/Asset", "tujuan": "Validasi dokumen penerimaan barang/jasa." }
+        ],
+        "eksternal": [
+          { "unit": "Marine Supplier / Ship Chandler", "tujuan": "Pengumpulan penawaran & administrasi." },
+          { "unit": "Penyedia layanan pelabuhan (dock, tug, utilities)", "tujuan": "Klarifikasi & pemenuhan layanan." },
+          { "unit": "Fuel Vendor", "tujuan": "Penawaran & pengaturan jadwal layanan." },
+          { "unit": "Auditor", "tujuan": "Pemeriksaan arsip & dokumen tender/kontrak." }
+        ]
+      },
+
+      "wewenang": [
+        "Menghubungi vendor untuk permintaan penawaran & dokumen administrasi.",
+        "Menginput data evaluasi penawaran.",
+        "Mengarsipkan dokumen tender-kontrak C&P.",
+        "Mengembalikan PR/dokumen vendor yang tidak lengkap."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3–S1",
+          "jurusan": "Manajemen, Logistik, Teknik Perkapalan, Teknik Industri, atau relevan"
+        },
+        "pengalaman_kerja": "0–2 tahun procurement/logistik/maritime operation",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Building Positive Working Relationships",
+            "Communication",
+            "Continuous Improvement",
+            "Problem Analysis",
+            "Quality Orientation"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Customer Orientation",
+            "Planning & Organizing"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          { "kompetensi": "Procurement Administration", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Sourcing Management", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Vendor Management", "level_yang_dipersyaratkan": "Level 3" }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        { "persyaratan": "Fit to work dalam pemeriksaan kesehatan", "keterangan": "Baik" }
+      ],
+
+      "output": [
+        "Dokumen tender dasar C&P.",
+        "Rekap penawaran & evaluasi administrasi awal.",
+        "Data vendor maritim/port yang update & valid.",
+        "Arsip tender–kontrak–pelaksanaan C&P.",
+        "Laporan monitoring layanan C&P (simple)."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CRUISE & PORT OPERATIONS PROCUREMENT ADMINISTRATION OFFICER",
+        "tingkat_banding": "Band 3",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "seksi": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mengelola administrasi pengadaan Cruise & Port Operations (HOW) dengan memverifikasi PR, menyiapkan dokumen tender, mengelola PO dan kontrak, memeriksa invoice, memastikan kelengkapan dokumen vendor, serta mengarsipkan seluruh dokumen pelaksanaan layanan pelabuhan (WHAT) untuk menjamin ketertiban proses procurement dan pemenuhan SLA operasional (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Memeriksa kelengkapan PR Cruise & Port Operations, termasuk data, lampiran, dan otorisasi sebelum proses tender.",
+          "hasil_yang_diharapkan": "PR C&P lengkap secara administrasi dan siap diproses tanpa revisi."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyusun dan mengelola dokumen administrasi tender C&P sesuai template dan SOP.",
+          "hasil_yang_diharapkan": "Dokumen tender rapi, lengkap, memenuhi standar audit, dan siap digunakan."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Mengelola data legalitas vendor maritim dan port services serta memeriksa masa berlaku dan kelengkapannya.",
+          "hasil_yang_diharapkan": "Vendor compliant dan data legalitas selalu terbarui."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menyusun dan menerbitkan PO berdasarkan hasil tender atau kontrak yang disetujui.",
+          "hasil_yang_diharapkan": "PO C&P akurat, tepat waktu, dan selaras dengan tender/kontrak."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengelola dokumen kontrak layanan C&P termasuk versi dokumen, lampiran, dan approval.",
+          "hasil_yang_diharapkan": "Kontrak terdokumentasi lengkap & mudah ditelusuri."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Memeriksa kesesuaian invoice vendor dengan PO, kontrak, GR, dan BAST.",
+          "hasil_yang_diharapkan": "Invoice valid dan siap diverifikasi Finance tanpa koreksi berulang."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengirimkan invoice ke Finance, memantau status verifikasi & pembayaran, serta menyusun rekap invoice C&P.",
+          "hasil_yang_diharapkan": "Status pembayaran jelas, terdokumentasi, dan mudah diinformasikan."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Mengingatkan user atau Finance atas kelengkapan dokumen atau pembayaran mendekati jatuh tempo.",
+          "hasil_yang_diharapkan": "SLA pembayaran dan kelengkapan dokumen terjaga."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Menyelesaikan temuan administrasi dengan koordinasi bersama user, Finance, Legal, Warehouse/Asset, dan IT/System.",
+          "hasil_yang_diharapkan": "Permasalahan administrasi diselesaikan cepat, akurat, dan terdokumentasi."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mengarsipkan seluruh dokumen pengadaan C&P baik fisik maupun digital.",
+          "hasil_yang_diharapkan": "Arsip rapi, memenuhi standar audit, dan mudah diakses."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Mengelola administrasi tender, PO, dan invoice paket C&P tanpa kewenangan keputusan finansial.",
+        "non_keuangan": "PR/PO, dokumen tender, kontrak marine services, invoice, GR/BAST, SLA dokumen, compliance audit.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Administrasi pengadaan seluruh area Cruise & Port Operations SILOG."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          { "unit": "Pengadaan C&P", "tujuan": "Sinkron administrasi tender & kontrak." },
+          { "unit": "Cruise Operations", "tujuan": "Konfirmasi PR, SLA layanan, & BAST." },
+          { "unit": "Port Operations", "tujuan": "Dokumen penerimaan layanan operasional." },
+          { "unit": "Finance / Accounting", "tujuan": "Verifikasi invoice & penyelesaian pembayaran." },
+          { "unit": "Legal", "tujuan": "Revisi dokumen kontrak & legalitas vendor." },
+          { "unit": "Warehouse/Asset", "tujuan": "Validasi dokumen serah terima." },
+          { "unit": "IT/System", "tujuan": "Penginputan PO & dukungan sistem procurement." }
+        ],
+        "eksternal": [
+          { "unit": "Vendor Marine Supply / Docking / Port Utilities", "tujuan": "Penyampaian PO, invoice, & dokumen administrasi." },
+          { "unit": "Auditor", "tujuan": "Pemeriksaan arsip tender & kontrak C&P." }
+        ]
+      },
+
+      "wewenang": [
+        "Menginput & menerbitkan PO sesuai delegasi kewenangan.",
+        "Mengembalikan invoice atau PR yang tidak lengkap.",
+        "Mengelola dan memvalidasi dokumen kontrak.",
+        "Menghubungi vendor untuk konfirmasi administrasi & invoice."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3 – S1",
+          "jurusan": "Administrasi, Manajemen, Akuntansi, Logistik, atau jurusan relevan"
+        },
+        "pengalaman_kerja": "2–4 tahun administrasi procurement atau operasional maritim/port",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Coaching",
+            "Decision Making",
+            "Execution",
+            "Gaining Commitment",
+            "Work Standards"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Building Partnerships",
+            "Business Awareness",
+            "Customer Focus",
+            "Innovation"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          { "kompetensi": "Procurement Administration", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Sourcing Management", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Vendor Management", "level_yang_dipersyaratkan": "Level 3" }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        { "persyaratan": "Fit to work dalam pemeriksaan kesehatan", "keterangan": "Baik" }
+      ],
+
+      "output": [
+        "PO C&P yang lengkap & akurat.",
+        "Dokumen tender & kontrak C&P yang lengkap.",
+        "Rekap invoice & status pembayaran vendor.",
+        "Data vendor & legalitas yang valid & update.",
+        "Laporan administrasi pengadaan C&P."
+      ]
+    },
+    {
+      "effective_date": "1 Januari 2025",
+      "identification": {
+        "jabatan": "CRUISE & PORT OPERATION PROCUREMENT ADMINISTRATION JR. OFFICER",
+        "tingkat_banding": "Band 4",
+        "direktorat": "PRESIDENT DIRECTOR",
+        "group_head": "GROUP HEAD OF STRATEGIC BUSINESS DEVELOPMENT",
+        "departemen": "DEPARTMENT OF PROCUREMENT",
+        "unit": "UNIT OF CRUISE AND PORT OPERATIONS PROCUREMENT",
+        "seksi": "CRUISE & PORT OPERATION SOURCING & VENDOR MANAGEMENT",
+        "perusahaan": "PT SEMEN INDONESIA LOGISTIK",
+        "jabatan_atasan": "SM OF CRUISE AND PORT OPERATIONS PROCUREMENT"
+      },
+
+      "tujuan_jabatan": "Mendukung administrasi pengadaan Cruise & Port Operations (HOW) dengan menyiapkan dokumen tender, menginput PO, mengelola data vendor, memproses invoice, dan mengarsipkan seluruh dokumen layanan pelabuhan (WHAT) untuk memastikan proses procurement berjalan tertib, akurat, dan memenuhi standar operasional (WHY).",
+
+      "tanggung_jawab": [
+        {
+          "id": 1,
+          "tanggung_jawab": "Mengumpulkan PR kebutuhan C&P dari unit terkait serta memeriksa kelengkapan administrasi awal (data, lampiran pendukung, dan otorisasi) sebelum diteruskan ke Officer.",
+          "hasil_yang_diharapkan": "PR C&P lengkap secara administrasi, jelas, dan siap diproses tanpa revisi berulang."
+        },
+        {
+          "id": 2,
+          "tanggung_jawab": "Menyiapkan dokumen administrasi tender dasar C&P sesuai template dan arahan Officer.",
+          "hasil_yang_diharapkan": "Dokumen tender tersusun rapi, konsisten, dan siap digunakan dalam proses tender."
+        },
+        {
+          "id": 3,
+          "tanggung_jawab": "Menginput dan memperbarui data vendor maritim/port (legalitas & compliance) ke dalam database unit.",
+          "hasil_yang_diharapkan": "Data vendor update, valid, dan compliant dengan persyaratan perusahaan."
+        },
+        {
+          "id": 4,
+          "tanggung_jawab": "Menginput PO ke dalam sistem berdasarkan tender atau kontrak yang telah disetujui.",
+          "hasil_yang_diharapkan": "PO C&P tercatat akurat dan terbit tepat waktu."
+        },
+        {
+          "id": 5,
+          "tanggung_jawab": "Mengarsipkan dokumen tender, kontrak, PO, BAST, dan GR baik secara fisik maupun digital.",
+          "hasil_yang_diharapkan": "Arsip rapi, mudah ditelusuri, dan memenuhi standar audit."
+        },
+        {
+          "id": 6,
+          "tanggung_jawab": "Mengumpulkan invoice vendor dan memeriksa kecocokan dasar dengan PO, BAST, dan GR.",
+          "hasil_yang_diharapkan": "Invoice valid dan siap diproses Finance."
+        },
+        {
+          "id": 7,
+          "tanggung_jawab": "Mengirimkan invoice ke Finance serta memantau status verifikasi dan pembayaran.",
+          "hasil_yang_diharapkan": "Status pembayaran terdokumentasi jelas dan SLA pembayaran terpenuhi."
+        },
+        {
+          "id": 8,
+          "tanggung_jawab": "Melakukan follow-up kelengkapan administrasi vendor (legalitas, NPWP, kontrak ditandatangani, BAST/GR).",
+          "hasil_yang_diharapkan": "Dokumen vendor terpenuhi tepat waktu dan compliant."
+        },
+        {
+          "id": 9,
+          "tanggung_jawab": "Menyusun rekap administrasi pengadaan C&P (PR–PO–invoice, status pembayaran, dan kelengkapan dokumen).",
+          "hasil_yang_diharapkan": "Laporan administrasi rapi, mudah dipahami, dan mendukung monitoring Officer."
+        },
+        {
+          "id": 10,
+          "tanggung_jawab": "Mendukung penyelesaian temuan administrasi (selisih dokumen, bukti kurang, salah input sistem) dan berkoordinasi dengan unit terkait.",
+          "hasil_yang_diharapkan": "Temuan administratif diselesaikan cepat, benar, dan terdokumentasi."
+        }
+      ],
+
+      "dimensi": {
+        "keuangan": "Administrasi PR–PO–GR–invoice paket port operations; tanpa kewenangan finansial.",
+        "non_keuangan": "Admin PR/PO, kelengkapan dokumen vendor, arsip tender, status invoice, SLA input data & ketertiban administrasi.",
+        "bawahan_langsung": "-",
+        "cakupan_wilayah": "Administrasi pengadaan Cruise & Port Operations."
+      },
+
+      "hubungan_kerja": {
+        "internal": [
+          { "unit": "Procurement Admin Officer C&P", "tujuan": "Koordinasi tender, PO, invoice, dan arsip." },
+          { "unit": "Sourcing Officer C&P", "tujuan": "Sinkron administrasi tender & kontrak." },
+          { "unit": "Cruise Operations", "tujuan": "Dokumen BAST/GR & kebutuhan layanan kapal." },
+          { "unit": "Port Operations", "tujuan": "Konfirmasi dokumen penerimaan layanan pelabuhan." },
+          { "unit": "Finance", "tujuan": "Verifikasi invoice & penyelesaian pembayaran." },
+          { "unit": "Legal", "tujuan": "Dokumen legalitas vendor & kontrak." },
+          { "unit": "Warehouse/Asset", "tujuan": "Validasi barang/jasa & bukti serah terima." }
+        ],
+        "eksternal": [
+          { "unit": "Vendor marine supply/docking/port utilities", "tujuan": "Pengumpulan invoice, PO, dan dokumen administrasi." },
+          { "unit": "Auditor", "tujuan": "Penyediaan arsip administrasi lengkap." }
+        ]
+      },
+
+      "wewenang": [
+        "Menginput PO sesuai delegasi Jr. Officer.",
+        "Mengembalikan PR/invoice yang tidak lengkap.",
+        "Mengarsipkan dokumen tender & kontrak C&P.",
+        "Follow-up vendor terkait kelengkapan administrasi."
+      ],
+
+      "spesifikasi_jabatan": {
+        "pendidikan": {
+          "kualifikasi_pendidikan": "D3–S1",
+          "jurusan": "Manajemen, Administrasi, Logistik, Akuntansi, atau bidang relevan"
+        },
+        "pengalaman_kerja": "0–2 tahun administrasi procurement / maritim / pelabuhan",
+
+        "core_values": [
+          "Amanah",
+          "Kompeten",
+          "Harmonis",
+          "Loyal",
+          "Adaptif",
+          "Kolaboratif"
+        ],
+
+        "kompetensi_perilaku": {
+          "kompetensi_inti": [
+            "Adaptability",
+            "Authenticity",
+            "Contributing to Society",
+            "Learning Agility",
+            "Valuing Diversity"
+          ],
+          "kompetensi_bidang_primer": [
+            "Building Positive Working Relationships",
+            "Communication",
+            "Continuous Improvement",
+            "Problem Analysis",
+            "Quality Orientation"
+          ],
+          "kompetensi_bidang_sekunder": [
+            "Customer Orientation",
+            "Planning & Organizing"
+          ]
+        },
+
+        "kompetensi_teknis": [
+          { "kompetensi": "Procurement Administration", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Sourcing Management", "level_yang_dipersyaratkan": "Level 3" },
+          { "kompetensi": "Vendor Management", "level_yang_dipersyaratkan": "Level 3" }
+        ],
+
+        "bahasa": [
+          { "bahasa": "Inggris", "level": "Intermediate" },
+          { "bahasa": "Mandarin", "level": "Intermediate" }
+        ],
+
+        "komputer": [
+          { "kompetensi": "Tools FS", "level": "Expert" },
+          { "kompetensi": "MS Project", "level": "Expert" }
+        ],
+
+        "sertifikasi_wajib": [],
+        "sertifikasi_opsional": []
+      },
+
+      "kesehatan_dan_lingkungan_kerja": [
+        { "persyaratan": "Fit to work dalam pemeriksaan kesehatan", "keterangan": "Baik" }
+      ],
+
+      "output": [
+        "Input PO C&P yang akurat.",
+        "Arsip tender–kontrak–PO–invoice yang lengkap.",
+        "Data vendor C&P yang update.",
+        "Rekap invoice & status pembayaran.",
+        "Laporan administrasi pengadaan C&P (simple)."
+      ]
+    }
+  ]
+}
