@@ -1,0 +1,1228 @@
+[
+  {
+    "Name": "Job Profile SM Cash Management",
+    "Identifikasi": {
+      "Jabatan": "Senior Manager of Cash Management",
+      "Tingkat_Band": "Band 2",
+      "Direktorat": "Financial Director",
+      "Group_Head": "-",
+      "Department": "Corporate Finance",
+      "Unit": "-",
+      "Seksi": "-",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "General Manager of Corporate Finance"
+    },
+    "Tujuan_Jabatan": "Memimpin strategi pengelolaan uang tunai perusahaan. Tugas utamanya adalah memastikan perusahaan selalu memiliki uang tunai yang cukup (likuiditas) untuk membayar gaji, vendor, dan operasional sehari-hari. Ini dilakukan dengan cara meramal kapan uang masuk dan kapan uang harus keluar (cash flow forecasting), memastikan uang dari pelanggan masuk tepat waktu, mengatur pembayaran hutang agar lancar, serta menjalin hubungan baik dengan bank untuk mendapatkan fasilitas pinjaman atau layanan transaksi yang menguntungkan",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Mengawasi proses pencatatan uang masuk dari penjualan (Sales Acceptance). Memastikan semua uang yang masuk ke rekening koran bank sudah dikenali, dicatat ke dalam sistem perusahaan (SAP), dan datanya cocok dengan laporan penjualan harian",
+        "Hasil_yang_Diharapkan": "Laporan Posisi Kas Harian yang akurat dan update"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Menyusun perencanaan pembayaran hutang berdasarkan tanggal jatuh tempo dan ketersediaan uang; Mengatur proses pembayaran ke vendor, baik melalui transfer biasa maupun skema pembiayaan khusus dari bank (Supply Chain Financing/SCF), menggunakan sistem internet banking atau koneksi langsung (Host-to-Host)",
+        "Hasil_yang_Diharapkan": "Realisasi pembayaran yang tepat waktu (On-Time Payment) dan akurat"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengurus administrasi produk-produk bank, seperti Garansi Bank (jaminan pembayaran dari bank), SKBDN (surat jaminan pembayaran lokal semacam L/C), dan fasilitas pinjaman modal kerja agar operasional bisnis tidak terganggu",
+        "Hasil_yang_Diharapkan": "Ketersediaan fasilitas perbankan yang mendukung operasional bisnis"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Menganalisis data masa lalu dan rencana bisnis untuk memprediksi kondisi keuangan mingguan atau bulanan. Memberikan peringatan dini (early warning) kepada direksi jika diprediksi akan terjadi kekurangan uang kas (defisit)",
+        "Hasil_yang_Diharapkan": "Laporan Proyeksi Arus Kas (Cash Flow Forecast) yang reliabel"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Memeriksa dan menyetujui dokumen permintaan pembayaran dari departemen lain. Memastikan dokumen tagihan sudah lengkap dan sudah disetujui pejabat berwenang sebelum uang dikeluarkan, agar transaksi aman dan bebas kecurangan (fraud)",
+        "Hasil_yang_Diharapkan": "Transaksi pengeluaran kas yang auditable dan zero fraud"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Melatih tim agar mahir menggunakan sistem perbankan digital dan memastikan semua proses pengelolaan uang mengikuti aturan perusahaan dan prinsip kehati-hatian",
+        "Hasil_yang_Diharapkan": "Tim Cash Management yang kompeten dan berintegritas tinggi"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Bertanggung jawab menjaga keamanan uang perusahaan dan ketersediaan dana tunai saat dibutuhkan. Mengelola agar biaya admin bank efisien dan uang yang menganggur (idle cash) bisa diputar untuk menghasilkan bunga. Mencegah kebocoran uang melalui pemeriksaan rutin",
+      "Dimensi_non_Keuangan": "Menjaga hubungan baik dengan Bank. Memastikan pembayaran ke vendor tepat waktu sesuai janji (SLA). Menjaga sistem pembayaran digital (Host-to-Host) agar tidak sering error",
+      "Bawahan_Langsung": "Cash Management Officer, Cash Management Junior Officer",
+      "Cakupan_Wilayah": "Unit Cash Management dalam Departmen Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        {
+          "nomor": 1,
+          "Unit_Instansi": "General Manager of Corporate Finance",
+          "Tujuan": "Melaporkan sisa uang tunai (saldo kas) harian dan prediksi arus kas ke depan agar pimpinan mengetahui kondisi keuangan perusahaan. Meminta persetujuan untuk pembayaran tagihan yang bernilai besar atau strategis"
+        },
+        {
+          "nomor": 2,
+          "Unit_Instansi": "Unit Accounting & Tax",
+          "Tujuan": "Mencocokkan data pembayaran dan penerimaan uang dengan catatan pembukuan (buku besar) agar laporan keuangan akurat. Memastikan setiap transaksi pembayaran sudah mematuhi aturan pajak yang berlaku"
+        },
+        {
+          "nomor": 3,
+          "Unit_Instansi": "Unit Account Receivable & Billing",
+          "Tujuan": "Meminta data rencana uang masuk dari pelanggan untuk menyusun perkiraan arus kas (cash forecast) yang lebih tepat"
+        },
+        {
+          "nomor": 4,
+          "Unit_Instansi": "Unit Procurement & User",
+          "Tujuan": "Berkoordinasi mengenai jadwal kapan tagihan vendor akan dibayar. Memastikan dokumen tagihan yang diserahkan sudah lengkap sebelum diproses bayar"
+        }
+      ],
+      "Eksternal": [
+        {
+          "nomor": 1,
+          "Unit_Instansi": "Perbankan (Bank BUMN/Swasta)",
+          "Tujuan": "Bernegosiasi untuk mendapatkan fasilitas pinjaman modal kerja atau layanan sistem pembayaran digital (CMS) yang lebih baik. Mengurus penerbitan jaminan bank (Bank Garansi) dan menyelesaikan masalah teknis transaksi perbankan"
+        },
+        {
+          "nomor": 2,
+          "Unit_Instansi": "Vendor / Supplier",
+          "Tujuan": "Menangani keluhan atau pertanyaan vendor jika terjadi keterlambatan pembayaran. Menjelaskan program pembiayaan vendor (Supply Chain Financing) yang ditawarkan perusahaan"
+        },
+        {
+          "nomor": 3,
+          "Unit_Instansi": "Auditor Eksternal",
+          "Tujuan": "Memberikan bukti-bukti transaksi bank dan konfirmasi saldo untuk keperluan pemeriksaan laporan keuangan tahunan"
+        }
+      ]
+    },
+    "Wewenang": [
+      "Memverifikasi kebenaran data uang masuk sebelum dicatat ke sistem.",											
+      "Menyetujui atau menunda pembayaran vendor berdasarkan prioritas ketersediaan uang.",											
+      "Bernegosiasi langsung dengan bank soal teknis penerbitan jaminan.",											
+      "Menetapkan asumsi arus kas untuk digunakan oleh manajemen untuk laporan prediksi arus kas.",											
+      "Menolak permintaan bayar jika dokumennya tidak lengkap atau tidak sah.",											
+      "Menilai kinerja tim dan mengatur hak akses sistem perbankan mereka"																				
+    ],									
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": {
+        "Kualifikasi": "S1 Relevan, S2 Diutamakan",
+        "Jurusan": "Manajemen Keuangan, Akuntansi, atau Perbankan"
+      },
+      "Pengalaman_Kerja": "Minimal 8-10 tahun total pengalaman kerja, dengan minimal 3-5 tahun pengalaman manajerial di bidang Treasury, Cash Management, atau Corporate Finance di perusahaan skala besar",
+      "Core_Values": [
+        "Amanah",
+        "Kompeten",
+        "Loyal",
+        "Adaptif",
+        "Kolaboratif"
+      ],
+      "Kompetensi_Perilaku": {
+        "Inti": [
+          "Adaptability",
+          "Authenticity",
+          "Contributing to Society",
+          "Learning Agility",
+          "Valuing Diversity"
+        ],
+        "Primer": [
+          "Building Partnerships",
+          "Decision Making",
+          "Driving Execution",
+          "Driving for Result",
+          "Facilitating Change"
+        ],
+        "Sekunder": [
+          "Aligning Performance for Success",
+          "Business Insight",
+          "Customer Focus",
+          "Influencing",
+          "Innovation",
+          "Inspiring Others"
+        ]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "A/R Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Budget Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "Tax Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 3 - Practitioner" }
+      ],
+      "Bahasa": [
+        { "Kompetensi": "Inggris", "Level": "Advanced" }
+      ],
+      "Komputer": [
+        { "Kompetensi": "Banking System (CMS)", "Level": "Expert" },
+        { "Kompetensi": "ERP SAP (Modul TR/FI)", "Level": "Advanced" },
+        { "Kompetensi": "Spreadsheet (Excel)", "Level": "Expert" }
+      ],
+      "Sertifikasi": {
+        "Wajib": [
+          {"Sertifikat": "Certified Treasury Professional (CTP) atau Certified Cash Manager (CCM)", "Keterangan": "Wajib untuk memvalidasi kompetensi ahli dalam mengelola kas perusahaan standar global dan paham cara menghitung risiko keuangan (seperti risiko bunga naik atau kurs berubah), sehingga uang perusahaan aman."},
+          {"Sertifikat": "Sertifikasi Manajemen Risiko (CRMP)", "Keterangan": "Wajib untuk mendukung kemampuan analisis risiko likuiditas dan pasar (suku bunga/kurs)."}
+        ],
+        "Optional": [
+          {"Sertifikat": "Certified Management Accountant (CMA)", "Keterangan": "Diutamakan untuk memperkuat kemampuan analisis keuangan korporat secara menyeluruh."},
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Nilai tambah untuk memahami implikasi pajak (PPh/PPN) dalam setiap transaksi pembayaran."}
+        ]
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani. Memiliki integritas moral yang sangat tinggi (High Integrity) mengingat akses langsung ke aset likuid perusahaan.", "Keterangan": "Baik" },
+      { "Persyaratan": "Memiliki ketelitian ekstrim (Zero Error Tolerance) dan ketahanan mental tinggi terhadap tekanan waktu (deadline pembayaran bank/kliring yang ketat).", "Keterangan": "Baik" },
+      { "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), dengan mobilitas rutin untuk pertemuan negosiasi dengan pihak Perbankan.", "Keterangan": "Baik" },
+      { "Persyaratan": "Memerlukan ketersediaan waktu di luar jam kerja normal (fleksibilitas tinggi) jika terjadi insiden transaksi perbankan atau kebutuhan dana darurat.", "Keterangan": "Baik" }    
+    ],
+    "Output": [
+      "Laporan Posisi Kas Harian (Daily Cash Position Report)",											
+      "Laporan Proyeksi Arus Kas (Cash Flow Forecast)",											
+      "Jadwal Rencana Pembayaran (Payment Schedule)",
+      "Bukti Transaksi Perbankan Terarsip",											
+      "Laporan Rekonsiliasi Bank Bulanan",											
+      "Dokumen Kontrak Fasilitas Perbankan"											
+    ]
+  },
+  {
+    "Name": "Job Profile Cash Management Officer",
+    "Identifikasi": {
+      "Jabatan": "Cash Management Officer",
+      "Tingkat_Band": "Band 3",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "Senior Manager of Cash Management"
+    },
+    "Tujuan_Jabatan": "Menjalankan operasional transaksi keuangan harian, meliputi pemrosesan pembayaran kepada pihak ketiga (vendor) secara tepat waktu, pencatatan penerimaan dana, serta memastikan kesesuaian data kas perusahaan dengan catatan bank (rekonsiliasi) agar arus kas berjalan lancar dan akurat",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Menerima dokumen Permintaan Pembayaran (PP), menerbitkan permintaan transfer dana atau FOP (Fund Transfer Request), dan melakukan eksekusi pembayaran melalui sistem (Kliring, H2H, Portal Bank) sesuai jadwal jatuh tempo.",
+        "Hasil_yang_Diharapkan": "Transaksi pembayaran vendor yang sukses dan akurat (Zero Error)"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Menghitung potongan biaya yang timbul ketika perusahaan atau pemasok ingin menerima pembayaran lebih cepat dari biasanya melalui fasilitas Supply Chain Financing, memastikan semua pembayaran ke bank dilakukan tepat waktu agar tidak terlambat dan tidak kena denda, dan memasukkan atau mengunggah invoice ke sistem online bank agar tagihan tersebut bisa diproses untuk pembayaran lebih cepat melalui fasilitas SCF.",
+        "Hasil_yang_Diharapkan": "Pembayaran fasilitas SCF yang tepat waktu dan sesuai perhitungan bunga/diskon"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengunduh laporan mutasi bank, mengecek pengirim, lalu mencatatnya di sistem perusahaan (Sales Acceptance)",
+        "Hasil_yang_Diharapkan": "Seluruh dana masuk teridentifikasi dan tercatat di sistem pada hari yang sama (H+0/H+1)"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Menerima permintaan dari tim internal untuk dibuatkan Bank Garansi, SKBDN, atau surat dukungan bank. Lalu mengecek semua persyaratan sudah lengkap dan benar, serta mengurus penerbitannya dengan bank sampai dokumennya jadi.",
+        "Hasil_yang_Diharapkan": "Dokumen Bank Garansi/SKBDN tersedia sesuai SLA yang diminta user"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Membandingkan saldo dan mutasi antara rekening koran bank dengan catatan di sistem perusahaan secara harian untuk mendeteksi adanya selisih",
+        "Hasil_yang_Diharapkan": "Laporan Rekonsiliasi Bank yang match dan update"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Mengawasi pelaksanaan tugas Junior Officer dalam hal pengarsipan dokumen pembayaran (scanning & fisik) dan data entry dasar",
+        "Hasil_yang_Diharapkan": "Kelengkapan dan kerapian arsip dokumen transaksi keuangan"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Bertanggung jawab agar tidak salah transfer (salah jumlah atau salah rekening). Memastikan uang masuk segera dicatat agar saldo akurat.",
+      "Dimensi_non_Keuangan": "Kepatuhan terhadap aturan pembayaran; Memproses administrasi Jasa Perbankan (BG/SKBDN) tepat waktu Merespons isu transaksi gagal (failed transaction) dengan tanggap",
+      "Bawahan_Langsung": "",
+      "Cakupan_Wilayah": "Unit Cash Management dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Senior Manager of Cash Management", "Tujuan": "Melaporkan hasil pembayaran harian, masalah teknis dengan bank, dan sisa saldo akhir harian" },
+        { "Unit_Instansi": "Unit Account Receivable (AR)", "Tujuan": "Berkoordinasi untuk identifikasi dana masuk di rekening koran yang belum dikenali pengirimnya (unidentified receipt) agar dapat diterbitkan Sales Acceptance (SA)." },
+        { "Unit_Instansi": "Unit Procurement / User", "Tujuan": "Menerima dokumen tagihan yang akan dibayar, mengonfirmasi status pembayaran kepada user, dan mengembalikan dokumen yang tidak lengkap." },
+        { "Unit_Instansi": "Unit Accounting", "Tujuan": "Memastikan bahwa semua transaksi bank yang dilakukan sudah tercatat di sistem pembukuan (posted) agar buku besar bisa direkonsiliasi" },
+        { "Unit_Instansi": "Cash Management Junior Officer", "Tujuan": "Memberikan tugas-tugas administrasi dasar (seperti pengarsipan dan input data awal) serta membimbing cara kerja operasional"}
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Staf Operasional Bank", "Tujuan": "Berhubungan teknis untuk proses transfer gaji/vendor, mengambil rekening koran, dan mengurus fisik Cek/Giro" },
+        { "Unit_Instansi": "Vendor / Supplier", "Tujuan": "Memberikan konfirmasi bukti transfer (Remittance Advice) jika diminta oleh vendor dan menjelaskan prosedur administrasi pembayaran" }
+      ]
+    },
+    "Wewenang": [
+      "Mengakses sistem pembayaran bank (sebagai Maker/Inputter) untuk memproses transaksi",											
+      "Memverifikasi perhitungan diskon dan pokok SCF sebelum disetujui",											
+      "Mengunggah data uang masuk ke sistem ERP (sistem manajemen perusahaan)",											
+      "Berhubungan dengan staf bank untuk memantau status penerbitan jaminan",											
+      "Melaporkan selisih data bank kepada atasan untuk tindak lanjut",											
+      "Memberikan arahan teknis perbaikan kerja kepada Junior Officer"																												
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": {
+        "Kualifikasi": "Minimal S1",
+        "Jurusan": "Akuntansi, Manajemen Keuangan, atau Perbankan"
+      },
+      "Pengalaman_Kerja": "Minimal 3-5 tahun pengalaman kerja di bidang Finance Operation, Treasury, Account Payable, atau Banking Operation",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Innovation", "Planning & Organizing", "Problem Analyst", "Work Standards"],
+        "Sekunder": ["Building Positive Working Relationships", "Business Awareness", "Customer Focus"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "A/R Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Tax Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 2 - Comprehension" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Practitioner" }],
+      "Komputer": [
+        { "Kompetensi": "Banking CMS (Internet Banking)", "Level": "Advanced" },
+        { "Kompetensi": "ERP SAP S/4 HANA (FICO)", "Level": "Practitioner" },
+        { "Kompetensi": "Spreadsheet (Excel)", "Level": "Advanced" }
+      ],
+      "Sertifikasi": {
+        "Wajib": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Wajib untuk memastikan kemampuan dalam menghitung potongan pajak (seperti PPh 23/PPN) saat hendak membayar tagihan vendor, sehingga pembayaran tidak salah nominal"}
+        ],
+        "Optional": [
+          {"Sertifikat": "Certified Treasury Professional (CTP) - Fundamental", "Keterangan": "Diutamakan untuk pemahaman standar operasional treasury global."},
+          {"Sertifikat": "SAP User Certification (FI Module)", "Keterangan": "Nilai tambah untuk efisiensi penggunaan sistem ERP."}
+        ]
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani. Memiliki integritas dan kejujuran mutlak karena menangani akses transaksi keuangan.", "Keterangan": "Baik" },
+      { "Persyaratan": "Ketelitian tinggi (Detail Oriented) untuk menghindari kesalahan input nominal atau nomor rekening tujuan transfer.", "Keterangan": "Baik" },
+      { "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), dengan dominasi kerja di depan komputer.", "Keterangan": "Baik" },
+      { "Persyaratan": "Memerlukan kedisiplinan tinggi terhadap jam cut-off bank dan siap bekerja ekstra saat beban transaksi tinggi (akhir bulan/tahun).", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "Bukti Transfer / Konfirmasi Pembayaran (Payment Advice)",											
+      "Dokumen FOP (Fund Transfer Request) Terealokasi",											
+      "Laporan Harian Mutasi Bank",											
+      "Dokumen Sales Acceptance (SA) di SAP",											
+      "Fisik Warkat Bank (BG/Cek/Giro)",											
+      "Arsip Dokumen Pembayaran (Voucher)"											
+    ]
+  },
+  {
+    "Name": "Job Profile Cash Management Junior Officer",
+    "Identifikasi": {
+      "Jabatan": "Cash Management Junior Officer",
+      "Tingkat_Band": "Band 4",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "SM of Cash Management"
+    },
+    "Tujuan_Jabatan": "Mengurus pekerjaan harian yang berhubungan dengan keluar-masuk uang perusahaan. Mulai dari mendownload mutasi rekening bank setiap hari, menyiapkan data pembayaran yang akan diunggah ke sistem bank, mengatur dan menyimpan dokumen fisik seperti cek atau bukti transaksi, hingga mengarsipkan semua dokumen keuangan dengan rapi. Bertanggung jawab memastikan semua dokumen pembayaran lengkap sebelum dikirim ke bank, serta menjaga kerapian dan ketertiban administrasi sesuai aturan perusahaan.",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Mengunduh data rekening koran (Bank Statement) dari seluruh portal Internet Banking setiap pagi dan menyiapkan template data penerimaan untuk diunggah ke sistem SAP.",
+        "Hasil_yang_Diharapkan": "File Rekening Koran Harian (Softcopy) yang siap diolah"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Melakukan input atau upload data pembayaran vendor (Bulk Payment/Single Transfer) ke sistem Cash Management Bank sebagai maker/inputter sesuai prosedur otorisasi",
+        "Hasil_yang_Diharapkan": "Data transaksi pembayaran yang terinput di sistem bank dengan akurat."
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Menyiapkan dan mengisi dokumen pembayaran fisik seperti Cek atau Bilyet Giro berdasarkan instruksi pembayaran, serta mengoordinasikan proses kliring atau penyerahan ke bank/pihak penerima",
+        "Hasil_yang_Diharapkan": "Fisik Cek/BG yang siap ditandatangani pejabat berwenang"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Melakukan pemindaian (scanning) dokumen tagihan dan bukti pembayaran, serta mengarsipkan seluruh dokumen fisik (Voucher) secara sistematis dan sesuai ketentuan administrasi",
+        "Hasil_yang_Diharapkan": "Arsip dokumen pembayaran yang lengkap (Digital & Fisik) dan mudah dicari"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Melakukan pemeriksaan kelengkapan dokumen Permintaan Pembayaran (PP), termasuk tanda tangan, stempel, dan lampiran pendukung, sebelum transaksi diproses lebih lanjut",
+        "Hasil_yang_Diharapkan": "Dokumen tagihan yang lengkap secara administratif."
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Melakukan kunjungan ke kantor cabang bank untuk pengambilan rekening koran cetak, legalisasi dokumen, atau pengambilan dokumen perbankan seperti Garansi Bank",
+        "Hasil_yang_Diharapkan": "Kelancaran urusan administrasi fisik dengan pihak bank"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Mencegah kesalahan input (typo) pada nominal dan nomor rekening saat proses upload data ke portal bank, yang berdampak pada keberhasilan transaksi.",
+      "Dimensi_non_Keuangan": "Menyiapkan data bank pagi-pagi. Kerapian arsip. Keamanan buku Cek/Giro.",
+      "Bawahan_Langsung": "-",
+      "Cakupan_Wilayah": "Unit Cash Management dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Cash Management Officer", "Tujuan": "Menerima perintah kerja harian dan menyerahkan hasil input data pembayaran." },
+        { "Unit_Instansi": "Senior Manager of Cash Management", "Tujuan": "Membantu mencarikan data atau dokumen administrasi lama jika sewaktu-waktu dibutuhkan" },
+        { "Unit_Instansi": "Unit Accounting", "Tujuan": "Menyerahkan fisik dokumen bukti bayar dan rekening koran cetak untuk keperluan pembukuan." },     
+        { "Unit_Instansi": "Unit Procurement / User", "Tujuan": "Melakukan konfirmasi awal terkait kelengkapan fisik dokumen tagihan yang diserahkan ke Finance" }     
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Teller / Customer Service Bank", "Tujuan": "Melakukan penyetoran/penarikan cek/giro, pengambilan rekening koran fisik, dan pengambilan buku cek/bilyet giro." },
+        { "Unit_Instansi": "Kurir / Ekspedisi", "Tujuan": "Menerima dan mengirimkan dokumen tagihan atau bukti potong pajak terkait pembayaran." }
+      ]
+    },
+    "Wewenang": [
+      "Mengakses portal bank (level Viewer/Downloader) untuk menarik data mutasi.",											
+      "Menginput data transaksi ke portal bank (menunggu approval atasan).",											
+      "Menyimpan buku Cek/Giro yang belum terpakai dalam brankas (akses terbatas).",											
+      "Mengelola lemari arsip dokumen transaksi harian di unit kerja",											
+      "Mengembalikan berkas ke admin user jika dokumen fisik tidak lengkap/rusak"
+    ],											
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": { "Kualifikasi": "Minimal S1", "Jurusan": "Akuntansi, Manajemen Keuangan, atau Administrasi Perkantoran" },
+      "Pengalaman_Kerja": "Minimal 0-2 tahun pengalaman kerja (Fresh Graduate dipersilakan) di bidang administrasi keuangan, teller, atau staf administrasi.",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Analyst", "Continuous Improvement", "Managing Work", "Quality Orientation"],
+        "Sekunder": ["Building Positive Working Relationships", "Customer Orientation"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "A/R Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Tax Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 2 - Comprehension" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Comprehension" }],
+      "Komputer": [
+        { "Kompetensi": "Microsoft Excel", "Level": "Practitioner" },
+        { "Kompetensi": "Internet Banking (CMS)", "Level": "Comprehension" },
+        { "Kompetensi": "SAP System (FICO)", "Level": "Comprehension" } 
+      ],
+      "Sertifikasi": { 
+        "Wajib": [
+        {"Sertifikat": "Sertifikasi Komputer Dasar (Microsoft Office)", "Keterangan": "Wajib untuk menjamin kecepatan dan ketelitian dalam data entry dan administrasi dokumen."}
+        ], 
+        "Optional": [
+        {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Nilai tambah untuk membantu identifikasi awal dokumen pajak (Faktur Pajak/Bukti Potong) dalam berkas tagihan."},
+        {"Sertifikat": "Administrasi Perkantoran", "Keterangan": "Mendukung kemampuan pengelolaan sistem kearsipan (filing) yang standar."}
+      ] 
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani. Memiliki ketahanan mata yang baik untuk pekerjaan data entry dan pemeriksaan dokumen detail", "Keterangan": "Baik" },
+      { "Persyaratan": "Memiliki integritas dan kejujuran (Trustworthy) yang tinggi karena berinteraksi langsung dengan instrumen pembayaran perusahaan (Cek/Giro).", "Keterangan": "Baik" },
+      { "Persyaratan": "Pekerjaan berbasis di Kantor Pusat (Gresik), dengan mobilitas ringan untuk tugas operasional ke Bank.", "Keterangan": "Baik" },
+      { "Persyaratan": "Jam kerja normal, dengan kesiapan overtime saat volume transaksi tinggi (akhir bulan) untuk penyelesaian arsip dan input dataJ", "Keterangan": "Baik" }    
+    ],
+    "Output": [
+      "File Download Rekening Koran (PDF/Excel)",											
+      "Format Upload Pembayaran (CSV/Txt)",											
+      "Register Dokumen Masuk & Keluar",											
+      "Arsip Digital Dokumen Pembayaran",											
+      "Fisik Voucher & Lampiran Terarsip",											
+      "Warkat Bank Siap Tanda Tangan"											
+    ]							
+  },
+  {
+    "Name": "Job Profile Senior Manager of Tax",
+    "Identifikasi": {
+      "Jabatan": "Senior Manager of Tax",
+      "Tingkat_Band": "Band 2",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "General Manager of Department Corporate Finance"
+    },
+    "Tujuan_Jabatan": "Memimpin dan mengelola strategi perpajakan perusahaan secara menyeluruh untuk menjamin kepatuhan (compliance) terhadap peraturan perundang-undangan perpajakan yang berlaku. Bertanggung jawab merancang Perencanaan Pajak (Tax Planning) yang efektif untuk optimalisasi beban pajak, mengelola risiko pemeriksaan pajak, serta memastikan akurasi pelaporan SPT Masa dan SPT Tahunan Badan tepat waktu.",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Menganalisis dampak pajak atas transaksi bisnis serta merancang struktur transaksi yang efisien secara pajak namun tetap patuh hukum (lawful tax planning), termasuk memahami dampak PPh (Pajak Penghasilan) dan PPN (Pajak Pertambahan Nilai) atas setiap transaksi perusahaan",
+        "Hasil_yang_Diharapkan": "Strategi penghematan pajak yang legal dan optimal."
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Mengawasi penerbitan Faktur Pajak Keluaran yang berasal dari penjualan perusahaan serta memverifikasi Faktur Pajak Masukan dari supplier yang dapat dikreditkan, sekaligus memastikan seluruh pelaporan SPT Masa PPN dan PPh—Surat Pemberitahuan pajak yang wajib dilaporkan setiap bulan—disampaikan dengan akurat dan tepat waktu",
+        "Hasil_yang_Diharapkan": "Laporan SPT Masa yang nihil kesalahan (Zero Error) dan tepat waktu"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengelola proses penyesuaian laporan keuangan perusahaan dengan aturan pajak yang berlaku, menghitung PPh Badan beserta kredit pajak seperti PPh 23 dan PPh 22, serta menyusun semua dokumen yang diperlukan untuk laporan pajak tahunan perusahaan (SPT Tahunan Badan)",
+        "Hasil_yang_Diharapkan": "SPT Tahunan PPh Badan yang akurat dan compliant"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Mengatur seluruh kebutuhan perusahaan ketika terjadi pemeriksaan pajak, termasuk menyiapkan data dan dokumen yang diminta auditor pajak, memberikan penjelasan teknis, dan membantu proses keberatan atau banding bila perusahaan tidak sependapat dengan hasil pemeriksaan",
+        "Hasil_yang_Diharapkan": "Penyelesaian sengketa pajak dengan dampak finansial minimal"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Melakukan pengecekan berkala antara angka penjualan perusahaan dengan perhitungan PPN, serta mencocokkan pemotongan atau pemungutan PPh dengan biaya yang tercatat di pembukuan (GL/General Ledger), untuk memastikan tidak ada perbedaan data yang bisa memicu pertanyaan atau pemeriksaan dari otoritas pajak",
+        "Hasil_yang_Diharapkan": "Kertas Kerja Equalisasi Pajak yang seimbang (balance)"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Meningkatkan kemampuan tim dengan memberikan pemahaman mengenai aturan pajak terbaru dan memastikan penggunaan aplikasi pajak seperti e-Faktur untuk penerbitan Faktur Pajak elektronik serta e-Bupot untuk pembuatan bukti potong berjalan dengan benar",
+        "Hasil_yang_Diharapkan": "Tim Pajak yang kompeten dan update terhadap regulasi."
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Bertanggung jawab atas Efisiensi Beban Pajak (PPh Badan & PPN) melalui strategi fiskal yang legal; Mencegah timbulnya Denda/Sanksi Administrasi akibat keterlambatan atau kesalahan pelaporan; Mengelola restitusi pajak (jika ada)",
+      "Dimensi_non_Keuangan": "Tingkat Kepatuhan (Compliance Rate) 100% terhadap regulasi pajak; Kualitas hubungan dengan Kantor Pelayanan Pajak (KPP); Keberhasilan pendampingan Audit Pajak (Tax Audit Defense).",
+      "Bawahan_Langsung": "Tax Officer, Tax Junior Officer",
+      "Cakupan_Wilayah": "Unit Tax dalam Departmen Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "General Manager of Corporate Finance", "Tujuan": "Melaporkan perkembangan kewajiban pajak perusahaan, status pembayaran pajak yang sudah direalisasikan, serta rencana pengelolaan pajak (tax planning) yang bertujuan mengoptimalkan beban pajak namun tetap mematuhi aturan" },
+        { "Unit_Instansi": "Unit Accounting", "Tujuan": "Berkoordinasi untuk mencocokkan data pajak dengan pembukuan perusahaan (GL/General Ledger) dan menyiapkan laporan keuangan fiskal, yaitu laporan keuangan yang sudah disesuaikan dengan peraturan perpajakan." },
+        { "Unit_Instansi": "Unit Billing & AR", "Tujuan": "Bekerja sama dalam memastikan penerbitan Faktur Pajak Keluaran dari penjualan berjalan tepat waktu, serta memeriksa kesesuaian data PPN yang dihitung dari transaksi penjualan perusahaan" },
+        { "Unit_Instansi": "Unit Procurement & AP", "Tujuan": "Berkoordinasi untuk memastikan perhitungan PPh yang wajib dipotong dari pembayaran ke vendor—seperti PPh 23, PPh 4(2), atau PPh 15—sudah sesuai aturan, dan memverifikasi keabsahan Faktur Pajak Masukan yang digunakan untuk pengkreditan PPN" },
+        { "Unit_Instansi": "Department Human Capital", "Tujuan": "Bekerja sama dalam menghitung dan melaporkan PPh 21 karyawan, yaitu pajak penghasilan atas gaji dan tunjangan yang harus dipotong dan disetorkan oleh perusahaan" }      
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Kantor Pelayanan Pajak (KPP)", "Tujuan": "Melakukan komunikasi resmi dengan otoritas pajak, termasuk merespons SP2DK—Surat Permintaan Penjelasan Data dan/atau Keterangan yang dikirimkan ketika ada data pajak yang perlu diklarifikasi—serta mendampingi perusahaan selama proses pemeriksaan pajak" },
+        { "Unit_Instansi": "Konsultan Pajak", "Tujuan": "Berdiskusi dan meminta pendapat profesional mengenai penafsiran aturan pajak terbaru atau menangani kasus pajak yang kompleks, termasuk potensi sengketa dengan otoritas pajak" },
+        { "Unit_Instansi": "Auditor Eksternal", "Tujuan": "Menjelaskan posisi kewajiban pajak perusahaan dan memberikan gambaran mengenai penyesuaian pajak dalam laporan keuangan audited, termasuk penjelasan mengenai perhitungan fiskal yang dapat memengaruhi hasil audit tahunan" }
+      ]
+    },
+    "Wewenang": [
+      "Memberikan rekomendasi kepada manajemen mengenai cara menyusun transaksi bisnis agar beban pajaknya lebih efisien namun tetap sesuai dengan aturan perpajakan yang berlaku",											
+      "Melakukan pengecekan akhir dan memberikan persetujuan atas pelaporan SPT Masa sebelum laporan pajak bulanan tersebut dikirimkan melalui DJP Online, sistem resmi pemerintah untuk pelaporan pajak",											
+      "Menentukan mana saja biaya perusahaan yang dapat menjadi pengurang pajak (deductible) dan mana yang tidak dapat diakui sebagai pengurang pajak (non-deductible) berdasarkan ketentuan dalam Undang-Undang Pajak",											
+      "Mewakili perusahaan dalam pertemuan atau diskusi dengan Pemeriksa Pajak ketika ada klarifikasi atau pemeriksaan, serta memberikan penjelasan terkait data dan transaksi yang diminta otoritas pajak",											
+      "Mengajukan permintaan perbaikan jurnal akuntansi apabila terdapat pencatatan yang tidak sesuai dengan ketentuan perpajakan atau tidak mencerminkan objek pajak dengan benar",											
+      "Menilai kinerja tim perpajakan dan menentukan hak akses user pada sistem perbankan untuk memastikan keamanan, pembagian tugas yang tepat, dan kepatuhan terhadap prosedur internal perusahaan"											
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": {
+        "Kualifikasi": "Minimal S1 (Diutamakan S2)",
+        "Jurusan": "Akuntansi atau Perpajakan"
+      },
+      "Pengalaman_Kerja": "Minimal 8-10 tahun total pengalaman kerja, dengan minimal 3-5 tahun pengalaman manajerial di bidang Perpajakan Korporat atau Konsultan Pajak",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Building Partnerships", "Decision Making", "Driving Execution", "Driving for Result", "Facilitating Change"],
+        "Sekunder": ["Aligning Performance for Success", "Business Insight", "Customer Focus", "Influencing", "Innovation", "Inspiring Others"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "A/R Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Budget Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Tax Management", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 2 - Comprehension" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Practitioner" }],
+      "Komputer": [
+        { "Kompetensi": "Aplikasi Perpajakan (e-Faktur, e-Bupot, DJP Online)", "Level": "Expert" },
+        { "Kompetensi": "ERP SAP (Modul FI)", "Level": "Practitioner" },
+        { "Kompetensi": "Spreadsheet (Excel)", "Level": "Advanced" }
+      ],
+      "Sertifikasi": {
+        "Wajib": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Menjadi persyaratan wajib karena sertifikasi ini memberikan dasar pengetahuan yang kuat mengenai aturan pemotongan dan pemungutan pajak dalam negeri, termasuk PPh dan PPN yang berlaku pada transaksi perusahaan."},
+          {"Sertifikat": "Brevet C / USKP (Ujian Sertifikasi Konsultan Pajak)", "Keterangan": "Diutamakan, dan menjadi wajib untuk level Senior Manager, karena sertifikasi ini mencakup pemahaman mendalam mengenai pajak badan serta perencanaan pajak yang lebih kompleks, termasuk transaksi internasional dan struktur pajak tingkat lanjut"}
+        ],
+        "Optional": [
+          {"Sertifikat": "Certified Management Accountant (CMA)", "Keterangan": "Menjadi nilai tambah karena sertifikasi ini memperkuat kemampuan dalam mengintegrasikan perhitungan pajak dengan akuntansi manajemen, termasuk analisis biaya, pengendalian keuangan, dan pengambilan keputusan bisnis"}
+        ]
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani, serta memiliki ketahanan mental yang kuat untuk bekerja di bawah tekanan jadwal pelaporan pajak yang ketat, termasuk tenggat tanggal 10, 15, 20, dan akhir bulan", "Keterangan": "Baik" },
+      { "Persyaratan": "Memiliki integritas yang tinggi dan konsisten dalam mematuhi peraturan perpajakan serta kebijakan internal perusahaan", "Keterangan": "Baik" },
+      { "Persyaratan": "Penempatan kerja berada di Kantor Pusat (Gresik) dengan kesiapan melakukan kunjungan ke Kantor Pajak (KPP) atau Kantor Wilayah apabila diperlukan, seperti saat ada undangan klarifikasi atau pemeriksaan", "Keterangan": "Baik" },
+      { "Persyaratan": "Siap bekerja lembur terutama pada periode pelaporan pajak bulanan dan masa penyusunan SPT Tahunan yang berlangsung antara Januari hingga April", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "Bukti Pelaporan SPT Masa (BPE)",											
+      "SPT Tahunan PPh Badan",											
+      "Laporan Rekonsiliasi Fiskal",											
+      "Kertas Kerja Equalisasi (Omset & Biaya)",											
+      "Dokumen Transfer Pricing (TP Doc)",											
+      "Laporan Tax Planning & Review"											
+    ]
+  },
+  {
+    "Name": "Job Profile Tax Officer",
+    "Identifikasi": {
+      "Jabatan": "Tax Officer",
+      "Tingkat_Band": "Band 3",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "Senior Manager of Tax"
+    },
+    "Tujuan_Jabatan": "Melaksanakan kegiatan kepatuhan pajak sehari-hari, termasuk menghitung, memeriksa kembali, membayar, dan melaporkan SPT Masa—laporan pajak bulanan untuk jenis pajak seperti PPN serta PPh 21, 23, 4(2), dan 15—secara akurat dan tepat waktu. Mengelola administrasi Faktur Pajak dan bukti potong yang digunakan untuk pelaporan pajak, serta melakukan pencocokan dasar antara data pajak dan pembukuan untuk mendukung Senior Manager dalam penyusunan SPT Tahunan PPh Badan serta pengembangan strategi perpajakan perusahaan",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Memeriksa keabsahan Faktur Pajak Masukan yang digunakan sebagai pengurang PPN, mengelola nomor seri Faktur Pajak yang diterbitkan perusahaan, dan menyusun SPT Masa PPN—laporan pajak bulanan untuk PPN—secara lengkap setiap bulan",
+        "Hasil_yang_Diharapkan": "SPT Masa PPN tersusun dengan akurat dan dilaporkan tepat waktu sebelum akhir bulan"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Menghitung PPh Pasal 21, 23, 4(2), dan 15 atas pembayaran jasa atau sewa; serta membuat Bukti Potong melalui aplikasi e-Bupot, yaitu sistem resmi pemerintah untuk pembuatan bukti pemotongan pajak",
+        "Hasil_yang_Diharapkan": "Bukti Potong PPh tersampaikan kepada vendor dan SPT Masa PPh Unifikasi dapat dilaporkan dengan benar"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Membuat ID Billing sebagai kode pembayaran pajak, mengajukan permintaan dana pajak kepada Treasury, dan memastikan pembayaran beserta pelaporannya selesai sebelum jatuh tempo",
+        "Hasil_yang_Diharapkan": "Bukti Penerimaan Negara (BPN) dan Bukti Penerimaan Elektronik (BPE) tersedia lengkap sebagai tanda bahwa pajak sudah dibayar dan dilaporkan"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Mencocokkan data pajak yang dilaporkan dalam SPT Masa dengan transaksi biaya dan pendapatan yang ada di laporan keuangan (GL/General Ledger) setiap bulan untuk mendeteksi adanya selisih",
+        "Hasil_yang_Diharapkan": "Kertas Kerja Equalisasi Bulanan tersusun rapi, seimbang (balance), dan terdokumentasi dengan baik"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Menyiapkan data, dokumen, dan voucher yang diperlukan Pemeriksa Pajak atau Auditor Eksternal sesuai arahan Senior Manager",
+        "Hasil_yang_Diharapkan": "Seluruh data audit pajak tersedia secara cepat, lengkap, dan siap digunakan dalam proses pemeriksaan"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Mengawasi Junior Officer dalam pengelolaan arsip fisik maupun digital dokumen perpajakan, serta memastikan input data dasar ke aplikasi perpajakan dilakukan dengan benar",
+        "Hasil_yang_Diharapkan": "Administrasi perpajakan tersusun rapi, tertib, dan mudah ditelusuri"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Bertanggung jawab menghitung pajak terutang secara presisi untuk mencegah perusahaan membayar pajak secara berlebihan yang dapat mengganggu arus kas, maupun membayar kurang yang dapat menimbulkan denda dan bunga. Juga memastikan tidak ada sanksi administrasi akibat keterlambatan pelaporan",
+      "Dimensi_non_Keuangan": "Menjaga tingkat kepatuhan pelaporan SPT Masa—laporan pajak bulanan—agar seluruhnya dilaporkan tepat waktu (target 100% on-time). Menghasilkan data yang konsisten antara pajak dan laporan akuntansi melalui proses pencocokan (equalisasi), serta memastikan arsip dokumen pajak tersimpan lengkap dan siap untuk keperluan audit",
+      "Bawahan_Langsung": "",
+      "Cakupan_Wilayah": "Unit Tax dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Senior Manager of Tax", "Tujuan": "Melaporkan perkembangan pelaporan SPT Masa—laporan pajak bulanan—beserta nilai pajak yang masih harus dibayar dan hasil pencocokan dasar antara data pajak dan laporan keuangan" },
+        { "Unit_Instansi": "Unit Procurement & AP", "Tujuan": "Memeriksa ketepatan penggunaan kode pajak pada invoice dari vendor dan memastikan Faktur Pajak Masukan valid sebelum pembayaran dilakukan" },
+        { "Unit_Instansi": "Unit Billing & AR", "Tujuan": "Bekerja sama dalam penerbitan Faktur Pajak Keluaran atas penjualan serta menangani retur penjualan yang memengaruhi perhitungan PPN" },
+        { "Unit_Instansi": "Unit Accounting", "Tujuan": "Melakukan pencocokan rutin antara angka yang tercatat di General Ledger (GL), yaitu buku besar akuntansi perusahaan, dengan laporan pajak bulanan (SPT Masa) untuk memastikan tidak ada perbedaan data" },      
+        { "Unit_Instansi": "Tax Junior Officer", "Tujuan": "Mendelegasikan pekerjaan administrasi seperti pemindaian dan pengarsipan, memasukkan data Faktur Pajak, serta menyiapkan ID Billing sebagai kode pembayaran pajak" }      
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Kantor Pelayanan Pajak (KPP)", "Tujuan": "Melakukan pelaporan pajak secara rutin, berkonsultasi terkait teknis pengisian laporan pajak (SPT), serta menangani korespondensi administratif dengan otoritas pajak" },
+        { "Unit_Instansi": "Vendor / Supplier", "Tujuan": "Berkomunikasi untuk meminta revisi Faktur Pajak yang tidak sesuai ketentuan dan memastikan Bukti Potong PPh telah diterima oleh vendor dengan benar" }
+      ]
+    },
+    "Wewenang": [
+      "Memastikan SPT Masa PPN—laporan pajak bulanan atas Pajak Pertambahan Nilai—disusun dengan akurat dan dikirimkan tepat waktu sebelum akhir bulan",											
+      "Menjamin Bukti Potong PPh yang dibuat melalui aplikasi e-Bupot tersampaikan dengan benar kepada vendor, serta memastikan SPT Masa PPh Unifikasi dapat dilaporkan sesuai jadwal",											
+      "Mengotorisasi pembayaran pajak sehingga perusahaan memperoleh Bukti Penerimaan Negara (BPN) dan Bukti Penerimaan Elektronik (BPE) sebagai tanda bahwa pembayaran dan pelaporan pajak perusahaan sudah diterima secara resmi oleh Direktorat Jenderal Pajak",											
+      "Mengendalikan kualitas Kertas Kerja Equalisasi Bulanan, yaitu dokumen yang mencocokkan angka pajak dengan angka pada laporan keuangan untuk memastikan semuanya konsisten dan tidak ada selisih yang dapat menimbulkan pertanyaan dari Direktorat Jenderal Pajak (DJP)",											
+      "Memastikan seluruh data dan dokumen yang dibutuhkan untuk pemeriksaan pajak atau audit eksternal tersedia dengan cepat, lengkap, dan mudah ditelusuri",											
+      "Menjaga kerapian administrasi perpajakan, termasuk pengarsipan fisik dan digital, agar seluruh dokumen tertata rapi dan siap digunakan kapan pun dibutuhkan"																					
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": {
+        "Kualifikasi": "Minimal S1",
+        "Jurusan": "Akuntansi atau Perpajakan"
+      },
+      "Pengalaman_Kerja": "Minimal 3-5 tahun pengalaman kerja di bidang Perpajakan Korporat atau sebagai Konsultan Pajak Junior",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Innovation", "Planning & Organizing", "Problem Analyst", "Work Standards"],
+        "Sekunder": ["Building Positive Working Relationships", "Business Awareness", "Customer Focus"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "A/R Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Tax Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 1 - Knowledgeable" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Comprehension" }],
+      "Komputer": [
+        { "Kompetensi": "Aplikasi Perpajakan (DJP Apps)", "Level": "Advanced" },
+        { "Kompetensi": "ERP SAP S/4 HANA (Modul FI)", "Level": "Practitioner" },
+        { "Kompetensi": "Spreadsheet (Excel)", "Level": "Advanced" }
+      ],
+      "Sertifikasi": {
+        "Wajib": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Menjadi persyaratan wajib agar kandidat memiliki pemahaman teknis yang kuat mengenai perhitungan pajak, termasuk PPh Orang Pribadi, PPh Badan, PPN, serta kewajiban pemotongan dan pemungutan PPh (potput) yang dilakukan perusahaan"}
+        ],
+        "Optional": [
+          {"Sertifikat": "USKP A (Ujian Sertifikasi Konsultan Pajak)", "Keterangan": "Diutamakan karena sertifikasi ini menjadi bukti bahwa kandidat memiliki kompetensi perpajakan tingkat profesional dan mampu menangani kasus pajak dengan akurasi dan pemahaman regulasi yang lebih mendalam"},
+          {"Sertifikat": "Certified Zahir/Myob/SAP User", "Keterangan": "Menjadi nilai tambah karena kemampuan menggunakan software akuntansi ini membantu proses penarikan dan pengolahan data keuangan menjadi lebih cepat dan efisien"}
+        ]
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani serta mampu bekerja dengan ketelitian tinggi, karena tugas sehari-hari menuntut akurasi angka dan perhatian pada detail", "Keterangan": "Baik" },
+      { "Persyaratan": "Mampu bekerja di bawah tekanan tenggat waktu yang ketat dan tidak fleksibel, seperti batas pelaporan PPh pada tanggal 10 dan pelaporan PPN pada akhir bulan", "Keterangan": "Baik" },
+      { "Persyaratan": "Penempatan kerja berada di Kantor Pusat Gresik, dengan mobilitas rendah karena sebagian besar pekerjaan dilakukan di meja kerja dan bersifat administratif", "Keterangan": "Baik" },
+      { "Persyaratan": "Siap melakukan lembur secara rutin pada minggu ke-2 dan minggu ke-4 setiap bulan untuk menyelesaikan proses pelaporan pajak dan finalisasi SPT", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "SPT Masa PPN (Induk & Lampiran)",											
+      "SPT Masa PPh Unifikasi",											
+      "Bukti Potong Pajak (Bupot)",											
+      "Kode Billing & Bukti Pembayaran (BPN)",											
+      "Kertas Kerja Equalisasi Bulanan",											
+      "Rekapitulasi Faktur Pajak Masukan & Keluaran"																						
+    ]
+  },
+  {
+    "Name": "Job Profile Tax Junior Officer",
+    "Identifikasi": {
+      "Jabatan": "Tax Junior Officer",
+      "Tingkat_Band": "Band 4",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "SM of Tax"
+    },
+    "Tujuan_Jabatan": "Melaksanakan tugas administrasi perpajakan harian, mulai dari mengumpulkan, memeriksa fisik, memindai (scan), hingga memasukkan data berbagai dokumen perpajakan seperti Faktur Pajak Masukan yang berasal dari pemasok dan Bukti Potong PPh yang diterbitkan perusahaan. Bertanggung jawab menjaga kerapian dan ketertiban pengarsipan dokumen pajak, baik fisik maupun digital, melakukan input data ke aplikasi perpajakan seperti e-Faktur untuk pengelolaan faktur pajak dan e-Bupot untuk pembuatan bukti potong, serta mengirimkan bukti potong kepada vendor atau pihak terkait guna memastikan seluruh kewajiban pelaporan pajak perusahaan terpenuhi dengan benar",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Melakukan pemindaian barcode pada Faktur Pajak Masukan yang diterima dari vendor menggunakan handheld/scanner atau memasukkan datanya secara manual ke aplikasi e-Faktur, dan memastikan faktur berada pada status “Siap Upload” agar dapat diproses dan dikreditkan sebagai pengurang PPN",
+        "Hasil_yang_Diharapkan": "Database Faktur Pajak Masukan yang lengkap dan siap di-upload untuk digunakan dalam perhitungan PPN"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Menginput data dasar transaksi—seperti NPWP pihak lawan transaksi, nilai bruto, dan kode jenis pajak—ke aplikasi e-Bupot atau template Excel sebagai dasar pembuatan Bukti Potong PPh",
+        "Hasil_yang_Diharapkan": "Draft Bukti Potong PPh yang akurat dan siap diverifikasi"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengelompokkan, memindai (scan), dan mengarsipkan SPT Masa beserta lampirannya seperti SSP, Faktur Pajak, dan Bukti Potong ke dalam bantex atau ordner secara sistematis berdasarkan masa pajaknya",
+        "Hasil_yang_Diharapkan": "Arsip pajak yang rapi, lengkap, dan mudah ditemukan (traceable)"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Memeriksa kelengkapan dokumen pajak yang dilampirkan pada tagihan dari unit AP, termasuk memastikan kesesuaian nama, NPWP, dan alamat pada Faktur Pajak",
+        "Hasil_yang_Diharapkan": "Dokumen pajak yang valid secara administratif sebelum diproses lebih lanjut"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Mengirimkan Bukti Potong PPh (23/4(2)/15) kepada vendor melalui email atau pos serta mendistribusikan Faktur Pajak Keluaran kepada customer apabila diminta",
+        "Hasil_yang_Diharapkan": "Bukti potong diterima oleh pihak terkait tepat waktu"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Membuat rekap daftar Faktur Pajak dan Bukti Potong harian dalam Excel sebagai cadangan data dan bahan untuk proses rekonsiliasi oleh Officer",
+        "Hasil_yang_Diharapkan": "Kertas kerja rekap harian yang lengkap dan dapat digunakan untuk pemeriksaan silang data pajak"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Berperan mencegah potensi kerugian perusahaan yang dapat timbul akibat kesalahan dalam memasukkan data Faktur Pajak Masukan—karena faktur yang salah bisa membuat PPN tidak dapat dikreditkan—atau akibat kesalahan memilih tarif PPh ketika menginput data transaksi",
+      "Dimensi_non_Keuangan": "Menjaga kerapian dan kelengkapan arsip pajak, baik digital maupun fisik, agar selalu siap untuk kebutuhan audit. Bertanggung jawab memastikan proses pemindaian dan pengunggahan faktur pajak berjalan cepat sesuai standar waktu pelayanan internal (SLA), serta memastikan seluruh dokumen tagihan dari vendor valid secara administratif",
+      "Bawahan_Langsung": "-",
+      "Cakupan_Wilayah": "Unit Tax dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Tax Officer", "Tujuan": "Menerima instruksi kerja harian, menyerahkan hasil input data perpajakan seperti Faktur Pajak Masukan dan Bukti Potong, serta melaporkan apabila terdapat dokumen pajak vendor yang tidak lengkap atau tidak valid secara administratif" },
+        { "Unit_Instansi": "Senior Manager of Tax", "Tujuan": "Menyediakan atau menyerahkan dokumen pajak (fisik maupun hasil scan) ketika diperlukan secara mendadak, misalnya untuk analisis pajak, klarifikasi internal, atau permintaan data dari Kantor Pajak selama proses pemeriksaan" },
+        { "Unit_Instansi": "Unit Procurement & AP", "Tujuan": "Melakukan pemeriksaan fisik atas kelengkapan dokumen pajak pada tagihan vendor, termasuk Faktur Pajak (dokumen resmi PPN) dan SSP/BPN (bukti pembayaran pajak), sebelum tagihan diproses lebih lanjut oleh bagian keuangan" },
+        { "Unit_Instansi": "Unit General Affair", "Tujuan": "Berkoordinasi dalam pengiriman dokumen pajak fisik, terutama Bukti Potong PPh yang harus dikirimkan ke vendor atau pihak ketiga sebagai bukti pemotongan pajak yang dilakukan perusahaan" }      
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Vendor / Supplier", "Tujuan": "Melakukan konfirmasi terkait penerimaan Faktur Pajak dari vendor apabila belum diterima, serta mengirimkan Bukti Potong PPh dari perusahaan kepada vendor sebagai bukti pengurangan pajak atas transaksi jasa atau sewa" },
+        { "Unit_Instansi": "Kantor Pelayanan Pajak (KPP)", "Tujuan": "Melakukan penyetoran atau penyerahan dokumen fisik tertentu (misalnya surat klarifikasi atau lampiran SPT) atau mengambil surat/dokumen resmi dari KPP jika ditugaskan oleh Officer, dalam rangka mendukung kepatuhan administrasi perpajakan perusahaan" }
+      ]
+    },
+    "Wewenang": [
+      "Menolak Faktur Pajak Masukan dari vendor apabila barcode pada faktur rusak atau tidak dapat dibaca oleh sistem Direktorat Jenderal Pajak (DJP), sehingga tidak bisa di-upload atau dikreditkan sebagai pengurang PPN",											
+      "Melakukan verifikasi keabsahan NPWP vendor melalui sistem validasi DJP Online untuk memastikan bahwa identitas perpajakan lawan transaksi benar dan sesuai sebelum diproses lebih lanjut",											
+      "Mengatur tata kelola ruang arsip pajak, termasuk penataan dokumen fisik dan digital agar mudah ditemukan, aman, dan siap diperiksa kapan pun dibutuhkan (audit readiness)",											
+      "Mengembalikan berkas tagihan ke unit AP apabila dokumen pajak yang dilampirkan vendor tidak lengkap, salah, atau tidak memenuhi aturan administrasi pajak, sehingga tidak dapat diproses pembayarannya"														
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": { "Kualifikasi": "Minimal D3 atau S1", "Jurusan": "Perpajakan (Administrasi Fiskal) atau Akuntansi" },
+      "Pengalaman_Kerja": "Minimal 0-2 tahun pengalaman kerja (Fresh Graduate dipersilakan) di bidang administrasi pajak atau staf keuangan",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Analyst", "Continuous Improvement", "Managing Work", "Quality Orientation"],
+        "Sekunder": ["Building Positive Working Relationships", "Customer Orientation"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "A/R Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Tax Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 1 - Knowledgeable" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Comprehension" }],
+      "Komputer": [
+        { "Kompetensi": "Aplikasi e-Faktur / e-Bupot", "Level": "Practitioner" },
+        { "Kompetensi": "Microsoft Excel", "Level": "Practitioner" },
+        { "Kompetensi": "ERP System (SAP Viewer)", "Level": "Comprehension" }
+      ],
+      "Sertifikasi": { 
+        "Wajib": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Wajib dimiliki untuk memastikan pemahaman yang kuat terkait aturan dasar perpajakan, termasuk mekanisme PPN (Pajak Pertambahan Nilai) dan PPh pemotongan/pemungutan yang digunakan dalam transaksi sehari-hari"}
+        ], 
+        "Optional": [
+          {"Sertifikat": "Sertifikasi Microsoft Office", "Keterangan": "Menjadi nilai tambah karena mendukung kecepatan dan ketepatan pekerjaan administratif, terutama dalam pengolahan data pajak menggunakan Excel dan dokumentasi pendukung lainnya"}
+        ] 
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani, serta memiliki ketelitian visual yang tinggi untuk memeriksa angka, kode pajak, dan detail administratif pada dokumen perpajakan", "Keterangan": "Baik" },
+      { "Persyaratan": "Mampu bekerja dengan tugas yang bersifat rutin dan repetitif (clerical) namun tetap menjaga akurasi dan konsistensi dalam setiap proses input dan pemeriksaan dokumen", "Keterangan": "Baik" },
+      { "Persyaratan": "Bersedia bekerja di Kantor Pusat (Gresik) dengan aktivitas yang sebagian besar dilakukan di meja kerja dan ruang arsip dokumen pajak", "Keterangan": "Baik" },
+      { "Persyaratan": "Siap bekerja lembur (overtime) terutama menjelang tenggat pelaporan SPT Masa—biasanya pada minggu ke-2 dan ke-3 setiap bulan—untuk menyelesaikan input data dalam jumlah besar", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "Database Faktur Pajak Masukan (Scan/Input)",											
+      "Draft Bukti Potong PPh",											
+      "Arsip Fisik SPT Masa (Bantex/Ordner)",											
+      "Arsip Digital Dokumen Pajak",											
+      "Tanda Terima Distribusi Bukti Potong",											
+      "Rekapitulasi Pajak Harian"																						
+    ]
+  },
+  {
+    "Name": "Job Profile Senior Manager of Billing",
+    "Identifikasi": {
+      "Jabatan": "Senior Manager of Billing",
+      "Tingkat_Band": "Band 2",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "General Manager of Corporate Finance"
+    },
+    "Tujuan_Jabatan": "Memimpin dan mengelola keseluruhan siklus penagihan (billing cycle) perusahaan. Posisi ini bertanggung jawab memastikan bahwa setiap aktivitas bisnis yang telah selesai segera diterbitkan tagihannya secara akurat, lengkap, dan tepat waktu. Tujuannya adalah mempercepat aliran masuk kas perusahaan, mencegah kebocoran pendapatan (revenue leakage), dan memastikan proses penagihan mematuhi kontrak kerjasama serta peraturan perpajakan.",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Merumuskan dan menetapkan kebijakan serta Standar Operasional Prosedur (SOP) untuk seluruh rangkaian proses penagihan, mulai dari penerimaan dokumen pengiriman (Delivery Note), verifikasi data, perhitungan awal (pre-billing), hingga penerbitan faktur (invoicing)",
+        "Hasil_yang_Diharapkan": "Terciptanya pedoman kerja dan kebijakan billing yang seragam, terdokumentasi dengan rapi, dan dipatuhi secara konsisten oleh seluruh anggota tim guna menjamin standarisasi proses"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Mengendalikan pencapaian target waktu layanan (Service Level Agreement/SLA) pada setiap tahapan proses (verifikasi data hingga cetak invoice) untuk menjamin tagihan terbit tepat waktu dan mendukung kelancaran siklus penerimaan kas (Order-to-Cash)",
+        "Hasil_yang_Diharapkan": "Tercapainya target waktu (SLA) penagihan secara konsisten, sehingga faktur terbit tepat jadwal dan mempercepat aliran uang masuk (cash flow) perusahaan"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengarahkan pembaruan prosedur kerja billing secara berkala dengan mengacu pada temuan masalah di lapangan maupun perubahan strategi bisnis, guna meningkatkan efisiensi proses dan meminimalkan celah kesalahan dokumen",
+        "Hasil_yang_Diharapkan": "Tersedianya prosedur kerja yang selalu mutakhir (up-to-date), proses kerja yang lebih ringkas/efisien, serta penurunan tingkat kesalahan administrasi yang signifikan"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Mengevaluasi hasil kerja tim dalam memverifikasi akurasi dokumen pendukung (Surat Perintah Jalan/SPJ, Berita Acara Serah Terima/BAST) dan kesesuaian tarif kontrak untuk memastikan kualitas tagihan sebelum dikirim ke pelanggan",
+        "Hasil_yang_Diharapkan": "Dokumen tagihan yang terbit memiliki tingkat akurasi tinggi, lengkap secara administrasi, dan valid, sehingga mengurangi risiko revisi berulang atau penolakan bayar (dispute) oleh pelanggan"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Mengkoordinasikan penanganan kendala billing secara lintas divisi (bersama Sales, Operasional, Legal, dan IT) untuk menyelesaikan isu ketidaksesuaian data, kontrak, atau tarif yang menghambat penerbitan invoice",
+        "Hasil_yang_Diharapkan": "Penyelesaian masalah penagihan yang cepat dan tuntas, sehingga hambatan penerbitan invoice dapat segera diatasi dan tidak mengganggu hubungan dengan pelanggan"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Mengembangkan sistem pelaporan kinerja yang mencakup analisis ketepatan waktu, volume tagihan, dan tingkat kesalahan (error rate) sebagai dasar data yang andal bagi manajemen dalam pengambilan keputusan strategis",
+        "Hasil_yang_Diharapkan": "Tersedianya laporan kinerja billing berkala yang akurat, transparan, dan informatif yang dapat digunakan manajemen untuk mengevaluasi kesehatan operasional keuangan"
+      },
+      {
+        "nomor": 7,
+        "Tanggung_Jawab": "Melakukan pembinaan (coaching), pelatihan teknis, serta pengaturan beban kerja tim Billing untuk memastikan ketersediaan sumber daya manusia yang kompeten dalam mencapai target kualitas dan waktu kerja",
+        "Hasil_yang_Diharapkan": "Terbentuknya tim Billing yang memiliki kompetensi teknis tinggi, produktif, dan mampu memenuhi target SLA perusahaan secara konsisten tanpa kendala kekurangan sumber daya"
+      },
+      {
+        "nomor": 8,
+        "Tanggung_Jawab": "Mengusulkan dan mengawal inisiatif perbaikan sistem teknologi pendukung (seperti integrasi SAP, TMS, atau e-invoice) untuk meningkatkan otomatisasi proses, mengurangi pekerjaan manual, dan menjaga integritas data",
+        "Hasil_yang_Diharapkan": "Terlaksananya implementasi sistem baru yang mampu meningkatkan akurasi data, mempercepat proses kerja melalui otomatisasi, dan mengintegrasikan data antar departemen dengan lancar"
+      },
+      {
+        "nomor": 9,
+        "Tanggung_Jawab": "Melakukan analisis menyeluruh untuk mendeteksi potensi pendapatan yang tidak tertagih (unbilled revenue) akibat kegagalan sistem atau kelalaian operasional, serta memastikan seluruh layanan pelanggan telah masuk dalam tagihan",
+        "Hasil_yang_Diharapkan": "Meminimalkan risiko kebocoran pendapatan (revenue leakage), sehingga seluruh aktivitas operasional yang bernilai uang berhasil ditagihkan ke pelanggan secara lengkap dan optimal"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Mengawal akurasi nilai tagihan bulanan yang mencapai miliaran rupiah untuk mencegah kesalahan hitung, karena setiap kesalahan berdampak langsung pada tertundanya pembayaran pelanggan dan terganggunya arus kas perusahaan",
+      "Dimensi_non_Keuangan": "Menjaga kepuasan pelanggan dengan menyajikan tagihan yang rapi, jelas, dan bebas kesalahan, serta membangun kerjasama yang lancar dengan tim operasional dan pajak agar proses penagihan tidak terhambat masalah administrasi",
+      "Bawahan_Langsung": "Billing Officer, Billing Junior Officer",
+      "Cakupan_Wilayah": "Unit Billing dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Sales", "Tujuan": "Melakukan konfirmasi ulang terkait harga kesepakatan dan data pesanan, serta menyelesaikan masalah perbedaan data antara pesanan dan realisasi agar tagihan tidak ditolak pelanggan" },
+        { "Unit_Instansi": "Marketing", "Tujuan": "Memastikan kebenaran data profil pelanggan dan struktur tarif promosi yang berlaku untuk menjamin perhitungan tagihan sesuai dengan skema layanan yang ditawarkan" },
+        { "Unit_Instansi": "Planning/Operation", "Tujuan": "Meminta kelengkapan bukti fisik pekerjaan seperti Surat Perintah Jalan (SPJ) dan Berita Acara Serah Terima (BAST) sebagai bukti sah untuk menerbitkan tagihan" },
+        { "Unit_Instansi": "Legal", "Tujuan": "Berkonsultasi mengenai pasal-pasal kontrak kerja sama untuk memastikan syarat penagihan sudah sesuai hukum dan mencegah risiko sengketa (dispute) dengan pelanggan" },      
+        { "Unit_Instansi": "ICT", "Tujuan": "Bekerja sama dalam pemeliharaan dan perbaikan sistem komputer penagihan untuk menjamin data bisa diunggah dengan lancar dan terintegrasi tanpa kesalahan teknis" },
+        { "Unit_Instansi": "Accounting/Finance", "Tujuan": "Menyerahkan data tagihan yang sudah valid untuk dicatat dalam buku laporan keuangan perusahaan dan memastikan angka pendapatan sinkron" }    
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Vendor", "Tujuan": "Menagih dokumen bukti pengiriman atau surat jalan yang lengkap dari pihak vendor (mitra kerja) sebagai syarat wajib sebelum tagihan ke pelanggan dapat diproses" }
+      ]
+    },
+    "Wewenang": [
+      "Memiliki otoritas penuh untuk merumuskan, menyetujui, dan memberlakukan kebijakan serta prosedur penagihan yang wajib dipatuhi oleh tim internal dan unit terkait",											
+      "Memberikan persetujuan (approval) final untuk penerbitan tagihan ke pelanggan, serta berhak menahan tagihan jika ditemukan risiko kesalahan hitung atau ketidaklengkapan data",											
+      "Berwenang menolak atau mengembalikan dokumen tagihan dari unit Operasional/Sales jika data tidak valid, tidak lengkap, atau menyalahi kontrak, guna mencegah sengketa (dispute)",											
+      "Memiliki hak akses penuh untuk memeriksa data penjualan, kontrak, dan laporan operasional di sistem perusahaan guna menginvestigasi potensi pendapatan yang belum tertagih (unbilled revenue)",										
+      "Berwenang memberikan masukan dan persetujuan terhadap rancangan perbaikan sistem IT (User Requirement Specification) agar sesuai dengan kebutuhan operasional billing",											
+      "Menentukan pembagian beban kerja, menetapkan target individu (KPI), serta menilai hasil kerja staf (promosi/teguran) dalam lingkup departemen Billing"											
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": { "Kualifikasi": "S1, S2 diutamakan", "Jurusan": "Akuntansi, Manajemen Keuangan, atau Administrasi Bisnis" },
+      "Pengalaman_Kerja": "Minimal 8-10 tahun, dengan 3-5 tahun pengalaman manajerial di bidang Billing, Account Receivable, atau Keuangan Operasional",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": [
+          "Adaptability",
+          "Authenticity",
+          "Contributing to Society",
+          "Learning Agility",
+          "Valuing Diversity"
+        ],
+        "Primer": [
+          "Building Partnerships",
+          "Decision Making",
+          "Driving Execution",
+          "Driving for Result",
+          "Facilitating Change"
+        ],
+        "Sekunder": [
+          "Aligning Performance for Success",
+          "Business Insight",
+          "Customer Focus",
+          "Influencing",
+          "Innovation",
+          "Inspiring Others"
+        ]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "A/R Management", "Level": "Level 4 - Advanced" },
+        { "Kompetensi": "Budget Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Tax Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 2 - Comprehension" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Practitioner" }],
+      "Komputer": [
+        { "Kompetensi": "ERP SAP (Modul SD/FI)", "Level": "Expert" },
+        { "Kompetensi": "Spreadsheet (Microsoft Excel)", "Level": "Advanced" },
+        { "Kompetensi": "Presentation Tools (PowerPoint)", "Level": "Practitioner" }
+      ],
+      "Sertifikasi": { 
+        "Wajib": [
+          {"Sertifikat": "Certified Management Accountant (CMA)", "Keterangan": "Menunjukkan kompetensi strategis dalam menganalisis profitabilitas kontrak dan mengelola pendapatan, bukan hanya sekadar menjalankan administrasi penagihan"}
+        ], 
+        "Optional": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Sangat diutamakan agar Manajer memahami aturan PPN Keluaran dan materai secara teknis, sehingga dapat memastikan setiap tagihan yang diterbitkan sah secara hukum pajak dan tidak menimbulkan denda"},
+          {"Sertifikat": "Certified Revenue Cycle Specialist (CRCS)", "Keterangan": "Nilai tambah yang menunjukkan keahlian khusus dalam mengoptimalkan kecepatan proses dari penerbitan tagihan hingga uang diterima (cash-in), untuk menjaga kesehatan arus kas perusahaan"}
+        ] 
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Memiliki kondisi kesehatan jasmani dan rohani yang memenuhi standar tes kesehatan (Medical Check Up) perusahaan. Dibutuhkan stamina yang kuat untuk mempertahankan fokus tinggi dalam merumuskan strategi, meneliti data angka yang rumit, serta memimpin rapat koordinasi berdurasi panjang tanpa kehilangan konsentrasi", "Keterangan": "Baik" },
+      { "Persyaratan": "Memiliki mental yang kuat dan stabil dalam menghadapi tekanan kerja yang dinamis. Posisi ini menuntut ketenangan sikap saat menghadapi target penagihan yang ketat dari Manajemen Puncak (Direksi), serta kemampuan mengendalikan emosi secara profesional saat menangani keluhan keras atau penolakan pembayaran dari pelanggan", "Keterangan": "Baik" },
+      { "Persyaratan": "Pekerjaan utama dilakukan di Kantor Pusat (Gresik). Namun, kandidat wajib bersedia melakukan perjalanan dinas ke luar kota sewaktu-waktu untuk tujuan strategis, seperti mengunjungi pelanggan kunci (Key Account) guna negosiasi penyelesaian sengketa tagihan atau rekonsiliasi data secara tatap muka", "Keterangan": "Baik" },
+      { "Persyaratan": "Mengikuti jam kerja normal perusahaan, namun menuntut fleksibilitas tinggi dan kesediaan lembur wajib, terutama pada periode tutup buku (Month-End Closing) di akhir bulan. Hal ini krusial untuk memastikan seluruh pendapatan tercatat dan tagihan terbit sebelum sistem akuntansi dikunci untuk pelaporan keuangan", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "Dokumen Tagihan (Invoice) Valid & Tepat Waktu",											
+      "Pedoman Kerja (SOP) yang Terstandarisasi",											
+      "Laporan Kinerja Billing (Performance Dashboard)",											
+      "Laporan Revenue Assurance & Analisis Kebocoran",											
+      "Blueprint/Roadmap Perbaikan Sistem",											
+      "Tim Billing yang Kompeten (SDM Unggul)"																																
+    ]
+  },
+  {
+    "Name": "Job Profile Billing Officer",
+    "Identifikasi": {
+      "Jabatan": "Cash Management Officer",
+      "Tingkat_Band": "Band 3",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "Senior Manager of Billing"
+    },
+    "Tujuan_Jabatan": "Melakukan pemeriksaan mendalam terhadap kelengkapan dokumen penagihan serta mengawal seluruh tahapan proses—mulai dari verifikasi data, perhitungan awal (pre-billing), hingga penerbitan faktur—untuk menjamin tagihan yang dihasilkan akurat, lengkap, dan terbit tepat waktu sesuai target layanan (SLA)",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Melakukan pemeriksaan mendalam terhadap kelengkapan dokumen pengiriman (seperti Delivery Note, SPJ, Berita Acara, dan BAST) untuk memastikan kesesuaiannya dengan kontrak, tarif, dan aturan penagihan sebelum diproses lebih lanjut",
+        "Hasil_yang_Diharapkan": "Dokumen pendukung tagihan yang tervalidasi 100% lengkap dan benar, sehingga proses penagihan dapat berjalan lancar tanpa risiko kesalahan administrasi atau revisi berulang"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Mengkoordinasikan proses validasi data Surat Perintah Jalan (SPJ) dengan unit operasional terkait guna menjamin bahwa data pengiriman yang akan ditagihkan adalah data yang valid, akurat, dan dapat dipertanggungjawabkan",
+        "Hasil_yang_Diharapkan": "Tersedianya data operasional (SPJ) yang terverifikasi akurat dan dapat dipertanggungjawabkan kebenarannya, sehingga meminimalkan risiko kesalahan data pada tagihan akhir"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Mengolah data yang telah diverifikasi untuk menyusun draf perhitungan tagihan (pre-billing) secara terstruktur, guna memastikan seluruh komponen biaya telah terhitung dengan benar sebelum dicetak menjadi faktur resmi",
+        "Hasil_yang_Diharapkan": "Draf tagihan (pre-billing) yang tersusun lengkap, hitungannya presisi, dan siap untuk diproses lanjut menjadi faktur resmi (invoice) tanpa kesalahan hitung"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Memverifikasi kesesuaian harga dan syarat layanan pada draf tagihan terhadap kontrak kerjasama pelanggan yang berlaku untuk mencegah terjadinya selisih harga atau kesalahan penerapan tarif",
+        "Hasil_yang_Diharapkan": "Perhitungan nilai tagihan yang tepat sesuai tarif kontrak yang disepakati, sehingga meminimalkan potensi penolakan bayar (dispute) atau keluhan dari pelanggan"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Mengawasi dan memastikan proses input data tagihan ke dalam sistem perusahaan (SAP/TMS) dilakukan dengan benar, serta melengkapi seluruh dokumen pendukung digital sesuai persyaratan sistem",
+        "Hasil_yang_Diharapkan": "Data invoice tercatat dalam sistem secara akurat dan lengkap secara administrasi, sehingga siap dikirimkan ke pelanggan tanpa kendala teknis sistem"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Berkoordinasi aktif dengan tim Sales, Operasional, dan Marketing untuk menyelesaikan masalah ketidaksesuaian dokumen atau data yang menghambat proses, agar penerbitan tagihan tidak tertunda",
+        "Hasil_yang_Diharapkan": "Kendala administrasi dokumen terselesaikan dengan cepat dan tuntas, memastikan jadwal penerbitan invoice tetap tepat waktu sesuai target"
+      },
+      {
+        "nomor": 7,
+        "Tanggung_Jawab": "Menyusun laporan berkala mengenai hasil verifikasi SPJ, kemajuan proses billing, dan status penerbitan invoice sebagai bahan pemantauan kinerja waktu layanan (SLA) bagi manajemen",
+        "Hasil_yang_Diharapkan": "Tersedianya laporan billing yang informatif dan akurat, yang memudahkan pemantauan target waktu (SLA) serta penentuan langkah tindak lanjut tim"
+      },
+      {
+        "nomor": 8,
+        "Tanggung_Jawab": "Memberikan rekomendasi perbaikan terkait kualitas data, format dokumen, atau alur kerja kepada atasan (Senior Manager Billing) untuk meningkatkan efisiensi operasional secara berkelanjutan",
+        "Hasil_yang_Diharapkan": "Terlaksananya inisiatif perbaikan proses kerja yang mampu meningkatkan efisiensi waktu, mengurangi birokrasi, dan menekan tingkat kesalahan manusia (human error)"
+      },
+      {
+        "nomor": 9,
+        "Tanggung_Jawab": "Mengelola pengarsipan seluruh dokumen penagihan (Salinan Invoice, Faktur Pajak, dan Dokumen Pendukung) secara sistematis, baik dalam bentuk fisik maupun digital, guna menjamin keamanan dan kemudahan penelusuran data",
+        "Hasil_yang_Diharapkan": "Arsip dokumen tagihan tersimpan rapi, aman, terstruktur, dan mudah dicari kembali (retrievable) saat dibutuhkan untuk keperluan audit internal, eksternal, atau konfirmasi pelanggan"
+      },
+      {
+        "nomor": 10,
+        "Tanggung_Jawab": "Memastikan invoice yang telah diterbitkan segera dikirimkan kepada pelanggan (melalui kurir, pos, atau email) dan memantau status penerimaannya hingga mendapatkan bukti Tanda Terima Tagihan (TTT) yang sah",
+        "Hasil_yang_Diharapkan": "Tagihan dipastikan sampai ke tangan pelanggan tepat waktu yang dibuktikan dengan Tanda Terima (TTT) valid, sehingga argumen penagihan menjadi kuat dan pelanggan tidak memiliki alasan untuk menunda bayar"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Menjamin akurasi perhitungan nilai tagihan secara presisi tanpa selisih sedikit pun, guna menghindari risiko penolakan pembayaran oleh pelanggan yang dapat menghambat arus kas masuk perusahaan",
+      "Dimensi_non_Keuangan": "Memastikan validitas dan kelengkapan administrasi dokumen sebelum diterbitkan, serta berkoordinasi secara responsif dengan unit operasional untuk melengkapi data agar target tagihan harian tercapai",
+      "Bawahan_Langsung": "",
+      "Cakupan_Wilayah": "Unit Billing dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Sales", "Tujuan": "Berkoordinasi untuk memastikan harga dan jumlah barang di tagihan sudah sama persis dengan kesepakatan awal Sales dengan pelanggan" },
+        { "Unit_Instansi": "Marketing", "Tujuan": "Memastikan data profil pelanggan sudah benar dan mengecek apakah pelanggan berhak mendapatkan diskon/promo tertentu" },
+        { "Unit_Instansi": "Planning/Operation", "Tujuan": "Meminta dan mengumpulkan bukti fisik (Surat Jalan/Berita Acara) dari orang lapangan sebagai bukti wajib untuk membuat tagihan" },
+        { "Unit_Instansi": "Legal", "Tujuan": "Melihat isi kontrak kerja sama untuk memastikan tarif dan syarat penagihan yang kita buat sudah sah dan tidak melanggar hukum" },
+        { "Unit_Instansi": "ICT", "Tujuan": "Melapor dan meminta perbaikan jika komputer, sistem, atau jaringan internet mengalami gangguan yang menghambat pekerjaan"},
+        { "Unit_Instansi": "Accounting/Finance", "Tujuan": "Menyerahkan tumpukan tagihan yang sudah selesai dan valid kepada tim Keuangan untuk dicatat sebagai pendapatan perusahaan" },
+        { "Unit_Instansi": "SM of Biling", "Tujuan": "Melaporkan target harian yang sudah selesai dan meminta keputusan atasan jika ada masalah tagihan yang sulit dipecahkan sendiri" }
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Vendor/Transportir", "Tujuan": "Menghubungi pihak penyedia truk/jasa luar (Vendor) untuk menagih surat jalan yang belum mereka setor atau meminta perbaikan data yang salah" }
+      ]
+    },
+    "Wewenang": [
+      "Menolak, menahan, atau mengembalikan dokumen penagihan (SPJ, BAST) dari unit operasional jika ditemukan data yang tidak lengkap, tidak sah (kurang tanda tangan/stempel), atau tidak sesuai prosedur",											
+      "Memiliki hak akses untuk melihat dan memverifikasi data operasional (laporan pengiriman) dan data kontrak (tarif/diskon) di dalam sistem perusahaan untuk keperluan validasi tagihan",											
+      "Memiliki otoritas (User ID) untuk melakukan input data baru, membuat draf tagihan (create billing), dan melakukan koreksi data di sistem SAP/TMS sesuai bukti dokumen yang valid",											
+      "Menghubungi dan menagih secara aktif kekurangan data atau klarifikasi selisih jumlah barang kepada tim Sales, Operasional, atau Marketing",											
+      "Dapat menunda pencetakan atau pengiriman invoice jika proses verifikasi belum tuntas 100% atau jika ditemukan potensi kesalahan hitung, demi mencegah komplain pelanggan"																																							
+    ],
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": {
+        "Kualifikasi": "Minimal S1",
+        "Jurusan": "Ekonomi/Manajemen/Akuntansi."
+      },
+      "Pengalaman_Kerja": "≥ 3 tahun dalam proses billing/administrasi keuangan",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Innovation", "Planning & Organizing", "Problem Analyst", "Work Standards"],
+        "Sekunder": ["Building Positive Working Relationships", "Business Awareness", "Customer Focus"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "A/R Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Tax Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 1 - Knowledgeable" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Practitioner" }],
+      "Komputer": [
+        { "Kompetensi": "ERP SAP S/4 HANA (Modul SD/FI)", "Level": "Practitioner" },
+        { "Kompetensi": "Spreadsheet (Microsoft Excel)", "Level": "Practitioner" },
+        { "Kompetensi": "Aplikasi Perpajakan (e-Faktur)", "Level": "Practitioner" }
+      ],
+      "Sertifikasi": {
+        "Wajib": [
+          {"Sertifikat": "Brevet Pajak A & B", "Keterangan": "Wajib dimiliki agar Officer memahami aturan teknis mengenai PPN Keluaran, penggunaan materai, dan kode faktur pajak. Hal ini krusial untuk memastikan setiap tagihan yang diterbitkan sah secara hukum pajak dan tidak berpotensi menimbulkan denda bagi perusahaan"}
+        ],
+        "Optional": [
+          {"Sertifikat": "Sertifikasi Akuntansi Dasar (CADE)", "Keterangan": "Sangat membantu untuk memahami dampak penerbitan invoice terhadap pencatatan akun Piutang Usaha (Account Receivable) dan Pendapatan di buku besar akuntansi."},
+          {"Sertifikat": "Sertifikasi Administrasi Profesional", "Keterangan": "Memberikan nilai tambah dalam hal pengelolaan dokumen bisnis yang standar, rapi, dan profesional, mengingat invoice adalah dokumen eksternal yang diterima pelanggan"}
+        ]
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani sesuai standar tes kesehatan masuk perusahaan. Tidak memiliki penyakit serius yang bisa menghambat kehadiran kerja rutin", "Keterangan": "Baik" },
+      { "Persyaratan": "Memiliki kesehatan mata yang prima karena pekerjaan ini mengharuskan Anda menatap layar komputer dan memeriksa detail angka kecil pada ribuan lembar dokumen fisik sepanjang hari", "Keterangan": "Baik" },
+      { "Persyaratan": "Mampu tetap tenang dan fokus bekerja di bawah tekanan tinggi, terutama saat periode tutup buku atau akhir bulan di mana semua tagihan harus selesai diproses dalam waktu singkat", "Keterangan": "Baik" },
+      { "Persyaratan": "Pekerjaan 95% dilakukan sambil duduk di meja kantor ber-AC. Siap bekerja lembur (Overtime) secara rutin di akhir bulan untuk mengejar target penagihan", "Keterangan": "Baik" }
+    ],
+    "Output": [
+      "Lembar Kerja Pre-Billing Terverifikasi",											
+      "Dokumen Invoice Siap Kirim",											
+      "Tanda Terima Tagihan (TTT)",											
+      "Laporan Status Billing & SLA",											
+      "Arsip Dokumen Penagihan (Filing)",											
+      "Daftar Masalah & Solusi (Log Issue)"																					
+    ]
+  },
+  {
+    "Name": "Job Profile Billing Junior Officer",
+    "Identifikasi": {
+      "Jabatan": "Billing Junior Officer",
+      "Tingkat_Band": "Band 4",
+      "Direktorat": "Financial Director",
+      "Department": "Corporate Finance",
+      "Perusahaan": "PT Semen Indonesia Logistik",
+      "Jabatan_Atasan": "Senior Manager of Billing"
+    },
+    "Tujuan_Jabatan": "Menjalankan fungsi administrasi penagihan dengan melakukan pemeriksaan kelengkapan dokumen pengiriman (Delivery Note), menyusun data pendukung secara sistematis, serta melakukan input data ke dalam sistem untuk menjamin kelancaran dan akurasi proses penerbitan tagihan (invoicing).",
+    "Tanggung_Jawab": [
+      {
+        "nomor": 1,
+        "Tanggung_Jawab": "Melakukan pemeriksaan fisik terhadap kelengkapan dokumen pengiriman (Delivery Note, SPJ, Berita Acara, BAST) untuk memastikan seluruh persyaratan administrasi terpenuhi sebelum diserahkan kepada Billing Officer",
+        "Hasil_yang_Diharapkan": "Terkumpulnya dokumen pengiriman yang lengkap secara fisik dan administratif, sehingga proses verifikasi lanjutan dapat dilakukan tanpa penundaan akibat kekurangan berkas"
+      },
+      {
+        "nomor": 2,
+        "Tanggung_Jawab": "Mengumpulkan dan mengorganisir dokumen pendukung penagihan dari unit-unit terkait agar seluruh bukti transaksi tersedia secara terpusat dan siap digunakan",
+        "Hasil_yang_Diharapkan": "Dokumen pendukung billing tersimpan rapi, terpusat, dan mudah diakses saat dibutuhkan untuk proses verifikasi maupun audit internal"
+      },
+      {
+        "nomor": 3,
+        "Tanggung_Jawab": "Melakukan input data operasional dasar ke dalam sistem perusahaan (SAP/TMS) atau lembar kerja pendukung (spreadsheet) dengan akurat sebagai fondasi penyusunan pre-billing",
+        "Hasil_yang_Diharapkan": "Data dasar terinput ke dalam sistem dengan benar dan presisi, sehingga memudahkan dan mempercepat proses penyusunan perhitungan tagihan (pre-billing)"
+      },
+      {
+        "nomor": 4,
+        "Tanggung_Jawab": "Menyiapkan draf administrasi pre-billing dengan menyusun data dan dokumen sesuai arahan Billing Officer untuk memastikan kesiapan bahan sebelum dilakukan perhitungan final",
+        "Hasil_yang_Diharapkan": "Draf pre-billing tersusun rapi, terstruktur, dan lengkap secara administrasi, siap untuk diperiksa dan divalidasi lebih lanjut oleh Billing Officer"
+      },
+      {
+        "nomor": 5,
+        "Tanggung_Jawab": "Mengunggah atau mendistribusikan dokumen billing yang telah disetujui kepada unit kerja terkait untuk mendukung kelancaran proses pencetakan dan penerbitan invoice",
+        "Hasil_yang_Diharapkan": "Alur dokumen berjalan lancar tanpa hambatan, memastikan dokumen sampai ke tahap penerbitan invoice sesuai alur kerja yang ditetapkan"
+      },
+      {
+        "nomor": 6,
+        "Tanggung_Jawab": "Melakukan pengecekan dasar terhadap kesesuaian data SPJ, tarif standar, dan informasi pelanggan untuk mendeteksi dan mengurangi kesalahan administratif sederhana sejak dini",
+        "Hasil_yang_Diharapkan": "Tingkat kesalahan dasar (seperti salah nama atau salah tanggal) berkurang secara signifikan sebelum dokumen masuk ke tahap analisis mendalam"
+      },
+      {
+        "nomor": 7,
+        "Tanggung_Jawab": "Mengelola pengarsipan salinan invoice beserta seluruh dokumen pendukungnya secara sistematis untuk menjamin ketertiban administrasi dan kemudahan penelusuran kembali",
+        "Hasil_yang_Diharapkan": "Dokumen invoice dan lampirannya terarsip dengan kode yang jelas dan mudah ditemukan kembali (traceable) saat diperlukan untuk kebutuhan konfirmasi atau audit"
+      },
+      {
+        "nomor": 8,
+        "Tanggung_Jawab": "Mengidentifikasi dan melaporkan kendala terkait ketidaklengkapan dokumen atau ketidakjelasan data kepada Billing Officer agar segera mendapatkan tindak lanjut",
+        "Hasil_yang_Diharapkan": "Permasalahan administrasi terdeteksi lebih awal dan dapat segera dicarikan solusinya, sehingga tidak menghambat total waktu proses penagihan"
+      }
+    ],
+    "Dimensi": {
+      "Dimensi_Keuangan": "Bertanggung jawab atas keamanan fisik dokumen tagihan asli yang bernilai uang agar tidak hilang atau rusak, serta melakukan input data dengan ketelitian tinggi untuk mencegah kesalahan pengetikan yang dapat membatalkan validitas tagihan",
+      "Dimensi_non_Keuangan": "Mengelola pengarsipan dokumen secara sistematis agar mudah ditelusuri kembali saat dibutuhkan audit, serta memantau distribusi tagihan hingga diterimanya bukti tanda terima yang sah dari pelanggan",
+      "Bawahan_Langsung": "-",
+      "Cakupan_Wilayah": "Unit Billing dalam Department Corporate Finance"
+    },
+    "Hubungan_Kerja": {
+      "Internal": [
+        { "Unit_Instansi": "Billing Officer", "Tujuan": "Mendapatkan arahan, menyerahkan dokumen, dan menyampaikan hasil input untuk proses verifikasi dan penyusunan pre-billing." },
+        { "Unit_Instansi": "Sales", "Tujuan": "Mengumpulkan dokumen pendukung terkait order, tarif dasar, atau koreksi data delivery." },
+        { "Unit_Instansi": "Planning/Operation", "Tujuan": "Meminta SPJ, DN, BA, dan BAST yang kurang atau belum lengkap untuk kebutuhan dasar billing." },     
+        { "Unit_Instansi": "Marketing", "Tujuan": "Memastikan data pelanggan dan tarif awal sesuai saat pengumpulan dokumen." },
+        { "Unit_Instansi": "ICT", "Tujuan": "Mendapatkan bantuan teknis terkait input sistem dan kendala upload data." }     
+     
+      ],
+      "Eksternal": [
+        { "Unit_Instansi": "Vendor/Transportir", "Tujuan": "Meminta kelengkapan SPJ atau DN apabila dokumen belum lengkap." }
+      ]
+    },
+    "Wewenang": [
+      "Memiliki hak akses pengguna (User Access) ke dalam sistem billing perusahaan (seperti SAP/TMS) terbatas pada fungsi input data dasar dan pembaruan status administrasi",											
+      "Memeriksa fisik dokumen dan mengembalikan berkas kepada unit pengirim jika ditemukan dokumen yang rusak, tidak terbaca, atau kurang persyaratan administratif (stempel/tanda tangan)",											
+      "Memiliki otoritas penuh untuk menata, menyimpan, dan mengatur lalu lintas peminjaman dokumen di area penyimpanan arsip (filing room) atau server digital departemen Billing",											
+      "Menghubungi staf administrasi di unit lain untuk menagih kekurangan kelengkapan data dasar (seperti scan NPWP, foto KTP, atau lampiran pendukung yang tertinggal)"											
+    ],											
+    "Spesifikasi_Jabatan": {
+      "Pendidikan": { "Kualifikasi": "Minimal D3/S1", "Jurusan": "Ekonomi, Administrasi, Akuntansi" },
+      "Pengalaman_Kerja": "Minimal 1–2 tahun pengalaman administrasi atau billing",
+      "Core_Values": ["Amanah", "Kompeten", "Loyal", "Adaptif", "Kolaboratif"],
+      "Kompetensi_Perilaku": {
+        "Inti": ["Adaptability", "Authenticity", "Contributing to Society", "Learning Agility", "Valuing Diversity"],
+        "Primer": ["Analyst", "Continuous Improvement", "Managing Work", "Quality Orientation"],
+        "Sekunder": ["Building Positive Working Relationships", "Customer Orientation"]
+      },
+      "Kompetensi_Teknis": [
+        { "Kompetensi": "A/P Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "A/R Management", "Level": "Level 3 - Practitioner" },
+        { "Kompetensi": "Budget Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Cost Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Financial Accounting Management", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Accounting Master Data Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Financial Analysis", "Level": "Level 1 - Knowledgeable" },
+        { "Kompetensi": "Tax Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Treasury Management", "Level": "Level 2 - Comprehension" },
+        { "Kompetensi": "Corporate Finance", "Level": "Level 1 - Knowledgeable" }
+      ],
+      "Bahasa": [{ "Kompetensi": "Inggris", "Level": "Practitioner" }],
+      "Komputer": [
+        { "Kompetensi": "MERP SAP S/4 HANA (Viewer)", "Level": "Comprehension" },
+      ],
+      "Sertifikasi": { 
+        "Wajib": [
+        {"Sertifikat": "Sertifikasi Komputer Dasar (Microsoft Office Specialist)", "Keterangan": "Wajib untuk menjamin bahwa staf memiliki kemampuan mengetik cepat dan akurat di Excel/Word"}
+        ], 
+        "Optional": [
+        {"Sertifikat": "Manajemen Kearsipan (Filing Management)", "Keterangan": "Berguna untuk mengetahui teknik menyusun, mengelompokkan, dan memberi kode pada arsip fisik agar dokumen mudah ditemukan kembali dalam hitungan detik saat dibutuhkan"},
+        {"Sertifikat": "Sertifikasi Administrasi Perkantoran", "Keterangan": "Mendukung kemampuan dalam menangani surat-menyurat (ekspedisi), pengelolaan alat tulis kantor, dan etika kerja administratif yang baik"}
+      ] 
+      }
+    },
+    "Kesehatan_dan_Lingkungan_Kerja": [
+      { "Persyaratan": "Sehat jasmani dan rohani. Memiliki fisik yang bugar untuk mendukung aktivitas administrasi", "Keterangan": "Baik" },
+      { "Persyaratan": "Mampu melakukan pekerjaan fisik ringan seperti mengangkat boks dokumen, menyusun arsip di rak tinggi, dan bekerja di ruang arsip yang mungkin berdebu. Tidak memiliki alergi debu yang parah", "Keterangan": "Baik" },
+      { "Persyaratan": "Sabar dan tahan melakukan pekerjaan yang sama berulang-ulang setiap hari, seperti melakukan scan ratusan lembar dokumen atau mengetik data (input) tanpa kehilangan konsentrasi", "Keterangan": "Baik" },
+      { "Persyaratan": "Bekerja di ruang administrasi dan gudang arsip. Wajib bersedia lembur saat volume dokumen sedang tinggi untuk membantu proses pengiriman tagihan", "Keterangan": "Baik" }    
+    ],
+    "Output": [
+      "Checklist Kelengkapan Dokumen",											
+      "Data Dasar Terinput di Sistem",											
+      "Berkas Draf Pre-Billing Siap ",											
+      "Arsip Dokumen Tertata (Filing System)",								
+      "Laporan Kendala Dokumen (Issue Log)"																					
+    ]							
+  }
+]
